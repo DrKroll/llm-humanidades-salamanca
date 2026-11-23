@@ -51,3 +51,20 @@ def test_tiny_gpt_trains_and_saves(tmp_path):
     save_tiny_gpt(model, tok, tmp_path)
     model2, tok2 = load_tiny_gpt(tmp_path, device="cpu")
     assert isinstance(generate(model2, tok2, "En un", max_new_tokens=5, seed=0), str)
+
+
+def test_calderon_parse_rag_and_qa():
+    from dhllm import calderon as cal
+    cfg = load_config()
+    plays = cal.load_plays(f"{cfg.root}/data/calderon/tei", show=False)
+    assert len(plays) == 12
+    vida = next(p for p in plays if p["title"] == "La vida es sueño")
+    assert vida["n_verses"] == 3319 and vida["n_acts"] == 3
+    index = cal.BM25Index(cal.make_fragments(plays))
+    hits = index.search("¿Quién es Cosme en «La dama duende»?", k=3)
+    assert hits and all(h["obra"] == "La dama duende" for h in hits)
+    assert "gracioso" in " ".join(h["texto"] for h in hits).lower()
+    pairs = cal.generate_qa(plays, quotes_per_play=5)
+    assert pairs and all(p["respuesta"] for p in pairs)
+    train, test = cal.split_qa(pairs, test_size=5)
+    assert len(test) == 5 and not set(p["pregunta"] for p in test) & set(p["pregunta"] for p in train)

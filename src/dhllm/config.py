@@ -35,7 +35,7 @@ DEFAULTS = {
         "save_dir": "outputs/tiny_gpt",
     },
     "finetune": {
-        "base_model": "HuggingFaceTB/SmolLM2-135M",
+        "base_model": "Qwen/Qwen2.5-0.5B-Instruct",
         "method": "lora",    # "lora" o "full"
         "lora_r": 16,
         "lora_alpha": 32,
@@ -58,6 +58,25 @@ DEFAULTS = {
         "max_length": 384,
         "save_dir": "outputs/sft",
     },
+    "calderon": {
+        "tei_folder": "data/calderon/tei",
+        "base_model": "Qwen/Qwen2.5-0.5B-Instruct",
+        "quotes_per_play": 150,      # citas por obra para generar preguntas
+        "max_train_pairs": 2000,
+        "test_size": 24,             # pares reservados para evaluar
+        "context_fraction": 0.3,     # parte de los pares que se entrena con fragmentos (SFT + RAG)
+        "rag_k": 3,                  # fragmentos que se dan al modelo
+        "method": "lora",
+        "lora_r": 16,
+        "lora_alpha": 32,
+        "batch_size": 4,
+        "learning_rate": 0.0002,
+        "epochs": 2,
+        "max_length": 512,           # pares con fragmentos: ~470 tokens (se recortan si no caben)
+        "save_dir": "outputs/calderon_lora",
+        "backup_adapter": "backups/calderon_lora",
+        "backup_index": "backups/calderon_indice_rag.json.gz",
+    },
     "sampling": {
         "max_new_tokens": 120,
         "temperature": 0.8,
@@ -74,6 +93,8 @@ SMOKE = {
                  "batch_size": 8, "max_steps": 30, "eval_every": 10},
     "finetune": {"block_size": 64, "batch_size": 2, "max_steps": 2, "eval_batches": 1},
     "sft": {"batch_size": 2, "epochs": 1, "max_length": 128},
+    "calderon": {"quotes_per_play": 3, "max_train_pairs": 8, "test_size": 3, "batch_size": 2,
+                 "epochs": 1, "max_length": 256},
     "sampling": {"max_new_tokens": 20},
 }
 

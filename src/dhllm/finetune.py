@@ -187,3 +187,32 @@ def save_model(model, tokenizer, folder) -> Path:
     size = sum(f.stat().st_size for f in folder.glob("**/*") if f.is_file()) / 1e6
     print(f"Guardado en {folder} ({size:.1f} MB)")
     return folder
+
+
+def save_adapter(model, folder, half: bool = True) -> Path:
+    """Guarda solo los adaptadores LoRA (en float16 ocupan la mitad). Sirve como copia de seguridad."""
+    folder = Path(folder)
+    folder.mkdir(parents=True, exist_ok=True)
+    if half:
+        for n, p in model.named_parameters():
+            if "lora_" in n:
+                p.data = p.data.half()
+    model.save_pretrained(folder)
+    if half:
+        for n, p in model.named_parameters():
+            if "lora_" in n:
+                p.data = p.data.float()
+    size = sum(f.stat().st_size for f in folder.glob("*") if f.is_file()) / 1e6
+    print(f"Adaptador LoRA guardado en {folder} ({size:.1f} MB)")
+    return folder
+
+
+def load_adapter(model, folder):
+    """Carga unos adaptadores LoRA ya entrenados (p. ej. la copia de seguridad del repositorio)."""
+    from peft import PeftModel
+    model = PeftModel.from_pretrained(model, str(folder))
+    for n, p in model.named_parameters():
+        if "lora_" in n:
+            p.data = p.data.float()
+    print(f"Adaptador cargado desde {folder}")
+    return model

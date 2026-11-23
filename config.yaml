@@ -28,10 +28,9 @@ tiny_gpt:                 # cuaderno 03: GPT diminuto desde cero
   save_dir: outputs/tiny_gpt
 
 finetune:                 # cuaderno 04: ajuste fino de un modelo existente
-  # Opciones probadas: HuggingFaceTB/SmolLM2-135M (rápido),
-  #                    HuggingFaceTB/SmolLM2-360M,
-  #                    Qwen/Qwen2.5-0.5B (mejor en español, necesita GPU)
-  base_model: HuggingFaceTB/SmolLM2-135M
+  # Por defecto: Qwen/Qwen2.5-0.5B-Instruct (buen español; con GPU T4).
+  # Más rápido pero casi sin español: HuggingFaceTB/SmolLM2-135M
+  base_model: Qwen/Qwen2.5-0.5B-Instruct
   method: lora            # "lora" (recomendado) o "full"
   lora_r: 16
   lora_alpha: 32
@@ -52,6 +51,25 @@ sft:                      # cuaderno 05 (opcional): preguntas y respuestas
   epochs: 3
   max_length: 384
   save_dir: outputs/sft
+
+calderon:                 # cuaderno 07: preguntas sobre el teatro de Calderón
+  tei_folder: data/calderon/tei
+  base_model: Qwen/Qwen2.5-0.5B-Instruct
+  quotes_per_play: 150    # citas por obra para crear preguntas automáticas
+  max_train_pairs: 2000
+  test_size: 24           # pares que no se usan para entrenar (evaluación)
+  context_fraction: 0.3   # parte de los pares con fragmentos RAG en el entrenamiento
+  rag_k: 3                # fragmentos que recibe el modelo
+  method: lora
+  lora_r: 16
+  lora_alpha: 32
+  batch_size: 4
+  learning_rate: 0.0002
+  epochs: 2               # ~10 min en una T4
+  max_length: 512         # los pares con fragmentos RAG son largos; se recortan si no caben
+  save_dir: outputs/calderon_lora
+  backup_adapter: backups/calderon_lora              # adaptador ya entrenado (plan B)
+  backup_index: backups/calderon_indice_rag.json.gz  # índice RAG precalculado (plan B)
 
 sampling:                 # cuaderno 06
   max_new_tokens: 120
