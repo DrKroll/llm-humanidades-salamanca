@@ -20,6 +20,8 @@
 - `backups/calderon_indice_rag.json.gz`: índice RAG precalculado (cuaderno 07; se crea en segundos, pero por si acaso).
 - `backups/calderon_lora/` y `backups/quijote_lora/`: adaptadores LoRA para Qwen2.5-0.5B-Instruct (cuadernos 07 y 04,
   `ENTRENAR = False`). Datos del entrenamiento en `entrenamiento.json` de cada carpeta.
+- **Los adaptadores actuales están entrenados en CPU con ajustes reducidos** (Calderón: 400 pares, 1 época; Quijote: 60 pasos).
+  Antes del curso conviene reentrenarlos en una T4 con el comando siguiente (ver `backups/LEEME.md`).
 - Volver a entrenarlos (mejor con GPU): `python tools/entrenar_copias_de_seguridad.py todo --epocas-calderon 2 --pasos-quijote 300`.
 - No publicar los adaptadores (Hugging Face, etc.): están entrenados con ediciones con licencia de uso docente.
 
