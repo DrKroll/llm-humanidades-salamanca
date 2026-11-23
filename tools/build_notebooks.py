@@ -338,13 +338,13 @@ write_notebook(f"{TALLER}/04_ajuste_fino_modelo_preentrenado.ipynb", [
 Entrenar desde cero (cuaderno 03) necesita muchísimo texto. Es mucho más eficaz partir de un modelo
 **preentrenado** (que ya ha leído miles de millones de palabras) y **ajustarlo** con nuestro corpus.
 
-- **Modelo base:** por defecto `SmolLM2-135M` (135 millones de parámetros, rápido).
-  `Qwen/Qwen2.5-0.5B` escribe mucho mejor en español, pero necesita GPU.
+- **Modelo base:** por defecto `Qwen/Qwen2.5-0.5B-Instruct` (494 millones de parámetros, buen español).
+  `HuggingFaceTB/SmolLM2-135M` es más rápido, pero apenas sabe español.
 - **LoRA** (*Low-Rank Adaptation*): en lugar de cambiar todos los parámetros, añadimos unas pocas
   matrices pequeñas y solo entrenamos esas (≈1–5 % del total). Ahorra memoria y tiempo y el resultado
   ocupa solo unos MB.
 
-⏱️ Con GPU T4: 300 pasos ≈ 3–6 min (SmolLM2-135M). **En CPU es muy lento** (varios segundos por paso): usa la GPU de Colab.
+⏱️ Con GPU T4: 300 pasos ≈ 5–8 min (Qwen2.5-0.5B). **En CPU es muy lento** (varios segundos por paso): usa la GPU de Colab.
 """),
     code(SETUP_CODE),
     md("## ⚙️ Ajustes"),
@@ -352,7 +352,7 @@ Entrenar desde cero (cuaderno 03) necesita muchísimo texto. Es mucho más efica
 from dhllm import load_config, set_seed
 cfg = load_config(overrides={
     "finetune": {
-        # "base_model": "Qwen/Qwen2.5-0.5B",   # mejor en español (necesita GPU)
+        # "base_model": "HuggingFaceTB/SmolLM2-135M",   # más rápido, casi sin español
         # "method": "full",                     # entrenar todos los parámetros
         # "max_steps": 50,                      # menos pasos (p. ej. en CPU)
     }
@@ -360,6 +360,8 @@ cfg = load_config(overrides={
 ajustes = cfg.finetune
 set_seed(cfg.seed)
 print(dict(ajustes))
+
+ENTRENAR = True   # False = usar el adaptador ya entrenado de backups/quijote_lora (plan B, solo con Qwen2.5-0.5B-Instruct)
 
 INICIOS = [                     # frases para comparar antes/después
     "En un lugar de la Mancha",
@@ -388,15 +390,21 @@ print("Validación antes:", evaluate(modelo, val_chunks, batch_size=ajustes.batc
 La **perplejidad** indica, más o menos, entre cuántas palabras «duda» el modelo. Debería bajar.
 """),
     code("""
-from dhllm.finetune import prepare_model, finetune_on_texts
-modelo = prepare_model(modelo, ajustes.method, ajustes.lora_r, ajustes.lora_alpha)
-historial = finetune_on_texts(modelo, train_chunks, val_chunks, ajustes)
+from dhllm.finetune import prepare_model, finetune_on_texts, load_adapter
+if ENTRENAR:
+    modelo = prepare_model(modelo, ajustes.method, ajustes.lora_r, ajustes.lora_alpha)
+    historial = finetune_on_texts(modelo, train_chunks, val_chunks, ajustes)
+else:
+    modelo = load_adapter(modelo, "backups/quijote_lora")
+    historial = None
 """),
     code("""
 import matplotlib.pyplot as plt
-plt.plot(historial["step"], historial["train"], marker="o", label="entrenamiento")
-plt.plot(historial["step"], historial["val"], marker="o", label="validación")
-plt.xlabel("paso"); plt.ylabel("pérdida"); plt.legend(); plt.title("Ajuste fino"); plt.show()
+if historial:
+    plt.plot(historial["step"], historial["train"], marker="o", label="entrenamiento")
+    plt.plot(historial["step"], historial["val"], marker="o", label="validación")
+    plt.xlabel("paso"); plt.ylabel("pérdida"); plt.legend(); plt.title("Ajuste fino"); plt.show()
+print("Validación después:", evaluate(modelo, val_chunks, batch_size=ajustes.batch_size, max_batches=ajustes.eval_batches))
 """),
     md("## 4. Comparar ANTES y DESPUÉS"),
     code("""
@@ -412,7 +420,7 @@ save_model(modelo, tokenizer, ajustes.save_dir)
     md("""
 ## 🖐️ Tu turno
 1. Añade tus propios `INICIOS`.
-2. Cambia el modelo base a `Qwen/Qwen2.5-0.5B` (con GPU). ¿Escribe mejor en español?
+2. Cambia el modelo base a `HuggingFaceTB/SmolLM2-135M`. ¿Qué diferencia notas en el español?
 3. Entrena con tus propios textos (carpeta `data/mis_textos`). ¿Reconoces «tu» estilo?
 4. Compara `"method": "lora"` y `"method": "full"`: tiempo, memoria y resultado.
 5. **Para pensar:** si ajustas un modelo con las cartas de una persona, ¿de quién es el texto que genera?
@@ -573,6 +581,188 @@ print(generate(modelo, tok, INICIO,
 3. Ejecuta dos veces con `seed=None`. ¿Por qué cambia el resultado?
 4. **Para pensar:** un chatbot responde distinto a la misma pregunta. ¿Qué implica esto para citar
    o usar textos generados en investigación?
+"""),
+])
+
+
+# ---------------------------------------------------------------- 07
+write_notebook(f"{TALLER}/07_calderon_preguntas.ipynb", [
+    md("""
+# 07 · Preguntas sobre el teatro de Calderón: modelo base, RAG y ajuste fino
+
+**Objetivo:** hacer preguntas sobre obras de Calderón y comparar cuatro estrategias:
+
+| | Estrategia | Qué hace |
+|---|---|---|
+| A | **Modelo base** | Responde con lo que «recuerda» de su entrenamiento general. |
+| B | **RAG** (*Retrieval-Augmented Generation*) | Primero **busca** versos relevantes en el corpus y se los da al modelo junto con la pregunta. |
+| C | **SFT** (ajuste fino con LoRA) | Entrenamos el modelo con ~2000 preguntas y respuestas generadas automáticamente a partir del TEI. |
+| D | **SFT + RAG** | El modelo ajustado recibe además los fragmentos encontrados. |
+
+**Corpus:** 12 obras en TEI-XML (8 comedias/dramas de EMOTHE/ARTELOPE, 3 autos sacramentales en CC0 y
+*Los empeños de un acaso* en la edición de Simon Kroll). Fuentes y licencias: `data/FUENTES.md`.
+
+⏱️ Con GPU T4: unos 15–20 min en total (el entrenamiento, ~10 min). Sin GPU o sin tiempo: usa la
+**copia de seguridad** ya entrenada (`ENTRENAR = False`).
+"""),
+    code(SETUP_CODE),
+    md("## ⚙️ Ajustes"),
+    code("""
+from dhllm import load_config, set_seed
+cfg = load_config(overrides={
+    "calderon": {
+        # "epochs": 1,              # menos tiempo de entrenamiento
+        # "max_train_pairs": 1000,
+    }
+})
+ajustes = cfg.calderon
+set_seed(cfg.seed)
+
+ENTRENAR = True        # False = usar el adaptador ya entrenado de backups/ (plan B)
+
+# Preguntas de prueba: (pregunta, respuesta esperada según el corpus)
+PREGUNTAS = [
+    ("¿Quién es Cosme en «La dama duende»?", "El gracioso (criado de don Manuel)."),
+    ("¿Qué personajes hablan más en «La vida es sueño»?", "Segismundo, Rosaura y Clotaldo."),
+    ("¿Quién dice estos versos en «La vida es sueño»?: «Hipogrifo violento, / que corriste parejas con el viento»",
+     "Rosaura, al comienzo de la jornada 1 (¡en esta edición: «Hipogrifo triste»!)."),
+    ("¿Quién es Pedro Crespo en «El alcalde de Zalamea»?", "Un labrador (rico) de Zalamea, padre de Isabel."),
+    ("¿Cuántas jornadas tiene «El médico de su honra»?", "Tres."),
+    ("¿Por qué está encerrado Segismundo en una torre?",
+     "Su padre, el rey Basilio, lo encierra por un horóscopo que anunciaba que sería un rey tirano."),
+]
+"""),
+    md("## 1. Leer las obras (TEI-XML)\nEl TEI marca jornadas, personajes (`<sp>`, `<speaker>`), versos (`<l>`) y acotaciones (`<stage>`)."),
+    code("""
+from dhllm import calderon as cal
+obras = cal.load_plays(ajustes.tei_folder)
+"""),
+    code("""
+obra = obras[0]
+print(cal.play_card(obra), "\\n")
+print(cal.play_to_text(obra)[:1200])
+"""),
+    md("## 2. Cargar el modelo"),
+    code("""
+from dhllm.finetune import load_base_model
+modelo, tokenizer = load_base_model(ajustes.base_model)
+"""),
+    md("""
+## 3. (A) Preguntar al modelo base
+Fíjate en si las respuestas son **correctas** o solo **suenan bien**. Un modelo de lenguaje siempre
+produce un texto plausible, aunque no «sepa» la respuesta: eso es una **alucinación**.
+"""),
+    code("""
+from dhllm.sft import ask
+resultados = {p: {"pregunta": p, "esperada": e} for p, e in PREGUNTAS}
+for p, _ in PREGUNTAS:
+    resultados[p]["A · base"] = ask(modelo, tokenizer, p, system=cal.SYSTEM_CALDERON, max_new_tokens=60, temperature=0)
+    print(f"❓ {p}\\n💬 {resultados[p]['A · base']}\\n")
+"""),
+    md("""
+## 4. (B) RAG: buscar primero, responder después
+Construimos un **índice de búsqueda** (BM25, la técnica clásica de los buscadores) con fragmentos de
+~12 versos y una «ficha» por obra (reparto, jornadas...). Para cada pregunta buscamos los fragmentos más
+parecidos y se los damos al modelo.
+"""),
+    code("""
+from pathlib import Path
+indice = cal.BM25Index(cal.make_fragments(obras))
+print(len(indice.fragments), "fragmentos en el índice")
+# Plan B: índice precalculado → indice = cal.BM25Index.load(ajustes.backup_index)
+"""),
+    md("Así ve el buscador una pregunta:"),
+    code("""
+cal.show_fragments(indice.search(PREGUNTAS[0][0], k=ajustes.rag_k))
+"""),
+    code("""
+for p, _ in PREGUNTAS:
+    respuesta, _frags = cal.ask_with_rag(modelo, tokenizer, p, indice, k=ajustes.rag_k, max_new_tokens=80)
+    resultados[p]["B · RAG"] = respuesta
+    print(f"❓ {p}\\n💬 {respuesta}\\n")
+"""),
+    md("""
+## 5. (C) Ajuste fino (SFT) con preguntas generadas automáticamente
+A partir del TEI generamos preguntas con respuesta **verificable**: reparto, papel de cada personaje,
+quién habla más, quién dice unos versos, de qué obra son, cómo continúa un pasaje... Algunas llevan
+fragmentos de RAG para que el modelo aprenda a usarlos. Reservamos unos pares para evaluar.
+"""),
+    code("""
+pares_train, pares_test = cal.prepare_training_pairs(obras, indice, ajustes, seed=cfg.seed)
+pares_train[:3]
+"""),
+    code("""
+from dhllm.finetune import prepare_model, load_adapter, save_adapter
+from dhllm.sft import train_sft
+
+if ENTRENAR:
+    modelo = prepare_model(modelo, ajustes.method, ajustes.lora_r, ajustes.lora_alpha)
+    historial = train_sft(modelo, tokenizer, pares_train, ajustes)
+    save_adapter(modelo, ajustes.save_dir)
+else:
+    modelo = load_adapter(modelo, ajustes.backup_adapter)
+"""),
+    md("## 6. (C) y (D): preguntar al modelo ajustado, sin y con RAG"),
+    code("""
+for p, _ in PREGUNTAS:
+    resultados[p]["C · SFT"] = ask(modelo, tokenizer, p, system=cal.SYSTEM_CALDERON, max_new_tokens=60, temperature=0)
+    resultados[p]["D · SFT+RAG"] = cal.ask_with_rag(modelo, tokenizer, p, indice, k=ajustes.rag_k, max_new_tokens=80)[0]
+"""),
+    md("## 7. Comparación\nLee la tabla con ojos de filólogo/a: ¿qué columna acierta?, ¿cuál inventa?, ¿cuál cita?"),
+    code("""
+cal.comparison_table(list(resultados.values()))
+"""),
+    md("""
+### ¿Y con preguntas que el modelo **no** vio al entrenar?
+Estos pares se generaron igual que los de entrenamiento, pero los reservamos. Comparamos el modelo
+ajustado sin y con RAG (con `modelo.disable_adapter()` podemos ver también el modelo base).
+"""),
+    code("""
+filas = []
+for par in pares_test[:6]:
+    with modelo.disable_adapter():
+        base = ask(modelo, tokenizer, par["pregunta"], system=cal.SYSTEM_CALDERON, max_new_tokens=50, temperature=0)
+    filas.append({
+        "pregunta": par["pregunta"], "esperada": par["respuesta"], "A · base": base,
+        "C · SFT": ask(modelo, tokenizer, par["pregunta"], system=cal.SYSTEM_CALDERON, max_new_tokens=50, temperature=0),
+        "D · SFT+RAG": cal.ask_with_rag(modelo, tokenizer, par["pregunta"], indice, k=ajustes.rag_k, max_new_tokens=60)[0],
+    })
+cal.comparison_table(filas)
+"""),
+    md("""
+## 💬 Para discutir: *el ajuste fino cambia el comportamiento y el estilo; el RAG aporta los hechos*
+
+- El **modelo base** inventa con seguridad: nombres, tramas, fechas.
+- El **RAG** encuentra los versos reales; el modelo los resume y puede **citar** el fragmento. Si el buscador
+  no encuentra el pasaje correcto (pregunta sobre la *trama*, p. ej. Segismundo en la torre), el modelo
+  tampoco acierta: la calidad depende de la búsqueda.
+- El **SFT** enseña el **formato** («Los dice X, en la jornada N») y algunos datos que se repitieron mucho, pero
+  no puede memorizar 30 000 versos: con citas nuevas suele adivinar un personaje plausible.
+- **SFT + RAG** suele ser lo mejor: el formato aprendido + los hechos del corpus.
+- ⚠️ El modelo solo «conoce» **esta edición**: en la de EMOTHE, *La vida es sueño* empieza con «Hipogrifo
+  *triste*», no «violento». ¿Qué implica esto para la crítica textual y para usar LLM como fuente?
+
+## 🖐️ Tu turno
+1. Añade tus propias preguntas a `PREGUNTAS` (sobre el reparto, sobre citas, sobre la trama).
+2. Cambia `rag_k` (1, 3, 6). ¿Mejoran las respuestas con más fragmentos o se confunde el modelo?
+3. Busca con `indice.search("honor", k=5)` o con otra palabra clave: ¿en qué obras aparece?
+4. **Para pensar:** ¿podríamos publicar este modelo ajustado? ¿Quién tiene derechos sobre una edición crítica?
+"""),
+    md("""
+## (Opcional) Ajuste de **estilo**: escribir «como Calderón»
+Entrenamos unos minutos con el texto de 2–3 obras (sin preguntas) y pedimos al modelo que continúe un parlamento.
+Pon `ESTILO = True` (mejor con GPU; carga un modelo nuevo).
+"""),
+    code("""
+ESTILO = False
+if ESTILO:
+    from dhllm.finetune import make_chunks, finetune_on_texts, generate_hf
+    textos_estilo = [cal.play_to_text(o) for o in obras[:3]]
+    m2, tok2 = load_base_model(ajustes.base_model)
+    tr, va = make_chunks(textos_estilo, tok2, block_size=256)
+    m2 = prepare_model(m2, "lora", 16, 32)
+    finetune_on_texts(m2, tr, va, {"batch_size": 8, "max_steps": 150, "learning_rate": 2e-4})
+    print(generate_hf(m2, tok2, "Segismundo:\\n    ¡Ay mísero de mí, ay infelice!", max_new_tokens=80))
 """),
 ])
 

@@ -14,6 +14,7 @@ Al terminar el taller sabrás:
 - cómo **adaptar** un modelo existente a un corpus propio (**ajuste fino / LoRA**);
 - cómo se convierte un modelo base en un «asistente» (**ajuste por instrucciones**, SFT);
 - cómo influyen **temperatura, top-k y top-p** en el texto generado;
+- por qué **el ajuste fino cambia el comportamiento y el estilo, pero el RAG aporta los hechos** (con el teatro de Calderón);
 - y, sobre todo, qué pueden y qué **no** pueden hacer estos modelos con nuestros textos.
 
 No hace falta saber programar: los cuadernos llaman a funciones sencillas y todo se controla con
@@ -54,9 +55,10 @@ jupyter lab
 | 01 | Cargar tu corpus, estadísticas, palabras frecuentes, KWIC | 5 min | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrKroll/llm-humanidades-salamanca/blob/main/notebooks/taller_llm/01_explorar_tus_textos.ipynb) |
 | 02 | Entrenar un tokenizador BPE y visualizar los tokens | 2 min | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrKroll/llm-humanidades-salamanca/blob/main/notebooks/taller_llm/02_tokenizador.ipynb) |
 | 03 | Entrenar un GPT diminuto **desde cero** (curva de pérdida, muestras) | 3–5 min | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrKroll/llm-humanidades-salamanca/blob/main/notebooks/taller_llm/03_preentrenar_gpt_diminuto.ipynb) |
-| 04 | Ajuste fino (LoRA) de SmolLM2/Qwen2.5 con tus textos, antes/después | 5–10 min | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrKroll/llm-humanidades-salamanca/blob/main/notebooks/taller_llm/04_ajuste_fino_modelo_preentrenado.ipynb) |
+| 04 | Ajuste fino (LoRA) de Qwen2.5-0.5B-Instruct con tus textos, antes/después | 5–10 min | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrKroll/llm-humanidades-salamanca/blob/main/notebooks/taller_llm/04_ajuste_fino_modelo_preentrenado.ipynb) |
 | 05 | (Opcional) SFT: enseñar a responder preguntas | 5 min | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrKroll/llm-humanidades-salamanca/blob/main/notebooks/taller_llm/05_instrucciones_opcional.ipynb) |
 | 06 | Temperatura, top-k, top-p: cómo elige el modelo la siguiente palabra | 2 min | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrKroll/llm-humanidades-salamanca/blob/main/notebooks/taller_llm/06_laboratorio_de_muestreo.ipynb) |
+| 07 | **Calderón:** preguntas sobre 12 obras en TEI — modelo base vs. RAG vs. ajuste fino (SFT) vs. SFT+RAG | 15–20 min | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrKroll/llm-humanidades-salamanca/blob/main/notebooks/taller_llm/07_calderon_preguntas.ipynb) |
 
 ## 📝 Usar tus propios textos
 
@@ -76,6 +78,7 @@ llm-humanidades-salamanca/
 │   ├── gutenberg/           ← Quijote completo tal como lo ofrece Gutenberg (para P5)
 │   ├── mis_textos/          ← aquí van tus textos
 │   ├── qa/                  ← pares pregunta-respuesta para el cuaderno 05
+│   ├── calderon/tei/        ← 12 obras de Calderón en TEI-XML (solo textos libres, ver FUENTES.md)
 │   └── FUENTES.md           ← procedencia y licencias de los textos
 ├── notebooks/
 │   ├── dia1_python/         ← P1–P6: introducción a Python
@@ -87,7 +90,9 @@ llm-humanidades-salamanca/
 │   ├── pretrain.py          ← entrenamiento desde cero
 │   ├── finetune.py          ← ajuste fino con LoRA (Hugging Face + PEFT)
 │   ├── sft.py               ← ajuste por instrucciones
-│   └── sampling.py          ← generación: temperatura, top-k, top-p
+│   ├── sampling.py          ← generación: temperatura, top-k, top-p
+│   └── calderon.py          ← leer TEI, buscador BM25 (RAG), preguntas automáticas
+├── backups/                 ← plan B: adaptadores LoRA ya entrenados e índice RAG precalculado
 ├── tools/                   ← scripts que generan los cuadernos (para docentes)
 ├── tests/                   ← pruebas automáticas
 ├── requirements.txt
@@ -103,7 +108,7 @@ tiny_gpt:
   n_layer: 4        # capas del GPT diminuto
   max_steps: 1500   # pasos de entrenamiento
 finetune:
-  base_model: HuggingFaceTB/SmolLM2-135M   # o Qwen/Qwen2.5-0.5B
+  base_model: Qwen/Qwen2.5-0.5B-Instruct   # o HuggingFaceTB/SmolLM2-135M (más rápido)
   method: lora
 ```
 
@@ -118,7 +123,9 @@ cfg = load_config(overrides={"tiny_gpt": {"max_steps": 300}})
 - Prueba rápida de todos los cuadernos (CPU, pocos pasos):
   `pip install nbconvert ipykernel && python tests/run_notebooks.py`
 - Prueba de las funciones: `python -m pytest tests/`
-- Si Colab no da GPU: reducir `max_steps` (03: 200–300; 04: 30–50) o trabajar en parejas.
+- Si Colab no da GPU: reducir `max_steps` (03: 200–300) o trabajar en parejas. Los cuadernos 04 y 07
+  tienen `ENTRENAR = False` para usar los adaptadores de `backups/` (entrenados con
+  `python tools/entrenar_copias_de_seguridad.py`). **No subir los adaptadores a Hugging Face.**
 
 ## 🙏 Créditos e inspiración
 
@@ -130,9 +137,12 @@ cfg = load_config(overrides={"tiny_gpt": {"max_steps": 300}})
 - [**Unsloth**](https://github.com/unslothai/unsloth): cuadernos de Colab para ajuste fino eficiente — recomendado para ir más lejos.
 - [Hugging Face](https://huggingface.co) `transformers`, `tokenizers` y `peft`; modelos
   [SmolLM2](https://huggingface.co/HuggingFaceTB/SmolLM2-135M) y [Qwen2.5](https://huggingface.co/Qwen/Qwen2.5-0.5B).
-- Textos: [Project Gutenberg](https://www.gutenberg.org) (ver [`data/FUENTES.md`](data/FUENTES.md)).
+- Textos: [Project Gutenberg](https://www.gutenberg.org); teatro de Calderón: [ARTELOPE/EMOTHE](https://emothe.uv.es)
+  (Universitat de València), [DraCor](https://dracor.org)/TESO y la edición de Simon Kroll (ver [`data/FUENTES.md`](data/FUENTES.md)).
 
 ## 📄 Licencia
 
-Código y materiales: [MIT](LICENSE) © 2026 Simon Kroll. Los textos de `data/` son de dominio público.
-Los modelos descargados de Hugging Face tienen sus propias licencias (SmolLM2: Apache 2.0; Qwen2.5-0.5B: Apache 2.0).
+Código y materiales: [MIT](LICENSE) © 2026 Simon Kroll. Los textos de `data/sample` y `data/gutenberg` son de
+dominio público; los de `data/calderon` tienen las licencias indicadas en [`data/FUENTES.md`](data/FUENTES.md)
+(uso docente, sin ánimo de lucro, citando la procedencia).
+Los modelos descargados de Hugging Face tienen sus propias licencias (Qwen2.5-0.5B-Instruct y SmolLM2: Apache 2.0).

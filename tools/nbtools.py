@@ -70,6 +70,10 @@ def write_notebook(rel_path: str, cells: list, title_for_badge: bool = True) -> 
     if title_for_badge:
         cells = [md(colab_badge(rel_path))] + cells
     nb.cells = cells
+    # ids estables (derivados de la ruta y la posición) para que regenerar no cambie el diff
+    import hashlib
+    for i, c in enumerate(nb.cells):
+        c["id"] = hashlib.md5(f"{rel_path}:{i}".encode()).hexdigest()[:8]
     nb.metadata = {
         "kernelspec": {"display_name": "Python 3", "language": "python", "name": "python3"},
         "language_info": {"name": "python"},
