@@ -1,0 +1,53 @@
+"""Pruebas rápidas de las funciones del paquete (no necesitan internet)."""
+
+import os
+
+import torch
+
+os.environ["DHLLM_SMOKE_TEST"] = "1"
+
+from dhllm import load_config  # noqa: E402
+from dhllm.data import corpus_stats, kwic, load_texts, words  # noqa: E402
+from dhllm.pretrain import build_model, encode_corpus, load_tiny_gpt, save_tiny_gpt, train_tiny_gpt  # noqa: E402
+from dhllm.sampling import filter_logits, generate  # noqa: E402
+from dhllm.tokenizer import train_bpe  # noqa: E402
+
+TEXT = ("En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo "
+        "que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín flaco y galgo corredor. ") * 60
+
+
+def test_words_keep_accents():
+    assert words("¿Qué dijo Sancho? ¡Ñoño!") == ["qué", "dijo", "sancho", "ñoño"]
+
+
+def test_load_sample_texts():
+    cfg = load_config()
+    texts = load_texts(cfg.data.folders, root=cfg.root)
+    assert len(texts) >= 2
+    assert "Gutenberg" not in texts[0].content[:2000]
+    assert corpus_stats(texts)[0]["palabras"] > 1000
+    assert kwic(texts, "Sancho", max_results=2)
+
+
+def test_tokenizer_roundtrip():
+    tok = train_bpe(TEXT, vocab_size=300)
+    s = "Un hidalgo de la Mancha, ¿verdad? ñ"
+    assert tok.decode(tok.encode(s)) == s
+
+
+def test_filter_logits_top_k_top_p():
+    logits = torch.tensor([[3.0, 2.0, 1.0, 0.0]])
+    assert torch.isinf(filter_logits(logits, top_k=2)).sum() == 2
+    assert torch.isfinite(filter_logits(logits, top_p=0.01)).sum() == 1
+
+
+def test_tiny_gpt_trains_and_saves(tmp_path):
+    cfg = load_config()
+    tok = train_bpe(TEXT, vocab_size=300)
+    tr, va = encode_corpus(tok, TEXT)
+    model = build_model(tok, cfg.tiny_gpt, device="cpu")
+    hist = train_tiny_gpt(model, tok, tr, va, cfg.tiny_gpt, sample_prompt=None)
+    assert hist["train"][-1] < hist["train"][0]
+    save_tiny_gpt(model, tok, tmp_path)
+    model2, tok2 = load_tiny_gpt(tmp_path, device="cpu")
+    assert isinstance(generate(model2, tok2, "En un", max_new_tokens=5, seed=0), str)

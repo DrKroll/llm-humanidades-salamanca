@@ -1,0 +1,62 @@
+# ---------------------------------------------------------------
+# Configuración del taller. Cambia aquí los valores y vuelve a
+# ejecutar el cuaderno. Cada cuaderno tiene además una celda de
+# «Ajustes» que tiene prioridad sobre este archivo.
+# ---------------------------------------------------------------
+
+data:
+  # Carpetas con archivos .txt. Pon aquí tu propio corpus, por ejemplo:
+  # folders: ["data/mis_textos"]
+  folders: ["data/sample"]
+  lowercase: false
+
+tokenizer:
+  vocab_size: 4000        # tamaño del vocabulario (prueba 500, 2000, 8000...)
+  min_frequency: 2
+  save_dir: outputs/tokenizer
+
+tiny_gpt:                 # cuaderno 03: GPT diminuto desde cero
+  block_size: 128         # cuántos tokens «ve» el modelo a la vez
+  n_layer: 4              # capas (bloques Transformer)
+  n_head: 4               # cabezas de atención
+  n_embd: 192             # tamaño de los vectores
+  dropout: 0.1
+  batch_size: 32
+  learning_rate: 0.0003
+  max_steps: 1500         # ~3-5 min en una GPU T4; en CPU usa 200-300
+  eval_every: 100
+  save_dir: outputs/tiny_gpt
+
+finetune:                 # cuaderno 04: ajuste fino de un modelo existente
+  # Opciones probadas: HuggingFaceTB/SmolLM2-135M (rápido),
+  #                    HuggingFaceTB/SmolLM2-360M,
+  #                    Qwen/Qwen2.5-0.5B (mejor en español, necesita GPU)
+  base_model: HuggingFaceTB/SmolLM2-135M
+  method: lora            # "lora" (recomendado) o "full"
+  lora_r: 16
+  lora_alpha: 32
+  block_size: 256
+  batch_size: 8
+  learning_rate: 0.0002
+  max_steps: 300
+  save_dir: outputs/finetuned
+
+sft:                      # cuaderno 05 (opcional): preguntas y respuestas
+  base_model: Qwen/Qwen2.5-0.5B-Instruct   # buen español; más rápido: HuggingFaceTB/SmolLM2-135M-Instruct
+  qa_file: data/qa/ejemplo_preguntas_respuestas.jsonl
+  method: lora
+  lora_r: 16
+  lora_alpha: 32
+  batch_size: 4
+  learning_rate: 0.0002
+  epochs: 3
+  max_length: 384
+  save_dir: outputs/sft
+
+sampling:                 # cuaderno 06
+  max_new_tokens: 120
+  temperature: 0.8
+  top_k: 50
+  top_p: 0.95
+
+seed: 42
