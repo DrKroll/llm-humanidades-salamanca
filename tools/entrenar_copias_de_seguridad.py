@@ -1,4 +1,4 @@
-"""Entrena las copias de seguridad (plan B) para los cuadernos 04 y 07.
+"""Entrena las copias de seguridad (plan B) para los cuadernos 03 y 04.
 
 Uso (mejor con GPU, p. ej. una T4 en Colab):
     python tools/entrenar_copias_de_seguridad.py [calderon|quijote|todo|indice] [--pasos-quijote 120] [--epocas-calderon 1]
@@ -12,9 +12,9 @@ Versión corta para CPU (~15 min, calidad reducida):
     python tools/entrenar_copias_de_seguridad.py todo --max-pares-calderon 400 --lote 2 --pasos-quijote 60
 
 Resultado (carpeta backups/, se sube al repositorio, NO a Hugging Face):
-    backups/calderon_indice_rag.json.gz   índice RAG precalculado (cuaderno 07)
-    backups/calderon_lora/                adaptador LoRA para el cuaderno 07
-    backups/quijote_lora/                 adaptador LoRA para el cuaderno 04
+    backups/calderon_indice_rag.json.gz   índice RAG precalculado (cuaderno 04)
+    backups/calderon_lora/                adaptador LoRA para el cuaderno 04
+    backups/quijote_lora/                 adaptador LoRA para el cuaderno 03
 """
 
 import argparse

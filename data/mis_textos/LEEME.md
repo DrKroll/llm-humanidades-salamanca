@@ -12,6 +12,6 @@ data:
 
 Consejos:
 - Cuanto más texto, mejor: con menos de ~100 000 caracteres el GPT diminuto
-  apenas aprende. Para el ajuste fino (cuaderno 04) bastan ~50 000 caracteres.
+  apenas aprende. Para el ajuste fino (cuaderno 03) bastan ~50 000 caracteres.
 - Comprueba que tienes derecho a usar los textos (derechos de autor, datos personales).
 - En Colab, los archivos subidos se borran al cerrar la sesión.

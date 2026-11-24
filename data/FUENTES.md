@@ -8,7 +8,7 @@ oficial `gutenberg.pglaf.org`.
 |---|---|---|---|
 | `sample/quijote_primera_parte.txt` | Miguel de Cervantes, *El ingenioso hidalgo don Quijote de la Mancha*, Primera parte (1605) | [n.º 2000](https://www.gutenberg.org/ebooks/2000) | Sin cabecera/pie de Gutenberg; solo la Primera parte |
 | `sample/lazarillo_de_tormes.txt` | Anónimo, *La vida de Lazarillo de Tormes y de sus fortunas y adversidades* (Burgos, 1554) | [n.º 320](https://www.gutenberg.org/ebooks/320) | Sin cabecera/pie de Gutenberg |
-| `gutenberg/pg2000_don_quijote.txt` | *Don Quijote* completo (Partes I y II) | [n.º 2000](https://www.gutenberg.org/ebooks/2000) | Archivo tal como lo ofrece Gutenberg (con marcas START/END), para el cuaderno P5 |
+| `gutenberg/pg2000_don_quijote.txt` | *Don Quijote* completo (Partes I y II) | [n.º 2000](https://www.gutenberg.org/ebooks/2000) | Archivo tal como lo ofrece Gutenberg (con marcas START/END), para el cuaderno P3 (parte A) |
 
 **Nota sobre la licencia de Project Gutenberg:** los textos son de dominio público. La marca
 «Project Gutenberg» está protegida; por eso los archivos de `sample/` se distribuyen sin la
@@ -19,7 +19,7 @@ cabecera ni el pie de Gutenberg, como permite su licencia. Más información:
 
 ---
 
-# Teatro de Calderón (`calderon/tei/`, cuaderno 07)
+# Teatro de Calderón (`calderon/tei/`, cuaderno 04)
 
 Selección de 14 obras del corpus TEI privado `DrKroll/Calderon_TEI`. Se incluyen **solo textos
 claramente libres**: autos en CC0 basados en una edición antigua (1717), textos de la colección
