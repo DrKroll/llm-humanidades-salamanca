@@ -58,7 +58,7 @@ jupyter lab
 | 04 | Ajuste fino (LoRA) de Qwen2.5-0.5B-Instruct con tus textos, antes/después | 5–10 min | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrKroll/llm-humanidades-salamanca/blob/main/notebooks/taller_llm/04_ajuste_fino_modelo_preentrenado.ipynb) |
 | 05 | (Opcional) SFT: enseñar a responder preguntas | 5 min | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrKroll/llm-humanidades-salamanca/blob/main/notebooks/taller_llm/05_instrucciones_opcional.ipynb) |
 | 06 | Temperatura, top-k, top-p: cómo elige el modelo la siguiente palabra | 2 min | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrKroll/llm-humanidades-salamanca/blob/main/notebooks/taller_llm/06_laboratorio_de_muestreo.ipynb) |
-| 07 | **Calderón:** preguntas sobre 12 obras en TEI — modelo base vs. RAG vs. ajuste fino (SFT) vs. SFT+RAG | 15–20 min | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrKroll/llm-humanidades-salamanca/blob/main/notebooks/taller_llm/07_calderon_preguntas.ipynb) |
+| 07 | **Calderón:** preguntas sobre 14 obras en TEI — modelo base vs. RAG vs. ajuste fino (SFT) vs. SFT+RAG | 15–20 min | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrKroll/llm-humanidades-salamanca/blob/main/notebooks/taller_llm/07_calderon_preguntas.ipynb) |
 
 ## 📝 Usar tus propios textos
 
@@ -78,7 +78,7 @@ llm-humanidades-salamanca/
 │   ├── gutenberg/           ← Quijote completo tal como lo ofrece Gutenberg (para P5)
 │   ├── mis_textos/          ← aquí van tus textos
 │   ├── qa/                  ← pares pregunta-respuesta para el cuaderno 05
-│   ├── calderon/tei/        ← 12 obras de Calderón en TEI-XML (solo textos libres, ver FUENTES.md)
+│   ├── calderon/tei/        ← 14 obras de Calderón en TEI-XML (solo textos libres, ver FUENTES.md)
 │   └── FUENTES.md           ← procedencia y licencias de los textos
 ├── notebooks/
 │   ├── dia1_python/         ← P1–P6: introducción a Python

@@ -57,7 +57,7 @@ def test_calderon_parse_rag_and_qa():
     from dhllm import calderon as cal
     cfg = load_config()
     plays = cal.load_plays(f"{cfg.root}/data/calderon/tei", show=False)
-    assert len(plays) == 12
+    assert len(plays) == 14
     vida = next(p for p in plays if p["title"] == "La vida es sueño")
     assert vida["n_verses"] == 3319 and vida["n_acts"] == 3
     index = cal.BM25Index(cal.make_fragments(plays))

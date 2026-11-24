@@ -4,7 +4,7 @@ Material precalculado por si Colab no da GPU o el tiempo no alcanza. **No se sub
 
 | Archivo | Cuaderno | Contenido |
 |---|---|---|
-| `calderon_indice_rag.json.gz` | 07 | Índice BM25 con 2887 fragmentos (12 obras + fichas) |
+| `calderon_indice_rag.json.gz` | 07 | Índice BM25 con 3507 fragmentos (14 obras + fichas) |
 | `calderon_lora/` | 07 (`ENTRENAR = False`) | Adaptador LoRA (fp16, 17,6 MB) para Qwen2.5-0.5B-Instruct |
 | `quijote_lora/` | 04 (`ENTRENAR = False`) | Adaptador LoRA (fp16) para Qwen2.5-0.5B-Instruct sobre el *Quijote* |
 

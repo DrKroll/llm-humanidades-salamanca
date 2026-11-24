@@ -599,8 +599,8 @@ write_notebook(f"{TALLER}/07_calderon_preguntas.ipynb", [
 | C | **SFT** (ajuste fino con LoRA) | Entrenamos el modelo con ~2000 preguntas y respuestas generadas automáticamente a partir del TEI. |
 | D | **SFT + RAG** | El modelo ajustado recibe además los fragmentos encontrados. |
 
-**Corpus:** 12 obras en TEI-XML (8 comedias/dramas de EMOTHE/ARTELOPE, 3 autos sacramentales en CC0 y
-*Los empeños de un acaso* en la edición de Simon Kroll). Fuentes y licencias: `data/FUENTES.md`.
+**Corpus:** 14 obras en TEI-XML (8 comedias/dramas de EMOTHE/ARTELOPE, 3 autos sacramentales en CC0 y
+3 comedias en ediciones de Simon Kroll: *Los empeños de un acaso*, *Eco y Narciso* y *El secreto a voces*). Fuentes y licencias: `data/FUENTES.md`.
 
 ⏱️ Con GPU T4: unos 15–20 min en total (el entrenamiento, ~10 min). Sin GPU o sin tiempo: usa la
 **copia de seguridad** ya entrenada (`ENTRENAR = False`).
@@ -701,6 +701,8 @@ if ENTRENAR:
     save_adapter(modelo, ajustes.save_dir)
 else:
     modelo = load_adapter(modelo, ajustes.backup_adapter)
+    print("Nota: la copia de seguridad se entrenó en CPU con ajustes reducidos y sin «Eco y Narciso» ni",
+          "«El secreto a voces» (ver backups/LEEME.md). Con RAG sí se encuentran sus versos.")
 """),
     md("## 6. (C) y (D): preguntar al modelo ajustado, sin y con RAG"),
     code("""

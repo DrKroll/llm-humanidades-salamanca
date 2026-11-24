@@ -1,9 +1,11 @@
 """Entrena las copias de seguridad (plan B) para los cuadernos 04 y 07.
 
 Uso (mejor con GPU, p. ej. una T4 en Colab):
-    python tools/entrenar_copias_de_seguridad.py [calderon|quijote|todo] [--pasos-quijote 120] [--epocas-calderon 1]
+    python tools/entrenar_copias_de_seguridad.py [calderon|quijote|todo|indice] [--pasos-quijote 120] [--epocas-calderon 1]
         [--max-pares-calderon N] [--lote N]
 
+Solo el índice RAG (segundos, sin modelo):
+    python tools/entrenar_copias_de_seguridad.py indice
 Versión completa recomendada (GPU, ~15-20 min):
     python tools/entrenar_copias_de_seguridad.py todo --epocas-calderon 2 --pasos-quijote 300
 Versión corta para CPU (~15 min, calidad reducida):
@@ -40,6 +42,11 @@ args = ap.parse_args()
 cfg = load_config(ROOT / "config.yaml")
 set_seed(cfg.seed)
 
+if args.que == "indice":
+    c = dict(cfg.calderon)
+    plays = cal.load_plays(resolve(cfg, c["tei_folder"]), show=False)
+    cal.BM25Index(cal.make_fragments(plays)).save(resolve(cfg, c["backup_index"]))
+
 if args.que in ("calderon", "todo"):
     c = dict(cfg.calderon, epochs=args.epocas_calderon)
     if args.lote:
@@ -56,7 +63,7 @@ if args.que in ("calderon", "todo"):
     hist = train_sft(model, tok, train, c)
     out = save_adapter(model, resolve(cfg, c["backup_adapter"]))
     (out / "entrenamiento.json").write_text(json.dumps(
-        {"modelo_base": c["base_model"], "pares": len(train), "epocas": c["epochs"],
+        {"modelo_base": c["base_model"], "obras": [p["title"] for p in plays], "pares": len(train), "epocas": c["epochs"],
          "lote": c["batch_size"], "max_length": c["max_length"], "dispositivo": str(next(model.parameters()).device),
          "minutos": round((time.time() - t0) / 60, 1), "perdida": hist}, ensure_ascii=False, indent=1))
     del model
