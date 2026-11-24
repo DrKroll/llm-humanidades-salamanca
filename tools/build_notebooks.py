@@ -1,25 +1,29 @@
-"""Genera todos los cuadernos del taller (día 2) y de Python (día 1)."""
+"""Genera todos los cuadernos del taller (día 2), los extras y los de Python (día 1).
 
-from nbtools import SETUP_CODE, code, md, write_notebook
+Los bloques N00…N07 son las secciones de los antiguos cuadernos; al final se combinan en
+4 cuadernos obligatorios (01–04) y los extras (notebooks/extras/).
+"""
+
+from nbtools import SETUP_CODE, code, md, opcional, part, write_notebook
 
 import build_python_notebooks
 
 TALLER = "notebooks/taller_llm"
 
 # ---------------------------------------------------------------- 00
-write_notebook(f"{TALLER}/00_preparacion.ipynb", [
+N00 = [
     md("""
 # 00 · Preparación del entorno
 
 **Objetivo:** comprobar que todo funciona antes de empezar a entrenar modelos.
 
-En este taller vas a:
-1. explorar tus propios textos,
-2. crear un *tokenizador* (cómo un modelo «trocea» el texto),
-3. entrenar un GPT diminuto **desde cero**,
-4. ajustar (*fine-tuning*) un modelo pequeño ya existente con tus textos,
-5. (opcional) enseñarle a responder preguntas,
-6. jugar con los parámetros de generación (temperatura, top-k, top-p).
+En este taller (4 cuadernos) vas a:
+1. **01** · preparar el entorno y explorar tus propios textos,
+2. **02** · crear un *tokenizador*, entrenar un GPT diminuto **desde cero** y jugar con la generación (temperatura, top-k, top-p),
+3. **03** · ajustar (*fine-tuning*) un modelo pequeño ya existente con tus textos,
+4. **04** · hacer preguntas sobre el teatro de Calderón: modelo base, RAG y ajuste fino.
+
+Para quien vaya rápido o quiera seguir en casa: carpeta `notebooks/extras/`.
 
 ### Antes de empezar en Google Colab
 1. Menú **Entorno de ejecución → Cambiar tipo de entorno de ejecución → GPU T4** (gratuita).
@@ -53,17 +57,16 @@ print("Modelo base para el ajuste fino:", cfg.finetune.base_model)
 import torch
 x = torch.rand(3, 3)
 print("Suma de una matriz aleatoria:", round(x.sum().item(), 3))
-print("✅ Todo listo. Continúa con el cuaderno 01.")
+print("✅ Todo listo. Continúa con la parte B.")
 """),
     md("""
-## 🖐️ Tu turno
-1. Abre `config.yaml` y busca el valor `max_steps`. ¿En qué cuaderno se usa?
-2. Si estás en Colab sin GPU, cambia el tipo de entorno a **T4** y vuelve a ejecutar la celda del punto 1.
+### ✅ Comprobación
+Si estás en Colab sin GPU, cambia el tipo de entorno a **T4** y vuelve a ejecutar la celda del punto 1.
 """),
-])
+]
 
 # ---------------------------------------------------------------- 01
-write_notebook(f"{TALLER}/01_explorar_tus_textos.ipynb", [
+N01 = [
     md("""
 # 01 · Explora tus textos
 
@@ -140,10 +143,10 @@ print(f"Palabras aprox.: {len(corpus.split()):,}".replace(",", "."))
 3. Sube un texto propio y compara sus estadísticas con las del Quijote.
 4. **Para pensar:** ¿qué «ruido» ves en tus textos que un modelo aprendería a imitar?
 """),
-])
+]
 
 # ---------------------------------------------------------------- 02
-write_notebook(f"{TALLER}/02_tokenizador.ipynb", [
+N02 = [
     md("""
 # 02 · El tokenizador: de texto a números
 
@@ -194,7 +197,7 @@ print("De vuelta a texto:", tok.decode(ids))
 from dhllm.tokenizer import show_vocabulary_sample
 show_vocabulary_sample(tok, n=40);
 """),
-    md("""
+    opcional("""
 ## 4. Comparar con un tokenizador «de verdad»
 Comparamos con el tokenizador de GPT-2 (entrenado sobre todo con inglés) y con el de SmolLM2.
 **Menos tokens por palabra = más eficiente** para ese idioma. (Necesita conexión a internet.)
@@ -214,22 +217,21 @@ compare_tokenizers(FRASE, otros);
 if "GPT-2 (inglés)" in otros:
     show_tokens(otros["GPT-2 (inglés)"], FRASE);
 """),
-    md("## 5. Guardar el tokenizador\nLo usaremos en el cuaderno 03."),
+    md("## 5. Guardar el tokenizador\nLo usaremos en la parte B."),
     code("""
 tok.save(cfg.tokenizer.save_dir)
 """),
     md("""
 ## 🖐️ Tu turno
 1. Prueba `VOCABULARIO = 300` y `VOCABULARIO = 10000`. ¿Qué cambia en los colores de la frase?
-2. Tokeniza una palabra larga: `show_tokens(tok, "anticonstitucionalmente")`.
-3. Tokeniza una frase en otro idioma (latín, inglés, catalán...) o con ortografía antigua. ¿Qué pasa?
-4. **Para pensar:** si un idioma necesita el doble de tokens que el inglés, ¿qué consecuencias tiene
+2. Tokeniza una frase en otro idioma (latín, inglés, catalán...) o con ortografía antigua. ¿Qué pasa?
+3. **Para pensar:** si un idioma necesita el doble de tokens que el inglés, ¿qué consecuencias tiene
    en el coste y la calidad de los grandes modelos comerciales?
 """),
-])
+]
 
 # ---------------------------------------------------------------- 03
-write_notebook(f"{TALLER}/03_preentrenar_gpt_diminuto.ipynb", [
+N03 = [
     md("""
 # 03 · Preentrenar un GPT diminuto desde cero
 
@@ -263,7 +265,7 @@ print("Dispositivo:", get_device())
 print(dict(ajustes))
 INICIO = "En un lugar de la Mancha"    # texto con el que el modelo empezará a escribir
 """),
-    md("## 1. Textos y tokenizador\nSi ya entrenaste un tokenizador en el cuaderno 02, se carga; si no, se entrena ahora."),
+    md("## 1. Textos y tokenizador\nSe carga el tokenizador de la parte A (si no existe, se entrena ahora)."),
     code("""
 from pathlib import Path
 from dhllm.data import load_texts, join_texts
@@ -313,7 +315,7 @@ for semilla in range(3):
     print(generate(modelo, tok, INICIO, max_new_tokens=80, temperature=0.8, top_k=50, seed=semilla))
     print("-" * 60)
 """),
-    md("## 7. Guardar el modelo\nLo usaremos en el cuaderno 06. (En Colab, descarga la carpeta `outputs/` si quieres conservarlo.)"),
+    md("## 7. Guardar el modelo\nLo usaremos en la parte C. (En Colab, descarga la carpeta `outputs/` si quieres conservarlo.)"),
     code("""
 from dhllm.pretrain import save_tiny_gpt
 save_tiny_gpt(modelo, tok, ajustes.save_dir)
@@ -321,21 +323,24 @@ save_tiny_gpt(modelo, tok, ajustes.save_dir)
     md("""
 ## 🖐️ Tu turno
 1. Cambia `INICIO` por otra frase («Sancho dijo», «Yo por bien tengo»...).
+
+⭐ **Opcional (en casa o si vas rápido; cada prueba vuelve a entrenar):**
+
 2. Entrena con más pasos (`"max_steps": 3000`). ¿Mejora la validación o empieza a subir?
 3. Haz el modelo más grande (`"n_layer": 6, "n_embd": 256`) o más pequeño (`"n_layer": 2`). Compara curvas.
 4. Entrena **solo** con el Lazarillo: en los ajustes añade `"data": {"folders": ["data/sample/lazarillo_de_tormes.txt"]}` dentro de `overrides`. ¿Qué pasa con tan poco texto?
 5. **Para pensar:** ¿«entiende» este modelo el Quijote? ¿Qué ha aprendido exactamente?
 """),
-])
+]
 
 # ---------------------------------------------------------------- 04
-write_notebook(f"{TALLER}/04_ajuste_fino_modelo_preentrenado.ipynb", [
+N04 = [
     md("""
-# 04 · Ajuste fino (*fine-tuning*) de un modelo preentrenado
+# 03 · Ajuste fino (*fine-tuning*) de un modelo preentrenado con tus textos
 
 **Objetivo:** tomar un modelo pequeño que ya «sabe» lenguaje y adaptarlo al estilo de tus textos.
 
-Entrenar desde cero (cuaderno 03) necesita muchísimo texto. Es mucho más eficaz partir de un modelo
+Entrenar desde cero (cuaderno 02) necesita muchísimo texto. Es mucho más eficaz partir de un modelo
 **preentrenado** (que ya ha leído miles de millones de palabras) y **ajustarlo** con nuestro corpus.
 
 - **Modelo base:** por defecto `Qwen/Qwen2.5-0.5B-Instruct` (494 millones de parámetros, buen español).
@@ -344,7 +349,7 @@ Entrenar desde cero (cuaderno 03) necesita muchísimo texto. Es mucho más efica
   matrices pequeñas y solo entrenamos esas (≈1–5 % del total). Ahorra memoria y tiempo y el resultado
   ocupa solo unos MB.
 
-⏱️ Con GPU T4: 300 pasos ≈ 5–8 min (Qwen2.5-0.5B). **En CPU es muy lento** (varios segundos por paso): usa la GPU de Colab.
+⏱️ **≈ 25 min** (martes 15:50–16:15). Con GPU T4: 300 pasos ≈ 5–8 min (Qwen2.5-0.5B). **En CPU es muy lento** (varios segundos por paso): usa la GPU de Colab.
 """),
     code(SETUP_CODE),
     md("## ⚙️ Ajustes"),
@@ -422,18 +427,19 @@ save_model(modelo, tokenizer, ajustes.save_dir)
 1. Añade tus propios `INICIOS`.
 2. Cambia el modelo base a `HuggingFaceTB/SmolLM2-135M`. ¿Qué diferencia notas en el español?
 3. Entrena con tus propios textos (carpeta `data/mis_textos`). ¿Reconoces «tu» estilo?
-4. Compara `"method": "lora"` y `"method": "full"`: tiempo, memoria y resultado.
+4. ⭐ (Opcional, en casa) Compara `"method": "lora"` y `"method": "full"`: tiempo, memoria y resultado.
 5. **Para pensar:** si ajustas un modelo con las cartas de una persona, ¿de quién es el texto que genera?
 
-> 🚀 **Para ir más lejos:** [Unsloth](https://github.com/unslothai/unsloth) ofrece cuadernos de Colab
+> 🚀 **Para ir más lejos:** el extra `notebooks/extras/E1_instrucciones_sft.ipynb` enseña a un modelo a
+> responder preguntas (SFT). [Unsloth](https://github.com/unslothai/unsloth) ofrece cuadernos de Colab
 > muy optimizados para ajustar modelos más grandes (1–8 mil millones de parámetros) con QLoRA en una T4.
 """),
-])
+]
 
 # ---------------------------------------------------------------- 05
-write_notebook(f"{TALLER}/05_instrucciones_opcional.ipynb", [
+N05 = [
     md("""
-# 05 · (Opcional) Ajuste por instrucciones: de «modelo base» a «asistente»
+# E1 · (Extra) Ajuste por instrucciones: de «modelo base» a «asistente»
 
 **Objetivo:** ver cómo un modelo aprende a **responder preguntas** en lugar de solo continuar texto.
 
@@ -445,7 +451,10 @@ pares *instrucción → respuesta*. Aquí lo hacemos en miniatura con 30 pares s
 La **pérdida solo se calcula sobre la respuesta**: el modelo no tiene que aprender a escribir preguntas.
 
 > ⚠️ Con tan pocos ejemplos, el modelo aprende sobre todo el **formato** y el **tono**, no hechos fiables.
-> Es un buen momento para hablar de **alucinaciones**.
+> Es un buen momento para hablar de **alucinaciones**. El cuaderno 04 (Calderón) hace lo mismo a mayor
+> escala, con ~2000 pares generados automáticamente y RAG.
+
+⏱️ Con GPU T4: unos 5 min.
 """),
     code(SETUP_CODE),
     md("## ⚙️ Ajustes"),
@@ -504,10 +513,10 @@ print(ask(modelo, tokenizer, "¿Quién escribió La Celestina?"))
 3. **Para pensar:** en los grandes modelos, miles de personas escriben y valoran respuestas (RLHF/DPO).
    ¿Qué valores y qué visión del mundo entran así en el modelo?
 """),
-])
+]
 
 # ---------------------------------------------------------------- 06
-write_notebook(f"{TALLER}/06_laboratorio_de_muestreo.ipynb", [
+N06 = [
     md("""
 # 06 · Laboratorio de muestreo: temperatura, top-k y top-p
 
@@ -521,7 +530,9 @@ elegir uno:
 - **Top-k**: solo se sortea entre los *k* tokens más probables.
 - **Top-p** (*nucleus sampling*): solo entre los tokens más probables que suman una probabilidad *p*.
 
-Usamos el GPT diminuto del cuaderno 03 (si no existe, se carga SmolLM2-135M).
+Usamos el GPT diminuto de la parte B (si no existe, se carga SmolLM2-135M).
+
+⏱️ ≈ 10 min. Si vas justo de tiempo, haz solo los puntos 1 y 3.
 """),
     code(SETUP_CODE),
     md("## ⚙️ Ajustes"),
@@ -539,7 +550,7 @@ from dhllm.finetune import load_base_model
 ruta = Path(cfg.tiny_gpt.save_dir)
 if USAR_MODELO in ("auto", "tiny_gpt") and (ruta / "model.pt").exists():
     modelo, tok = load_tiny_gpt(ruta)
-    print("Usando el GPT diminuto del cuaderno 03")
+    print("Usando el GPT diminuto de la parte B")
 else:
     nombre = "HuggingFaceTB/SmolLM2-135M" if USAR_MODELO in ("auto", "tiny_gpt") else USAR_MODELO
     modelo, tok = load_base_model(nombre)
@@ -582,13 +593,13 @@ print(generate(modelo, tok, INICIO,
 4. **Para pensar:** un chatbot responde distinto a la misma pregunta. ¿Qué implica esto para citar
    o usar textos generados en investigación?
 """),
-])
+]
 
 
 # ---------------------------------------------------------------- 07
-write_notebook(f"{TALLER}/07_calderon_preguntas.ipynb", [
+N07 = [
     md("""
-# 07 · Preguntas sobre el teatro de Calderón: modelo base, RAG y ajuste fino
+# 04 · Preguntas sobre el teatro de Calderón: modelo base, RAG y ajuste fino
 
 **Objetivo:** hacer preguntas sobre obras de Calderón y comparar cuatro estrategias:
 
@@ -602,8 +613,8 @@ write_notebook(f"{TALLER}/07_calderon_preguntas.ipynb", [
 **Corpus:** 14 obras en TEI-XML (8 comedias/dramas de EMOTHE/ARTELOPE, 3 autos sacramentales en CC0 y
 3 comedias en ediciones de Simon Kroll: *Los empeños de un acaso*, *Eco y Narciso* y *El secreto a voces*). Fuentes y licencias: `data/FUENTES.md`.
 
-⏱️ Con GPU T4: unos 15–20 min en total (el entrenamiento, ~10 min). Sin GPU o sin tiempo: usa la
-**copia de seguridad** ya entrenada (`ENTRENAR = False`).
+⏱️ **≈ 30 min** (martes 16:30–17:00). Por defecto usamos la **copia de seguridad** ya entrenada
+(`ENTRENAR = False`, ≈ 15 min en total). Con GPU T4 y tiempo, pon `ENTRENAR = True` (+ ~10 min de entrenamiento).
 """),
     code(SETUP_CODE),
     md("## ⚙️ Ajustes"),
@@ -618,7 +629,7 @@ cfg = load_config(overrides={
 ajustes = cfg.calderon
 set_seed(cfg.seed)
 
-ENTRENAR = True        # False = usar el adaptador ya entrenado de backups/ (plan B)
+ENTRENAR = False       # True = entrenar tú (GPU T4, ~10 min); False = usar el adaptador ya entrenado de backups/
 
 # Preguntas de prueba: (pregunta, respuesta esperada según el corpus)
 PREGUNTAS = [
@@ -714,7 +725,7 @@ for p, _ in PREGUNTAS:
     code("""
 cal.comparison_table(list(resultados.values()))
 """),
-    md("""
+    opcional("""
 ### ¿Y con preguntas que el modelo **no** vio al entrenar?
 Estos pares se generaron igual que los de entrenamiento, pero los reservamos. Comparamos el modelo
 ajustado sin y con RAG (con `modelo.disable_adapter()` podemos ver también el modelo base).
@@ -750,22 +761,102 @@ cal.comparison_table(filas)
 3. Busca con `indice.search("honor", k=5)` o con otra palabra clave: ¿en qué obras aparece?
 4. **Para pensar:** ¿podríamos publicar este modelo ajustado? ¿Quién tiene derechos sobre una edición crítica?
 """),
+
+]
+
+
+
+# ================================================================ extras
+E2 = [
     md("""
-## (Opcional) Ajuste de **estilo**: escribir «como Calderón»
-Entrenamos unos minutos con el texto de 2–3 obras (sin preguntas) y pedimos al modelo que continúe un parlamento.
-Pon `ESTILO = True` (mejor con GPU; carga un modelo nuevo).
+# E2 · (Extra) Ajuste de **estilo**: escribir «como Calderón»
+
+**Objetivo:** ver la otra cara del ajuste fino. En el cuaderno 04 enseñamos al modelo a **responder**;
+aquí solo le damos **versos** (sin preguntas) para que imite el estilo.
+
+Entrenamos unos minutos con el texto de 2–3 obras y pedimos al modelo que continúe un parlamento.
+Compara el resultado con el del modelo sin ajustar: ¿cambia el **estilo** (verso, léxico, ritmo)? ¿Sabe más **hechos**?
+
+⏱️ Con GPU T4: unos 5 min. En CPU pon `"max_steps": 20` en los ajustes.
 """),
+    code(SETUP_CODE),
+    md("## ⚙️ Ajustes"),
     code("""
-ESTILO = False
-if ESTILO:
-    from dhllm.finetune import make_chunks, finetune_on_texts, generate_hf
-    textos_estilo = [cal.play_to_text(o) for o in obras[:3]]
-    m2, tok2 = load_base_model(ajustes.base_model)
-    tr, va = make_chunks(textos_estilo, tok2, block_size=256)
-    m2 = prepare_model(m2, "lora", 16, 32)
-    finetune_on_texts(m2, tr, va, {"batch_size": 8, "max_steps": 150, "learning_rate": 2e-4})
-    print(generate_hf(m2, tok2, "Segismundo:\\n    ¡Ay mísero de mí, ay infelice!", max_new_tokens=80))
+from dhllm import load_config, set_seed
+cfg = load_config(overrides={
+    "calderon_estilo": {
+        # "max_steps": 20,   # ← quita el «#» en CPU
+    }
+})
+ajustes = cfg.calderon_estilo
+set_seed(cfg.seed)
+INICIO = "Segismundo:\\n    ¡Ay mísero de mí, ay infelice!"
 """),
+    md("## 1. Textos y modelo"),
+    code("""
+from dhllm import calderon as cal
+from dhllm.finetune import load_base_model, make_chunks, prepare_model, finetune_on_texts, generate_hf
+obras = cal.load_plays(cfg.calderon.tei_folder)
+textos_estilo = [cal.play_to_text(o) for o in obras[: ajustes.n_plays]]
+modelo, tokenizer = load_base_model(cfg.calderon.base_model)
+print("ANTES:\\n", generate_hf(modelo, tokenizer, INICIO, max_new_tokens=80))
+"""),
+    md("## 2. Entrenar y comparar"),
+    code("""
+tr, va = make_chunks(textos_estilo, tokenizer, block_size=ajustes.block_size)
+modelo = prepare_model(modelo, "lora", ajustes.lora_r, ajustes.lora_alpha)
+finetune_on_texts(modelo, tr, va, ajustes)
+print("DESPUÉS:\\n", generate_hf(modelo, tokenizer, INICIO, max_new_tokens=80))
+"""),
+    md("""
+## 🖐️ Tu turno
+1. Cambia `INICIO` por el comienzo de otro parlamento o por una frase en prosa.
+2. Usa solo los autos sacramentales (`obras[8:11]`). ¿Cambia el estilo?
+3. **Para pensar:** el modelo «escribe como Calderón», pero ¿podríamos atribuirle esos versos? ¿Qué diferencia hay con la estilometría?
+"""),
+]
+
+# ================================================================ cuadernos finales
+write_notebook(f"{TALLER}/01_preparar_y_explorar_tus_textos.ipynb", [
+    md("""
+# 01 · Preparar el entorno y explorar tus textos
+
+⏱️ **≈ 30 min** (martes 13:00–14:00, después de presentar el repositorio)
+
+| Parte | Contenido | Tiempo |
+|---|---|---|
+| A | Preparación: GPU, configuración, prueba rápida | ≈ 10 min |
+| B | Explorar tus textos: estadísticas, palabras frecuentes, KWIC; subir tu propio corpus | ≈ 20 min |
+"""),
+    *part("Parte A", N00),
+    *part("Parte B", N01, drop_sources=(SETUP_CODE,)),
 ])
+
+write_notebook(f"{TALLER}/02_del_texto_al_gpt_diminuto.ipynb", [
+    md("""
+# 02 · Del texto al GPT diminuto: tokenizador, entrenamiento desde cero y muestreo
+
+⏱️ **≈ 50 min** (martes 15:00–15:50)
+
+| Parte | Contenido | Tiempo |
+|---|---|---|
+| A | El tokenizador: de texto a números (BPE) | ≈ 15 min |
+| B | Preentrenar un GPT diminuto desde cero (2–4 min de entrenamiento en T4) | ≈ 25 min |
+| C | Laboratorio de muestreo: temperatura, top-k, top-p | ≈ 10 min |
+
+Las secciones marcadas con ⭐ **Opcional** se pueden saltar.
+"""),
+    code(SETUP_CODE),
+    *part("Parte A", N02, drop_sources=(SETUP_CODE,)),
+    *part("Parte B", N03, drop_sources=(SETUP_CODE,)),
+    *part("Parte C", N06, drop_sources=(SETUP_CODE,)),
+])
+
+write_notebook(f"{TALLER}/03_ajuste_fino_con_tus_textos.ipynb", N04)
+
+write_notebook(f"{TALLER}/04_calderon_preguntas.ipynb", N07)
+
+write_notebook("notebooks/extras/E1_instrucciones_sft.ipynb", N05)
+write_notebook("notebooks/extras/E2_calderon_estilo.ipynb", E2)
 
 build_python_notebooks.main()

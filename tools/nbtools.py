@@ -85,3 +85,28 @@ def write_notebook(rel_path: str, cells: list, title_for_badge: bool = True) -> 
     nbf.write(nb, path)
     print("escrito:", rel_path)
     return path
+
+
+def part(label: str, cells: list, drop_sources: tuple = ()) -> list:
+    """Convierte las celdas de un antiguo cuaderno en una «parte» de un cuaderno combinado.
+
+    - El título «# 03 · Algo» pasa a «# Parte B · Algo».
+    - Se quitan las celdas repetidas en la costura (p. ej. la celda de preparación).
+    """
+    import copy
+    import re
+    out = []
+    drop = {d.strip() for d in drop_sources}
+    for i, c in enumerate(cells):
+        c = copy.deepcopy(c)
+        if i == 0 and c["cell_type"] == "markdown":
+            c["source"] = re.sub(r"^# [^·\n]+· ", f"# {label} · ", c["source"], count=1)
+        if c["source"].strip() in drop:
+            continue
+        out.append(c)
+    return out
+
+
+def opcional(text: str):
+    """Celda de texto marcada como opcional (para quien vaya rápido o en casa)."""
+    return md("> ⭐ **Opcional** — puedes saltarte esta sección si vas justo de tiempo.\n\n" + text.strip("\n"))

@@ -1,6 +1,10 @@
-"""Cuadernos del día 1: introducción a Python para humanistas (módulos P1–P6)."""
+"""Cuadernos del día 1: introducción a Python para humanistas.
 
-from nbtools import SETUP_CODE_DATA_ONLY, code, md, write_notebook
+Tres cuadernos (P1–P3); cada uno junta dos módulos antiguos como «Parte A» y «Parte B»:
+    P1 = Colab + cadenas · P2 = listas/diccionarios + bucles/funciones · P3 = ficheros + análisis
+"""
+
+from nbtools import SETUP_CODE_DATA_ONLY, code, md, part, write_notebook
 
 DIA1 = "notebooks/dia1_python"
 
@@ -12,7 +16,7 @@ def solucion(text: str):
 
 def main():
     # ------------------------------------------------------------ P1
-    write_notebook(f"{DIA1}/P1_primeros_pasos_en_colab.ipynb", [
+    P1 = [
         md("""
 # P1 · Primeros pasos en Colab
 
@@ -75,10 +79,10 @@ mi_nombre = "Teresa"
 print("Me llamo", mi_nombre)
 print(2026 - 1605)
 """),
-    ])
+    ]
 
     # ------------------------------------------------------------ P2
-    write_notebook(f"{DIA1}/P2_cadenas_de_texto.ipynb", [
+    P2 = [
         md("""
 # P2 · Cadenas de texto (*strings*)
 
@@ -161,10 +165,10 @@ print(cita.upper())
 print(cita.replace("soy", "eres"))
 print(len(cita.split()))
 """),
-    ])
+    ]
 
     # ------------------------------------------------------------ P3
-    write_notebook(f"{DIA1}/P3_listas_y_diccionarios.ipynb", [
+    P3 = [
         md("""
 # P3 · Listas y diccionarios
 
@@ -235,10 +239,10 @@ for p in "yo por bien tengo que cosas tan señaladas vengan a noticia de muchos 
     conteo[p] = conteo.get(p, 0) + 1
 print(conteo)
 """),
-    ])
+    ]
 
     # ------------------------------------------------------------ P4
-    write_notebook(f"{DIA1}/P4_bucles_condiciones_funciones.ipynb", [
+    P4 = [
         md("""
 # P4 · Bucles, condiciones y funciones
 
@@ -317,10 +321,10 @@ def palabras_con(texto, letra):
 print(iniciales("Miguel de Cervantes Saavedra"))
 print(palabras_con("Sancho se sentó sobre su asno", "s"))
 """),
-    ])
+    ]
 
     # ------------------------------------------------------------ P5
-    write_notebook(f"{DIA1}/P5_ficheros_y_don_quijote.ipynb", [
+    P5 = [
         md("""
 # P5 · Ficheros: leer el *Quijote* entero
 
@@ -395,17 +399,17 @@ laz = Path("data/sample/lazarillo_de_tormes.txt").read_text(encoding="utf-8")
 print(len(laz.split()))
 print(parte1.count("Sancho"), parte2.count("Sancho"))
 """),
-    ])
+    ]
 
     # ------------------------------------------------------------ P6
-    write_notebook(f"{DIA1}/P6_analisis_de_texto.ipynb", [
+    P6 = [
         md("""
 # P6 · Análisis sencillo de texto: frecuencias, KWIC y bigramas
 
 **Objetivo:** contar palabras, buscar en contexto, hacer gráficos... y construir un primer «modelo de lenguaje» con bigramas.
 """),
         code(SETUP_CODE_DATA_ONLY),
-        md("## 1. Cargar y limpiar"),
+        md("## 1. Cargar y limpiar\n> 🔁 ¿Se ha desconectado Colab durante la pausa? Ejecuta primero la celda ⚙️ del principio del cuaderno. Esta celda vuelve a cargar el texto."),
         code("""
 import re
 from pathlib import Path
@@ -529,6 +533,53 @@ def generar3(a="dijo", b="don", n=25, semilla=0):
 
 print(generar3())
 """),
+    ]
+
+    # ------------------------------------------------------------ cuadernos combinados
+    write_notebook(f"{DIA1}/P1_colab_y_textos.ipynb", [
+        md("""
+# P1 · Colab y textos
+
+⏱️ **≈ 75 min** (lunes 10:00–11:15)
+
+| Parte | Contenido | Tiempo |
+|---|---|---|
+| A | Primeros pasos en Colab: celdas, `print`, variables, errores | ≈ 30 min |
+| B | Cadenas de texto: longitud, trozos, mayúsculas, dividir, reemplazar, acentos | ≈ 45 min |
+"""),
+        *part("Parte A", P1),
+        *part("Parte B", P2),
+    ])
+
+    write_notebook(f"{DIA1}/P2_listas_bucles_funciones.ipynb", [
+        md("""
+# P2 · Listas, bucles y funciones
+
+⏱️ **≈ 90 min** (lunes 11:45–13:15)
+
+| Parte | Contenido | Tiempo |
+|---|---|---|
+| A | Listas y diccionarios: guardar muchos datos juntos | ≈ 40 min |
+| B | Bucles, condiciones y funciones: repetir, decidir y reutilizar código | ≈ 50 min |
+"""),
+        *part("Parte A", P3),
+        *part("Parte B", P4),
+    ])
+
+    write_notebook(f"{DIA1}/P3_leer_y_analizar_el_quijote.ipynb", [
+        md("""
+# P3 · Leer y analizar el *Quijote*
+
+⏱️ **≈ 105 min** (lunes 13:15–14:00 la parte A, 15:00–16:00 la parte B)
+
+| Parte | Contenido | Tiempo |
+|---|---|---|
+| A | Ficheros: descargar el *Quijote* de Gutenberg (con copia local), leer, limpiar, guardar | ≈ 45 min |
+| B | Análisis: frecuencias, gráficos, palabra clave en contexto (KWIC) y un primer «modelo de lenguaje» con bigramas | ≈ 60 min |
+"""),
+        code(SETUP_CODE_DATA_ONLY),
+        *part("Parte A", P5, drop_sources=(SETUP_CODE_DATA_ONLY,)),
+        *part("Parte B", P6, drop_sources=(SETUP_CODE_DATA_ONLY,)),
     ])
 
 

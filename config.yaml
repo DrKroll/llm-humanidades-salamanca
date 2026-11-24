@@ -15,7 +15,7 @@ tokenizer:
   min_frequency: 2
   save_dir: outputs/tokenizer
 
-tiny_gpt:                 # cuaderno 03: GPT diminuto desde cero
+tiny_gpt:                 # cuaderno 02 (parte B): GPT diminuto desde cero
   block_size: 128         # cuántos tokens «ve» el modelo a la vez
   n_layer: 4              # capas (bloques Transformer)
   n_head: 4               # cabezas de atención
@@ -27,7 +27,7 @@ tiny_gpt:                 # cuaderno 03: GPT diminuto desde cero
   eval_every: 100
   save_dir: outputs/tiny_gpt
 
-finetune:                 # cuaderno 04: ajuste fino de un modelo existente
+finetune:                 # cuaderno 03: ajuste fino de un modelo existente
   # Por defecto: Qwen/Qwen2.5-0.5B-Instruct (buen español; con GPU T4).
   # Más rápido pero casi sin español: HuggingFaceTB/SmolLM2-135M
   base_model: Qwen/Qwen2.5-0.5B-Instruct
@@ -40,7 +40,7 @@ finetune:                 # cuaderno 04: ajuste fino de un modelo existente
   max_steps: 300
   save_dir: outputs/finetuned
 
-sft:                      # cuaderno 05 (opcional): preguntas y respuestas
+sft:                      # extras/E1 (opcional): preguntas y respuestas
   base_model: Qwen/Qwen2.5-0.5B-Instruct   # buen español; más rápido: HuggingFaceTB/SmolLM2-135M-Instruct
   qa_file: data/qa/ejemplo_preguntas_respuestas.jsonl
   method: lora
@@ -52,7 +52,7 @@ sft:                      # cuaderno 05 (opcional): preguntas y respuestas
   max_length: 384
   save_dir: outputs/sft
 
-calderon:                 # cuaderno 07: preguntas sobre el teatro de Calderón
+calderon:                 # cuaderno 04: preguntas sobre el teatro de Calderón
   tei_folder: data/calderon/tei
   base_model: Qwen/Qwen2.5-0.5B-Instruct
   quotes_per_play: 150    # citas por obra para crear preguntas automáticas
@@ -71,7 +71,16 @@ calderon:                 # cuaderno 07: preguntas sobre el teatro de Calderón
   backup_adapter: backups/calderon_lora              # adaptador ya entrenado (plan B)
   backup_index: backups/calderon_indice_rag.json.gz  # índice RAG precalculado (plan B)
 
-sampling:                 # cuaderno 06
+calderon_estilo:          # extras/E2 (opcional): escribir «como Calderón»
+  n_plays: 3              # obras cuyo texto se usa
+  block_size: 256
+  batch_size: 8
+  max_steps: 150          # ~5 min en una T4; en CPU usa 20
+  learning_rate: 0.0002
+  lora_r: 16
+  lora_alpha: 32
+
+sampling:                 # cuaderno 02, parte C (laboratorio de muestreo)
   max_new_tokens: 120
   temperature: 0.8
   top_k: 50

@@ -68,3 +68,20 @@ def test_calderon_parse_rag_and_qa():
     assert pairs and all(p["respuesta"] for p in pairs)
     train, test = cal.split_qa(pairs, test_size=5)
     assert len(test) == 5 and not set(p["pregunta"] for p in test) & set(p["pregunta"] for p in train)
+
+
+def test_notebook_layout():
+    """7 cuadernos obligatorios + extras; cada cuaderno con una sola celda de preparación y su insignia de Colab."""
+    import json
+    from pathlib import Path
+    root = Path(load_config().root) / "notebooks"
+    dia1 = sorted(p.name for p in (root / "dia1_python").glob("*.ipynb"))
+    taller = sorted(p.name for p in (root / "taller_llm").glob("*.ipynb"))
+    assert dia1 == ["P1_colab_y_textos.ipynb", "P2_listas_bucles_funciones.ipynb", "P3_leer_y_analizar_el_quijote.ipynb"]
+    assert [n[:2] for n in taller] == ["01", "02", "03", "04"]
+    assert (root / "extras" / "E1_instrucciones_sft.ipynb").exists()
+    for p in root.glob("**/*.ipynb"):
+        cells = json.loads(p.read_text(encoding="utf-8"))["cells"]
+        src = ["".join(c["source"]) for c in cells]
+        assert sum("Preparación: ejecuta esta celda primero" in s for s in src) <= 1, p.name
+        assert str(p.relative_to(root.parent)) in src[0], f"insignia de Colab incorrecta en {p.name}"

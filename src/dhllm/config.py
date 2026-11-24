@@ -77,6 +77,15 @@ DEFAULTS = {
         "backup_adapter": "backups/calderon_lora",
         "backup_index": "backups/calderon_indice_rag.json.gz",
     },
+    "calderon_estilo": {             # extras/E2: ajuste de estilo con versos de Calderón
+        "n_plays": 3,
+        "block_size": 256,
+        "batch_size": 8,
+        "max_steps": 150,
+        "learning_rate": 0.0002,
+        "lora_r": 16,
+        "lora_alpha": 32,
+    },
     "sampling": {
         "max_new_tokens": 120,
         "temperature": 0.8,
@@ -95,6 +104,7 @@ SMOKE = {
     "sft": {"batch_size": 2, "epochs": 1, "max_length": 128},
     "calderon": {"quotes_per_play": 3, "max_train_pairs": 8, "test_size": 3, "batch_size": 2,
                  "epochs": 1, "max_length": 256},
+    "calderon_estilo": {"n_plays": 1, "block_size": 64, "batch_size": 2, "max_steps": 2, "eval_batches": 1},
     "sampling": {"max_new_tokens": 20},
 }
 
