@@ -1,0 +1,3539 @@
+# El laberinto de Creta
+Autor: Lope de Vega
+
+JORNADA 1
+
+[Salen Minos, rey de Creta, Feniso, capitán, y soldados.]
+Minos:
+    En cuanto la humana gloria
+    deleites, Feniso, alcanza,
+    el primero es la venganza,
+    y el segundo es la vitoria.
+    Hoy entrambos los poseo,
+    pues he tenido, Feniso,
+    con la vitoria de Niso
+    la venganza de Androgeo.
+    Matáronme los de Atenas
+    mi hijo, y Júpiter santo
+    quiere que con otro tanto
+    tengan consuelo mis penas.
+    Si a mi hijo dieron muerte,
+    su hija a Niso mató,
+    con que de Grecia me dio
+    la ciudad más noble y fuerte.
+    Después que por tantas veces
+    su muro habemos cercado,
+    tres vueltas el sol ha dado
+    desde el Aries a los Peces.
+    Mas si mil siglos dilata
+    los rayos de su tesoro,
+    ya en el vellocino de oro,
+    ya en las escamas de plata,
+    no era posible gozar
+    la venganza y la ocasión
+    menos que con la traición
+    que nos dio puerta y lugar.
+    Mató Cila, patricida,
+    al Rey su padre, por mí,
+    a quien la palabra di
+    indigna de ser cumplida.
+    Entregarme la ciudad
+    me prometió, y lo cumplió,
+    pero no pensaba yo
+    que fuera con tal crueldad.
+    Ni amor es justo que mande
+    lleve tal mujer a Creta,
+    que puesto que amor sujeta,
+    no para crueldad tan grande.
+    La ciudad entrado habemos,
+    y aunque la puerta me ha dado,
+    yo quedo desobligado,
+    porque los reyes queremos
+    de la vitoria el valor
+    por traidor o por leal,
+    pero es cosa natural
+    aborrecer al traidor.
+FENISO:
+    Invicto Rey, no pudiera
+    ser la ciudad conquistada,
+    sino es que Cila, engañada
+    de su amor, la puerta abriera,
+    porque el gallardo Teseo
+    y otros griegos generosos
+    la guardaban codiciosos
+    de ganar honra y trofeo.
+    Ella, con la confïanza
+    de que tu mujer sería,
+    te dio, Minos, en un día,
+    ciudad, vitoria y venganza.
+    Agora no sé si es bien
+    que la dejes deste modo.
+MINOS:
+    Los dioses lo han hecho todo,
+    y nuestra dicha también.
+    Némesis, la diosa airada
+    de la venganza, ha querido
+    que Cila pierda el sentido
+    de loca y de enamorada;
+    y que yo quede vengado
+    de la muerte de Androgeo.
+FENISO:
+    Bien dejarás su deseo
+    bastantemente burlado,
+    porque a no tener amor,
+    no hubiera humano interés.
+[Sale Cila, dama]
+CILA:
+    ¿Está aquí el Rey?
+FENISO:
+    (Ella es.
+MINOS:
+    ¿Qué haré?
+FENISO:
+    Escucharla, señor).
+CILA:
+    Rey Minos, a quien se humillan
+    los altos muros de Creta,
+    como agora a tu vitoria
+    los imposibles de Atenas.
+    Bien sabes los muchos años
+    —testigo esta misma cerca—
+    que no pudiste llegar
+    a ver sus famosas puertas,
+    y que el sol, tu armado campo,
+    cuando el aurora comienza
+    a dar vida a cuantas cosas
+    se la quitan las tinieblas,
+    hasta que por el ocaso
+    van haciendo las estrellas
+    corona a la escura noche,
+    diamantes de su cabeza,
+    hallaba en la escarcha helada
+    del invierno, y en la siesta
+    del caluroso verano,
+    sin poder hacerle ofensa;
+    hasta que yo, desde el muro,
+    para desdicha tan cierta,
+    te vi gallardo a caballo,
+    armado de todas piezas,
+    no de otra suerte que a Marte
+    pintan en la quinta esfera,
+    desde la lustrosa gola
+    a la dorada esquinela.
+    Daba la blanca celada,
+    de varias plumas compuesta,
+    a los aires tornasoles
+    y a sus alas ligereza.
+    Ibas haciendo escarceos
+    con tanta gracia, que apenas
+    volvías el rostro, cuando
+    llevabas tras ti la media
+    del alma, porque quedaba
+    la otra para la vuelta,
+    más obediente a tus ojos
+    que tu caballo a la espuela.
+    Con esta imaginación
+    pasé mil noches enteras,
+    también hallándome el alba
+    en más peligrosa guerra,
+    hasta que venciendo Amor
+    la razón y las potencias,
+    te ofrecí de darte, Minos,
+    la ciudad y el alma abiertas
+    si me llevabas contigo;
+    y tú, como si no hubiera
+    dioses que el vicio castigan
+    y que las virtudes premian,
+    falsa palabra me diste,
+    pues dicen que me la quiebras,
+    y que te quieres partir
+    y dar a los vientos velas.
+    Pero guárdate, que vas
+    a peligro de tormenta,
+    que va en mis ojos el mar,
+    y mis suspiros en ellas.
+    Por ti, al tiempo que dormía
+    mi padre —crueldad sangrienta—
+    corté el cuello y vertí sangre,
+    la misma que dio a mis venas.
+    Las llaves te di y entraste
+    la ciudad, de quien saqueas
+    más oro que ve el aurora,
+    donde con marfil se peina.
+    Buen pago de amor tan grande
+    será dejarme en la tierra
+    que he vendido, y que está toda
+    bañada en sangre paterna.
+    No lo harás, que no eres tú
+    nacido en las libias selvas,
+    ni en los montes de Tesalia
+    te dieron leche sus fieras.
+    Pero si como ellas fueres,
+    una cosa me consuela:
+    que no hay desdicha en la vida
+    que con la muerte lo sea.
+MINOS:
+    Cila, a mí me pesa mucho
+    de que, en fin, por mi ocasión,
+    hayas hecho la traición
+    que ya de ti misma escucho.
+    De Atenas quise vengarme,
+    mas no con tanto rigor,
+    que era venganza mayor
+    vencella sin infamarme.
+    Verdad es que yo te di
+    la palabra, que cumpliera
+    si por otro medio fuera
+    el bien que tengo por ti.
+    Nunca entendí que mataras
+    al Rey, que por ese modo,
+    antes lo perdiera todo
+    que tu intento ejecutaras.
+    ¿Qué dirá el mundo de mí,
+    si a Creta, Cila, te llevo,
+    sino que en caso tan nuevo
+    consejo y armas te di?
+    Pues, ¿es justo que le infame
+    tan glorioso capitán
+    por antojos que te dan
+    de que yo mujer te llame?
+    No, Cila, no puede ser,
+    infamarme por tu gusto,
+    ni repudiar fuera justo
+    a Pasife mi mujer.
+    Fuera de eso, si llevara
+    en mi nave tu alevoso
+    corazón, era forzoso
+    que la mar se alborotara.
+    Mejor te podrá sufrir
+    la tierra que te ha crïado,
+    el mar no; que el mar sagrado
+    no te querrá consentir.
+    Llevo mis dioses conmigo,
+    que también se enojarán.
+CILA:
+    ¡Qué justamente me dan
+    de mi locura castigo!
+    En fin, ¿me dejas?
+MINOS:
+    No puedo
+    llevarte, que quiero el mar
+    tranquilo por navegar,
+    Cila, a mi patria sin miedo.
+CILA:
+    El cielo se muestre airado
+    de suerte que nunca veas
+    ni la patria que deseas,
+    ni el fiero mar sosegado.
+    Salgan de su cueva oscura
+    los vientos que alteran tanto
+    las aguas, y en su azul manto
+    no esté la luna segura.
+    Veyas a tus hijas bellas
+    en relación, no en persona,
+    o te quite la corona
+    un vil vasallo por ellas.
+    Y aunque los muros ganados
+    te den por venganza gloria,
+    infame aquesta memoria
+    la gloria de tus pasados.
+    Y si ausencia suele ser
+    del honor ladrón sutil,
+    seas el hombre más vil
+    que fue jamás por mujer.
+    No se cuente de ninguno
+    la ofensa que de ti cuenten,
+    todos los hombres se afrenten
+    de que cupiese en alguno.
+    No se acompañen de ti
+    por hombre que mereció
+    tener mujer que llegó
+    a despreciarse de sí.
+[Vase]
+MINOS:
+    ¡Bravos enojos!
+FENISO:
+    Mujer
+    airada, ¿qué efetos quieres?
+MINOS:
+    Es afrenta de mujeres
+    y piensa que yo he de ser
+    de los hombres capitán,
+    la infamia y el deshonor,
+    y aunque ausencias dan amor
+    a mí ninguno me dan.
+    Llamad a los principales
+    de Atenas, porque tratemos
+    que en libertad los dejemos,
+    pero con medios iguales,
+    que me han de reconocer
+    por señor.
+FENISO:
+    Ese tributo
+    será de esta empresa el fruto.
+MINOS:
+    Con esto pienso volver
+    a la patria que mi ausencia
+    siente con tanto rigor.
+FENISO:
+    Tres años ha, gran señor,
+    que le falta tu presencia.
+[Sale Polineces]
+POLINECES:
+    ¿Dónde está Minos?
+MINOS:
+    Aquí,
+    ¡oh, Polineces famoso!
+    ¿Bueno de la patria vienes?
+POLINECES:
+    Gracias al cielo que pongo
+    mi boca en tus pies.
+MINOS:
+    Levanta.
+    ¿Qué hay de Creta?
+POLINECES:
+    Que está en hombros
+    de tu fama todo en paz.
+MINOS:
+    ¿Mis hijas?
+POLINECES:
+    No mira Apolo
+    cosa más bella en el Asia.
+MINOS:
+    ¿La reina? ¿Vuelves el rostro?
+    ¿Callas? ¿Qué es esto? Responde.
+POLINECES:
+    Señor, si no te respondo
+    no es sin ocasión.
+MINOS:
+    ¿Qué dices?
+POLINECES:
+    Que estoy, señor, temeroso.
+MINOS:
+    ¿Es muerta?
+POLINECES:
+    Pluguiera al cielo.
+MINOS:
+    Notables sospechas tomo
+    de algún acidente fiero.
+POLINECES:
+    No se vio de polo a polo
+    mayor desdicha.
+MINOS:
+    La Reina,
+    ¿mayor mal que muerta? ¿Cómo?
+    Habla, yo te doy licencia
+    si el caso es más afrentoso
+    que se ha contado en el mundo.
+POLINECES:
+    Siendo fuerza darte enojos
+    y no pudiendo escusarse,
+    el justo silencio rompo,
+    aunque fuera bien estar
+    mudo amor, el honor sordo,
+    ciego el mundo, el sol sin rayos,
+    para no volverse locos.
+    Sabrás que Pasife, ¡ay cielo!
+    iba con hábito corto
+    por un bosque cierto día,
+    cuando al cristal de un arroyo
+    cortesano en murmurar
+    a la espalda de unos olmos
+    bajaban de tus pastores
+    las vacas, que en los cogollos
+    de la hierba entretenían
+    la sed con pies perezosos.
+    Puso los ojos Pasife
+    en un blanco y rubio toro,
+    novillo de pocos años,
+    más doméstico que hosco,
+    tan pintado de la piel
+    con varias manchas el lomo,
+    que solo por las estrellas
+    es el del Sol más hermoso.
+    Las puntas de media luna
+    que tiene menguado el rostro,
+    corto de nariz y cuello,
+    y de esmeraldas los ojos,
+    donde no ha probado el yugo
+    con un remolino rojo,
+    tan bello que parecía
+    revueltas madejas de oro.
+    Enamorose Pasife
+    de este animal, dando asombro
+    a Creta, aunque hay opiniones
+    que es Júpiter poderoso,
+    que como a la bella Europa,
+    de quien tomó el nombre heroico
+    la tercer parte del mundo,
+    enamoró cauteloso
+    en forma de toro blanco,
+    tienen por cierto que él solo
+    pudo hallar en sus deseos
+    de la ejecución el modo.
+    Pasife, en fin, ha parido,
+    si es de Júpiter, un monstro
+    medio toro y medio humano,
+    y es tan público y notorio
+    que vienen de varias partes
+    a verle por espantoso,
+    prodigio en naturaleza,
+    pero conviniendo todos
+    en que es de Júpiter hijo,
+    siendo efeto prodigioso
+    de imaginarle Pasife
+    en forma de blanco toro.
+    Así lo entienden los sabios
+    y los filósofos doctos,
+    tal es la fuerza que tiene
+    la imaginación en todo.
+    Está en dos años tan grande,
+    tan fiero y tan riguroso,
+    como un toro que sus celos
+    escribe en los verdes troncos,
+    haciendo a golpes que tiemble
+    y que le responda el soto.
+    Júpiter a nadie afrenta,
+    por eso a Júpiter nombro
+    por dueño de aquesta hazaña,
+    que a no ser suya, era poco
+    perder el seso y la vida,
+    pues no menos vitorioso
+    halló el fuerte Anfitrión
+    vencido el casto decoro
+    de Alcumena, cuyo hijo
+    ganó tan altos despojos,
+    que el gran Hércules tebano,
+    antes de salirle el bozo,
+    dijo bien qué padre tuvo
+    con hechos tan valerosos.
+MINOS:
+    No prosigas mi afrenta y desventura,
+    trágico embajador. Nunca yo vea
+    la patria ingrata, aunque mi bien procura,
+    y el dueño de mi mal Júpiter sea.
+    Eclipse el claro sol su lumbre pura,
+    apáguese la lámpara febea,
+    porque no pueda ver la mortal gente
+    tal monstro de mi honor eternamente,
+    que de imaginación de un blanco toro,
+    que en Júpiter vino trasformado,
+    Pasife, indigna del real decoro,
+    haya el monstro que dices engendrado,
+    no fuera tanta ofensa del tesoro
+    que en el honor divino está guardado,
+    mas nunca el vulgo juzga bien, que en todo
+    elige siempre el más indigno modo.
+    Vengado se ha de mí, vencida Atenas,
+    pero yo haré que llore mi deshonra.
+FENISO:
+    Aquí vienen sus fuertes defensores.
+[Salen Teseo, Albante y Fineo, criado de Teseo]
+TESEO:
+    Aquí tienes, gran Minos, tus vencidos.
+ALBANTE:
+    Aquí tienes, señor, a tus vasallos.
+MINOS:
+    Valeroso Teseo, Albante noble,
+    no me llaméis el vencedor, que el cielo
+    me quita de las manos la vitoria
+    con un suceso de portentos lleno:
+    nació en mi casa un monstro en esta ausencia,
+    que en ausencia, atenienses, de un marido,
+    ¿qué puede sino un monstro haber nacido?
+    Cuantos males nacieron en el mundo,
+    hijos crüeles fueron de la ausencia,
+    vengados estaréis de que Pasife
+    pariese un medio humano y medio toro,
+    hazaña infame del lascivo Júpiter,
+    deidad indigna de tan alto nombre,
+    pues tiene acciones y bajezas de hombre.
+    Si cuando yerra un rey dicen que tiene
+    indignamente el cetro, no conviene
+    que tenga el de los cielos dios lascivo,
+    que en toro trasformado me ha quitado
+    la honrosa vida del honor sagrado;
+    porque cuando es secreto el adulterio,
+    no viene a ser con tanto vituperio.
+    Pues no penséis que no os alcanza parte,
+    que en parias quiero que me deis cada año
+    diez hombres de vosotros, que devore
+    y coma aqueste monstro de Pasife.
+TESEO:
+    Serás obedecido como mandas.
+MINOS:
+    En dejando presidio en vuestros muros,
+    parto a la patria a ver mi desventura,
+    si dura hasta llegar vida tan dura.
+[Váyanse y queden Teseo, Albante y Fineo]
+TESEO:
+    Estraño suceso.
+ALBANTE:
+    Estraño,
+    y qué venganza nos diera
+    a no ser por nuestro daño.
+FINEO:
+    Diez hombres para una fiera,
+    fiero tributo de un año.
+    Pedid que resuelva en uno,
+    sino es más de sentimiento
+    tributo tan importuno.
+ALBANTE:
+    No lo hará, que no le siento
+    para partido ninguno.
+FINEO:
+    Pues, si de aquel blanco toro
+    la señora, su mujer,
+    se enamoró sin decoro,
+    ¿no fuera mejor querer
+    parias y tributo en oro?
+    ¿Qué culpa le tiene Atenas?
+    ¡Ah, mujeres! ¿Qué no haréis?
+TESEO:
+    Respeta, necio, las buenas.
+FINEO:
+    ¿Agora toros corréis
+    de estraños antojos llenas?
+    Ah, señor, que aquestos son
+    los daños que se cometen
+    con capa de religión,
+    dioses dicen que se meten
+    en toros, linda invención.
+    Lo mismo es el ir al templo,
+    vengo del templo, contemplo,
+    doy al templo, y lo interior
+    es todo vicio y error,
+    como lo dice este ejemplo.
+TESEO:
+    Menester es que pensemos
+    cómo un hombre se ha de dar,
+    cuando ser uno alcancemos,
+    que una vida no hay pensar
+    que por dineros la hallemos.
+FINEO:
+    ¿Cómo no? Mil hallaréis,
+    cuya vida, así a la sorda,
+    como de un puerco, veréis
+    que la quieren corta y gorda,
+    y esta comprarla podréis.
+    Aquel que su vida emplea
+    solo en vicios no repara
+    en que larga o corta sea,
+    porque solamente para
+    en cumplir lo que desea.
+    Hombre he visto yo tan malo,
+    que por un mes de regalo
+    seis años de vida vende.
+TESEO:
+    Quien esa vida pretende
+    a tales bestias le igualo.
+ALBANTE:
+    Paréceme a mí, Teseo,
+    que para escusar las muertes
+    de aqueste tributo feo,
+    se echasen comunes suertes
+    y se hiciese igual empleo.
+TESEO:
+    Dices bien, que en general
+    todos tendrán esperanza,
+    y será la ley igual,
+    que no es ley la que no alcanza
+    del plebeyo al principal.
+FINEO:
+    ¡Vive el cielo, que no quede
+    hombre en Atenas!
+TESEO:
+    ¡Sí hará!
+    Pues la ley a nadie excede.
+FINEO:
+    Necio está Minos.
+ALBANTE:
+    Querrá
+    vengarse.
+TESEO:
+    Vengarse puede.
+FINEO:
+    ¿No fuera más acertado
+    que este Minos, o cominos,
+    matara este monstro airado,
+    que no por tales caminos
+    dar a la fama cuidado?
+    ¿Está loco?
+ALBANTE:
+    Puede ser.
+FINEO:
+    Hará bien, pues su mujer
+    ha dado en esta flaqueza
+    de aquel toro, en la cabeza
+    las armas ha de tener.
+    Y desde hoy queda sabido
+    que por este blanco toro,
+    el desdichado marido
+    a quien se pierde el decoro,
+    queda en toro convertido.
+[Vanse y entran Oranteo, príncipe de Lesbos, y Ariadna]
+ARIADNA:
+    No puedo significar
+    mi pena con más rigor.
+ORANTEO:
+    Yo no me quejo de amor,
+    que amor no puede agraviar,
+    de mí me debo quejar.
+    No por el alto sujeto
+    mas porque no fui discreto
+    en amar tan confïado,
+    causa que nunca ha dejado
+    de producir tal efeto.
+ARIADNA:
+    Si mi padre quiere darme
+    a Feniso por marido,
+    y lo que allá le ha servido
+    pagarle aquí con matarme,
+    mejor puedo yo agraviarme
+    de la pena que me alcanza
+    por mi necia confïanza;
+    pero discúlpome luego,
+    pues le guía como a ciego,
+    siempre al amor la esperanza.
+    Por servicios de la guerra
+    me han escrito que me dan
+    a este fiero capitán,
+    que toda mi paz destierra.
+    Si Minos mi padre yerra,
+    presto lo dirá el efeto;
+    si obedecerle es preceto,
+    yo le prestaré obediencia,
+    pero para vuestra ausencia
+    corta vida me prometo.
+    No me puedo resistir,
+    aunque no es la causa el miedo,
+    mas si resistir no puedo
+    bien sé que puedo morir.
+    Sin vos no quiero vivir,
+    y bien me podéis creer,
+    que, aunque mujer, puede ser,
+    porque cuando tiene amor,
+    no hay fortaleza mayor
+    que la más flaca mujer.
+ORANTEO:
+    ¡Hermosa Arïadna mía,
+    como el alba pura hermosa,
+    centro del alma dichosa
+    que por su cielo os tenía!
+    Ya se acabó mi alegría
+    y comenzó mi tristeza,
+    que puesto que mi firmeza
+    vuestros agravios resista,
+    ¿quién vivirá sin la vista
+    de vuestra rara belleza?
+    Estoy tan agradecido
+    de ver vuestro sentimiento,
+    que ha crecido mi tormento
+    y mi obligación crecido.
+    Menos hubiera sentido
+    el verme en tan triste estado,
+    siendo de vos olvidado.
+ARIADNA:
+    Luego, ¿pésaos de tener
+    este amor que me deber?
+ORANTEO:
+    ¿Qué os debo si os he pagado?
+    Desconciertan mi sentido,
+    señora, vuestros conciertos,
+    siendo los daños tan ciertos
+    como las nuevas lo han sido.
+    Quien tanto bien ha perdido
+    en esta injusta mudanza
+    ¿en qué tendrá confïanza,
+    quedando en esta ocasión
+    quien creyó la posesión,
+    apenas con la esperanza?
+    Pero no podrá mi suerte,
+    ya que de vos me divida,
+    quitarme tanto la vida
+    que se dilate mi muerte;
+    todos mis males concierte,
+    que no podrán sus enojos
+    triunfar de tantos despojos,
+    que lleve el tiempo la palma,
+    pues más os deja en el alma
+    que os aparta de los ojos.
+    Fortuna contraria intente
+    mostrar en mí su poder,
+    que no ha de poder hacer
+    que no os quiera eternamente,
+    tan dueño seréis ausente,
+    como siempre lo habéis sido,
+    y por consuelo he tenido,
+    si le tiene pena igual,
+    que no ha de hacerme otro mal
+    después de haberos perdido.
+    Temores han de matarme,
+    de que puesto que juréis
+    que en el alma me tendréis,
+    estáis cerca de olvidarme.
+    De cuanto bien pudo darme,
+    quien me puso en tal estado,
+    hoy quedo desobligado,
+    y de mi dicha quejoso,
+    pues no fuera yo dichoso
+    para no ser desdichado.
+[Vase]
+ARIADNA:
+    ¿Adónde vas amenazando ausencia,
+    dueño del alma venturosa mía?
+    Que no suele olvidar el que porfía,
+    porque donde hay memoria no hay paciencia.
+    Amenaza atrevida la presencia,
+    más luego que la vista se desvía,
+    vuelve en su fuerza amor, que a sangre fría,
+    no sabe hacer al gusto resistencia.
+    Amor, cuando se ha dado por despojos,
+    no muda la pasión mudando cielos,
+    que ven las almas si no ven los ojos.
+    Juegan los que aman si lo son desvelos,
+    más no se ausente nadie por enojos,
+    que lo que saca amor vuelven los celos.
+[Sale Fedra, hermana de Ariadna]
+FEDRA:
+    ¿Con ese cuidado estás?
+    Luego, ¿no escuchas la salva
+    que hoy ha hecho el mar al alba?
+ARIADNA:
+    En mí a la noche dirás,
+    porque partido Oranteo
+    ¿qué me puede haber venido
+    que iguale al bien que he perdido,
+    ni satisfaga al deseo?
+FEDRA:
+    ¿Y si dicen que es el Rey?
+ARIADNA:
+    Mayor mal si con él viene
+    Feniso.
+FEDRA:
+    Amor nunca tiene
+    con su misma sangre ley.
+ARIADNA:
+    ¡Ay Fedra! Que no hay consuelo
+    para tan grave dolor,
+    porque es la ausencia en amor
+    un rayo ardiente del cielo,
+    que como a un árbol desnuda
+    de sus hojas y sus ramas,
+    y en sus abrasadas llamas
+    su verde esperanza muda.
+    Así, donde ausencia alcanza,
+    aunque son sus fuegos hielos,
+    trueca en lo azul de los celos
+    lo verde de la esperanza.
+FEDRA:
+    Pésame de verte ansí,
+    pero si la fiera ausencia
+    es del amor resistencia,
+    lo mismo será de ti:
+    si te olvida, olvidarás.
+ARIADNA:
+    Amor juzga lo presente,
+    y yo presumo que ausente
+    querré más, penando más.
+    ¿Qué voces son estas?
+FEDRA:
+    Creo
+    que se acerca el Rey.
+ARIADNA:
+    Si fuera
+    mi muerte, mejor viniera
+    a mi esperanza y deseo.
+[Salen Minos, Feniso, soldados y cajas]
+MINOS:
+    Echad esas banderas por el suelo,
+    como conviene a un capitán sin honra.
+FENISO:
+    Mira que ofende tu dolor al cielo
+    en presumir que Júpiter deshonra.
+ARIADNA:
+    Si tus hijas te pueden dar consuelo,
+    padre y señor, su cuello y brazos honra,
+    de los que tantos reinos han vencido.
+MINOS:
+    Vencido vengo yo, mi honor perdido.
+    ¿Dónde está la crüel?
+FEDRA:
+    Tu furia huyendo.
+MINOS:
+    Hijas, yo vengo, como veis, que es justo
+    perdone amor si con mi honor le ofendo.
+ARIADNA:
+    Carece de consuelo tu disgusto.
+MINOS:
+    Dejadme aquí mientras venganza emprendo
+    de un poderoso no, puesto que injusto,
+    pero de la crüel que me ha ofendido.
+FEDRA:
+    Guárdete el cielo.
+MINOS:
+    Aun vida no le pido.
+    ¡Hola! ¡Llamadme a Dédalo!
+FEDRA:
+    Aquí viene
+    el mayor arquitecto que respeta
+    Grecia, ni ha visto el Asia.
+[Sale Dédalo]
+DÉDALO:
+    Den los dioses
+    a tu venida prósperos sucesos.
+MINOS:
+    Dédalo, amigo, ¿qué sucesos prósperos
+    puede esperar un hombre desdichado,
+    a quien para consuelo de sus penas
+    ponen la culpa al poderoso Júpiter?
+    Ya sucedió; ya Marte, que tenía
+    envidia de mis armas y victorias,
+    tomó venganza, obscureció mis glorias.
+    ¿Has visto acaso el monstro que ha infamado
+    la bella, en varïar naturaleza,
+    y aquí tan fea, bárbara y disforme?
+DÉDALO:
+    Sí, gran señor.
+MINOS:
+    Pues, ¿cómo haré una fábrica
+    donde pueda encerrar aquesta fiera,
+    de tan sutil ingenio y artificio,
+    que el que entrare una vez salir no pueda?
+DÉDALO:
+    Después que me escribiste que tenías
+    esa intención y que encerrar querías
+    este monstro feroz, a quien la fama
+    de toro y Minos, Minotauro llama,
+    yo hice y estudié varios diseños,
+    y de tantos modelos y artificios
+    hice elección del que verás presente,
+    que aquí te le tenía prevenido,
+    para que si te agrada lo pintado
+    quede en madera y piedra ejecutado.
+[Corriendo una cortina se vea en un lienzo pintado el laberinto, y el Minotauro dentro]
+MINOS:
+    ¡Por los dioses que es digno de tu ingenio!
+    Y dime, ¿es de esta suerte el fiero monstro?
+DÉDALO:
+    Este es, señor, el monstro retratado,
+    aquí ha de estar de aquesta plaza en medio;
+    esta es la puerta, pero no hay remedio
+    de hallarla el que una vez por ella entrare.
+MINOS:
+    Pues alto a ejecutalla, insigne Dédalo,
+    que a ti te dará fama en todo el mundo
+    del más supremo y ingenioso artífice,
+    y a mí del hombre de mayor desdicha.
+DÉDALO:
+    Tu verás brevemente en pie la fábrica.
+MINOS:
+    Matara el Minotauro, pero temo
+    la ira del gran Júpiter si es suyo,
+    que para mí, sin diferencia alguna,
+    es hijo de la Envidia y la Fortuna.
+[Vanse y salen Teseo y Fineo]
+FINEO:
+    No te quiero consolar.
+TESEO:
+    No hay en este mal consuelo.
+FINEO:
+    Airado tienes el cielo.
+TESEO:
+    Hoy me mandan embarcar.
+FINEO:
+    ¡Que te cupiese la suerte
+    entre más de seis mil hombres
+    de tan diferentes nombres!
+TESEO:
+    ¡Fuerte mal! ¡Desdicha fuerte!
+FINEO:
+    Si fuera para algún bien
+    la suerte se te escondiera.
+TESEO:
+    Para bien no me cupiera
+    ni me dieran parabién;
+    para mal, y tanto mal,
+    conmigo acertó mi nombre.
+FINEO:
+    ¿Cómo permiten que un hombre
+    tan valiente y principal
+    vaya a dar pasto a una fiera?
+TESEO:
+    Porque es república justa,
+    y no ha de hacer cosa injusta
+    cuando más valor tuviera.
+    Aquí, con justicia igual,
+    sin que a uno falte, otro sobre,
+    al que es rico y al que es pobre,
+    se reparte el bien y el mal.
+    Estos gobiernos difieren
+    de otros injustos y odiosos,
+    adonde los poderosos
+    se salen con lo que quieren.
+    ¡Ay del reino en que por fuerza
+    el pobre ha de padecer,
+    y el rico hacer y poder!
+    ¡Que la ley con él se tuerza!
+FINEO:
+    No entiendo lo que es justicia,
+    mas con los que nobles son
+    es justo que haya excepción.
+TESEO:
+    Debes de hablar con malicia.
+FINEO:
+    Esto es cosa natural,
+    puesto que un sabio decía
+    que en la muerte sola había
+    justicia a todos igual.
+    En fin, ¿te piensas partir
+    a morir?
+TESEO:
+    Si esto conviene
+    a la patria, un noble tiene
+    obligación de morir.
+FINEO:
+    Acompañarte es forzoso,
+    de tu valor animado.
+TESEO:
+    Eres, Fineo, crïado
+    leal, noble y animoso,
+    por lo menos si la suerte
+    para morir me ha cabido,
+    piadosa conmigo ha sido
+    en la causa de mi muerte.
+    Vamos, que aguarda la nave,
+    y el mar bonanza promete.
+FINEO:
+    Mas que todo se inquïete
+    con cuántas tormentas sabe.
+TESEO:
+    No llegaré a salvamento
+    puesto que es el viento tal.
+FINEO:
+    Para caminar al mal
+    a nadie ha faltado viento.
+[Vanse y salen Oranteo y Lauro]
+LAURO:
+    Si no se la pediste,
+    ¿de qué te quejas que es injusta cosa?
+ORANTEO:
+    En eso no consiste
+    haber perdido mi querida esposa;
+    consiste en las estrellas,
+    que no importa querer si olvidan ellas.
+    ¡Ay, Lauro! Yo vivía
+    en Creta de Arïadna enamorado,
+    esperando que el día
+    que del gobierno militar cansado
+    Minos crüel volviera,
+    de mi esperanza posesión me diera.
+    Escribiole el tirano
+    que la daba a Feniso en casamiento;
+    Feniso, a cuya mano
+    debe su vitoriosa fama, a intento
+    de hacerle rey de Creta,
+    al cetro trasladando la jineta.
+    Mal hizo, porque Minos
+    no ignoraba mi amor, ni que desciendo
+    de los dioses divinos,
+    y que de Lesbos soy príncipe.
+LAURO:
+    Entiendo
+    que si allí le aguardaras,
+    el fin de tu esperanza conquistaras.
+ORANTEO:
+    Lauro, si la ha casado,
+    ¿qué esperanza me queda? Yo soy muerto.
+    ¡Plega al cielo que, airado,
+    el mar sorba sus naves en el puerto,
+    y en las ondas furiosas
+    derrame las banderas vitoriosas!
+LAURO:
+    Son cortas maldiciones
+    para la grande que del cielo tiene,
+    si a contemplar te pones
+    que a ver un monstro de deshonra viene.
+ORANTEO:
+    Ya he visto en Creta, Lauro,
+    el fiero y espantoso Minotauro.
+    En tanto que fabrica
+    el laberinto, que este nombre llama
+    al sitio en que le aplica,
+    infamia para él, y eterna fama
+    para su gran maestro,
+    Dédalo insigne, en todas artes diestro,
+    y en cercos intricados
+    se pierden sin poder hallar salida,
+    a muerte condenados,
+    los que le sirven de sustento y vida.
+    Yo tendré prevenido
+    el monstro de un ejército lucido.
+    Este, en el laberinto
+    de naves de alto borde irá a quitalle
+    en término sucinto
+    la vida que me quitas, y roballe
+    a Feniso la joya,
+    como a los griegos el ladrón de Troya.
+    Ven, porque demos luego
+    voz a la fama, lienzo al mar, a Marte
+    materia, a amor más fuego.
+LAURO:
+    Ya los consejos son solo ayudarte.
+ORANTEO:
+    Dar consejo al que ama,
+    es animar con soplos a la llama.
+[Vanse y salen Minos, Ariadna, Fedra, Feniso y Dédalo]
+MINOS:
+    La fábrica es excelente.
+ARIADNA:
+    Es imposible que en Grecia
+    haya un edificio igual.
+FEDRA:
+    Ya por naciones diversas
+    va discurriendo la Fama
+    con alas y plumas nuevas.
+DÉDALO:
+    Yo pienso, invicto señor,
+    que el laberinto no sea
+    menos que su Minotauro,
+    monstro de naturaleza.
+MINOS:
+    Yo estoy servido de ti,
+    y así pienso hacer que tenga
+    Ícaro, tu hijo, el premio
+    del trabajo que te cuesta.
+FEDRA:
+    Aquí viene, invicto Rey,
+    un embajador de Atenas.
+[Salen Teseo y Fineo]
+TESEO:
+    Yo no soy embajador,
+    supuesto que mi nobleza
+    diera ocasión a la patria
+    para cargos de más fuerza.
+    Teseo soy, y aunque fui
+    Duque generoso en ella,
+    por la suerte me ha cabido
+    ser el más vil de mi tierra.
+    Vengo a morir, con que he dicho
+    que no soy nada, y quisiera
+    ser más, para que estimara
+    perder la vida por ella.
+    Sus ciudadanos te dieron
+    palabra segura y cierta
+    de darte cada año en parias
+    diez hombres para esta fiera.
+    Yo soy, rey Minos, el uno,
+    que no me he puesto en defensa
+    por la lealtad que te digo,
+    y que a tus pies me presenta,
+    porque en razón de su honor,
+    que es una vida me pesa,
+    pues por ella aventurara
+    cuantas el cielo me diera.
+    ¿Qué quieres hacer de mí?
+MINOS:
+    Teseo, la fortaleza
+    de tu generoso pecho
+    no pudo dar mayor muestra.
+    Pésame que fueses tú,
+    a quien la pasada guerra
+    hizo ilustre en mi opinión,
+    pero si lo quiere Atenas
+    y tú serle tan leal,
+    Feniso, a una torre lleva
+    al Duque, en tanto que al monstro
+    de su arrogancia sustenta.
+[Vase]
+TESEO:
+    Voy contento de saber
+    que por tales medios quieras
+    encubrir tu deshonor.
+[Vase Teseo y asga Ariadna a Fineo]
+ARIADNA:
+    ¿A quién dijo?
+FINEO:
+    ¿Quién es?
+ARIADNA:
+    Tenga
+    el paso, que yo le llamo.
+FINEO:
+    ¡Ah, mi bellísima Reina!
+    ¿Cuándo mereció mi boca
+    besar la dichosa arena
+    adonde ponéis los pies,
+    aunque está revuelta en perlas?
+ARIADNA:
+    ¿Es este el duque Teseo?
+FINEO:
+    Este es aquel de quien cuentan
+    tan espantosas hazañas;
+    este el que la mar soberbia
+    pasó con Jasón a Colcos
+    hasta robar a Medea;
+    este el que bajó al infierno
+    con Hércules, el de Grecia,
+    y a la bella Proserpina
+    presentó cosas diversas:
+    para el calor que hace allá
+    por el verano las fiestas,
+    un abanillo famoso;
+    y porque estaba dispuesta
+    de vestir a la española,
+    seis puños como rodelas,
+    que en el infierno también
+    quieren descubrir muñecas.
+    Este le ayudó a matar
+    los centauros en la mesa
+    de las bodas de Hipodamia;
+    este...
+ARIADNA:
+    Basta que este sea
+    Teseo, de cuya fama
+    no hay poca noticia en Grecia,
+    lástima me da su edad,
+    su hermosura y gentileza.
+FINEO:
+    Dios os lastime en el alma
+    por esa piedad, que en ella
+    se conoce, gran señora,
+    vuestra bondad y nobleza.
+    Y cierto que es sin razón
+    echar un hombre a una bestia,
+    aunque tratar con un necio
+    pienso que lo mismo fuera.
+    No habrá tantico remedio,
+    porque es cargo de conciencia
+    matar un mozo a bocados,
+    como suele cuando entra
+    un asno en un melonar.
+ARIADNA:
+    ¡Ay, hermana, quién pudiera
+    dar vida aqueste mancebo!
+FEDRA:
+    Bien podrás si tú lo intentas.
+ARIADNA:
+    Que lo intentaré no dudes.
+FINEO:
+    ¡Sí, por Dios, para que tenga
+    un esclavo esa hermosura,
+    y un amante esa belleza!
+ARIADNA:
+    ¿Es casado?
+FINEO:
+    No es casado,
+    como dicen, ni Dios quiera
+    que se vea en tanto mal,
+    digo mal, mal de paciencia.
+ARIADNA:
+    Venme a hablar aquesta noche.
+FINEO:
+    No hay bien que al hombre no venga
+    por manos de la mujer.
+    ¡Benditas mil veces sean!
+    Mas cuando vuelve la cola
+    marzo, y el diablo se suelta,
+    todo hombre guarde la cara,
+    quiero decir, la cabeza.
+
+JORNADA 2
+
+[Sale Teseo preso]
+TESEO:
+    Cuando en el nido el pajarillo asiste
+    en larga noche del invierno airado,
+    y espera el alba que con rayo helado
+    baña los montes y los campos viste;
+    luego que de jacinto y amatiste
+    saca el rico cabello coronado,
+    trueca las pajas al ameno prado,
+    y en los rayos del sol la noche triste.
+    Yo, de otra suerte, en noche obscura y fría,
+    de aquesta cárcel que me dio la suerte,
+    no doy lugar a la esperanza mía.
+    Desdichado de aquel que de tan fuerte
+    prisión, no espera que amanezca el día,
+    pues ha de ser la noche de su muerte.
+[Sale Fineo]
+FINEO:
+    Bien puedes, en tanto mal,
+    darme albricias de tu bien.
+TESEO:
+    No sé yo, Fineo, por quién
+    hablas en estilo igual.
+    Si es que se acerca el salir
+    del Minotauro homicida.
+    ¡Quién vio jamás que la vida
+    diese albricias del morir!
+FINEO:
+    Deja la injusta tristeza,
+    y en esta cárcel verás
+    más que el sol, bien digo, más,
+    dos soles de más belleza.
+    Tu talle o tu buena dicha
+    —que aquesto debió de ser,
+    que no hay talle en el querer
+    entrar fuerte la desdicha—,
+    a dos hermosas señoras
+    obliga a ver si podrás
+    vivir o no; al fin verás
+    en tu noche dos auroras:
+    la bellísima Arïadna,
+    hija de este rey Cominos,
+    que con tales desatinos
+    hace su afrenta más llana;
+    y Fedra, su hermana bella,
+    vienen a verte.
+TESEO:
+    ¿A mí?
+FINEO:
+    Sí.
+TESEO:
+    ¿Quién te lo ha dicho que ansí
+    me favorece mi estrella?
+FINEO:
+    Esta noche con las dos,
+    hasta las dos y aun las tres
+    estuve, y supe quién es
+    este Amor, que es ciego y dios.
+    Verdad es que las moví
+    con tan ilustre parola,
+    como si fuera española
+    la provincia en que nací,
+    porque dicen que hay en ella,
+    y escriben graves autores,
+    los mayores habladores
+    que la verdad atropella.
+    Enterneciose Arïadna,
+    y con más inclinación
+    dio lugar a la afición
+    que comenzaba en su hermana.
+    Ya vienen las dos aquí
+    ellas dirán lo demás.
+TESEO:
+    Notables nuevas me das.
+[Sale Fedra, Ariadna y un alcaide]
+ARIADNA:
+    (¿Está aquí?
+ALCAIDE:
+    Señora, sí.
+ARIADNA:
+    Pues, ¿en tan oscura parte?
+ALCAIDE:
+    Mandolo el Rey de esta suerte,
+    mientras que le dan la muerte.
+ARIADNA:
+    Vete).
+FINEO:
+    Ya vienen a hablarte.
+ARIADNA:
+    ¿Eres tú el Duque?
+TESEO:
+    Yo soy,
+    ángel, el duque Teseo,
+    ya no preso, pues ya veo
+    que en diverso cielo estoy.
+    Ya estoy libre, aunque cautivo
+    de vuestra rara belleza,
+    que en noche de tal tristeza
+    no menos gloria recibo.
+    ¿Por dónde, hermosa Arïadna,
+    entró sol tan verdadero,
+    sin que llegasen primero
+    las nuevas de la mañana?
+    Ya no es posible que pueda
+    venir la muerte importuna,
+    ni moverse la Fortuna
+    si vos le tenéis la rueda.
+    Y vos, Fedra celestial,
+    que acompañáis su hermosura,
+    y que esta cárcel oscura
+    hacéis balcón oriental,
+    ¿cómo entenderéis aquí
+    que os doy agradecimiento
+    justo? Pues el mal que siento
+    pensaréis que habla por mí.
+    Los dioses, tan venturosas
+    os hagan, como merece
+    vuestra piedad.
+FEDRA:
+    Quien padece
+    prisiones tan rigurosas
+    sin culpa, tenga esperanza
+    que le ha de librar el cielo.
+TESEO:
+    La esperanza y el consuelo
+    a un mismo tiempo me alcanza.
+ARIADNA:
+    Duque, lástima y piedad,
+    y el ver tu ilustre persona,
+    digna de mayor corona
+    que el nombre de tu ciudad,
+    mi tierno pecho ha movido
+    a procurar tu remedio,
+    puesto que está de por medio
+    peligro tan conocido.
+    Toda esta noche he pensado
+    cómo has de poder entrar
+    y salir de aquel lugar
+    por tantas partes cerrado.
+    Y como siempre el amor
+    es maestro y suele ser
+    más sutil en la mujer,
+    hallé el remedio mejor:
+    yo te daré de oro un hilo
+    que a las puertas has de atar,
+    por donde puedas tornar
+    siguiendo aquel mismo estilo,
+    que no te podrás perder
+    si con él vienes siguiendo
+    la puerta, ya que al horrendo
+    monstro acabes de vencer,
+    para el cual has de llevar
+    tres panes con tal veneno
+    que de su sentido ajeno
+    caiga en el mismo lugar.
+    Entonces, con una maza
+    que te daré, larga y fuerte,
+    en sangre, dándole muerte,
+    bañarás la inculta plaza.
+    Pero porque el padre mío
+    ha de saber quién te ha dado
+    la industria, y vengar airado
+    en mi amor su desvarío,
+    palabra nos has de dar
+    de llevarnos a tu tierra,
+    adonde si intenta guerra
+    y se quisiere vengar,
+    tú nos podrás defender.
+TESEO:
+    Palabra a los cielos doy
+    que serás, y lo eres hoy,
+    mi bien, mi reina y mujer.
+    Y es corto premio a quien eres,
+    cuando no por dar a un hombre
+    vida, que ha de darte nombre
+    entre famosas mujeres.
+    Fía de mi obligación
+    como de hombre bien nacido,
+    y que a la muerte ha venido
+    por el bien de su nación,
+    que no seré ingrato al bien
+    que de tus manos recibo,
+    señora, si salgo vivo.
+ARIADNA:
+    ¡Vida los cielos te den!
+TESEO:
+    Serás duquesa de Atenas
+    si del laberinto obscuro
+    salgo con vida, y lo juro
+    a cuantas luces serenas
+    sirven de claras saetías
+    a los dioses celestiales,
+    para ver a los mortales
+    por doradas celosías,
+    y fálteme todo el cielo
+    si a esta palabra faltare.
+ARIADNA:
+    El cielo tu vida ampare,
+    y vuelva a tu patrio suelo.
+TESEO:
+    La nave que me ha traído,
+    y espera solo saber
+    qué nuevas ha de volver
+    de lo que me ha sucedido;
+    esa misma, con secreto,
+    nos ha de llevar de aquí.
+ARIADNA:
+    No querría que de mí
+    formase el Rey mal conceto.
+    Vamos, Fedra, que yo voy
+    a prevenir a Teseo
+    las armas.
+TESEO:
+    Ya con deseo
+    de ver el peligro estoy.
+FEDRA:
+    ¡Ánimo, Duque valiente!
+TESEO:
+    Basta esa voz, Fedra hermosa,
+    como cuando sonorosa
+    trompeta el caballo siente.
+[Vanse las dos]
+    ¿Qué esperáis, fieros tiranos?
+    ¡Venid por mí!
+FINEO:
+    Poco a poco.
+TESEO:
+    Con tantos favores loco,
+    ya tengo el mundo en las manos.
+FINEO:
+    Pues no le dejes caer,
+    tenle firme en un estado,
+    porque está tan delicado
+    que se te podrá romper.
+    Quebraranse muchas damas,
+    todas melindres y enfados,
+    y algunos afeminados,
+    Fenis de sus mismas llamas:
+    quebraranse mil discretos,
+    que de puro circunscriptos,
+    por vocablos esquisitos
+    andan a buscar concetos;
+    quebraranse mil que están
+    arbitrando sacar oro
+    de sangre ajena, tesoro,
+    que alguna vez pagaran;
+    y quebraranse... Callemos,
+    que hay gran peligro en hablar.
+TESEO:
+    Es menester concertar
+    cómo esta nave saquemos.
+FINEO:
+    Luego ¿ya cuentas vencido
+    este fiero Minotauro?
+TESEO:
+    Haz cuenta que el verde lauro
+    tengo en la frente ceñido.
+FINEO:
+    Dícenme que este animal
+    no guarda a nadie decoro,
+    y de quien es hombre y toro
+    se ha de temer mucho mal.
+    Esta bestia, que desprecios
+    hace del cielo y abismo,
+    va caballero en sí mismo
+    como suelen ir los necios,
+    porque de la cinta arriba
+    es hombre, y de medio abajo
+    toro, que en España al Tajo
+    de hierba y cristales priva.
+    Yo te aseguro de mí,
+    que estoy temblando de miedo.
+TESEO:
+    Y yo, que temer no puedo
+    después que a Arïadna vi.
+FINEO:
+    ¿Y las dos has de llevar?
+TESEO:
+    Eso es forzoso.
+FINEO:
+    ¡Por Dios,
+    que es brava carga las dos,
+    y que ha de quejarse el mar!
+    Mas porque el peso no espante
+    y las puedas conducir,
+    como alforjas podrán ir
+    una atrás, y otra adelante.
+[Vanse y salen el príncipe Oranteo y Lauro]
+ORANTEO:
+    Esto me escribe, Lauro, el rey de Creta,
+    viendo que ya mi ejército salía.
+LAURO:
+    Temor le solicita y inquïeta.
+ORANTEO:
+    Fue con razón de la venganza mía.
+    La fama, que las cosas interpreta,
+    anticipó de mi partida el día,
+    de suerte que, aun apenas vio mis naves,
+    cuando le persuadió temores graves.
+    No tremolaba una bandera al viento,
+    ni un gallardete el agua amenazaba,
+    ni por la racamenta el alto asiento
+    de la gavia piloto caminaba,
+    cuando el eco del bélico instrumento
+    en la playa de Creta resonaba,
+    y la gente que apenas conducía,
+    a las espaldas del temor venía.
+    Viendo su carta, en que se ofrece a darme
+    a la bella Arïadna en casamiento,
+    a Creta he vuelto alegre de casarme.
+    La blanda paz, que no la guerra intento,
+    Amor las duras láminas desarme,
+    pues desde su primero nacimiento
+    es tan desnudo, como niño y ciego,
+    y depuesto el bastón, viva el sosiego.
+    Verdad es que antes de entregarme a Minos,
+    quiero saber en Creta, de secreto,
+    si son engaños de su pecho indignos,
+    y de un pecho real bastardo efeto,
+    que si es engaño, los labrados pinos
+    y el lienzo por las ondas inquïeto
+    oprimirán el mar con nueva armada,
+    y a dos agravios sacaré la espada.
+LAURO:
+    Bien has hecho en venir secretamente,
+    hasta saber, señor, si te ha engañado
+    vencido de la fama diligente,
+    y de tu prevención amenazado.
+ORANTEO:
+    Este es el laberinto que eminente
+    resplandece en el centro de este prado,
+    artificio de Dédalo, en que puedes
+    mirar vencido al célebre Arquimedes.
+    Aquí tiene prisión el Minotauro,
+    a quien sustenta la vencida Atenas,
+    desde que a Minos la corona y lauro
+    rindió la presunción de sus almenas;
+    sátiro no se vio, fauno o centauro,
+    ni monstro por las líbicas arenas,
+    de más espanto y prodigiosa fama.
+LAURO:
+    ¡Triste del griego a quien la suerte llama!
+ORANTEO:
+    De aquesta parte en rejas y balcones
+    la gente mira un hombre de buen talle
+    que ha entrado en él.
+LAURO:
+    Si aquí, señor, te pones
+    podrás con justa lástima miralle.
+ORANTEO:
+    Con armas entra.
+LAURO:
+    A tales ocasiones,
+    ¿qué bronce puede o qué diamante armalle?
+ORANTEO:
+    Lástima tengo a su persona y brío.
+    Lleguemos, Lauro, a ver el desafío.
+[Salen Teseo y Fineo con una maza y apártanse a un lado los dos, Lauro y Oranteo]
+TESEO:
+    Muestra la maza, Fineo,
+    y favorézcame Marte.
+FINEO:
+    Temblando estoy de mirarte
+    en tal peligro, Teseo.
+TESEO:
+    Estraña suerte de guerra,
+    pero poco me importuna,
+    si he vencido mi fortuna,
+    que es mayor monstro en la tierra.
+FINEO:
+    Yo no he visto aquesta fiera,
+    más que pintada, señor,
+    pero a tu heroico valor,
+    ¿qué libia temor pusiera?
+    Mató Apolo la serpiente,
+    a quien llamaron Fitón
+    con arco y flechas, que son
+    de un dios tan diestro y valiente;
+    Hércules, la Hidra fiera,
+    porque Júpiter le dio
+    las fuerzas, a quien honró
+    después la estrellada esfera.
+    Pero si los dos aquí
+    vieran este monstro fiero,
+    rindieran flechas y acero
+    al valor que miro en ti.
+TESEO:
+    Si fuera este desafío
+    con Hércules, con Jasón,
+    con el griego Telamón,
+    al fin, hombre y igual mío,
+    ¿qué debiera agradecerme
+    la patria?
+FINEO:
+    ¡Que un animal
+    te ponga en ocasión tal!
+TESEO:
+    Amor me manda atreverme.
+FINEO:
+    ¡Que nazca de una mujer
+    un monstro como esta fiera!
+    Mas, ¿de quién nacer pudiera,
+    sino de su mismo ser?
+    Que no es menos de admirar
+    que nazca de ellas la ira,
+    la lisonja, la mentira,
+    y el monstro, de hacer pesar
+    que no le hay que más estrañe
+    naturaleza ¡por Dios!;
+    que el ver que la sirvan dos,
+    y que a los dos los engañe.
+    Si has visto al monstro de celos,
+    cree, Duque belicoso,
+    que han hecho con él hermoso
+    al Minotauro los cielos;
+    si has visto la Ingratitud,
+    dirás que es monstro mayor,
+    y no lo es pequeño amor
+    del alma eterna inquietud.
+TESEO:
+    Atar quiero el hilo de oro.
+FINEO:
+    Júpiter vaya contigo,
+    que no puedo ser testigo
+    de tu valor, siento y lloro.
+TESEO:
+    Deidades santas, favor;
+    favor, Marte; favor pido,
+    y a ti, Amor, pues has vencido
+    todos los dioses de amor.
+    Favor, hermosa Arïadna,
+    tú que las armas me diste,
+    porque digas que venciste
+    como deidad soberana.
+    Que si salgo de los lazos
+    donde mi muerte contemplo,
+    haré de tu cuello un templo
+    y colgaré en él mis brazos.
+[Vase]
+ORANTEO:
+    ¿Entró el ateniense?
+LAURO:
+    Entró
+    dándole aplauso la gente.
+ORANTEO:
+    Y ya mi sol del oriente
+    de su balcón se quitó.
+    Vamos, Lauro, a ver si puedo
+    verla sin ser conocido,
+    que de ausencia temo olvido.
+LAURO:
+    Amor, señor, todo es miedo.
+FINEO:
+    Ya la gente, lastimada
+    del valeroso Teseo,
+    deja ventanas y rejas
+    todos le cuentan por muerto.
+    Y para mí, si a la plaza,
+    que es del laberinto el centro,
+    ha llegado, ya lo está,
+    como otros valientes griegos.
+    ¡No fuera este medio toro
+    un hombre de los que vemos
+    pacer mansos por las calles
+    y no tan bárbaro y fiero!
+    ¡Ah cielos, mi buen señor
+    a manos de un toro pierdo!
+    Estoy por entrar, ¿qué haré?
+    Mas que no he de acertar temo,
+    que me falta el hilo de oro.
+    Oro me falta, no puedo,
+    porque monstro de mujer
+    sin oro es cosa de cuentos;
+    aun en negocios de acá,
+    ni acertamos, ni podemos,
+    en faltando el hilo de oro,
+    que es con que se sale de ellos.
+    Ya no se siente ruïdo,
+    ¡Oh, Pasife del infierno,
+    como hiciste un torihombre,
+    no hicieras un hombriciervo!
+    Que los ciervos son cobardes,
+    y aunque armados, van huyendo;
+    pero los toros son bravos,
+    y más en hombres enjertos.
+    La noche baja y sus luces
+    enciende la luna al cielo.
+    Dos bultos vienen aquí:
+    ¿si son las sombras del miedo?
+    Mas ya, ¿qué puedo temer?
+[Salen Fedra y Ariadna en hábito de hombres con capas y espadas]
+FEDRA:
+    Animosa vienes.
+ARIADNA:
+    Vengo
+    animando la esperanza
+    para que sustente al cuerpo.
+FEDRA:
+    Con este disfraz, seguras
+    a la puerta aguardaremos
+    del laberinto, hasta ver
+    la disposición del cielo.
+ARIADNA:
+    ¿Es hombre aquel?
+FEDRA:
+    Eso muestra,
+    Arïadna, el movimiento.
+ARIADNA:
+    Fineo debe de ser.
+FEDRA:
+    Lleguemos cerca.
+ARIADNA:
+    ¡Ah, Fineo!
+FINEO:
+    Mi nombre han llamado, ¡ay triste!
+    Buen ánimo, llegar quiero.
+    ¿Quién va?
+ARIADNA:
+    ¿No conoces?
+FINEO:
+    Sí,
+    conozco tu voz, y pienso
+    que si supiera que estabas
+    en esta puerta Teseo,
+    fuera parte para darle
+    tan glorioso vencimiento.
+ARIADNA:
+    El tardar me causa pena.
+FEDRA:
+    Ruïdo en las puertas siento.
+ARIADNA:
+    Pues si en ellas hay rüido
+    muerto es el monstro.
+FEDRA:
+    Eso pienso.
+[Sale Teseo]
+TESEO:
+    ¡Gracias a los altos dioses
+    que del laberinto ciego
+    salgo con vida! ¿Quién va?
+FINEO:
+    Dos ángeles y Fineo.
+TESEO:
+    ¿Arïadna y Fedra?
+FINEO:
+    Sí.
+TESEO:
+    ¡Luces hermosas del cielo!
+FINEO:
+    Quedito, no hables de luces,
+    que a oscuras es mejor eso.
+ARIADNA:
+    Teseo, el verte con vida
+    en tanta gloria me ha puesto,
+    como me tuvo el temor
+    entre penas y tormentos.
+    Ya quiero darte los brazos
+    como a mi esposo.
+TESEO:
+    No puedo
+    responderte de alegría.
+FEDRA:
+    Puesto que yo soy lo menos,
+    Teseo, para que tenga
+    esta tu ventura aumento,
+    en cambio del parabién
+    pido tus brazos.
+TESEO:
+    En ellos,
+    hermosa Fedra, tendrás
+    el corazón de su dueño.
+ARIADNA:
+    ¿Cómo sucedió tu dicha?
+TESEO:
+    Até el hilo de oro, y entro
+    dando vueltas a mil calles
+    por infinitos rodeos;
+    cuando pensaba que estaba
+    del laberinto en el centro,
+    estaba más lejos de él,
+    y cerca cuando más lejos.
+    Finalmente, yo llegué
+    a un sitio en cuadro pequeño,
+    donde estaba el Minotauro
+    echado entre varios huesos.
+    Cuando vi tanto cadáver
+    imaginé si de aquellos
+    dentro de tan breve espacio
+    había de ser mi cuerpo,
+    pero animándome el alma,
+    al monstro horrible me acerco,
+    que puesto en sus cuatro pies
+    me mira espantoso y fiero.
+    Yo, entonces, aquellos panes
+    le arrojo, y él, dando en ellos,
+    comenzó a tragar su muerte
+    en el cifrado veneno.
+    Alzo la maza animoso,
+    y de los golpes primeros,
+    con dos horrendos bramidos,
+    doy con el monstro en el suelo;
+    bañado en espuma y sangre
+    sobre la hierba le dejo,
+    y asiendo del hilo el cabo
+    por él a la puerta vuelvo.
+ARIADNA:
+    ¡Gracias a los altos dioses!
+    Pero, gallardo Teseo,
+    mira que el peligro es grande,
+    si es grande el atrevimiento.
+    Vamos al mar, que si acaso
+    siente mi padre soberbio
+    que de su casa faltamos
+    no habrá disculpa o remedio
+    para salir con la vida.
+TESEO:
+    La nave queda en el puerto
+    con amigos y crïados.
+FEDRA:
+    Pues, ¿qué aguardáis? Caminemos.
+TESEO:
+    Ven, mi señora, y tú, Fedra,
+    dale la mano a Fineo.
+FINEO:
+    ¡Lucero seré desde hoy,
+    que al sol de la mano llevo!
+[Vanse y salen Minos, Oranteo, Lauro y Polinices]
+MINOS:
+    Agravio notable ha sido.
+ORANTEO:
+    No pensé, señor, que fuera
+    de ninguno conocido,
+    hasta que en Creta supiera
+    si el ausencia causa olvido,
+    pero, pues que ya lo estoy,
+    ya sabéis cuán vuestro soy,
+    dadme a besar vuestras manos.
+MINOS:
+    A los dioses soberanos
+    gracias infinitas doy
+    de nuestra paz, Oranteo.
+ORANTEO:
+    Solo servirte deseo.
+MINOS:
+    Hoy Arïadna ha de ser
+    tu mujer, que tal mujer
+    en ti justamente empleo;
+    Feniso está consolado
+    de que le case con Fedra.
+ORANTEO:
+    Y yo de tu mano honrado.
+[Sale Feniso]
+FENISO:
+    Escriba la fama en piedra,
+    acero o bronce dorado,
+    hecho de tanto valor.
+MINOS:
+    ¿Qué es eso, amigo Feniso?
+FENISO:
+    Es que a Teseo, señor,
+    dar vitoria el cielo quiso:
+    ya es Teseo vencedor.
+MINOS:
+    Pues, ¿cómo ha entrado?
+FENISO:
+    No sé
+    de la manera que entró.
+    Sé que a Dédalo rogué
+    que entrase, y que entró, y que vio
+    que en vano su industria fue,
+    porque en medio de la plaza
+    halló el Minotauro muerto.
+MINOS:
+    ¡Por Marte, que ha dado traza
+    a este engaño!
+FENISO:
+    Si es concierto,
+    su vida injusta amenaza,
+    que él te dirá la verdad.
+MINOS:
+    Llamad también a Teseo.
+SOLDADOS:
+    No ha parado en la ciudad,
+    que piensa que este trofeo
+    no ha de ganar tu amistad.
+MINOS:
+    Bien hizo en hüirse el griego
+    y no probar mi furor.
+ORANTEO:
+    Que te consueles te ruego,
+    si lo merece mi amor.
+MINOS:
+    Llamad a mis hijas luego,
+    porque hoy Fedra ha de tener
+    en Feniso noble esposo,
+    y de Oranteo ha de ser
+    Arïadna.
+ORANTEO:
+    ¡El poderoso
+    cielo aumente tu poder!
+FENISO:
+    ¡Dilate tu señorío
+    desde el sur al norte frío!
+MINOS:
+    Con tales yernos espero
+    hacer guerra al mundo.
+ORANTEO:
+    Hoy quiero
+    decirte el intento mío:
+    no tienes hijo varón,
+    rey Minos, y así es razón
+    que nombres quién ha de ser
+    el que te ha de suceder,
+    pues que dos tus hijas son.
+MINOS:
+    Que gobernéis juntos quiero
+    este reino.
+ORANTEO:
+    Yo lo pido,
+    si tú eres servido entero,
+    porque en siendo dividido,
+    de gusto y paz desespero.
+    O sea suyo o sea mío,
+    porque amor y señorío
+    no permiten compañía.
+FENISO:
+    Ni lo quisiera la mía,
+    que tengo bastante brío
+    para gobernar a Creta.
+ORANTEO:
+    Y yo para los gobiernos
+    del mundo, que se sujeta
+    a mi valor.
+MINOS:
+    ¡Paso, yernos!
+    Vivo estoy, ¿qué os inquïeta?
+[Sale Polineces]
+POLINECES:
+    No hay en palacio señal
+    de estar tus hijas en él.
+MINOS:
+    ¿Qué dices?
+POLINECES:
+    Qué hay grande mal
+    si lo que dicen por él
+    fuese a la verdad igual.
+MINOS:
+    Advierte bien, Polinices,
+    que es mi muerte lo que dices.
+POLINECES:
+    Digo, señor, que las bodas
+    que esperas se vuelven todas
+    en tragedias infelices,
+    porque cuentan que Teseo
+    se las lleva por la mar.
+MINOS:
+    ¿Qué te parece, Oranteo?
+ORANTEO:
+    Que no se puede fïar
+    sino es del cielo el deseo.
+MINOS:
+    ¿Hay tan grande atrevimiento?
+    Él vino a vengar a Atenas,
+    pero de mis hijas siento
+    que era imposible ser buenas
+    mirando su nacimiento.
+    Pasife, madre de un toro,
+    ¿qué pudo engendrar que fuese
+    digno de real decoro?
+    Seguirle tengo, aunque pese
+    al mar, ¡por Marte que adoro!,
+    que bien saben sus caminos,
+    aunque inciertos, quién es Minos.
+    ¡Aguarda, ladrón Teseo!
+[Vase]
+FENISO:
+    Perdí el reino y no el deseo.
+ORANTEO:
+    ¡Ay, Lauro, haré desatinos!
+LAURO:
+    ¿Que Arïadna te ha olvidado,
+    y que se va con Teseo?
+ORANTEO:
+    Si de Fedra enamorado,
+    cosa que más cierta creo,
+    para aliviar mi cuidado,
+    lleva Arïadna con ella.
+    No culpemos a Arïadna,
+    pero si es mudanza en ella,
+    ¡Ay de mi esperanza vana!
+    ¡Ay de mi contraria estrella!
+    No le dé amor los efetos,
+    mas pensaré que en su amor
+    caben mayores defetos,
+    porque temer lo peor
+    es condición de discretos.
+    Ven conmigo, que he de hacer
+    guerra a Atenas por venganza.
+LAURO:
+    ¿De mujer se ha de temer?
+ORANTEO:
+    Sí, Lauro, que la mudanza
+    halló su centro en mujer.
+[Vanse y salen Teseo desembarcando y Fineo]
+TESEO:
+    Mal las ha tratado el mar.
+FINEO:
+    El mar, ¿a quién trata bien?
+    Pues no sé en el mundo a quien
+    no le haya dado un pesar.
+TESEO:
+    En estas islas tomé
+    puerto porque vean la tierra.
+FINEO:
+    Pues que no tratan de guerra,
+    buen advertimiento fue.
+TESEO:
+    Temeroso en Lesbos entro.
+FINEO:
+    Tierra fue justo tomar
+    parece jüez el mar,
+    que hace echar lo que está dentro.
+TESEO:
+    Haz cuenta que tú lo eres,
+    y que confesar me haces.
+FINEO:
+    ¿Qué tenemos?
+TESEO:
+    Pocas paces.
+FINEO:
+    ¿Por qué?
+TESEO:
+    Porque hay dos mujeres.
+FINEO:
+    Dos hombres y una mujer
+    suélese ver, pero asombre
+    ver dos mujeres y un hombre,
+    porque no se suele ver.
+TESEO:
+    Casados, enamorados,
+    ¿no sirven a dos mujeres?
+FINEO:
+    Sí, pero son sus placeres
+    de bolsa y de gusto aguados.
+TESEO:
+    Una habemos de dejar.
+FINEO:
+    ¿Dónde?
+TESEO:
+    En estas islas.
+FINEO:
+    ¡Bueno!
+TESEO:
+    Bueno o malo, yo estoy lleno
+    de amor, y no hay replicar.
+FINEO:
+    ¿Qué importa tener amor
+    para hacer como quien eres?
+    Que desamparar mujeres
+    no es de hombres de tu valor,
+    y Fedra no ha merecido
+    que la dejes.
+TESEO:
+    Necio estás,
+    pues entendiendo no vas
+    que me ha quitado el sentido.
+FINEO:
+    ¿Fedra?
+TESEO:
+    Fedra, pues.
+FINEO:
+    ¿Qué dices?
+TESEO:
+    Que adoro en Fedra, Fineo,
+    y que de un justo deseo
+    no es bien que te escandalices.
+    En el camino del mar
+    de Fedra me enamoré.
+FINEO:
+    Si justo o si injusto fue,
+    yo no quiero disputar,
+    pero dejar a Arïadna,
+    esa es bajeza, señor,
+    indigna de tu valor
+    y una ingratitud villana;
+    que Arïadna te dio a ti
+    la vida en una ocasión
+    tan notable, y no es razón
+    que se lo pagues así.
+TESEO:
+    ¿Tú me hablas de esa suerte?
+FINEO:
+    Puesto que soy tu crïado,
+    soy un ateniense honrado.
+TESEO:
+    Darete, infame, la muerte.
+FINEO:
+    No me matarás a mí,
+    por monstro en lisonjas feo,
+    mas por honrado Fineo,
+    y que en tu casa nací.
+    Y si huyo tu furor,
+    es así solo en respeto
+    del pan que comí, en efeto,
+    de tu padre y mi señor;
+    y huélgome de quedarme
+    en tan honrada ocasión.
+TESEO:
+    Aguarda.
+FINEO:
+    Tienes pasión
+    y te ha de pesar matarme.
+[Huye Fineo y salen Ariadna y Fedra y dos o tres criados músicos]
+ARIADNA:
+    ¿Qué es esto, mi bien?
+TESEO:
+    Aquí
+    a un isleño preguntaba
+    qué ciudades o qué villas
+    este distrito adornaban,
+    y de razón en razón,
+    me dijo arrogancias tantas,
+    que le quitara la vida
+    a no volver las espaldas.
+ARIADNA:
+    Pues ¿cómo, siendo extranjero,
+    no sabéis vos que acompaña
+    la humildad al peregrino?
+FEDRA:
+    Teseo no se acordaba
+    que nos dejaba en la mar.
+TESEO:
+    Este verde prado esmaltan
+    tantas flores que convidan
+    la vista y alegra el alma.
+    Asentémonos aquí,
+    y al son del agua que baja
+    a dar tan presto tributo
+    al mar de esas peñas altas,
+    cantarán alguna cosa
+    para que duerma Arïadna,
+    pues la trata el mar tan mal.
+ARIADNA:
+    Peor los celos me tratan.
+MÚSICOS:
+    ¿Qué canción le cantaremos?
+ARIADNA:
+    De celos podéis cantarla.
+FEDRA:
+    Celos no cantan, que lloran.
+ARIADNA:
+    A unos lloran y a otros cantan.
+[Sentadas ellas y Teseo, cantan]
+CANCIÓN:
+    Mala noche me han dado celos,
+    tal la tenga quien me los dio,
+    ¡Qué mala noche me han dado
+    tus celos, Fílida mía!
+    ¡Ay, Dios, si llegase el día
+    para ver si me ha engañado!
+    Toda la noche he pasado
+    con mil sueños y desvelos,
+    despertáronme los celos,
+    y el amor se lo mandó,
+    tal la tenga quien me los dio.
+TESEO:
+    ¿Duerme Arïadna?
+FEDRA:
+    Ya duerme.
+TESEO:
+    Pues Fedra, tan adorada
+    de mi alma y de mis ojos,
+    levántate.
+FEDRA:
+    ¿Qué palabras
+    son esas?
+TESEO:
+    Presto verás
+    que amor me debes; levanta.
+    ¡Ea, griegos generosos,
+    a embarcar! ¡Alto a la playa!
+FEDRA:
+    ¿Qué dices?
+TESEO:
+    Que irás en brazos.
+FEDRA:
+    ¡Hermana, hermana, Arïadna!
+[Llévala en brazos y Ariadna despierta]
+ARIADNA:
+    Parece que oí mi nombre
+    y guélgome, porque estaba
+    con mil congojas de un sueño
+    que me traspasaba el alma.
+    Soñaba que un pardo azor
+    una paloma sacaba
+    del nido en que yo dormía,
+    y que del mar por las aguas
+    a la margen de otro puerto
+    se la llevaba en las alas.
+    ¡Ah, mi querido Teseo!
+    ¡Ah, mi señor, mi esperanza,
+    mi esposo! ¿No respondéis?
+    ¿Qué es eso? ¿Nadie me habla?
+    ¿Nadie está conmigo aquí?
+    ¡Ay, que no de balde estaba
+    temeroso el corazón!
+    Él se ha llevado a mi hermana,
+    él me ha dejado dormida,
+    aunque despierta a mis ansias.
+    Desde esta peña veré
+    si la sospecha me engaña.
+    ¡Aquella es la nave! ¡Ay, cielo,
+    que ya por la mar se alarga,
+    todas las velas tendiendo
+    al viento de mi esperanza,
+    aunque no era menester
+    si el de mis suspiros basta!
+    ¡Oh, crüel griego! ¡Oh, traidor!
+    ¡Qué bien, ingrato, me pagas
+    esa vida que me debes!
+    ¡Oh, Fedra, también ingrata!
+    Aunque no puedo creer
+    que eres cómplice en la causa
+    de mi muerte. Si Teseo
+    te lleva por fuerza, hermana,
+    voy a echarle maldiciones,
+    y detiéneme que vayas
+    con él porque no te alcancen
+    las que a traidores alcanzan.
+    Mas plega a Dios que aquel día
+    que desembarque en su patria,
+    le mate el mayor amigo
+    dentro de su misma casa.
+    No sé qué tengo de hacer,
+    cuanto miro me desmaya,
+    cuanto dejo me destruye,
+    cuanto pienso me acobarda.
+[Sale Fineo]
+    Gente viene.
+FINEO:
+    Voces dan.
+    ¿Si habrán salido a la playa
+    Fedra y Arïadna? ¡Ay, cielo!
+    ¡Bella señora Arïadna!
+ARIADNA:
+    ¿Quién me nombra en tal desdicha?
+FINEO:
+    Tú, ¿señora desdichada?
+ARIADNA:
+    Desdichada, pues me deja
+    Teseo y lleva a mi hermana.
+FINEO:
+    Eso me dijo furioso
+    y porque yo procuraba
+    que no hiciese tal bajeza
+    sacó contra mí la espada.
+    Volvile el rostro y es justo
+    aunque volver las espaldas
+    a un traidor es darle el rostro,
+    que en ellas tiene la cara.
+    Ejecutó su deseo:
+    no llores, señora amada,
+    que en fin es madre la tierra,
+    y la mar siempre madrastra.
+    Esta es la isla de Lesbos.
+ARIADNA:
+    ¿De Lesbos?
+FINEO:
+    ¿De qué te espantas?
+ARIADNA:
+    De que es de un hombre a quien fui
+    tan injustamente ingrata,
+    como lo ha sido Teseo
+    con mi amor y mi esperanza.
+FINEO:
+    Tú estás en traje, señora,
+    con que podrás, disfrazada,
+    y a mi lado hallar remedio,
+    con segura confïanza
+    que te ha de ayudar el cielo.
+ARIADNA:
+    Allí se ven unas casas,
+    sobre mal labrados pinos,
+    cubiertas de seca paja.
+FINEO:
+    Sin duda son pescadores
+    de aquí, con sus pobres barcas,
+    se ríen de la fortuna.
+    Dichoso el que en redes pardas
+    pesca dos pequeños peces,
+    y no los que el mundo mandan
+    llenos de cuidados tristes.
+ARIADNA:
+    En estas pobres cabañas
+    pensaremos el remedio,
+    pues a los que no le hallan
+    ayuda la muerte presto.
+    Para quien el dolor basta,
+    sin memoriales decreta,
+    sin ruegos de penas saca,
+    sin medicamentos cura,
+    y sin interés regala.
+FINEO:
+    Muy griego ha sido Teseo.
+ARIADNA:
+    Tienen en el mundo fama
+    de traidores.
+FINEO:
+    Por ventura
+    fuera mayor tu desgracia...
+    ¡Da gracias al alto cielo!
+ARIADNA:
+    Doylas en desdichas tantas,
+    pues deja con honra un cuerpo
+    de donde se lleva el alma.
+
+JORNADA 3
+
+[Salen Oranteo, Lucindo y Lauro]
+ORANTEO:
+    Así sosiego en Lesbos como en Creta.
+LAURO:
+    Nunca quien tiene amor tiene sosiego,
+    pasión que el alma y corazón sujeta
+    a la afición del apetito ciego.
+ORANTEO:
+    La venganza me abrasa y inquïeta.
+    Parte, Lucindo, a Atenas, parte luego,
+    y al bárbaro Teseo desafía,
+    Paris troyano de la prenda mía.
+    Dile que de sus armas ofendido,
+    el príncipe de Lesbos, Oranteo,
+    le reta de traidor y mal nacido,
+    y que serlo de Júpiter no creo;
+    dile que fue cobarde y atrevido,
+    no vencedor del Minotauro feo,
+    sino engañoso Ulises, que importuno,
+    quitó la vida al hijo de Neptuno;
+    y dile que si teme que la guerra
+    puede ser de peligro sospechosa,
+    que no sea en la mía ni en su tierra,
+    sino en el campo de la mar undosa,
+    porque el teatro que estas islas cierra
+    nos servirá de plaza belicosa,
+    donde nos puede dar la de un navío
+    lugar seguro y libre al desafío.
+LUCINDO:
+    Iré a cumplir en todo tu deseo,
+    pero no sé si en la batalla aciertas,
+    porque en Atenas cuentan de Teseo
+    grandes hazañas.
+ORANTEO:
+    Todas son inciertas:
+    la que cuentan con Hércules no creo,
+    ni que rompió las infernales puertas;
+    el ir a Colcos sí, pues ya se sabe,
+    lo de Jasón y la primera nave.
+    En fin se halló en el robo de Medea
+    el vellocino y las manzanas de oro,
+    que en todo lo que es hurtos bien se emplea,
+    como en la prenda que en el alma adoro.
+LUCINDO:
+    En fin, ¿quieres que el mar el campo sea?
+ORANTEO:
+    Pues ¿quién podrá mejor, con el decoro
+    debido, darnos plaza al desafío
+    en la primer cubierta de un navío?
+    En él abordaremos con los nuestros,
+    y subiendo los dos por las escalas
+    haremos solos la batalla diestros,
+    donde no tienen los cobardes alas.
+LUCINDO:
+    Y ¿a quién nombráis para jüeces vuestros?
+ORANTEO:
+    Los dioses de la mar, que de las salas
+    cristalinas saldrán sobre las olas,
+    y desde el cielo las deidades solas.
+    Harán corona al vencedor dichoso
+    de ramos de coral las ninfas bellas,
+    y seré yo, sin duda, que celoso
+    igualo con suspiros las estrellas.
+LUCINDO:
+    Yo parto a obedecerte.
+ORANTEO:
+    Y yo, animoso,
+    Lucindo, espero mi favor en ellas.
+LUCINDO:
+    Los cielos te darán justa victoria.
+[Vase]
+ORANTEO:
+    Y cuando muera yo, ¿qué mayor gloria?
+    Tú, en tanto, Lauro, porque ya me ofende
+    el confuso rumor de las ciudades,
+    gente apercibe, que mi amor pretende
+    vivir entre las mudas soledades.
+    Él quiere que a la caza me encomiende,
+    y que diga a las selvas mis verdades,
+    porque murmuren blandos arroyuelos,
+    y no crïados de mis locos celos.
+LAURO:
+    En fin, ¿quieres vivir en la campaña
+    entreteniendo de Arïadna bella
+    la pena con que amor tu vida engaña?
+ORANTEO:
+    Quiero pasar mi soledad en ella,
+    las fieras seguiré por la montaña,
+    guerra también, pues es imagen della,
+    que a quien se despidió de su alegría,
+    la soledad es dulce compañía.
+[Salen Ariadna de pastorcillo y Diana labradora]
+ARIADNA:
+    ¿Quiéresme dejar, Dïana?
+DIANA:
+    Las duras peñas conquisto,
+    no se debe de haber visto
+    tal fiera en belleza humana.
+    ¿De qué tigres has nacido?
+ARIADNA:
+    Antes si de ellos naciera
+    no huyera de ti, pues fuera
+    a tu rigor parecido.
+DIANA:
+    Bien, Montano, me has pagado
+    el hospedaje, a la fe,
+    cuando perdido te hallé
+    en los olmos de aquel prado.
+    Pluguiera a Dios que la mar
+    te comiera antes que vieras
+    las chozas de estas riberas,
+    pues me veniste a matar.
+    ¿Para qué te echaba aquí
+    si fuera mujer que allá
+    te sepultara, pues ya
+    das en burlarte de mí?
+ARIADNA:
+    Dïana, ¿qué puedo hacer,
+    si yo no sé qué es amor?
+DIANA:
+    Prueba y sabraslo, traidor.
+ARIADNA:
+    ¿Cómo lo puedo saber?
+    Enséñame tú.
+DIANA:
+    No creo
+    que amor se puede enseñar,
+    pero puédese guiar
+    de la esperanza el deseo.
+ARIADNA:
+    ¿Qué es deseo y esperanza?
+DIANA:
+    El deseo es de algún bien,
+    y la esperanza, por quien
+    vive mientras no se alcanza.
+ARIADNA:
+    No sé retóricas yo,
+    háblame en la lengua mía,
+    que esa filomocosía
+    el diabro te la enseñó.
+DIANA:
+    Ahora bien, yo quiero darte
+    una lición de querer,
+    aunque el arte solo es ver
+    y de lo visto agradarte:
+    mírame.
+ARIADNA:
+    Ya te he mirado.
+DIANA:
+    Más, digo.
+ARIADNA:
+    ¿Otra miradura?
+DIANA:
+    Aunque me falte hermosura
+    imagina que te agrado.
+ARIADNA:
+    Ya lo imagino.
+DIANA:
+    ¿Desea
+    gozar tu imaginación?
+ARIADNA:
+    ¿Cómo?
+DIANA:
+    Con la ejecución,
+    que es donde amor se recrea.
+ARIADNA:
+    ¿Qué es ejecución?
+DIANA:
+    ¿Hay cosa
+    más rústica?
+ARIADNA:
+    ¡Soy un necio!
+DIANA:
+    O haces de mí desprecio,
+    como te soy enfadosa,
+    o eres el más ignorante
+    de cuantos hombres nacieron.
+ARIADNA:
+    Así mis padres me hicieron,
+    yo me enmendaré adelante.
+DIANA:
+    Si aguardas como Narciso
+    a enamorarte, mis ojos
+    hacen fuentes mis enojos,
+    que en mí te mires te aviso.
+ARIADNA:
+    También mi enfado te avisa,
+    que en viendo que una mujer
+    llora, de puro placer
+    me estoy cayendo de risa.
+DIANA:
+    Despréciame bien, que a fe
+    que has de llorar algún día.
+[Sale Fineo]
+FINEO:
+    Buena irá la vaquería,
+    bien tu cuidado se ve.
+ARIADNA:
+    ¿Qué quieres, si no me deja
+    Dïana?
+FINEO:
+    ¡Que siempre andáis
+    quejosos! Nunca acabáis
+    este dimuño de queja.
+ARIADNA:
+    Quiere que la quiera yo,
+    y yo no quiero, ni sé.
+FIENO:
+    Ea, que yo la querré.
+    Vete tú.
+ARIADNA:
+    ¿Voyme?
+DIANA:
+    ¡Eso no!
+ARIADNA:
+    Aunque no quieras.
+DIANA:
+    ¡Ah, ingrato!
+[Vase]
+FINEO:
+    Detente, escucha a Fineo.
+DIANA:
+    ¡Que te canse mi deseo!
+FINEO:
+    Oye mis quejas un rato.
+DIANA:
+    ¿Qué quieres?
+FINEO:
+    Que estés aquí,
+    y me escuches mil palabras.
+DIANA:
+    ¿No ves que se van las cabras?
+FINEO:
+    ¿Por dónde van?
+DIANA:
+    Por allí.
+FINEO:
+    Señalas por donde va
+    Montano, mi muerte creo.
+DIANA:
+    Pues no te canses, Fineo,
+    que no he de quererte ya,
+    si no haces que se case
+    conmigo Montano.
+FINEO:
+    ¿Yo?
+DIANA:
+    Tú, pues, que no dirá no
+    si le ruegas.
+FINEO:
+    ¡Que esto pase
+    y no se caiga mi amor
+    de su estado en ese suelo!
+DIANA:
+    Si no, tú enciendes un hielo.
+FINEO:
+    Tú tienes gracioso humor,
+    favor prometes hacerme
+    para después de casada.
+    El corretaje me agrada,
+    pero no quiero atreverme
+    porque sé que no es Montano
+    para casado.
+DIANA:
+    ¿Qué tiene?
+FINEO:
+    Un defeto.
+DIANA:
+    ¡Bueno viene
+    tu amor a engañarme en vano!
+FINEO:
+    ¡Por Júpiter, que no es
+    para mujer, esto es cierto!
+DIANA:
+    Tú, celos has descubierto,
+    y tu celoso interés.
+    Quédate para villano.
+[Vase]
+FINEO:
+    Yo te he dicho la verdad,
+    y el faltarle voluntad
+    es no ser hombre Montano.
+[Sale Ariadna]
+ARIADNA:
+    ¡Y como que no lo soy!
+    ¿Fuese esta necia?
+FINEO:
+    Ya es ida.
+ARIADNA:
+    ¿En qué ha de parar mi vida?
+FINEO:
+    En ese cuidado estoy.
+ARIADNA:
+    ¡Cuántos daños me han venido
+    de haber dejado a Oranteo!
+FINEO:
+    Llevose a Fedra Teseo,
+    pagó tu amor con olvido.
+ARIADNA:
+    ¿No irías a la ciudad
+    a saber en lo que entiende,
+    si otro nuevo amor le enciende,
+    o siente mi soledad?
+    Que los pastores que han ido
+    algunas veces allá,
+    dicen que en la corte está
+    y que ha días que ha venido.
+FINEO:
+    Por servirte yo lo haré,
+    y porque esa inclinación
+    está fundada en razón.
+ARIADNA:
+    Delito de ausencia fue
+    el agravio de Oranteo,
+    bien le pago. Parte allá
+    y mira en qué punto está
+    mi desdicha y su deseo,
+    que todo el pasado amor
+    ha vuelto a resucitar
+    el dejarme en tal lugar
+    aquel villano traidor.
+    Pero fue justo castigo
+    que me dejase Teseo,
+    pues olvidando a Oranteo,
+    hice al amor mi enemigo
+    y a las deidades del cielo,
+    cuantas han sabido amar.
+FINEO:
+    Yo voy a ver si hay lugar
+    en tu amor a su desvelo.
+    Fía, señora, de mí,
+    que te sirvo con lealtad.
+ARIADNA:
+    Conozco tu voluntad.
+FINEO:
+    Para servirte nací.
+[Vase Fineo]
+ARIADNA:
+    Arrepentido amor de haber querido
+    bastardo amor contra el amor primero,
+    volvió a querer, que el fuego verdadero
+    estaba en las entrañas escondido.
+    Bien dicen que el ausencia causa olvido,
+    culpa le pongo y disculparme quiero,
+    pero probar que no es olvido espero,
+    amor que vuelve a ser como habia sido.
+    Mientras que en la memoria el fuego asista,
+    no importa que le falte la presencia
+    para que del olvido se resista.
+    Cubriole la ceniza del ausencia,
+    pero como sopló la dulce vista
+    volvió la llama a su primera esencia.
+[Salen Oranteo, Lauro y cazadores]
+LAURO:
+    No hay que seguirle, al agua va derecho.
+ORANTEO:
+    Pues muera en ella como yo, abrasado,
+    Lauro, en el agua de mis tristes ojos.
+LAURO:
+    ¿No divierten los campos tus enojos?
+CAZADOR:
+    Atravesado de la dura flecha,
+    fue a dar veneno a la primera fuente.
+ORANTEO:
+    ¡Ay de aquel preso que con alma siente!
+CAZADOR:
+    Si le quieres seguir, cerca está el río.
+ORANTEO:
+    Mis ojos le hacen, si no es mar, el mío.
+LAURO:
+    Si quieres descansar, aquí parece
+    un pastorcillo.
+ARIADNA:
+    Gente de la corte
+    para consuelo de mi mal se ofrece.
+ORANTEO:
+    Hola, pastor dichoso, que los campos
+    vives con libertad que no has perdido,
+    pues lo que no habrás visto de hermosura,
+    tendrá de amor la voluntad segura.
+    ¿Habrá por este bosque en qué descanse
+    un cazador de fieras, que una fiera
+    le trae en soledad adonde muera?
+ARIADNA:
+    (¡Válgame Apolo! ¿Qué ilusión es esta,
+    que a los ojos me pone Amor?)
+ORANTEO:
+    ¿No hablas?
+ARIADNA:
+    Estaba embebecido en vuestro rostro,
+    y tan enquillotrado en vuestras galas,
+    como por estos montes no las vemos,
+    que apenas acertaba a responderos.
+    Chozas pobres y humildes hacen sombra
+    al valle que miráis, y él las rodea
+    de arroyos mansos y de frescos árboles.
+    Si queréis descansar, no hay blancos mármoles,
+    molduras de oro y cristalinos vidros;
+    paredes negras hay, camas de paja,
+    techos de troncos y fajina dura,
+    donde es la brevedad la arquitectura.
+ORANTEO:
+    (Lauro, yo estoy sin mí, pues he llegado
+    a imaginar que este pastor parece
+    en todo a la bellísima Arïadna.
+LAURO:
+    No te engaña el amor, porque en mi vida
+    vi cosa más estraña y parecida.
+    Solo la tez, que el sol aquí los cura,
+    diferencia en entrambos la hermosura.)
+ORANTEO:
+    Pastor, ¿sabes quién soy?
+ARIADNA:
+    Algo sospecho.
+ORANTEO:
+    ¿Quieres venir conmigo?
+ARIADNA:
+    No dejara
+    la simple vida de los campos verdes
+    por las mentiras de la corte vuestra
+    si me hiciérades príncipe de Lesbos.
+ORANTEO:
+    Pues, ¿no es mejor vivir con tal regalo?
+ARIADNA:
+    Donde hay tantas pensiones, todo es malo,
+    mejor se alcanza aquí del árbol mismo
+    la fruta sazonada, que del plato;
+    mejor se bebe con la mano propia,
+    que en el cristal de la dorada taza;
+    aquí, sin los dineros, una plaza
+    común a todos dio naturaleza.
+ORANTEO:
+    El ingenio igualó con la belleza.
+    Yo voy a descansar; tú, en tanto, Lauro,
+    haz que toda esa gente se recoja,
+    y cree que por este pastorcillo
+    habitaré estos valles hasta tanto
+    que de Atenas Lucindo traiga nuevas.
+ARIADNA:
+    ¿Qué tenéis en Atenas?
+ORANTEO:
+    Una ingrata,
+    que mientras más me olvida más me mata.
+[Vase]
+ARIADNA:
+    ¡Cielos, vuestra gran piadad
+    conozco, alabo y bendigo,
+    pues mereciendo castigo
+    me dais premio y libertad!
+    Este es mi amado Oranteo,
+    a quien yo tan mal pagué,
+    que sé está en la misma fe
+    de su pasado deseo.
+    Mucho despierta la mía
+    el ver tanta obligación,
+    volved, volved, corazón
+    a la que el alma tenía.
+    ¿Cómo le hablaré? ¿Qué haré?
+    Temor tengo; los pastores
+    vienen; dejadme, temores,
+    pues hay en agravios fe.
+[Salen Diana, Doriclea, villanas, y Fabio, Florelo y Liseno, vaqueros]
+FABIO:
+    Todo se ha de concertar
+    para el día de la fiesta.
+LISENO:
+    Traiga Florelo las flores,
+    corte laurel de las selvas,
+    que yo haré un rico teatro
+    adonde asentarse pueda
+    el mismo Rey.
+FLORELO:
+    ¿Qué hay, Montano?
+ARIADNA:
+    Mientras andan las ovejas
+    rumiando tiernos cogollos
+    con que trasquilan la tierra,
+    me estoy haciendo canciones.
+DIANA:
+    ¿No serán de amor?
+ARIADNA:
+    Pudieran.
+DIANA:
+    Sí, pero no le tendrás
+    en tu vida a quien le debas.
+ARIADNA:
+    ¿Sábeslo tú?
+DIANA:
+    Yo lo sé.
+ARIADNA:
+    Si fui ingrato, ya me pesa.
+    ¿Habéis visto a mueso Rey
+    recién venido de Creta?
+DORICLEA:
+    ¿Dónde?
+ARIADNA:
+    No lejos de aquí
+    que anda cazando las fieras.
+DIANA:
+    Guarda no te cace a ti.
+ARIADNA:
+    ¿Soy yo fiera?
+LISENO:
+    De hablar deja
+    de las cosas de los reyes,
+    pues sabes que nuestra fiesta
+    es cada año por abril:
+    hacer un rey y una reina.
+ARIADNA:
+    Pues ¿a qué efeto le hacéis?
+FABIO:
+    A que mande y le obedezcan
+    los pastores de este monte.
+ARIADNA:
+    ¡Venturoso el que lo sea!
+FLORELO:
+    Pues no pienses que es costumbre
+    en estas montañas nueva,
+    que no menos que una diosa
+    elije el rey y le aprueba.
+ARIADNA:
+    ¿Diosa?
+FLORELO:
+    Detrás de este monte
+    adonde sus plantas besa
+    con boca de plata un río
+    que trueca por flores perlas,
+    hay un templo muy antiguo,
+    que casi no tiene puertas,
+    donde está una bella imagen
+    de la famosa Minerva.
+    A esta vamos los pastores,
+    y coronados de hiedra
+    le pedimos que señale
+    quién serán los reyes; y ella
+    lo dice al besarle el pie,
+    porque pone en la cabeza
+    de los que han de ser la mano.
+ARIADNA:
+    A la fe que he ir a verla
+    por ver si me escoge a mí.
+LISENO:
+    ¡Ojalá que tú lo seas!
+FABIO:
+    Vamos a cortar laureles.
+FLORELO:
+    Vamos, Dïana.
+DIANA:
+    Si llegas
+    a ser rey, ¿qué has de mandarme?
+ARIADNA:
+    No más de que me aborrezcas.
+[Quedan solas Doriclea y Ariadna]
+DORICLEA:
+    Oye una palabra aparte.
+ARIADNA:
+    ¿Qué me quieres, Doriclea?
+DORICLEA:
+    Sábete que yo deseo
+    con todo estremo ser reina,
+    y como son las mujeres
+    sutiles cuando desean,
+    yo he pensado cierta industria.
+ARIADNA:
+    Industria, ¿de qué manera?
+DORICLEA:
+    La diosa visten cada año,
+    y aqueste me la encomiendan.
+    Pondrete yo sus vestidos,
+    y estarás en lugar de ella,
+    que tu hermosura, Montano,
+    es mayor que su belleza,
+    y así podrás escogerme
+    para que yo reina sea.
+ARIADNA:
+    Pues, ¿yo tengo de vestirme
+    como mujer?
+DORICLEA:
+    ¿Qué perdieras
+    en hacerme a mí este gusto?
+ARIADNA:
+    Pues, ¿cómo quieres que tenga
+    para estar hecha de mármol,
+    y sobre el altar, paciencia?
+DORICLEA:
+    Allí se está poco tiempo.
+ARIADNA:
+    Cuando a ser diosa me atreva,
+    ¿no ves que han de conocerme?
+DORICLEA:
+    Es imposible que puedan,
+    porque de ramas y flores
+    estarás casi cubierta.
+ARIADNA:
+    Ahora bien, yo quiero ser
+    diosa porque no me tengas
+    por cobarde.
+DORICLEA:
+    No hay peligro
+    que es gente de aquesta sierra
+    más rústica que sus pinos.
+ARIADNA:
+    Razón es que te obedezca,
+    porque con gusto quien ama
+    nada que le piden niega.
+DORICLEA:
+    Pues, ¿amas tú?
+ARIADNA:
+    ¿No soy hombre?
+DORICLEA:
+    Dïana de eso se queja.
+ARIADNA:
+    Donde no quiero se entiende
+    que sí quiero.
+DORICLEA:
+    Un poco espera,
+    ¡quiéreme a mí!
+ARIADNA:
+    Ya no puedo
+    pues me haces diosa Minerva.
+DORICLEA:
+    ¿Qué importa, pues eres hombre,
+    que seas mujer por defuera?
+ARIADNA:
+    Bien dices, pero, en efeto,
+    los dioses y diosas bellas
+    no será bien que queramos
+    las personas de la tierra.
+[Vanse y salen Teseo y Albante]
+TESEO:
+    Esto di por respuesta.
+ALBANTE:
+    Es muy conforme a tu valor divino.
+TESEO:
+    Albante, al punto apresta,
+    como por el dorado vellocino,
+    una famosa nave,
+    que ya Neptuno mis hazañas sabe.
+    A mí me desafía
+    el príncipe de Lesbos, Oranteo,
+    su tierra ni la mía
+    le parecen seguras; no lo creo,
+    porque en la propia suya
+    pretendo yo que mi valor se arguya.
+ALBANTE:
+    ¿La mar quieres que sea
+    teatro de este campo de batalla?
+TESEO:
+    Su muerte vil desea.
+    ¿Adónde está la fama que le calla,
+    mis hechos, mis despojos,
+    que ocupaban sus lenguas y sus ojos?
+    ¿Duerme acaso la historia?
+    ¿En qué estarán las plumas ocupadas,
+    que a la eterna memoria
+    no viven con mi nombre consagradas?
+    ¿Y las estatuas de oro
+    con el vencido monstro semitoro?
+    Pon mis armas a punto,
+    sosiega el mar, Neptuno; dame viento,
+    Eolo, porque junto
+    a la margen del húmido elemento,
+    con este brazo airado
+    manche de sangre su cristal salado.
+[Sale Fedra y deténgale]
+FEDRA:
+    ¿Qué es esto, señor mío?
+    Tened el paso, ¿dónde vais?
+TESEO:
+    Señora,
+    a un loco desafío,
+    por una hermana que un villano adora.
+    El príncipe Oranteo
+    quiere probar sus armas con Teseo.
+    No hay para qué encubriros,
+    siendo tal la ocasión, esta jornada.
+FEDRA:
+    Lágrimas y suspiros
+    la harán con vos de un alma enamorada,
+    o muerta, por ventura,
+    vuestra nave será mi sepultura.
+    ¿Por un mozo arrogante
+    dejáis, mi bien, vuestra querida esposa?
+TESEO:
+    Mi Fedra, no os espante,
+    siendo como es la causa tan honrosa,
+    que no es bien que se alabe
+    de hablar soberbio, pues obrar no sabe.
+    ¿Hércules, qué dijera?
+    ¿Qué dijera Jasón y otros tebanos
+    si en Grecia se supiera
+    que no deshice entre mis fuertes manos
+    este cobarde mozo,
+    que ayer apenas le apuntaba el bozo?
+FEDRA:
+    Dirán, dulce bien mío,
+    que os detuvo la rémora de Fedra
+    el ir al desafío,
+    porque os tengo abrazado como hiedra,
+    que un olmo está sin brazos
+    cuando le prenden amorosos lazos.
+    Hércules ocupaba
+    el estrado de Íole, reina bella,
+    donde dicen que hilaba
+    como si fuera tímida doncella,
+    luego si amar sabía,
+    verá que esto es amor, no cobardía.
+    Jasón dejó la guerra
+    más de una vez, y el mismo airado Marte
+    amó y bajó a la tierra,
+    las armas de diamante puso aparte,
+    y el niño Amor, desnudo,
+    jugó con la celada y el escudo.
+    Asido en red de acero
+    de los dioses, al cónclave Vulcano
+    mostró su aspecto fiero,
+    y se burlaron de su fuerte mano,
+    si bien los más honestos
+    quisieran verse en tales redes puestos.
+    Hazañas tenéis hechas
+    que pueden disculpar esta jornada
+    de cobardes sospechas.
+    Ya se sabe quién sois, colgad la espada,
+    que nunca sus colmillos
+    mostró el león a tiernos corderillos.
+TESEO:
+    Fedra, dejar no puedo
+    el ir a Lesbos, pero haré una cosa
+    en que a lo justo excedo,
+    que es llevarte conmigo, dulce esposa,
+    y ofrecer los despojos
+    de aquel mancebo a tus hermosos ojos.
+    ¿Agrádate el partido?
+    ¿Querrás volver al mar?
+FEDRA:
+    Contigo, esposo,
+    el agua del olvido
+    contenta pasaré, y el arenoso
+    campo que el sol entibia
+    de Arabia estéril y abrasada Libia.
+    No quiero yo más gloria
+    que acompañarte y verte.
+TESEO:
+    Ven conmigo
+    cierta de la vitoria,
+    si merece este nombre el dar castigo.
+FEDRA:
+    Agora sí que muestras
+    que rige un corazón las almas nuestras.
+[Vanse y salen los pastores al templo coronados con la música y mucho regocijo.]
+[Baile]
+[Pastores]:
+    Hicieron a Venus maya,
+    diosa interesable siempre,
+    los pastores de la isla
+    donde más imperio tiene,
+    como los meses de mayo
+    eran sus mejores meses,
+    ya porque está verde todo,
+    ya porque la diosa es verde.
+    Belisa y la bella Antandra
+    pedían con una fuente,
+    y a la gente que pasaba
+    esto cantaban alegres:
+    Den para la maya,
+    que es hermosa y galana.
+    Pasó Riselo y les dio
+    un doblón para alfileres,
+    y Fabio para chapines,
+    que pies celebraba siempre.
+    Pasó Bato y no dio nada,
+    y las pastoras, de verle
+    tan cobarde en el dativo,
+    le cantaron de esta suerte:
+    Pase, pase, el pelado,
+    que no lleva blanca ni cornado.
+    Pasó Amor, y aunque desnudo,
+    llevaba al cuello pendiente
+    un carcaj de flechas de oro,
+    con plumas blancas y verdes:
+    Dad para la maya
+    el caballero,
+    que más vale honra
+    que no el dinero.
+    Amor, entre las pastoras
+    flechas de oro repartía;
+    pensaban que era moneda,
+    y a puñados las cogían.
+    Quedaron enamoradas,
+    y Venus muerta de risa
+    de ver cómo le cantaban,
+    y a propósito decían:
+    Iba a coger la miel la colmenera,
+    y picole una abeja porque no vuelva.
+LISENO:
+    Bien se ha cantado y bailado.
+FLORELO:
+    Famosamente, a la fe.
+FABIO:
+    ¡Qué buena la burla fue!
+FINEO:
+    Si está siempre Amor pelado,
+    ¿por qué en aquella canción
+    no se le daba la vaya?
+DIANA:
+    Por no afrentar a la maya.
+FINEO:
+    Que es su madre y no es razón.
+    Esto de «pase el pelado»,
+    al Amor le viene bien,
+    que siempre lo está por quien
+    le da posada y cuidado.
+[Sale Lauro y Oranteo]
+ORANTEO:
+    Para ver el pastorcillo
+    vengo al templo.
+LAURO:
+    Bien has hecho,
+    pues que así descansa el pecho.
+ORANTEO:
+    Más, Lauro, me maravillo
+    mientras que le miro más.
+LAURO:
+    Y yo, mientras más le trato,
+    más me parece retrato
+    de la que adorando estás.
+ORANTEO:
+    Ponte aquí porque veamos
+    lo que estos quieren hacer.
+LAURO:
+    Querrán al templo ofrecer
+    esas guirnaldas y ramos.
+ORANTEO:
+    No veo a Montano aquí.
+    Si se quedó en el aldea,
+    ya no es posible que sea,
+    Lauro, fiesta para mí.
+DIANA:
+    ¡Descubrid la imagen bella!
+LISENO:
+    ¡Sepamos quién ha de ser
+    rey!
+DORICLEA:
+    Ahora habéis de ver
+    mi curiosidad en ella.
+[Corran una cortina y esté en su altar Ariadna, con venablo y celada, suelto el cabello]
+LISENO:
+    ¡A la fe, que está famosa!
+FABIO:
+    ¡Yo nunca la he visto tal!
+ORANTEO:
+    ¿Hay cosa más natural,
+    Lauro, a mi bien que esta diosa?
+LAURO:
+    Como estás apasionado,
+    cuanto miras se te antoja
+    que es ella.
+ORANTEO:
+    Mucho me enoja
+    tu descuido en mi cuidado.
+    Mírala bien, que parece
+    su mismo hermoso traslado.
+LAURO:
+    Digo que es tan imitado
+    que el mismo retrato ofrece,
+    como el cristal del espejo
+    el rostro del que se mira.
+ORANTEO:
+    ¿Esto es verdad o mentira?
+LAURO:
+    Escucha aparte un consejo.
+FLORELO:
+    Soberana diosa, ¿a quién
+    eliges de estos pastores?
+LISENO:
+    Así más dicha en amores
+    que a Paris tus armas den,
+    que sea yo rey por ti.
+FABIO:
+    Llegad todos las cabezas.
+DIANA:
+    Tan recio vas que tropiezas.
+[Pone la mano sobre la cabeza de Fineo y de Doriclea]
+FINEO:
+    ¡A mí señaló!
+DORICLEA:
+    ¡Y a mí!
+FINEO:
+    ¡Ea, yo soy rey!
+DORICLEA:
+    ¡Y yo
+    soy reina!
+FINEO:
+    Mando...
+FABIO:
+    ¿Qué mandas?
+FINEO:
+    Que me llevéis en volandas,
+    digo, en hombros, que a pie no,
+    donde me harte de comer.
+DIANA:
+    ¿Y no mandas otra cosa?
+FINEO:
+    ¡Mandad, reina poderosa,
+    pues que ya sois mi mujer!
+DORICLEA:
+    Mando que de veras sea.
+FINEO:
+    Mando que no pueda ser
+    tan de veras hasta ver
+    si es melón o si es badea.
+LISENO:
+    Mandad cosas buenas.
+FINEO:
+    Mando
+    que callen todos los necios,
+    y que les den tantos precios
+    cuantos ganaren callando.
+FABIO:
+    Eso es pedir imposibles.
+FINEO:
+    Mando que la envidia deje
+    a la virtud y aconseje
+    bien, y no infamias terribles.
+    Mando que mujer ninguna
+    pueda dinero pedir.
+DORICLEA:
+    Pues, ¿con qué la han de servir?
+FINEO:
+    ¡Reina, no seáis importuna,
+    que os quebraré la cabeza!
+DORICLEA:
+    ¡Ay! ¿A la reina?
+FINEO:
+    ¡Y al diablo,
+    si me atraviesa un vocablo
+    cuando estoy en mi grandeza!
+    Mando al fin que pierdan todos
+    cuantos jugaren conmigo;
+    mando que ningún amigo
+    tenga lisonjeros modos;
+    mando que ninguno esté
+    confïado en que es discreto;
+    mando que tenga un soneto
+    treinta versos.
+FABIO:
+    Pues, ¿por qué?
+FINEO:
+    Porque a poetas de agora
+    les dan cámaras de versos,
+    mas para tiempos diversos
+    dejemos, reina y señora,
+    estas mandas y aranceles.
+    Vamos, y dadme la mano.
+DORICLEA:
+    ¡Cantad!
+DIANA:
+    ¿Dónde está Montano?
+FINEO:
+    ¿Huelo a Rey?
+DORICLEA:
+    A novio hueles.
+[Vanse y quedan Lauro y Oranteo]
+ORANTEO:
+    Bien dices, que no habrá cosa
+    más discreta que roballa.
+LAURO:
+    Es fácil cosa llevalla
+    a tu palacio esta diosa,
+    y en ella contemplarás
+    a Arïadna.
+ORANTEO:
+    Ten de ahí.
+ARIADNA:
+    Hombres, ¿qué es esto?
+ORANTEO:
+    ¡Habló!
+LAURO:
+    ¡Sí!
+ORANTEO:
+    Diosa, si ofendida estás,
+    perdona, que el parecerte
+    tanto a una belleza humana
+    me dio ocasión.
+LAURO:
+    ¡Soberana
+    diosa, que fue amor advierte!
+ARIADNA:
+    La que buscas, Oranteo,
+    en estas islas está,
+    y muy presto se verá
+    que aquí la dejó Teseo
+    de celos de su mujer.
+ORANTEO:
+    (Cierra, Lauro, la cortina,
+    porque la diosa divina
+    bien lo debe de saber.
+    Aquí me dijo que está
+    Ariadna.
+LAURO:
+    ¡Qué gran bien!)
+ORANTEO:
+    Su mirra y ámbar te den
+    Pancaya, Arabia y Sabá.
+    Maten en tus sacras aras
+    bueyes, cabras y corderos,
+    y hasta los toros más fieros,
+    si en su fiereza reparas.
+[Salga Lucindo]
+LUCINDO:
+    ¿Está aquí el Príncipe?
+ORANTEO:
+    Aquí
+    me tienes, Lucindo amigo.
+LUCINDO:
+    Todo el palacio testigo,
+    señor, la embajada di
+    al arrogante Teseo,
+    y en la presencia de Albante.
+ORANTEO:
+    Y ¿qué dijo el arrogante?
+LUCINDO:
+    «¿Es posible que Oranteo
+    tiene tal atrevimiento?
+    Di que me voy a embarcar
+    porque quiero castigar
+    su atrevido pensamiento.
+    Que no en el campo del mar,
+    sino en su corte entraré
+    y le mataré y le haré...»
+ORANTEO:
+    No te alargues en hablar,
+    sino solo ven conmigo,
+    que esperándole en la playa
+    haré que su gente vaya
+    con las nuevas del castigo.
+LAURO:
+    Ausencia es siempre atrevida.
+ORANTEO:
+    Yo haré que sepa Teseo
+    que hay valor en Oranteo
+    para quitarle la vida.
+[Salen rey Minos, Feniso y gente]
+MINOS:
+    Como es en tierra de amigo,
+    bien podemos tomar tierra.
+FINEO:
+    Un capitán envié
+    a que tu venida sepa.
+MINOS:
+    ¿Qué es esto del desafío
+    que nos han dicho que intenta
+    Oranteo con Teseo?
+FENISO:
+    Que el mozo arrogante piensa
+    probar con él en el campo
+    del mar la encantada fuerza;
+    que por robarle a Ariadna,
+    solo por hacerle afrenta,
+    a desafiar le envía,
+    y ya le aguarda a que venga.
+MINOS:
+    Es muy gallardo Oranteo.
+FINEO:
+    Sí, pero el duque de Atenas
+    es de los hombres notables
+    que tiene en las armas Grecia.
+    Túvole por compañero
+    Hércules, y por Medea
+    a Colcos fue con Jasón.
+MINOS:
+    A muchos valientes ciega
+    la arrogancia, y los humildes
+    humillaron su soberbia.
+[Salen Oranteo, Lauro y gente]
+ORANTEO:
+    ¿En mis islas el rey Minos?
+MINOS:
+    ¡Oh, valerosa defensa
+    de mi honor!
+ORANTEO:
+    ¿Cómo, señor,
+    sin avisarme?
+MINOS:
+    La fiera
+    furia del mar, caminando
+    con mis soldados a Atenas,
+    me arroja en brazos del viento,
+    y él me puso en tus riberas.
+ORANTEO:
+    Como quiera que haya sido,
+    al viento, al mar, lo agradezcan
+    mis islas, pues hoy las honras.
+[Toquen]
+MINOS:
+    ¡Hola! ¿Qué cajas son estas?
+FINEO:
+    Huyendo algunos pastores
+    desamparan sus aldeas.
+FABIO:
+    Huye por aquí, Liseo.
+DORICLEA:
+    Dïana, no te detengas,
+    que hay soldados en la playa.
+DIANA:
+    Temblando voy, Doriclea.
+MINOS:
+    ¿Qué es esto, amigos pastores?
+FINEO:
+    Señor, que dicen que llega
+    a destruir estas islas,
+    furioso, el duque de Atenas.
+MINOS:
+    Luego, ¿ya desembarcó?
+FINEO:
+    Con alguna soldadesca
+    de la que trae más lucida.
+MINOS:
+    ¿Qué haremos?
+ORANTEO:
+    Ver cómo quiebra
+    el concierto de la mar,
+    mas solo no se atreviera.
+[Salen Teseo, Albante, Fedra y gente]
+TESEO:
+    Yo quiero hablarle en persona.
+ALBANTE:
+    Gente hay aquí.
+ORANTEO:
+    ¿Cómo entras
+    por mi tierra de esa suerte?
+TESEO:
+    Huélgome que aquí te ofrezcas,
+    porque sepas que Teseo
+    no ha temido humanas fuerzas,
+    que a las divinas, no más,
+    quieren los dioses que tema.
+    Aquí en la mar, en la corte,
+    con las armas que tú quieras
+    te daré a entender que he sido
+    solo robador de Fedra,
+    como de propia mujer.
+ORANTEO:
+    Bien sé que Arïadna bella
+    dejaste en aquestas islas,
+    y como tú no la tengas,
+    cesa la ocasión de hacer
+    contigo batalla o guerra.
+MINOS:
+    Si cesare de tu parte,
+    no pienses, traidor, que cesa
+    de la mía. Yo soy Minos,
+    a quien con tanta cautela
+    robaste sus bellas hijas.
+FINEO:
+    ¿Quién diablos trajo de Creta
+    este rey Minos o menos?
+TESEO:
+    Pues, ¿qué es lo que ahora intentas,
+    si con Fedra estoy casado,
+    y traigo conmigo a Fedra?
+FEDRA:
+    Rey y señor, aquí estoy.
+MINOS:
+    Hija, aunque el alma se alegra
+    de veros, sin vuestra hermana
+    es razón que me entristezca.
+    ¡Por los dioses que ha de darme
+    Teseo a Arïadna bella,
+    o que con aquesta armada
+    que tiene más de cien velas,
+    he de echar la suya a fondo!
+ORANTEO:
+    Y yo ayudarte a que sea
+    despreciada su arrogancia.
+FINEO:
+    (Yo quiero impedir la guerra.
+    ¿Conócesme, invicto Duque?
+TESEO:
+    ¿Quién eres?
+FINEO:
+    ¿Ya no te acuerdas
+    de Fineo?
+TESEO:
+    ¡Oh, mi Fineo!
+FINEO:
+    Yo he vivido en estas selvas
+    desde que aquí me dejaste.
+TESEO:
+    ¿Qué hay de Arïadna?
+FINEO:
+    Que es muerta.
+TESEO:
+    ¿Muerta?
+FINEO:
+    Sí, mas un pastor
+    que aquí guarda veinte ovejas,
+    le parece por estremo.
+    Yo le traeré. Di que es ella
+    y en saliendo del peligro
+    te burlarás, cuando vuelvas
+    al mar, de este rey Cominos,
+    pariente de alcaravea.
+TESEO:
+    Ve volando, que la industria
+    notablemente en empresas
+    graves, usamos los griegos.
+FINEO:
+    Aguarda, que voy por ella.)
+[Vase]
+TESEO:
+    Rey Minos, y tú, Oranteo,
+    no porque temor os tenga
+    me allano a dar a Arïadna,
+    mas porque en aquestas sierras
+    transformada en pastorcillo
+    ha estado, alegre y contenta
+    de escaparse de Feniso.
+FENISO:
+    De mí, ¿por qué?
+TESEO:
+    Porque sepas
+    que la mujer, si aborrece,
+    cualquier desatino intenta.
+MINOS:
+    Venga Arïadna, aunque esté
+    en la forma que ella quiera,
+    como me la des con vida.
+[Sale Fineo y Ariadna]
+FINEO:
+    Hermosa, Arïadna, llega.
+ARIADNA:
+    Que no soy yo, ¿no lo ven?
+MINOS:
+    ¡Viven los dioses! ¡Qué es ella!
+ORANTEO:
+    Que no es señor, que es un mozo
+    que aquí guarda las ovejas
+    de este Fineo, a quien yo
+    mil veces vi en esta selva.
+FEDRA:
+    ¡Cómo no! ¡Dame los brazos!
+ARIADNA:
+    Suplícole se detenga,
+    mire que está aquí mi amo.
+TESEO:
+    Fineo, ¿qué burla es esta?
+    ¡Por Marte, que es Arïadna!
+FINEO:
+    Pues ya es tiempo que se sepa,
+    daos las manos de amistad.
+ORANTEO:
+    Luego, ¿es ella?
+FINEO:
+    Y yo, ¿quién era?
+    Fineo, el mayor amigo
+    de Teseo.
+DIANA:
+    ¡Ay, Doriclea!
+    ¡Que es mujer Montano!
+ORANTEO:
+    ¡Cielos!
+    Hoy haré que en gloria vuestra
+    celebre Lesbos mi historia.
+MINOS:
+    Hija, de verte me pesa
+    en tanto mal, pero hallarte,
+    notablemente me alegra.
+    Dale la mano a Oranteo
+    y en paz haremos las fiestas.
+FINEO:
+    Denme a Doriclea a mí.
+DORICLEA:
+    Tu esclava soy.
+TESEO:
+    Aquí cesa
+    la enemistad.
+ORANTEO:
+    Y da fin
+    El laberinto de Creta.

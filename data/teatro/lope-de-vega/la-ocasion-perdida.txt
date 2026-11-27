@@ -1,0 +1,4538 @@
+# La ocasión perdida
+Autor: Lope de Vega
+
+JORNADA 1
+
+[Sale la Princesa de Bretaña, vestida algo corto, de caza, en brazos de dos caballeros, haciendo ruido dentro, y voces]
+DENTRO:
+    ¡Poned delante las espadas!
+OTRO:
+    ¡Tente,
+    indómito caballo!
+OTRO:
+    Cosa estraña,
+    apenas el feroz bocado siente
+    que más que espuma argenta, sangre baña.
+OTRO:
+    Ataje entre esos árboles la gente.
+OTRO:
+    Cayó la gran princesa de Bretaña.
+ROSAURA:
+    ¡Ay triste!
+ARNALDO:
+    Aquí, señores.
+LEONICIO:
+    Ya, ¿qué importa?
+    Entrambos pies le desjarreta y corta.
+[Sacan a la princesa en brazos]
+ARNALDO:
+    ¡Oh, maldito caballo!
+LEONICIO:
+    ¡Oh, gran tragedia!
+FELICIANO:
+    ¡Desdichado suceso!
+ARNALDO:
+    ¡Fiero caso!
+LEONICIO:
+    Habladla.
+FELICIANO:
+    ¿De que sirve?
+ARNALDO:
+    ¿Qué remedia?
+[Sale Pinabelo]
+PINABELO:
+    Pasó el caballo el peligroso paso.
+FELICIANO:
+    ¿Matástele?
+PINABELO:
+    Bien creo que la media
+    lanza le atravesé, que a ser Pegaso
+    no se me fuera por correr con alas.
+ARNALDO:
+    Mi pensamiento a la venganza igualas.
+    ¿Sentís, bella Rosaura?
+ROSAURA:
+    Estoy sin vida.
+    Echadme un poco en esa hierba.
+ARNALDO:
+    Echadla.
+ROSAURA:
+    Dejadme descansar.
+ARNALDO:
+    Nadie la impida.
+FELICIANO:
+    Cubridla.
+ROSAURA:
+    Apartaos todos.
+ARNALDO:
+    Pues dejadla,
+    que a fatiga y dolor está rendida.
+[Desvíanse]
+PINABELO:
+    Pasó con la cerviz la fuerte espalda
+    y, entre las crines tremolando el asta,
+    quiso correr. Probó,...
+ARNALDO:
+    ¡Soberbia casta!
+PINABELO:
+    ...pero a seis pasos quebrantó las tiernas
+    flores del prado con el cuerpo altivo,
+    debilitadas las nervosas piernas,
+    y el hierro apareció por el estribo.
+LEONICIO:
+    Ya parece imposible que diciernas
+    adonde hice el golpe ejecutivo,
+    porque desde el codón hasta el copete
+    en polvo y sangre se revuelca y mete.
+ARNALDO:
+    ¡Oh soberbio animal, plubiera el cielo
+    que nunca la gran madre te engendrara,
+    ni heno diera el lusitanio suelo
+    ni en competencia con mi invidia entrara!
+    ¡Nunca pudo imitar del aire el vuelo
+    ni el desnudo númida te domara!
+    ¡Ah, nunca dieras obediencia al freno
+    ni imitaran tus pies de Jove el trueno!
+    ¡Nunca sufrieras la gallarda silla
+    del bridón alemán a cuya mano
+    ni pie feroz ni libertad se humilla,
+    ni la vara al saltar napolitano!
+    ¡Nunca midieras la arenosa orilla
+    con el jinete bélico africano
+    del Gibraltar, para que al verte dieras
+    invidia a las naciones estranjeras!
+LEONICIO:
+    La Princesa parece que descansa.
+FELICIANO:
+    Descanse, pues el sueño la ha vencido.
+PINABELO:
+    Clara señal que el acidente amansa.
+ARNALDO:
+    Que la dejemos este rato os pido.
+LEONICIO:
+    Allí convida aquella fuente mansa
+    al apacible son de su ruido
+    con los cristales que en las peñas cuelga.
+FELICIANO:
+    Por llegar a estas flores se descuelga.
+ARNALDO:
+    Sentémonos allí mientras que llama;
+    tú la gente recoge, Pinabelo.
+PINABELO:
+    Siguiendo fueron la ligera gama
+    por quien nuestra Princesa mide el suelo.
+ARNALDO:
+    No falta causa a quien la caza infama.
+LEONICIO:
+    ¿Qué ejercicio más noble tiene el suelo?
+FELICIANO:
+    Cuando sirve de bien, gran bien encierra.
+ARNALDO:
+    Bástale ser imagen de la guerra.
+[Entra don Juan de Haro, con tres caballeros españoles, y de camino]
+DON JUAN:
+    Aquí podréis descansar,
+    que es insufrible la siesta.
+HONORIO:
+    Convida el fresco lugar.
+2º:
+    Agradable fuente es ésta.
+3º:
+    Siempre lo fue el murmurar.
+1º:
+    Bien dices, que murmurando
+    con acento dulce y blando
+    busca su primero dueño.
+DON JUAN:
+    Aunque no respondo al sueño,
+    yo sé que me está llamando.
+2º:
+    Duerme un poco, por tu vida,
+    que has madrugado y es corta
+    la jornada, y la comida
+    fue larga.
+DON JUAN:
+    Pienso que importa
+    que sueño y descanso impida
+    hasta besarle la mano
+    a Rosaura.
+2º:
+    Hasta la corte
+    hay dos leguas.
+DON JUAN:
+    ¿Monte o llano?
+2º:
+    ¿Qué puede haber que te importe
+    en llegar tarde o temprano?
+    Demás que se ha de leer
+    la carta del Rey aquí
+    de lo que habemos de hacer.
+DON JUAN:
+    La instrucción que me dio a mí
+    primero tengo de ver.
+[Saca un papel y léele]
+    Esto dice la instrucción;
+    y si dos leguas estamos
+    de la corte, aquí es razón
+    que vuestra carta leamos.
+1º:
+    Tomad.
+DON JUAN:
+    Casamientos son.
+1º:
+    Así lo tengo pensado,
+    que el Rey te habrá enviado
+    por embajador.
+2º:
+    Yo leo.
+DON JUAN:
+    Lee, que saber deseo
+    si en esto vengo engañado.
+2º:
+    Ya rompo el sello real.
+    ¡Caso extraño y desigual
+    de nuestra imaginación!
+DON JUAN:
+    ¿Cómo?
+2º:
+    No hay más de un ringlón,
+    y es del Rey.
+DON JUAN:
+    Temo algún mal.
+[Lea Segundo]
+    «Matad a don Jüan de Haro.»
+DON JUAN:
+    ¿Qué dices?
+2º:
+    Lo que has oído.
+DON JUAN:
+    Caballeros...
+3º:
+    No hay reparo.
+[Meten mano todos]
+2º:
+    ¡Sea el Rey obedecido!
+DON JUAN:
+    Que he de defenderme es claro.
+    La defensa es natural,
+    y aunque esa es firma real,
+    no le debéis obediencia,
+    porque es traición a inocencia,
+    y yo le he sido leal.
+2º:
+    Que te defiendas o no,
+    hoy has de morir, don Juan.
+DON JUAN:
+    Que el rey mi muerte escribió,
+    celos forzado le han
+    que no deservirle yo.
+    Mirad que sois castellanos,
+    y que ensangrentar las manos
+    en mi lealtad, es traición
+    que infama nuestra nación.
+1º:
+    Deja advertimientos vanos;
+    encomiéndate a quien puede
+    darte otra vida.
+[Levántase la Princesa]
+ROSAURA:
+    ¡Ay de mí!
+    ¿Qué es aquesto?
+DON JUAN:
+    Si él concede
+    vida a mi inocencia, aquí
+    con ésta es justo que quede.
+[Toma la Princesa un venablo que está allí]
+ROSAURA:
+    Oh, villanos extranjeros,
+    ¿sois salteadores?
+3º:
+    ¿No ves
+    tres caballeros?
+ROSAURA:
+    ¡Oh, fieros!:
+    no fuérades uno a tres
+    si fuérades caballeros.
+    ¡Aquí, favor! ¡Gente, hola!
+    ¿En la nación española
+    tan gran traición ha cabido?
+[Entra Arnaldo]
+ARNALDO:
+    ¿Qué es esto?
+ROSAURA:
+    Seas bien venido,
+    aunque yo bastaba sola.
+2º:
+    ¡Huyamos!
+ROSAURA:
+    Eso os conviene.
+HONORIO:
+    ¡Qué gran padrino en el cielo
+    siempre la inocencia tiene!
+ROSAURA:
+    Síguelos, Arnaldo.
+ARNALDO:
+    Harélo.
+3º:
+    Tal defensa de allá viene.
+[Va tras ellos Arnaldo]
+DON JUAN:
+    Si merezco que me des,
+    señora, a besar tus pies,
+    mi humildad y obligación
+    dicen que es justa razón.
+ROSAURA:
+    ¿Quién eres?
+DON JUAN:
+    Quien tuyo es.
+ROSAURA:
+    Dime de espacio, extranjero,
+    tu calidad, patria y nombre.
+DON JUAN:
+    Sabré la tuya primero
+    para que después te asombre
+    lo que referirte espero.
+ROSAURA:
+    La princesa de Bretaña
+    soy.
+DON JUAN:
+    El alma nunca se engaña,
+    que es sol que pasa cristal.
+    Oiga tu alteza real
+    a un caballero de España.
+    Vizcaya me dio principio
+    de su generosa sangre
+    en lo mejor y más noble
+    de sus antiguos solares.
+    Pidióme el rey de León,
+    siendo muchacho, a mis padres.
+    Fui de la Reina menino
+    y fui del Príncipe paje.
+    Criéme con él, creciendo
+    con la edad las amistades,
+    que la crianza en los hombres
+    es quien mayores las hace.
+    Desde las espadas negras
+    hasta que, en años iguales,
+    blancas las ceñimos juntos,
+    para mi desdicha, un martes;
+    que ese día de unos ojos,
+    por cuyo oriente el sol sale,
+    fui mirado atentamente
+    no porque yo los mirase.
+    Que sabe Dios que no di,
+    o que si miento él me falte,
+    más ocasión que mis galas,
+    con mas brío que buen talle.
+    La bella infanta Armesinda,
+    que ya parece que nacen
+    las infantas de León
+    con desdichas semejantes,
+    fue quien digo, y desde entonces,
+    ciega, procura cegarme;
+    que amor, como está desnudo,
+    huye que le mire nadie.
+    No tuve yo atrevimiento
+    para igualar a sus partes;
+    que amor no quiere más honra
+    que vivir con sus iguales.
+    Honestamente me opuse
+    a sus ojos celestiales
+    para que no se perdiesen
+    por alto mis humildades.
+    Agradecí sus favores
+    como a quien le dan que guarde
+    alguna cosa preciada,
+    que no es bien que la maltrate
+    para que cuando Armesinda
+    con su dueño se casase
+    mis favores le pudiese
+    volver tan buenos y tales.
+    Bordé cifras de su nombre
+    en diversidad de trajes,
+    en medallas y cadenas,
+    con el blanco y rojo esmalte.
+    Saqué en fiestas sus colores,
+    cintas, bandas y plumajes;
+    que prendas sin posesión
+    todas se las lleva el aire.
+    Mas como envidia y amor
+    tan mal se encubran y callen,
+    mi amor descubrió la envidia
+    y yo a la envidia mis males:
+    heredó el Príncipe el reino,
+    dijéronle que quitase
+    la ocasión de un mal suceso,
+    contándole ejemplos grandes.
+    Amábame el Rey entonces,
+    y para no desgustarme
+    envióme a la frontera
+    de Navarra contra Tarfe.
+    Conocí los envidiosos,
+    y en pajizos tafetanes
+    entre dos manos asidas
+    puse por la envidia un áspid.
+    Tomé licencia y partí
+    de la ciudad una tarde,
+    llevando mil bendiciones
+    y mil suspiros de un ángel.
+    Apenas dió por su esfera
+    vuelta el sol del Pez al Aries,
+    cuando por León entré
+    con un vitorioso alarde.
+    Dobló su amor Armesinda
+    obligada de mirarme
+    o como a Scipión en Roma
+    o como en Grecia Alejandre;
+    dobló la envidia sus fuerzas,
+    y las personas más graves
+    le aconsejaron al Rey
+    que me prendiese o matase.
+    Él, por no perder honor
+    en pública muerte o cárcel,
+    aparte me llama un día
+    y, alegre, me dice aparte
+    que quiere tomar estado
+    y está dispuesto a casarse;
+    que es gran desdicha en los reyes
+    que la sucesión les falte.
+    Que parta luego a Bretaña,
+    y para que me acompañen
+    me dio aquellos tres que viste
+    traidores y principales.
+    No me dio licencia el Rey
+    para que luego le hablase,
+    mas una carta a los tres
+    que abriesen dos leguas antes
+    que llegasen a tu corte,
+    porque luego ejecutasen
+    lo que hallasen por su firma.
+ROSAURA:
+    ¿Y qué escribió?
+DON JUAN:
+    Que me maten.
+    Obedecieron al Rey,
+    siendo a la traición leales,
+    hasta que tú, gran señora,
+    con tu venablo llegaste,
+    porque te deba la vida
+    y porque es justo que guarde
+    un ángel a un inocente.
+    Mi historia es ésta.
+ROSAURA:
+    Es notable.
+[Entra Arnaldo con Hernandillo, lacayo gracioso de don Juan, atado]
+ARNALDO:
+    Huyeron de manera aquellos hombres
+    que se me han escondido entre los árboles,
+    que no ha sido posible dar con ellos;
+    pero saliendo hasta el real camino
+    este traidor hallé que traigo atado,
+    porque pienso que es dellos.
+ROSAURA:
+    Bien has hecho.
+DON JUAN:
+    ¡Hernandillo!
+HERNANDILLO:
+    Señor de mis entrañas,
+    dame esos pies y para que te abrace
+    manda que me desaten estas manos.
+DON JUAN:
+    Dé licencia señora Vuestra Alteza,
+    que Hernando es mi criado y es honrado.
+ROSAURA:
+    Arnaldo, desatadle.
+ARNALDO:
+    Y yo le fío,
+    que es como un césar.
+DON JUAN:
+    Es de la Montaña:
+    criéle yo en mi casa desde niño.
+HERNANDILLO:
+    No me atara las manos Aristóteles
+    con todo su poder, a no decirme
+    «ríndete a la princesa de Bretaña. »
+    Rendíme porque vienes a decirla
+    que venga a ser nuestra ama, si ella quiere;
+    que si no, por el hijo de mi madre,
+    que apretara la espada en estos puños
+    como cuando la carta san Alejo.
+DON JUAN:
+    Mira que estás delante de su Alteza.
+HERNANDILLO:
+    ¡Oh seráfica reina, oh reina intrínseca,
+    perdona este lacayo inadvertido
+    y dale a Hernando, aunque se juzga indigno,
+    para besar tus mantecosas manos,
+    que yo las volveré luego que toquen
+    esta boca obligada a tu alabanza!
+ROSAURA:
+    Estimo tu donaire.
+HERNANDILLO:
+    Favor súbito;
+    digo que tal palabra, y de tal reina,
+    mi blasón ha de ser de aquí adelante,
+    y así en el campo rojo de tu boca
+    de hoy más serán mis armas tus donaires.
+DON JUAN:
+    No puedo, aunque delante de su Alteza,
+    dejar, Arnaldo noble, de abrazaros;
+    déboos la vida, y si jurar es lícito,
+    por la de la Princesa mi señora
+    juro de ser hasta la muerte vuestro;
+    ayudaros en todo caso de armas,
+    ser enemigo de quien vos lo fuéredes
+    y de los vuestros solamente amigo.
+ARNALDO:
+    Decidme vuestro nombre.
+DON JUAN:
+    Don Juan de Haro
+    noble español, que basta vizcaíno.
+ARNALDO:
+    Don Juan, vuestra persona y vuestra pena
+    me han obligado a amaros y a serviros;
+    y así, os suplico que acetéis mi casa
+    el tiempo que viváis en nuestra corte,
+    donde sabré de espacio este suceso
+    y os serviré cuanto mi amor me pide,
+    y en fe desta verdad vuelvo a abrazaros.
+ROSAURA:
+    Id Arnaldo juntando nuestra gente;
+    dad orden que parta y dadle luego
+    a don Juan un caballo de los míos.
+DON JUAN:
+    Beso tus pies.
+HERNANDILLO:
+    Señor, ¿qué ha sido esto?
+DON JUAN:
+    Presto sabrás, Hernando, mis desdichas;
+    matarme manda el Rey y lo ejecutan
+    mis deudos.
+HERNANDILLO:
+    ¡Ah traidores!
+DON JUAN:
+    Ya lo hicieran
+    si Rosaura y Arnaldo no vinieran.
+[Vanse y queda Rosaura sola]
+ROSAURA:
+    Mucho parece este español sirena,
+    pues hablando me mueve los sentidos,
+    cuya agradable voz a mis oídos
+    con dulce y regalado acento suena.
+    Así tiene a sus quejas Filomena
+    los árboles y el viento suspendidos,
+    y están los ojos del pastor dormidos,
+    que de Mercurio al agua el curso enfrena.
+    Guardarme debo, amor, de tus enojos
+    y, pues tan cerca el enemigo veo,
+    seré griega huyendo y venciendo palma.
+    No sea este español para mis ojos
+    sirena, ruiseñor, Mercurio, Orfeo,
+    que un dulce hablar es piedra imán del alma.
+[Vase, y salen los tres caballeros que vinieron con don Juan]
+HONORIO:
+    En fin, ¿fue Rosaura aquélla?
+2º:
+    Sí, que de cazar cansada,
+    tenía el sueño eclipsada
+    de sus ojos la luz bella,
+    que es mujer tan varonil
+    que nunca del monte sale
+    siguiendo al ciervo, aunque iguale
+    su curso al viento sutil,
+    o con el caballo fuerte
+    hiriendo al fiero animal
+    por quien Venus celestial
+    llora de Adonis la muerte.
+3º:
+    Tal nueva se tiene allá
+    de su famoso valor.
+HONORIO:
+    Del Rey fue notable error
+    querer castigarle acá.
+2º:
+    No fue si saliera bien
+    su empresa y nuestro cuidado.
+3º:
+    Su ventura le ha guardado.
+HONORIO:
+    Y su inociencia también.
+3º:
+    Yo engañado vine aquí,
+    nunca tal imaginé;
+    que a saberlo allá, no sé
+    si el Rey me obligara así.
+    Creí que estaba trazado
+    de Rosaura el casamiento.
+2º:
+    Que todos perdamos siento
+    un amigo tan honrado,
+    tan noble, tan valeroso,
+    tan amado, tan bienquisto.
+3º:
+    ¡Oh, envidia, y cómo se ha visto
+    tu proceder cauteloso!
+    Impides bienes ajenos,
+    siempre humillas levantados,
+    disfamas muchos honrados
+    y eclipsas cielos serenos;
+    alteras los quietos mares,
+    inquietas buenas conciencias,
+    sacrificas inocencias
+    en tus sangrientos altares.
+    Siempre a lo mejor te atreves,
+    deshaces honestas famas,
+    seguros hechos infamas,
+    sangre de tu sangre bebes.
+    No hay traición que no encamines,
+    no hay deslealtad que no esfuerces,
+    reyes ciegas, cetros tuerces,
+    mil nobles haces Caínes.
+    Nuestro deudo era don Juan,
+    mas pues vive y se ha servido
+    al Rey, más ventura ha sido,
+    pues hoy entrambos lo están,
+    el Rey con la ejecución
+    y don Juan con tal hazaña.
+2º:
+    Volvamos, Honorio, a España
+    y sepa el Rey la ocasión
+    de haber quedado con vida.
+3º:
+    El cielo vuelve por él.
+2º:
+    Clamó la sangre de Abel
+    antes que fuese vertida.
+[Vanse, y entra Feliciano, y Doriclea, dama de la Princesa]
+DORICLEA:
+    ¿Venís bueno?
+FELICIANO:
+    A tu servicio.
+DORICLEA:
+    ¿Dónde queda la Princesa?
+FELICIANO:
+    Cerca.
+DORICLEA:
+    ¿Cómo?
+FELICIANO:
+    Porque hoy cesa
+    de la caza el ejercicio.
+DORICLEA:
+    ¿Hay alguna novedad?
+FELICIANO:
+    De un español un suceso
+    que trajo a este monte espeso
+    la envidia y la deslealtad:
+    quisiéronle dar la muerte
+    sus amigos y restaura
+    su noble vida Rosaura
+    varonil, piadosa y fuerte,
+    y admitiéndole a su amparo
+    consigo le trae.
+DORICLEA:
+    ¿Es hombre
+    de valor?
+FELICIANO:
+    ¿Pues no?
+DORICLEA:
+    ¿Qué nombre?
+FELICIANO:
+    Dijo que don Jüan de Haro.
+    Esto es lo que pasa allá;
+    dame tú cuenta de ti.
+DORICLEA:
+    ¿Qué cuenta dará de sí
+    quien tan rematada está?
+    Es la cuenta que he de darte
+    que cuentan mis pensamientos
+    de tu ausencia los momentos,
+    que amor los momentos parte.
+    Y que del primer recibo
+    tanto después he pagado,
+    que si no estás obligado
+    en notable engaño vivo.
+FELICIANO:
+    Pienso, mi bien, que te pago
+    puesto que siempre te debo,
+    pero oblígasme de nuevo
+    a las locuras que hago.
+    De mi primera pasión
+    fue la causa tu hermosura;
+    pero mi mayor locura
+    nació de tu obligación.
+    Un pájaro me retrato,
+    preso en tu amor, y así pruebo
+    que fue tu hermosura el cebo
+    y mi prisión tu buen trato.
+    Fueron tus ojos la liga,
+    la jaula tu acogimiento,
+    donde preso estoy contento
+    y amor a cantar me obliga.
+    Así los amantes son,
+    ya contentos con sus grillos,
+    retratos de pajarillos
+    que cantan en la prisión.
+DORICLEA:
+    Si como sabes decir
+    sabes sentir, Feliciano,
+    serás mi pájaro en mano
+    y yo quien te puedo asir.
+    No hayas miedo que te deje
+    por las águilas más altas,
+    si no es que a quien eres faltas,
+    para que de ti me queje.
+    Y porque sepas mi celo
+    y cuánto en mi pecho cabe,
+    sabe que Rosaura sabe
+    nuestro amor.
+FELICIANO:
+    ¡Válgame el cielo!
+    ¿Háselo dicho?
+DORICLEA:
+    Es mi dueño;
+    preguntóme la razón
+    de mi desvelo a ocasión
+    que me vio falta de sueño:
+    no se lo pude encubrir.
+FELICIANO:
+    ¿Sábelo todo?
+DORICLEA:
+    Es mujer:
+    todo lo quiso saber.
+FELICIANO:
+    Y tú, mujer en decir.
+    ¿Qué dirá?
+DORICLEA:
+    No dirá nada.
+    Y yo la vi tan curiosa
+    que casi estuve celosa
+    de una pregunta escusada.
+    No le dio el caso disgusto;
+    antes anduvo tan clara,
+    que me dijo que ella amara
+    si hallara igual a su gusto.
+    Y que como pretendía
+    tener marido a contento,
+    dilataba el casamiento
+    que su reino le pedía.
+FELICIANO:
+    Que nos cause daño espero.
+DORICLEA:
+    Calla, que quiere mirar
+    ya que no puede jugar,
+    como tahúr sin dinero.
+    Yo pienso en casos terribles
+    valerme de su favor,
+    porque sólo enoja amor
+    a inorantes y a insensibles.
+FELICIANO:
+    Quiera el cielo, Doriclea,
+    que todo suceda así.
+DORICLEA:
+    ¿Si viene?
+FELICIANO:
+    Pienso que sí,
+    que grande gente se apea.
+[Entra Leonicio, Pinabelo, Arnaldo, don Juan, Hernandillo, y otra gente, y la Princesa detrás. Llega Doriclea a besarle las manos, y arrímanse todos al lienzo del vestuario, descubiertos]
+DORICLEA:
+    Venga tu Alteza con bien,
+    señora mía.
+ROSAURA:
+    ¡Oh, amiga!
+DORICLEA:
+    ¿Traes salud?
+ROSAURA:
+    Eso te diga
+    mi rostro airado.
+DORICLEA:
+    ¿Con quién?
+ROSAURA:
+    Conmigo.
+DORICLEA:
+    ¿No vienes buena,
+    pues que contigo estás mal?
+ROSAURA:
+    Poco menos que mortal
+    traigo en el alma una pena.
+DORICLEA:
+    Descanse tu Alteza un poco.
+ROSAURA:
+    Ya no pienso descansar.
+DORICLEA:
+    ¿Cómo?
+ROSAURA:
+    Quiérenme matar.
+DORICLEA:
+    ¿Quién?
+ROSAURA:
+    Un pensamiento loco.
+DORICLEA:
+    Siendo tuyo, ¿cómo en él
+    pudo caber tal locura,
+    si no es querer tu hermosura
+    hurtar la fama a Luzbel?
+ROSAURA:
+    Cuando hablaba el otro día
+    en las cosas, Doriclea,
+    de tu amor...
+DORICLEA:
+    Cosa que sea,
+    señora, la culpa mía.
+ROSAURA:
+    Como es peste, y me tocaba
+    tu anhélito con los ojos...
+    A quien más de sus enojos,
+    que es el alma, libre estaba
+    ha tocado de tal suerte
+    que en una blanda herida
+    hizo una treta a mi vida
+    con que la puso a la muerte.
+    No sé yo quién el ser niega
+    amor, Doriclea hermosa,
+    enfermedad contagiosa,
+    pues de visitar se pega.
+    Nunca me hablaras en él,
+    pues tan mal agüero ha sido
+    que lo menos que he perdido
+    es toda el alma por él.
+DORICLEA:
+    ¿Adónde, cómo o por quién
+    así dices tanto mal?
+    ¿Dónde halló tu Alteza igual?
+    ¿Cómo y a quién quieres bien?
+    ¿No salió libre de aquí?
+    ¿No fue a un monte y a una sierra
+    adonde sólo se encierra
+    el oso y el jabalí?
+    La aspereza de las piedras,
+    ¿la ha podido enternecer?
+ROSAURA:
+    ¿Y entre ellas no pudo haber
+    algunos olmos y yedras?
+    Vuelve al descuido los ojos
+    a los que en la sala están,
+    y luego entre ellos verán
+    la causa de mis enojos,
+    porque es valor sin igual;
+    y, por tu vida, que sea
+    con discreción, Doriclea:
+    no des a entender mi mal.
+    Vuelve poco a poco y velos,
+    no te detenga el volver
+    que te morirás de ver
+    y me matarás de celos.
+DORICLEA:
+    Entre los que allí se ven
+    el conde Arnaldo es persona
+    que tu pensamiento abona;
+    ¿él es a quien quieres bien?
+ROSAURA:
+    Gracia tienes.
+DORICLEA:
+    No te enfades,
+    que el Conde tiene valor
+    para merecer tu amor.
+ROSAURA:
+    Más quiere amor humildades.
+DORICLEA:
+    ¿Es Leonicio por ventura?
+ROSAURA:
+    Ciega estás.
+DORICLEA:
+    Mándasme ver
+    al descuido.
+ROSAURA:
+    ¿Puede ser
+    que se esconda luz tan pura?
+DORICLEA:
+    Allí queda Pinabelo,
+    pues no será Feliciano
+    siendo ya caso tan llano
+    que por su amor me desvelo.
+ROSAURA:
+    ¿No hay un forastero allí?
+    ¿No dice allí un español
+    a voces: «Yo soy el sol
+    que abrasé un alma que vi? »
+    ¡Cómo estás ciega! ¿En qué dudas?
+    ¿Qué reparas? ¿Qué porfías?
+    O negabas lo que vías,
+    o mi pensamiento arrudas,
+    o miras al español
+    con los ojos deslumbrados,
+    o viendo tantos nublados
+    se te ha escondido mi sol.
+DORICLEA:
+    Buena presencia.
+ROSAURA:
+    ¿Qué es buena?
+DORICLEA:
+    Perdida estás.
+ROSAURA:
+    No lo niego;
+    fui mariposa en su fuego,
+    prendíme en su luz serena.
+    Más daño tengo que ves,
+    más dolor que significo.
+DORICLEA:
+    Ya, señora, no replico;
+    que, cuerda o que loca estés,
+    sólo obedecerte quiero.
+    Mas ¿cómo quieres querer
+    un sol que se ha de poner,
+    siendo en tu cielo extranjero?
+ROSAURA:
+    Su Rey le mandó matar
+    por celos que tuvo dél,
+    de cuya muerte crüel
+    le pude entonces librar,
+    que fue una crüeldad sin ley;
+    y así es fuerza que aquí viva
+    y que mi amparo reciba
+    contra el poder de su Rey.
+    Pues habiendo de vivir
+    en mi tierra, algún remedio
+    me dará amor.
+DORICLEA:
+    Sólo el medio
+    de ser Tántalo en morir,
+    que este hombre es desigual
+    de quien eres, y es ser loca
+    morir el agua a la boca
+    y ver corriendo el cristal.
+ROSAURA:
+    Ya he pensado entretener
+    mi pena con un engaño
+    que a mi honor encubre el daño
+    que de amar puedo tener,
+    y es que...
+DORICLEA:
+    ¿De qué te suspendes?
+ROSAURA:
+    Has de jurar, Doriclea,
+    que cuando tu alma sea
+    ese tu amor que pretendes
+    no le has de decir jamás
+    lo que te quiero decir.
+DORICLEA:
+    De callar hasta morir
+    juro tu vida, que es más.
+    Fuera de que, ¿quién osara
+    perder tu gracia, señora?
+ROSAURA:
+    Pues oye mi intento agora,
+    verás una invención rara.
+    Tú has de fingirte perdida
+    por don Juan, que éste es su nombre.
+DORICLEA:
+    ¿Cómo, si soy de otro hombre
+    para mujer pretendida?
+ROSAURA:
+    ¿Y no sabe una mujer
+    engañar a un tiempo a dos?
+    No te enfades que, por Dios,
+    que lo has de hacer y ha de ser.
+DORICLEA:
+    Mujer habrá que a dos quiera,
+    supuesto que al uno engañe;
+    mas no quieras tú que estrañe
+    lo que siendo baja hiciera.
+ROSAURA:
+    No, que lo haces por mí
+    y es a cuenta de mi honor.
+DORICLEA:
+    ¿No diré a quien tengo amor
+    que me lo has mandado así?
+ROSAURA:
+    Quitaréte yo la vida
+    cuando sepa que lo has hecho.
+DORICLEA:
+    Señora, rompe este pecho
+    de quien has de ser servida:
+    verás el alma obligada
+    no sólo a tenerte amor,
+    pero a guardar a tu honor
+    la justa lealtad jurada.
+    Piérdase mi loco gusto
+    y aventure su remedio,
+    porque estando de por medio
+    el tuyo, sólo ése es justo.
+    Digo que me fingiré
+    enamorada deste hombre.
+ROSAURA:
+    Don Juan, Doriclea, es su nombre.
+DORICLEA:
+    Digo que a don Juan querré,
+    que le hablaré tiernamente,
+    que estaré siempre celosa,
+    blanda, alegre, temerosa
+    y firme, ausente y presente.
+    Que daré cien mil suspiros,
+    que fingiré mil desmayos,
+    los ojos que fueron rayos
+    haré blancos de sus tiros.
+    Que le daré mil favores
+    desde la mano al cabello,
+    que traeré su banda al cuello
+    y que él traerá mis colores.
+    Que le enviaré mil papeles
+    por un renglón que me escriba,
+    firmándome su cautiva
+    por ver sus ojos crüeles.
+    Que andará un paje tras él
+    que me cuente si pasea,
+    a quién habla, a quién desea
+    o quién estuvo con él,
+    y que, al fin, deshecha en llanto...
+ROSAURA:
+    Paso deja esas quimeras,
+    que bien quiero que le quieras
+    mas no que le quieras tanto.
+    Esto ha de ser fingimiento.
+DORICLEA:
+    ¿Pues todo ha de ser fingido?
+ROSAURA:
+    Escríbele que hoy ha sido
+    dueño de tu pensamiento,
+    que estás dél enamorada
+    desde que en palacio entró;
+    que te hable esta noche, y yo
+    sola estaré disfrazada
+    adonde le pueda hablar
+    pensando que habla contigo;
+    mas dile que si hay testigo
+    deste amor le han de matar.
+    Él, con el cebo y engaño
+    de que eres tú, vendrá a verte,
+    y con temor de su muerte
+    pondrá la vista en el daño.
+DORICLEA:
+    ¿Gozarásle?
+ROSAURA:
+    ¿Eso preguntas,
+    necia, sabiendo quién soy?
+DORICLEA:
+    Nunca yo segura estoy
+    de dos personas muy juntas;
+    grande amor, luego tropieza.
+ROSAURA:
+    Mi amor quiero entretener;
+    mujer soy, hablo a mujer,
+    tú sabes nuestra flaqueza.
+    Ven conmigo, escribirás,
+    y yo te diré el papel;
+    al pasar pondrás en él
+    los ojos. Mírale más.
+    Haz reverencia, detente;
+    mira otra vez desde aquí.
+DORICLEA:
+    ¿Dices así?
+ROSAURA:
+    Bien, así.
+DORICLEA:
+    Ya él te mira tiernamente.
+ROSAURA:
+    Cuando yo vuelva la espalda
+    torna a volver y mirar.
+DORICLEA:
+    Daré mucho que notar.
+[Ellos van haciendo sus reverencias, y ellas pasando]
+DON JUAN:
+    ¡Bella dama!
+ARNALDO:
+    Pues miradla
+    con ojos de que es famoso
+    su entendimiento en Bretaña.
+DON JUAN:
+    No he visto, Conde, en España
+    rostro más bello y hermoso;
+    tiene un no sé qué atractivo.
+ARNALDO:
+    Estos señores se van.
+LEONICIO:
+    Vos quedáis, señor don Juan,
+    ya con el Conde.
+DON JUAN:
+    Recibo
+    merced de su señoría.
+    Soy su huésped.
+FELICIANO:
+    Y envidiado
+    de todos.
+DON JUAN:
+    Muy obligado
+    quedo a vuestra cortesía.
+PINABELO:
+    Después os queremos ver.
+DON JUAN:
+    Cuando fuéredes servidos.
+[Vanse, y queda don Juan, Arnaldo y Hernandillo]
+ARNALDO:
+    Algo han andado atrevidos
+    los ojos desta mujer.
+DON JUAN:
+    ¿En ella volvéis a hablar?
+ARNALDO:
+    Hablo por si gusto os doy.
+DON JUAN:
+    Algo, por fe de quien soy,
+    me queréis, Conde, sacar.
+    Mirad que los vizcaínos
+    somos cortos. Si son celos,
+    decidme vuestros desvelos
+    por mas fáciles caminos,
+    que si mientras la Princesa
+    con ella en secreto habló,
+    que era hermosa os dije yo
+    de lo dicho no me pesa,
+    que no porque yo la alabe
+    mi gusto os puede ofender.
+ARNALDO:
+    En efeto, ¿esta mujer
+    os agrada?
+DON JUAN:
+    Es bella, es grave...
+ARNALDO:
+    Más, en fin, os apasiona
+    que la princesa.
+DON JUAN:
+    Eso es
+    más claro que el día.
+ARNALDO:
+    Tus pies
+    me da, don Juan, y perdona
+    que a más el gusto me obliga
+    de que la princesa sea
+    para con tu gusto fea.
+    ¿Qué quieres más que te diga?
+    Amo, pretendo, es tan alta
+    como sabes la ocasión;
+    temí este rey de León,
+    que sólo este león me falta
+    por vencer de mis contrarios.
+    Aspiro a este reino y quiero
+    a esta mujer, por quien muero
+    entre pensamientos varios,
+    que se inclina a tu valor,
+    o mis celos me engañaron,
+    que siempre celos gustaron
+    de ser los duendes de amor.
+    Allí dan una palmada,
+    allí asoman, allí están,
+    y así los celos, don Juan,
+    dan golpes y todo es nada.
+    Si te agrada Doriclea,
+    que así esta dama se llama,
+    sea en Bretaña esta dama
+    la que tu gusto desea.
+    Yo no temo en esta tierra
+    bravos galanes hermosos;
+    no están mis ojos celosos
+    de su paz ni de su guerra.
+    No temo de ningún modo,
+    compitiendo, al mismo sol;
+    sólo temo a un español,
+    que tienen el alma en todo.
+    Si van a pie, está en los pies
+    el alma; si alzan la mano,
+    allí hay alma; si el lozano
+    cuerpo mueven, alma es.
+    Si hablan, alma es el brío;
+    si miran, alma es los ojos;
+    alma tienen sus enojos
+    en el mayor desvarío.
+    Cuando el caballo obedece
+    al freno, en que ellos van,
+    llevan alma, que le dan;
+    que todo un cuerpo parece.
+    Alma le dan a la espada
+    si la ejercitan y juegan;
+    cual Midas, a cuanto llegan;
+    es oro el alma dorada.
+    Pues si su donaire aspira
+    brío y gusto, y almas llueven,
+    ¿qué milagro que se lleven
+    el alma de quien los mira?
+DON JUAN:
+    Atento al discurso tuyo,
+    conde Arnaldo, estoy contento
+    de que esté mi pensamiento
+    tanta distancia del tuyo.
+    Y así, palabra te doy
+    de que si vengo a querer,
+    sólo será a la mujer
+    que has visto en mis ojos hoy.
+    Que se me ha entrado por ellos
+    si es que te digo verdad,
+    y lleva mi voluntad
+    forzada, y de los cabellos.
+ARNALDO:
+    Tomo esa palabra honrada.
+DON JUAN:
+    La mano te doy.
+ARNALDO:
+    Yo quiero
+    ser deste tu amor tercero.
+HERNANDILLO:
+    ¿Hemos de ir a esta posada
+    o hemos de andar sin comer
+    todo el día, hechos gigantes?
+DON JUAN:
+    ¿Aquí estás?
+HERNANDILLO:
+    Cuando te espantes
+    bien tienes por qué lo hacer.
+    Y en justa razón lo fundo;
+    que un hombre que no ha comido
+    desde ayer, milagro ha sido
+    que no esté en el otro mundo.
+DON JUAN:
+    Oye, Hernando, por tu vida,
+    no entiendan esas razones
+    estos señores bretones.
+HERNANDILLO:
+    ¡Bretones, linda comida!
+    Ya, señor, no te importuno,
+    que luego mis tripas vieron
+    que como bretones fueron,
+    fue cuaresma y día de ayuno.
+    Si es que has de ser Lanzarote
+    cuando de Bretaña vino,
+    hazme, por Dios, tu rocino,
+    pues siempre me traes al trote.
+    Y envíame alguna dueña
+    que cuide tambien de mí.
+DON JUAN:
+    ¿No callas?
+HERNANDILLO:
+    Habla por mí
+    la hambre.
+[En lo alto, la princesa y Doriclea]
+ROSAURA:
+    Hazle una seña.
+DORICLEA:
+    Está el conde allí.
+ROSAURA:
+    Eso temo,
+    pero ves allí un crïado
+    que ya está dél apartado
+    y es agudo por estremo.
+    Llámale.
+DORICLEA:
+    Medrosa estoy.
+    ¡Ah, paje!
+HERNANDILLO:
+    ¿Llaman?
+DORICLEA:
+    Sí.
+HERNANDILLO:
+    ¿A quién?
+DORICLEA:
+    A vos.
+HERNANDILLO:
+    No soy paje.
+ROSAURA:
+    Bien.
+DORICLEA:
+    ¿Qué sois?
+HERNANDILLO:
+    Punto menos soy.
+DORICLEA:
+    ¿Quién?
+HERNANDILLO:
+    Un gentilhombre al trote,
+    sin otras gracias que callo,
+    de la boca del caballo
+    de mi señor Lanzarote.
+    Si hay por allá un panecillo
+    o algo que desvanecer,
+    merced me pueden hacer.
+    Sí, por vida de Hernandillo,
+    que desde ayer no sabemos
+    si las tripas se han mudado
+    a otra casa.
+DORICLEA:
+    Buen crïado.
+HERNANDILLO:
+    Muy buena vida traemos,
+    como historia de pastores,
+    que en todo un libro jamás
+    duermen, ni comen, ni hay más
+    que hablar de celos y amores.
+ROSAURA:
+    ¿Tan pobre es este señor?
+HERNANDILLO:
+    En su tierra es hombre honrado
+    mas trajéronle engañado
+    a ser vuestro embajador,
+    y lleváronse el dinero;
+    y como éste es vizcaíno
+    que se morirá adivino
+    por no decir esto quiero...
+ROSAURA:
+    Vete esas joyas quitando,
+    que ya a quitarme comienzo
+    las mías, y en este lienzo
+    las irás, amiga, atando,
+    mientras otra industria doy
+    con que tenga que gastar.
+DORICLEA:
+    Primero le quiero dar
+    el papel. Da a tu señor,
+    Hernando, aqueste papel.
+HERNANDILLO:
+    A ser en esta ocasión
+    libranza en un bodegón,
+    el cielo bajara en él.
+ROSAURA:
+    Ten estas joyas, y di
+    a tu señor que las venda,
+    y adiós.
+DORICLEA:
+    Oyes, nadie entienda
+    esto que ha pasado aquí.
+HERNANDILLO:
+    Transformación espantosa,
+    temerario encantamento,
+    ¿es verdad o es fingimiento?
+    Ce, que digo, dama hermosa,
+    ¿cómo os llamáis?
+DORICLEA:
+    Doriclea.
+HERNANDILLO:
+    Adiós.
+DORICLEA:
+    Adiós.
+[Vanse las dos]
+HERNANDILLO:
+    ¡Ah,señor!
+DON JUAN:
+    ¿Llamas?
+HERNANDILLO:
+    Oiga, que hay amor
+    y de moza que no es fea.
+DON JUAN:
+    ¿Qué dices, loco?
+HERNANDILLO:
+    Oye aparte;
+    este papel para ti
+    me arrojaron desde allí.
+ARNALDO:
+    Dadme por mi vida parte
+    de lo que dice el papel.
+HERNANDILLO:
+    Lo primero que encomienda
+    su dueño es que no se entienda.
+DON JUAN:
+    Mas qué, ¿tenéis celos dél?
+ARNALDO:
+    Abrásome en vuestro fuego.
+DON JUAN:
+    Pues mirá si ingrato soy:
+    cerrado el papel os doy
+    y que vos le abráis os ruego.
+ARNALDO:
+    No escuso el ser descortés;
+    habéisme de perdonar.
+DON JUAN:
+    Leed, que os pienso obligar.
+HERNANDILLO:
+    (Hablarte quiero después.)
+[Lee Arnaldo el papel]
+ARNALDO:
+    Fuerte determinación.
+DON JUAN:
+    Ya estaréis menos celoso.
+ARNALDO:
+    Ya sólo estoy temeroso.
+DON JUAN:
+    ¿Temes?
+ARNALDO:
+    Sí.
+DON JUAN:
+    ¿Por qué razón?
+ARNALDO:
+    Estoy como el que en la guerra
+    del arcabuz se espantó,
+    cuando el plomo ardiente dio
+    con el compañero en tierra.
+    Vivo de sentido ajeno
+    mirándole derribado,
+    no porque el golpe me ha dado,
+    mas porque he sentido el trueno.
+    Ay, don Juan, pues Doriclea
+    te quiere y se arroja así,
+    quien me ha de matar a mí
+    deja que Rosaura sea.
+    Hame dado este papel
+    mil vidas, mil esperanzas;
+    mil difuntas confianzas
+    hoy resucitan por él.
+    Aunque te encarga el secreto,
+    ya ves, no le puede haber;
+    que amor no lo puede ser
+    y más si es amor perfeto.
+    Déjame a cargo tu vida,
+    que yo te he de acompañar
+    a este secreto lugar
+    donde su amor te convida.
+    Tú no has de ser rey aquí;
+    yo soy su sangre, yo emprendo
+    esta conquista, y entiendo
+    que se emplea bien en mí.
+    Con casamiento o sin él
+    tuya será Doriclea,
+    deja que Rosaura sea
+    de Arnaldo, pues vive en él.
+DON JUAN:
+    Cuando yo no te debiera
+    la vida, el tenerte amor
+    me obligara a tu favor;
+    sigue, conquista, ama, espera;
+    yo he de ser parte que goces
+    la Princesa.
+ARNALDO:
+    Y yo que sea
+    tu mujer.
+DON JUAN:
+    ¿Quién?
+ARNALDO:
+    Doriclea.
+HERNANDILLO:
+    Hablad bajo, y no deis voces,
+    que andan por el corredor.
+DON JUAN:
+    Quiérola esta noche hablar,
+    y tú me has de acompañar.
+ARNALDO:
+    Tienes, español, valor;
+    mis celos tendrán secreto.
+DON JUAN:
+    Guarda secreto.
+ARNALDO:
+    Sí haré,
+    que mientras secreto esté
+    tendrá mi esperanza efeto.
+HERNANDILLO:
+    Ven a comer.
+DON JUAN:
+    Voy.
+[Vase Arnaldo]
+HERNANDILLO:
+    Escucha:
+    he tomado aquestas joyas,
+    que hoy vences señor mil Troyas.
+DON JUAN:
+    ¿Es grande cantidad?
+HERNANDILLO:
+    Mucha.
+DON JUAN:
+    ¿Quién te las dio?
+[Toma las joyas]
+HERNANDILLO:
+    Aquella dama
+    que aqueste papel me dio.
+DON JUAN:
+    ¿Sabe ya lo que pasó,
+    y que Alfonso me desama?
+HERNANDILLO:
+    Rosaura se lo ha contado.
+    Díjome que las vendieses,
+    porque con ellas vivieses
+    mientras estás desterrado.
+[Desata don Juan el pañuelo]
+    Hay diamantes que es locura.
+DON JUAN:
+    A lo menos no hay amante
+    que en ocasión semejante
+    tenga tan alta ventura.
+    Ven, que si el Rey riguroso
+    de su tierra me destierra,
+    el desdichado en su tierra
+    es en la ajena dichoso.
+
+JORNADA 2
+
+[Entra el rey de León y los tres caballeros que quisieron matar a don Juan]
+REY:
+    ¡Admirable mujer!
+1º:
+    No te contara,
+    invicto rey, lo que verdad no fuera
+    ni con menos razón me disculpara.
+    Cansada de matar alguna fiera
+    de las que el monte que te dije cría,
+    a quien más fuerte que Atlante espera,
+    entre unos verdes árboles dormía
+    Rosaura bella, dando envidia al cielo,
+    vista al amor, y claridad al día.
+    Cruzaban sendas el ameno suelo,
+    por una de las cuales los tres fuimos,
+    llamándonos el agua vuelta en hielo.
+    Mas como en vez de descansar leímos
+    la carta en que mandabas darle muerte,
+    al pecho las espadas le pusimos.
+    Apareció Rosaura, armada y fuerte,
+    de un venablo blandiendo la cuchilla
+    con que la sangre de las fieras vierte.
+    Nunca Dïana en la rosada orilla
+    al Erimanto se mostró más bella
+    o cuando Luna a Endimión se humilla;
+    y no sólo pudimos ofendella
+    que puesto que su gente no llegara
+    vimos todo el valor de Marte en ella.
+    Apartaba las hebras de la cara
+    para matar con los serenos ojos,
+    pues de rayos de amor ¿quién se guardara?
+    Corto el vestido, que causara antojos
+    al más helado pecho, el pie sacaba
+    pequeño, y grande para dar enojos.
+    Así Venus lasciva se mostraba
+    cuando con ocasión de caza y monte
+    al rapacillo Adonis enseñaba.
+    En fin, de todo el valle y su horizonte
+    tanta gente bajó, que huyendo fuimos.
+    Si fue peligro a imaginarlo ponte.
+REY:
+    ¿Que tan bella es Rosaura?
+2º:
+    No tuvimos
+    mayor contrario que su rostro hermoso;
+    como quien mira al sol, la luz perdimos.
+REY:
+    ¿No fuistes conocidos?
+3º:
+    Fue forzoso
+    huir tan presto que ni vernos pudo.
+REY:
+    ¡Oh, valor de mujer maravilloso!
+    Halló don Juan el cristalino escudo
+    de Medusa, volviendo en piedra Atlante.
+    Estoy de oír las alabanzas mudo.
+    De don Jüan, ¿qué supiste?
+1º:
+    Que adelante
+    pasó tuvimos nueva.
+2º:
+    A París iba
+    por vengarse de ti.
+REY:
+    ¡Modo arrogante!
+    Ver tengo, Honorio, esa princesa altiva,
+    si perdiese mi reino.
+3º:
+    ¿De qué suerte,
+    si a tantos reyes se ha mostrado esquiva?
+REY:
+    Veréla disfrazado.
+2º:
+    Rey, advierte...
+REY:
+    De mí mismo diré que llevo cartas
+    y qué tratar con ella.
+3º:
+    Es loca y fuerte,
+    y no tengo por bien que solo partas.
+REY:
+    Llevaré alguna gente de servicio.
+HONORIO:
+    Y alguna de secreto que repartas.
+REY:
+    Diré en León que al gran patrón propicio
+    a la española gente en la campaña,
+    por dar de agradecido justo indicio,
+    vamos a visitar, y por Bretaña
+    con nombre de embajada entrar podemos,
+    que siempre enoja la arrogante España.
+HONORIO:
+    Ya me pesa de haberte los extremos
+    de la bella Rosaura referido
+    con que a tanto peligro te ofrecemos.
+REY:
+    La culpa deste daño habéis tenido,
+    porque suelen entrar con mayor fuerza
+    las flechas del amor por el oído.
+    Pero, pues ya la voluntad me fuerza
+    -que es la fuerza mayor un ciego engaño-
+    a verla o a hablarla, engañarla es fuerza.
+    Iré sin duda, aunque me ponga al daño
+    de descubrir quién soy, siendo forzoso,
+    pues ha de ser alegre el desengaño.
+    Y últimamente yo seré su esposo
+    o no habrá industria en el ingenio humano
+    ni valor en un rey tan poderoso.
+    Así cuenta Virgilio que el troyano
+    vio la hermosura y la beldad de Dido.
+    Apréstese la gente, que es en vano
+    poner freno a la mar, ni a amor olvido.
+[Salen Arnaldo, don Juan de Haro, Hernandillo, con hábito de noche]
+DON JUAN:
+    No querría que os sintiese.
+ARNALDO:
+    ¿Cómo me puede sentir?
+DON JUAN:
+    Porque es veloz en oír
+    quien teme, aunque el viento cese;
+    y como apenas menea
+    las hojas deste jardín,
+    y llega la noche al fin,
+    de la amistad que desea,
+    con el silencio, ¿quién duda
+    que conozca que hay más gente?
+ARNALDO:
+    ¡Bravo amador!
+DON JUAN:
+    Obediente.
+ARNALDO:
+    ¿No es peor que gente acuda
+    y que os hagan mil pedazos?
+DON JUAN:
+    ¿Cómo me han de echar de ver
+    o me podrán ofender,
+    Conde, sus villanos brazos?
+ARNALDO:
+    Si es la guarda ¿no podrá?
+DON JUAN:
+    Yo estoy seguro de mí.
+ARNALDO:
+    Yo bien os dejara aquí
+    por lo que seguro está
+    mi temor de vuestra espada;
+    pero amistad tan estrecha
+    no cumple bien, si sospecha,
+    con la obligación jurada.
+    Sospecho que os viene mal;
+    voyme, y aunque mal os viene,
+    quien se va y sospecha tiene,
+    es amigo desleal;
+    de suerte que estoy aquí
+    no porque soy menester,
+    sino por no me ofender
+    conque sospechéis me fui.
+DON JUAN:
+    ¿De que sirven los rodeos,
+    las quimeras e invenciones,
+    Arnaldo, desas razones,
+    si entiendo vuestros deseos?
+    No procuréis desvelarme,
+    que todos vuestros desvelos
+    nacen de que tenéis celos
+    mejor que de acompañarme.
+    ¿Pensáis con su ardiente llama
+    si no estáis conmigo junto
+    un punto, que en ese punto
+    he de gozar vuestra dama?
+    Yo, Conde, ha dos meses ya
+    que todas las noches vengo
+    a este punto, donde tengo
+    mil favores que me da
+    mi adorada Doriclea,
+    con cuya rara hermosura
+    del mismo sol la luz pura
+    me parece oscura y fea.
+    Estoy tan bien empleado
+    que no digo yo que os puedo
+    asegurar dese miedo,
+    a fe de español honrado.
+    Pero que cuando quisiera
+    Rosaura su dueño hacerme
+    rey deste reino, y ponerme
+    del mismo sol en su esfera,
+    despreciara su valor,
+    puesto que tan alto es,
+    porque el mayor interés
+    desprecia un desnudo amor.
+ARNALDO:
+    Yo estoy de vos satisfecho
+    y de la Princesa tanto,
+    que de mí penséis me espanto
+    que de su Alteza sospecho
+    cosa indigna de quien es;
+    ni estoy conmigo tan mal
+    que me juzgue desigual.
+DON JUAN:
+    Pues volveos, que después
+    os contaré en el estado
+    que traigo mi pensamiento,
+    pues sabed, Conde, que intento
+    encubrir este crïado
+    que me trae esta rodela,
+    y que con señas me avisa
+    si alguien esta senda pisa
+    de los que mi amor desvela.
+ARNALDO:
+    ¿Por qué con tanto secreto
+    os habla aquesta mujer?
+DON JUAN:
+    Porque debe de tener
+    de españoles mal conceto,
+    y porque Rosaura acaso
+    no sienta que esto es flaqueza.
+ARNALDO:
+    Sí, que es un ángel su alteza.
+DON JUAN:
+    Alargad, Arnaldo, el paso,
+    que me muero ya por ver
+    aquella hermosa señora
+    por quien de envidia el aurora
+    se da priesa a amanecer.
+    Mirad que en estos jardines
+    presto el sol adelantado,
+    resplandece coronado
+    de violetas y jazmines.
+    No me estorbéis mi ventura.
+ARNALDO:
+    El cielo os la dé.
+[<i>Vase Arnaldo]
+DON JUAN:
+    Ya espero.
+    Fuése.
+HERNANDILLO:
+    ¡Lindo majadero!
+DON JUAN:
+    Apacible noche.
+HERNANDILLO:
+    ¡Oscura!
+DON JUAN:
+    Todo mi bien me concede.
+    Adoro la escuridad,
+    que si hay luna o claridad
+    ni sale mi sol ni puede.
+HERNANDILLO:
+    ¿Es lechuza esta mujer?
+    ¿Es búho, acaso? ¿Es mochuelo?,
+    que apenas quiere que el cielo
+    puedan nuestros ojos ver.
+DON JUAN:
+    ¡Ay Hernando!, porque había
+    la otra noche seis estrellas
+    entre mil nubes, que entre ellas
+    apenas su luz se vía,
+    con una toca me habló,
+    cubierto el rostro.
+HERNANDILLO:
+    Está loca
+    esta mujer que con toca
+    te habla, mas pienso yo
+    que quiere que la destoques.
+    Tú eres un lindo cobarde;
+    mira que amor, cuando arde,
+    ni teme reyes ni roques.
+    Es la más grave mujer,
+    más melindrosa y divina
+    pintura con su cortina
+    para quien la llega a ver.
+    Y así al que verla permite
+    pueden echarle una albarda
+    cuando a la imagen aguarda
+    que la cortina se quite.
+    A la que es más recatada,
+    que se descubra no esperes;
+    álzale el velo si quieres
+    saber si es viva o pintada.
+DON JUAN:
+    Ya lo intento, mas después
+    temo, tiemblo y si porfío,
+    luego me da un sudor frío
+    de la cabeza a los pies.
+HERNANDILLO:
+    ¿Temblando sudas? ¿Pues dudas
+    que eso sabe amor pintallo?
+HERNANDILLO:
+    Tú eres el primer caballo
+    que antes de correr te sudas.
+    Él es un gran desatino,
+    muy conforme a tu nación.
+DON JUAN:
+    ¿Cómo?
+HERNANDILLO:
+    Querer en bretón
+    y gozar en vizcaíno.
+    Deja tanta cortedad.
+DON JUAN:
+    Tenme, Hernando, esta rodela,
+    mira que el tiempo que vuela
+    con tanta velocidad
+    no pase sin que me avises
+    con la seña que he trazado.
+HERNANDILLO:
+    Habla, yo callo.
+DON JUAN:
+    Ten cuidado,
+    mira que muy quedo pises.
+[La princesa detrás de un muro bajo, y dentro se vea como jardín]
+ROSAURA:
+    ¿Es don Juan?
+DON JUAN:
+    Yo soy, mi bien.
+ROSAURA:
+    Paréceme que he sentido
+    ruido fuera.
+DON JUAN:
+    Es dentro el ruido,
+    porque fuera no hay de quién.
+ROSAURA:
+    No, que todo está muy quieto
+    y Rosaura está acostada.
+DON JUAN:
+    Yo que tropecé en la espada
+    fue la causa deste efeto,
+    o el viento es, rosa querida,
+    que les pide a mis congojas
+    albricias entre estas hojas
+    a tu dichosa venida.
+ROSAURA:
+    Y vos, por tanto contento,
+    ¿habéiselas dado?
+DON JUAN:
+    Sí,
+    mis esperanzas le di,
+    que es bien que las goce el viento.
+    ¡Ay, hermosa Doriclea,
+    que aunque es cielo ese valor
+    aguardáis a que mi amor
+    más alto gigante sea!
+    ¿Qué pruebas queréis mayores,
+    o que prendas más seguras
+    que sirven noches obscuras
+    para tan castos amores?
+    Si no merezco una mano,
+    ¿qué importa que las estrellas
+    miren esas manos bellas
+    ni la luna alumbre en vano?
+    ¿Qué importa disimular
+    de día cuando me veis,
+    si de noche aun no queréis
+    amorosamente hablar?
+    Abrid, mi bien, el jardín
+    donde ya el agua y las flores
+    murmuran nuestros amores
+    hasta el más casto jazmín.
+    Dadme esas manos hermosas,
+    tanto de mi boca amadas
+    que no estarán coloradas
+    de su vergüenza las rosas.
+    Yo soy aquel español
+    que va de una en otra esfera
+    aunque con alas de cera
+    de vuestra grandeza al sol.
+    Y pues he llegado a tanto
+    que he visto nacer su aurora,
+    no me derribéis, señora,
+    a mayor mal que mi llanto.
+ROSAURA:
+    Aunque yo, amor, os amé
+    y de amarme causa os di,
+    no por eso el ser perdí
+    que de quien soy heredé.
+    Procedo en mi justo amor
+    con el debido recato
+    porque amor, si crece el trato,
+    pierde el respeto al honor.
+    Amad vos con advertencia,
+    que no hay conquista de fama
+    cuando faltan en quien ama
+    la esperanza y la paciencia.
+    No ha tanto que deseáis,
+    no ha tanto que pretendéis.
+    Si os cansáis de amar, no améis;
+    si no esperáis, no queráis.
+    Tened, don Jüan, confianza
+    de que muy vuestra seré,
+    porque no es buena la fe
+    donde falta la esperanza.
+[Aparte]
+HERNANDILLO:
+    ¿Habrá algún hombre discreto
+    que este amor no llame loco
+    o quien se tenga en tan poco
+    que quiera amar sin efeto?
+    De esperanza y de paciencia
+    hablan en todo rigor,
+    hasta que ya al negro amor
+    hacen caso de conciencia.
+    Quien mete al amor con fe,
+    con paciencia y esperanza,
+    no hay cosa si el viento alcanza
+    que en más desatino dé.
+    Que gran bachiller parece
+    amor en su pretensión,
+    y en tomando posesión
+    como una piedra enmudece.
+    ¡Oh amantes llenos de enredos,
+    de mentiras, de locuras,
+    de penas, de desventuras,
+    de confusiones y miedos!
+    Dicen que sin alma están
+    con los sentidos en calma,
+    y mienten, que tienen alma,
+    que de palabra la dan.
+    ¡Ah, vida de los lacayos!
+    Nuestro amor sí que es amor,
+    sin interés del honor,
+    sin traiciones, sin desmayos.
+    No hay más de que a mediodía
+    mi dama está en su fregado
+    y dígole por un lado:
+    «Vente a la noche, Lucía. »
+    Trae dos hermosas lonjas
+    en vez de esperanza y fe
+    y vuélvese su mercé
+    con mas obras que lisonjas.
+    Lleve el diablo estos amantes
+    con su gusto de alfeñique;
+    ahora bien, pique o no pique,
+    arrimemos los gigantes.
+    Sueño me aflije; por Dios
+    que ha de servir la rodela
+    de almohada.
+[Échase a dormir]
+DON JUAN:
+    Sólo apela
+    mi amor deste agravio a vos,
+    que sois la suprema sala.
+ROSAURA:
+    Digo que mañana quiero
+    que veáis que por vos muero
+    y mi amor al vuestro iguala.
+    Si la noche fuere obscura
+    de aqueste jardín saldré
+    y en ese campo estaré
+    con vos, como esté segura
+    de que me habéis de cumplir
+    lo prometido, don Juan.
+DON JUAN:
+    Mis deseos os dirán
+    lo que es amar y sufrir.
+[Entra Feliciano]
+FELICIANO:
+    Pasos que mi loco amor
+    con tal desatino guía,
+    ¿cómo la que niega el día
+    dará la noche mejor?
+    ¿Cómo veré en estas rejas
+    la que apenas da lugar
+    para que puedan pasar
+    entre sus hierros mis quejas?
+    Parece que ya se enoja,
+    dulce señora, mi amor,
+    pues tal esperanza en flor
+    hiela, marchita y despoja.
+    De noche hablarte solía
+    detrás de aquestas paredes;
+    ¡qué de regalo y mercedes
+    que de tu boca sentía!
+    ¿Quién te me ha trocado así
+    y me fuerza a que yo venga
+    donde sólo el aire tenga
+    que me responda por ti?
+DON JUAN:
+    Gente suena; espera un poco
+    mi vida, y veré quién es;
+    no he visto gente después
+    que estas soledades toco.
+[Requiere la espada]
+    Mas ¿de qué son los recelos?
+    Que no habiéndome avisado
+    Hernandillo, en su cuidado
+    Arnaldo han vuelto sus celos,
+    y como él le ha conocido
+    no me ha querido llamar.
+FELICIANO:
+    ¿Hombre en aqueste lugar?
+DON JUAN:
+    Seáis, Arnaldo, bienvenido.
+    Descubríos, no os cubráis;
+    estaréis muy vergonzoso
+    de que os vea tan celoso;
+    tened celos, pues amáis.
+    Que es dulce la sal de amor
+    con que se comen mil gustos,
+    que no hay placer sin disgustos
+    ni sin contrarios sabor.
+    Pero, por Dios, que venís
+    sin razón desconfiado
+    que estoy más enamorado
+    de lo que vos presumís.
+    Hame dicho Doriclea
+    que saldrá mañana aquí;
+    si ella sale, fiad de mí
+    que yo la goce y posea.
+    Está ya muy declarada,
+    llámame su vida y bien;
+    díjome, Arnaldo, también
+    que está Rosaura acostada.
+    No tenéis qué hacer aquí;
+    guardadme, Arnaldo, secreto,
+    que si lo sabe os prometo
+    que no hará cosa por mí.
+    Iros podéis a acostar
+    y si esperarme queréis,
+    entre esos olmos podréis;
+    adiós, que la vuelvo a hablar.
+[Vuélvese]
+FELICIANO:
+    ¿Soy yo, por dicha, cielos, el que ahora
+    oigo decir a un hombre estas razones?
+    ¿Cómo, que Doriclea a otro hombre adora
+    en medio de mis justas pretensiones?
+    ¡Ah, pecho desleal, mujer traidora
+    que en ocasión de tanto mal me pones!
+    Éste es el español recién venido
+    y yo quien te ha adorado y te ha servido.
+    ¿Tan presto tanto amor? ¿Mañana quieres
+    rendir el fruto que esperé seis años?
+    ¿Qué mucho que no tengan las mujeres
+    crédito, si en los hombres hay engaños?
+    Aquí puedes ahora ver quién eres,
+    pues quiere Dios que tales desengaños
+    me muestren que don Juan tu gusto ha sido
+    y yo quien te ha adorado y te ha servido.
+    ¿A un español tan pobre que no tiene
+    más que la espada, tu grandeza humillas?
+    ¿A un hombre que en desgracia de un rey viene
+    contando a la española maravillas?
+    ¿A un pobre que de huésped se mantiene
+    prefieres a un barón de tantas villas?
+    Haráslo por mostrar cuán loca has sido
+    y yo quien te ha adorado y te ha servido.
+    ¿Qué me podrás negar, si él me lo cuenta
+    pensando que yo soy el traidor Conde,
+    que es de mi sangre y consintió mi afrenta?
+    ¿Qué secreto jamás la tierra esconde?
+    Quiero matarle, pues mi muerte intenta.
+ROSAURA:
+    Don Juan, mil voces dan.
+DON JUAN:
+    Ya siento adónde.
+FELICIANO:
+    El Conde ha sido al fin quien me ha vendido
+    y yo quien te ha adorado y te ha servido.
+DON JUAN:
+    Irélo a ver; entrá, señora mía.
+ROSAURA:
+    Mi bien, adiós; escríbeme mañana,
+    y ruega a Dios que pase presto el día.
+[Vase]
+DON JUAN:
+    Arnaldo, condición tenéis villana:
+    poca nobleza arguye quien no fía
+    de su amigo una cosa que es tan llana;
+    dé celos sin porqué, voces al viento,
+    loco, aunque enamorado pensamiento.
+    Ya os digo que yo adoro a Doriclea,
+    que es luz de aquestos ojos, vista y aura
+    de mi aliento vital, a quien desea
+    el alma, que la suya me restaura;
+    sea Rosaura cuanto hermosa sea,
+    ¿qué importa?, si no quiero yo a Rosaura.
+    Doriclea me quiere, y si ya os dije
+    que mañana la gozo, ¿qué os aflije?
+    ¿Qué cansáis las estrellas y los cielos
+    si veis a Doriclea tan perdida?
+    ¿De qué os matáis? ¿De quién tenéis desvelos?
+    Yo soy, solo, su bien y ella es mi vida.
+    Dejad, Arnaldo, los injustos celos,
+    que sois con vuestras manos homicida;
+    porque no tiene luz el sol que sea
+    hermosa como el pie de Doriclea.
+FELICIANO:
+    ¿Responderé? ¿Diré quién soy? ¿Podría
+    serme de más provecho la paciencia?
+    Sí, pues me queda término de un día
+    que ponga a todo daño resistencia.
+    Esto conviene a la nobleza mía;
+    no quiero aventurar con insolencia
+    lo que puedo ganar sabiendo claro
+    que es aqueste español don Jüan de Haro.
+[Vase]
+DON JUAN:
+    ¿Cómo Arnaldo se va sin responderme?
+    ¡Qué celos tan villanos y tan viles!
+    ¿No basta, Conde, entre sus brazos verme?
+    ¿Aún queréis ver las cosas más sutiles?
+    Huésped soy, y si pensáis prenderme
+    cuando por ser de España me aniquiles,
+    presume que he nacido vizcaíno,
+    que apriesa va, y se sale del camino.
+    ¿Cosa que me engañase y que no fuese
+    Arnaldo este hombre? ¡Ay triste, ay noche escura!
+    ¡Oh lengua, oh quién amando enmudeciese,
+    que es hija del hablar la desventura!
+    Pero, ¿cómo es posible que no hiciese
+    señas Hernando en esta coyuntura
+    siendo en discursos de mi historia largos,
+    en los pies grulla, y en los ojos Argos?
+    ¡Ah, Hernandillo! ¡Hernandillo! No parece.
+    ¡Válame Dios! Aquí quedó arrimado,
+    la obscura noche apenas me le ofrece;
+    topé los pies, los ojos me han turbado;
+    tendido está, mi mal se aumenta y crece;
+    sin duda que aquel hombre rebozado
+    me le mató tan presto que no pudo
+    hacerme señas, que lo miro y dudo.
+    ¡Ah, pobre mozo! Aquí murió en Bretaña
+    el mejor montañés que vio Tineo.
+    ¡Pobre Hernando!
+HERNANDILLO:
+    Señor.
+DON JUAN:
+    ¡Ay, cosa extraña!
+    ¿No estás herido?
+HERNANDILLO:
+    ¿Yo? Ni aún lo deseo.
+DON JUAN:
+    Pues ¿qué es aquesto?
+HERNANDILLO:
+    Estaba la campaña
+    tan libre de enemigos...
+DON JUAN:
+    Caso feo.
+    ¿Haste dormido acaso?
+HERNANDILLO:
+    Siempre he sido
+    a quien me convidase agradecido.
+    Convidóme el pradillo, el sueño, el vino,
+    y por Dios que confieso mi pecado.
+DON JUAN:
+    Más te quisiera muerto.
+HERNANDILLO:
+    (Y lo imagino
+    del grande amor que siempre me has mostrado.)
+    Cuanto a mí, yo estoy bien.
+DON JUAN:
+    ¡Qué desatino
+    venir de un hombre bajo acompañado!
+    ¡Un borracho tras mí!
+HERNANDILLO:
+    Pues ¿quién hubiera
+    que tu requiebro y necedad sufriera?
+    Estás tañendo gaitas zamoranas,
+    estáste aficionando con tu diosa
+    con más frío y calor que unas cuartanas
+    y ella, muy mentecata y melindrosa;
+    y quieres, madrugando las mañanas,
+    que sufra vuestra prática amorosa;
+    antes sufriera un tiro de crujía.
+DON JUAN:
+    Sin duda que os perdí, señora mía.
+    ¡Oh, traidor, hombre vil!
+HERNANDILLO:
+    ¿De qué te asombras?
+    ¿Qué ha sucedido?
+DON JUAN:
+    Un hombre me ha escuchado
+    por dormirte, traidor.
+HERNANDILLO:
+    Serían sombras
+    de aquestos altos árboles del prado.
+DON JUAN:
+    ¿Sombras los hombres que se mueven nombras?
+    Ven y calla, traidor.
+HERNANDILLO:
+    Estoy cansado
+    de venir cada noche a necedades,
+    que no es curar caballos voluntades.
+    Estáste bobeando, que no hubiera
+    quien ya no hubiera este portillo roto,
+    ¿y lloras que se duerma el que te espera?
+DON JUAN:
+    Paso, señor, con menos alboroto.
+HERNANDILLO:
+    Poca prosa gastara si yo fuera;
+    pero siempre fue cierto, de mi voto,
+    que el soldado y amante no hacen nada
+    cuando tienen la pólvora mojada.
+[Vanse y entra el rey de León, y sus caballeros con Pinabelo]
+REY:
+    Esto dirás a su alteza.
+PINABELO:
+    Al fin sois embajador.
+REY:
+    A lo que digo, señor,
+    mi venida se endereza.
+    Este intento tiene el Rey.
+PINABELO:
+    No seréis mal admitido.
+REY:
+    Fuera el ser mal recebido
+    contra la esención y ley,
+    preeminencia deste oficio.
+PINABELO:
+    ¿Qué mueve al rey de León
+    dar en aquesta ocasión
+    de tanta afición indicio?
+REY:
+    La fama de su valor,
+    de quien el mundo es teatro,
+    corriendo de Tile a Batro,
+    lo más cerca hirió mejor.
+    Y como a tomar estado
+    le importune, obligue y fuerce
+    su reino y también le esfuerce
+    cierto pesar que le ha dado
+    Armesinda, hermana suya,
+    todo junto le obligó.
+[Entra Doriclea]
+DORICLEA:
+    Ya Rosaura se vistió
+    por ver la embajada tuya.
+    Espera un poco, español
+    en esa sala primera.
+REY:
+    Seré noche cuando espera
+    la luz el alba del sol.
+DORICLEA:
+    Ve, Pinabelo, con él.
+REY:
+    ¿Es más bella que esta dama
+    Rosaura?
+PINABELO:
+    Tal es su fama;
+    es un sol.
+REY:
+    Y adoro en él.
+HONORIO:
+    A mucho te has atrevido.
+REY:
+    A no haber de amor vitorias,
+    ni hubiera en el mundo historias,
+    ni fama contra el olvido.
+[Vanse y queda Doriclea]
+DORICLEA:
+    ¡Oh, si se doliese el cielo
+    del estado de mi mal
+    pues apenas tiene igual
+    de cuantos conoce el suelo!
+    ¡Oh, si Rosaura casada
+    dejase en esta ocasión
+    de don Juan la pretensión
+    sobre los vientos fundada!
+    Que temo alguna flaqueza
+    contra mi honor, pues en vano
+    quiere tener en la mano
+    el amor y la grandeza.
+    Que como es blanco mi honra
+    de su loco amor injusto,
+    ella ha de tener el gusto
+    y yo pasar la deshonra.
+    Háblale por el jardín,
+    y él piensa que habla conmigo;
+    de día le escribo y digo
+    mil amores a este fin
+    perdiendo las ocasiones
+    de mi Felicïano, y ella
+    de noche confirma y sella
+    con sus obras mis razones.
+    Pierdo mi bien, y deseo
+    librarme de tanto daño;
+    pero si le desengaño
+    en más peligro me veo,
+    que nos mandará matar
+    para asegurar su honor.
+    Bien parece nuestro amor
+    que es fuego, y nació en la mar.
+[Entra Feliciano de camino]
+FELICIANO:
+    ¿Es levantada su alteza?
+DORICLEA:
+    ¿Dónde bueno vas así?
+    ¿Caminas?
+FELICIANO:
+    Señora, sí.
+DORICLEA:
+    ¡Qué confusión, qué tristeza,
+    qué mudanza! El viento igualas.
+    ¿Tú espuelas?
+FELICIANO:
+    Por tus cautelas.
+    Y es poco llevar espuelas;
+    plegue a Dios que basten alas.
+DORICLEA:
+    ¿Adónde?
+FELICIANO:
+    Huyendo de ti.
+    Y aunque es sin causa esta ausencia,
+    pido a Rosaura licencia,
+    si se levanta, de mí.
+    Que no quiera Dios, crüel,
+    que yo esté donde te goce
+    un español.
+DORICLEA:
+    ¿Quién conoce
+    mi honor tan mal habla en él?
+    ¿Qué español me ha de gozar?
+FELICIANO:
+    Don Juan, vil, baja mujer.
+DORICLEA:
+    Oye...
+FELICIANO:
+    ¿Qué quieres hacer?
+    ¿Qué disculpa puedes dar?
+    Yo lo he visto, yo lo oí,
+    yo sé que se concertó;
+    tan presente estuve yo
+    como estoy, villana, aquí.
+    Bien sé por dónde os habláis,
+    ya sé el campo y el jardín,
+    ya sé que intentáis mi fin
+    y que a vuestro honor le dáis.
+    Bien pudiera con su muerte
+    sosegar mi vida injusta,
+    pero mi propio amor gusta
+    que te goce desa suerte,
+    porque ¿cuál mayor venganza
+    puedo yo tomar de ti
+    que ver que te goce así
+    por premio de tu mudanza
+    quien mañana ha de dejarte
+    y ha de alabarse en su tierra
+    de la bajeza que encierra
+    la nuestra con infamarte?
+DORICLEA:
+    Pues ¿no me dejas hablar?
+FELICIANO:
+    ¿Qué me puedes tú decir?
+    Pues, ¿cómo el ver y el oír
+    aún me quieres engañar?
+    Ya que me engañaste el gusto
+    déjame estos dos sentidos.
+DORICLEA:
+    Tus ojos y tus oídos
+    mienten, Feliciano injusto.
+    ¡Ay, que no te puedo hablar
+    ni darte satisfación!
+FELICIANO:
+    Yo he de buscar ocasión
+    con que me pueda vengar.
+DORICLEA:
+    Llévame, mi bien, de aquí
+    si temes eso.
+FELICIANO:
+    ¡Oh, qué bien!
+    A un tiempo quieres también
+    que dos gocemos de ti.
+    ¿Tienes seso? ¿Eres aquella
+    que con tu boca fingida
+    ayer me llamó su vida
+    y me dio el alma con ella?
+    ¿Eres la misma, crüel,
+    que vi llorando en mis brazos
+    con más enredos y lazos
+    que una yedra en un laurel?
+    ¿Eres tú aquella de quien
+    tengo mil firmas traidoras?
+    ¿Cómo a un extranjero adoras?
+    ¿A un español quieres bien?
+DORICLEA:
+    Voces das.
+FELICIANO:
+    ¿Pues no he de dallas
+    antes que con él te gozes,
+    y no es justo que dé voces
+    pues tú las oyes y callas?
+DORICLEA:
+    Déjame entrar a pedir
+    licencia de responderte.
+    ¿A quién? ¿Cómo? ¿De qué suerte?
+    ¿Qué has de hacer? ¿Qué has de decir?
+    Piedad bañada en desdén,
+    que me matas y me lloras,
+    ¿Cómo a un estranjero adoras?
+    ¿A un español quieres bien?
+DORICLEA:
+    Dame palabra que aquí
+    me esperarás, Feliciano.
+FELICIANO:
+    Quien tanto ha esperado en vano,
+    ¿qué puede esperar de ti?
+DORICLEA:
+    Ya vuelvo, espérate un poco,
+    sólo a Rosaura hablaré.
+[Vase]
+FELICIANO:
+    Doriclea, ya estaré
+    cuando vuelvas muerto o loco.
+    Dejadme, dulces engaños
+    de amor; mirad que soy noble,
+    y es vergüenza que se doble
+    su fuerza con dos engaños.
+    Temblando estoy, y en los labios
+    el alma entre voces tiernas;
+    no pueden tener las piernas
+    el peso de los agravios.
+    No más confianza loca;
+    irme tengo.
+[Entre don Juan]
+DON JUAN:
+    En confusión
+    me ha puesto aquella visión;
+    a gran pena me provoca.
+    Niega Arnaldo, y si él no fue,
+    alguien mi secreto sabe
+    para que mi vida acabe
+    adonde mi vida hallé.
+    ¡Oh, Feliciano!
+FELICIANO:
+    ¡Oh, don Juan!
+    Verte por agüero tomo.
+DON JUAN:
+    ¿Vaste?
+FELICIANO:
+    Voyme.
+DON JUAN:
+    ¿Dónde, o cómo?
+FELICIANO:
+    Unos vienen y otros van.
+    Voy a un negocio secreto;
+    y pues a tiempo has llegado,
+    verás, español honrado,
+    desta verdad el efeto.
+    Cierta cosa has de guardarme
+    en tanto que ausente estoy.
+DON JUAN:
+    Esa palabra te doy,
+    seguro puedes mandarme.
+FELICIANO:
+    Es prenda que es menester
+    que a la defensa se acuda,
+    porque es prenda que se muda.
+DON JUAN:
+    Pues, ¿quién es?
+FELICIANO:
+    Una mujer.
+DON JUAN:
+    Mujer y mudable, ¿quieres
+    que la guarde?
+FELICIANO:
+    Bien podrás.
+DON JUAN:
+    Ellas se guardan no más,
+    que no hay guarda en las mujeres.
+FELICIANO:
+    Creo que estará segura.
+DON JUAN:
+    ¿Hasla gozado?
+FELICIANO:
+    He tenido
+    favores que he merecido
+    no por valor, por ventura;
+    los cuales dejarte quiero
+    --que en aquesta caja van--
+    porque ausente aumentarán
+    el mal de que agora muero.
+    Aquí hay papeles fingidos
+    llenos de encarecimientos,
+    que amor todo es fingimientos
+    o gozados o leídos.
+    Cintas verás, y cabellos,
+    donde quisiera algun día
+    fuera mil almas la mía
+    para ocuparlas en ellos.
+    Que como amor me dio palma
+    de tan verdadero amante,
+    el menor era bastante
+    para suspenderme el alma.
+    Lee, don Juan, sus engaños,
+    advirtiendo bien que son
+    procesos de mi afición
+    en un pleito de seis años.
+    Y porque sepas quién es
+    el dueño de aquestas prendas,
+    también quiero que lo entiendas
+    deste retrato que ves.
+    Toma y quédate con Dios,
+    y dirásle a Doriclea
+    que por muchos años sea
+    el gozaros hoy los dos.
+[Vase]
+DON JUAN:
+    ¿Ha llegado en el mundo de improviso
+    a tal sazón tan fuerte desengaño?
+    Detente, espera, vuelve. Fuese. Quiso
+    con esta industria reparar su daño.
+    ¡Con qué facilidad me ha dado aviso
+    de su desdicha y de mi loco engaño!
+    ¡Ay, justos celos! ¡Ay, mujer fingida!
+    La pena es cierta y la ocasión perdida.
+    Éste es el hombre que siguió mis pasos
+    y por el Conde hablé junto a la hüerta.
+    ¡Oh bella luz que por los cielos rasos
+    eres del mal descubridora cierta!
+    ¡Oh noche, capa vil de infames casos!
+    Por ti todo mi bien se desconcierta,
+    que estando tanta gloria prevenida
+    la pena es cierta y la ocasión perdida.
+    ¡Oh malditos papeles! ¡Oh cabellos,
+    lazos de mil enredos! ¡Oh retrato
+    de dueño más mudable y fácil que ellos!
+    ¿En tal belleza cabe tan mal trato?
+    Ojos fingidos, por milagro bellos,
+    ¿Por qué me distes galardón ingrato?
+    Si os he perdido, perderé la vida;
+    la pena es cierta y la ocasión perdida.
+[Entra Doriclea]
+DORICLEA:
+    Aunque me niega licencia
+    de poderte hablar Rosaura,
+    Feliciano...
+DON JUAN:
+    ¿En mi presencia
+    le nombras? ¡Qué bien restaura
+    tu libertad mi paciencia!
+    ¿Tan ciega estás que no ves
+    que soy un hombre que engañas?
+DORICLEA:
+    ¿Qué dices?
+DON JUAN:
+    Que cuando estés
+    gloriosa de tus hazañas
+    te mires, pavón, los pies:
+    desvanecerás la rueda
+    desa tu loca hermosura,
+    que con tanta infamia queda,
+    viendo que de tanta altura
+    bajar a este abismo pueda.
+DORICLEA:
+    ¿No estaba aquí Feliciano?
+DON JUAN:
+    Aquí estaba y me dejó
+    estas prendas en la mano,
+    con que sin causa me dio
+    veneno como a tirano.
+    Si le amabas, si tenías
+    amor secreto con él,
+    ¿por qué conmigo fingías?
+    ¿Por qué quisiste, crüel,
+    doblar las desdichas mías?
+    Cuando de España llegué
+    los ojos pusiste en mí,
+    por tu culpa mi amor fue,
+    ni con el alma te vi
+    ni con los ojos te hablé.
+    Tú con papeles fingidos,
+    y de noche con engaños,
+    me has robado los sentidos
+    dándole a beber mil daños
+    al alma por los oídos.
+    Tú por la secreta puerta
+    de tu hüerta hiciste en mí
+    esta locura encubierta;
+    bien puedo decir de ti
+    que me metiste en la hüerta.
+    ¿Qué pensamiento fue el tuyo
+    de hacer hazaña tan fea?
+    Pero con esto concluyo:
+    eres mujer, Doriclea;
+    a liviandad lo atribuyo.
+DORICLEA:
+[Aparte]
+    (¿Cómo podré responder?
+    Porque si le desengaño,
+    el amor se ha de saber
+    de la Princesa, en mi daño.
+    ¿Qué no intenta una mujer?
+    Que Rosaura su flaqueza
+    quiera conmigo encubrir
+    por no ofender su grandeza.
+    ¡Qué ingenio para fingir
+    nos dio la naturaleza!
+    Ahora bien, pues es forzoso,
+    quiero dar fuerza a su enredo,
+    que yo cobraré mi esposo,
+    pues libre y segura quedo
+    y él engañado y quejoso.)
+    Mi bien, mi español querido,
+    yo os confieso que he tenido
+    a este Feliciano amor;
+    pero tratando mi honor
+    con el respeto debido.
+    Venistes, y cuando os vi
+    fue amor pintor, lienzo fui,
+    a Feliciano quitó
+    y en su lugar os pintó
+    para que viváis en mí.
+    No ha sido el pincel liviano;
+    por más perfeción le dejo
+    de suerte que Feliciano
+    fue deste lienzo el bosquejo
+    y vos la postrera mano.
+    Prendas son que di primero
+    que os viese, español famoso;
+    mas sólo advertiros quiero
+    que os las dio como celoso
+    y no como caballero.
+    Después que os vi y os amé
+    nunca más, mi bien, le hablé,
+    bien lo dice el desengaño;
+    mas ¿cómo os pude hacer daño
+    si en vuestro tiempo no fue?
+    Id esta noche a la hüerta
+    y no perdáis ocasión;
+    que si vuestra dicha acierta
+    a que toméis posesión
+    hay grande gloria encubierta.
+    Mi dulce amor, ¿qué es aquesto?
+    Alzad los ojos, mi vida,
+    no estéis tan triste y compuesto,
+    que no es la ocasión perdida
+    ni se acaba amor tan presto.
+    No haya más si me queréis,
+    que aquesta noche veréis
+    en qué obligación me estáis.
+    Queréis hablar y no habláis;
+    pues hablad, que bien podéis.
+DON JUAN:
+    ¿Qué no podrás, Doriclea,
+    siendo ya tirano en mí?
+    Lo que tú quisieres sea,
+    porque se conozca así
+    cuánto sufre quien desea.
+    Y quiérote confesar
+    que estas prendas con furor
+    pueden, amando, obligar;
+    más me han doblado el amor
+    que me han podido enojar.
+    Mira en qué puesto me veo
+    pues cuanto me dices creo,
+    aunque más celos me den,
+    que el competidor del bien
+    aumenta siempre el deseo.
+    Fuera en mí temeridad
+    no creer tu celo honesto
+    y de tu amor la verdad,
+    pues me prometes tan presto
+    la mayor seguridad.
+    Seguro quedo y contento.
+    De aquestas prendas, ¿qué haré?
+DORICLEA:
+    Darlas al fuego.
+DON JUAN:
+    No siento
+    que las ofenda, aunque esté
+    dentro su mismo elemento;
+    y gran sacrilegio fuera
+    que a tus pensamientos diera
+    tan mal pago siendo ingrato,
+    y era quemar tu retrato
+    quemar al sol en su esfera.
+    Y fuera ponerle en él
+    hacer su bella figura
+    hermosura de Luzbel,
+    a quien su loca hermosura
+    puso en fuego tan crüel.
+    Viva tu retrato y vivan
+    estos papeles, que privan
+    de fuerza al fuego y sus hielos,
+    y como estampa de cielos
+    dentro del alma se escriban.
+    Seguro viva en ausencia
+    el dueño de aquesta joya,
+    y aunque tu das la sentencia
+    yo los sacaré de Troya
+    en hombros de mi paciencia.
+    Por lo cual te ruego y pido
+    que me abraces en señal
+    que has de hacer lo prometido.
+DORICLEA:
+    ¿Quién ha visto amor igual
+    ni enredo tan bien fingido?
+    Con estos falsos amores
+    poder Rosaura me ha dado
+    para cintas, para flores,
+    para escribir recatado
+    y para honestos favores.
+    Pero no hay cláusula en él
+    en que diga que le abrace.
+    ¿Pero qué haré yo por él
+    si muere por mí y si nace
+    de mí su pena crüel?
+    Que no soy piedra tan dura
+    que no sienta y agradezca
+    tan grande amor, fe tan pura;
+    que el ver que por mí padezca
+    me va obligando a blandura.
+    ¡Oh cómo merecería
+    Rosaura un engaño agora!
+    Mucho os temo, lealtad mía,
+    que el ver que un hombre la adora
+    mueve la mujer más fría.
+    ¡Qué bien dice lo que siente,
+    qué verdad, qué proceder!
+    Pero, pensamiento, tente,
+    que imagino soy mujer
+    y no habrá mal que no intente.
+    Pero de abrazarle aquí
+    ¿qué ofensa el poder recibe?
+[Abrázanse, y sale la Princesa]
+DON JUAN:
+    ¿Haslo consultado?
+DORICLEA:
+    Sí.
+    Esta es prenda donde escribe
+    mi amor. Detente, ¡ay de mí!
+    Visto nos ha la Princesa;
+    salte de la sala apriesa.
+DON JUAN:
+    Turbado estoy.
+DORICLEA:
+    Vete.
+DON JUAN:
+    Adiós.
+[Vase]
+ROSAURA:
+    ¿Ya tan amigos los dos?
+    ¡Oh, qué bien!
+DORICLEA:
+    ¿Desto te pesa?
+    ¿Tú no me tienes mandado
+    que esto finja?
+ROSAURA:
+    A fe que has dado
+    indicios de bien mandada.
+    ¿Cómo sabes que me agrada
+    que te abrace?
+DORICLEA:
+    Si en cuidado
+    te pone ya mi intención,
+    no me mandes.
+ROSAURA:
+    Que es razón
+    que me obedezcas, es justo;
+    pero tampoco no gusto
+    que excedas la comisión.
+    ¿Qué te tengo yo encargado?
+DORICLEA:
+    Responder, favorecer,
+    escribir, mostrar cuidado.
+ROSAURA:
+    ¿Pues por qué tienes de hacer
+    más de lo que te he mandado?
+DORICLEA:
+    Pidióme que le abrazase.
+    ¿Qué respuesta darle pude
+    para que no se enojase?
+    Pero si quieres que mude
+    de intento, este abrazo pase,
+    que no le abrazaré más.
+ROSAURA:
+    ¡Ah, infame, cómo me engaña
+    tu lengua! ¿Abrazo le das?
+    ¿Vencióte el brío de España?
+    Perdida por él estás.
+    Pero ¿qué milagro ha sido
+    que quieras quien te ha querido,
+    pues quien no me quiere quiero?
+    Tú gozas el verdadero,
+    yo gozo el amor fingido.
+    Sabes que te adora y quiere,
+    ¿qué mucho que tú le quieras
+    cuando su amor te refiere
+    y que por un hombre mueras
+    que por tus amores muere?
+    Loca he sido, fui mujer;
+    por no desdorar mi honor
+    ni dar mi amor a entender
+    quise gozar sin amor
+    quien me le pudo tener.
+    Mis gustos fueron de ciego
+    que no vio lo que gozó;
+    al mejor sentido niego
+    el bien de que se privó;
+    soy al fin ciego que juego.
+    Dasme cartas por burlarme;
+    si no me dices verdad,
+    ¿qué importaba el juego darme,
+    que es tuya mi libertad
+    y está en tu mano ganarme?
+    Mas yo lo remediaré.
+    No estés delante de mí.
+DORICLEA:
+    Apriétasme sin por qué;
+    basta, que voy por aquí
+    adonde jamás pensé.
+[Aparte]
+    (Temiendo voy que don Juan
+    se me va en el alma entrando.
+    Si celos y amor están
+    a la voluntad llamando,
+    aunque no quiera, entrarán.)
+[Vanse, y entra Arnaldo, con el Rey y Honorio]
+ARNALDO:
+    Aquí el embajador de España viene.
+REY:
+    Dadme esos pies.
+ROSAURA:
+    Como es razón, estimo
+    el amor que me muestra el rey Alfonso;
+    lee esas cartas y daré respuesta.
+[Dale unas cartas]
+REY:
+    Bellísima mujer, Honorio.
+HONORIO:
+    Es grande
+    la fama de su ingenio y hermosura.
+REY:
+    Casaréme con ella, no lo dudes.
+ARNALDO:
+    El español te mira. Mas ¿quién duda
+    que su Rey le ha mandado que mirase
+    desde las partes de tu hermoso cuerpo
+    hasta los dones de tu alma? ¡Oh, cielos,
+    que me abraso de celos! Si supiera
+    que aqueste embajador venía a la corte
+    le quitara la vida en el camino.
+REY:
+    Antes de agora, gran Princesa, había
+    el rey Alfonso escrito a vuestra alteza.
+    Trajo las cartas un don Jüan de Haro,
+    a quien dicen que ciertos caballeros
+    pretendieron matar, y no ha faltado
+    quien diga que de vos fue socorrido.
+ROSAURA:
+[Aparte]
+    (Aquí puedo saber lo que deseo.)
+    ¿Quién es don Jüan de Haro allá en España?
+REY:
+    Es, señora, un honrado caballero,
+    de los señores de Vizcaya nobles,
+    gallardo en paz y tan valiente en guerra
+    que tiemblan dél los castellanos moros
+    del Duero al Tajo y desde el Tajo al Betis.
+ROSAURA:
+    ¿Qué desgracia ha tenido con Alfonso?
+REY:
+    Amó a su hermana y pretendió gozalla;
+    que si se la pidiera en casamiento
+    pienso que se la diera el Rey, que estima
+    de don Juan el valor.
+ROSAURA:
+    Aguarda afuera,
+    que ya salgo, español, a responderte.
+REY:
+    ¡Ay, Honorio! Sin duda que responde
+    que aceta el casamiento.
+HONORIO:
+    ¿Y si le aceta?
+REY:
+    Descubriréme y casaréme luego;
+    que el amor que me entró por los oídos
+    se ha confirmado por los ojos.
+HONORIO:
+    Entra,
+    que no te engañas.
+REY:
+    ¿No es muy bella?
+HONORIO:
+    Es ángel.
+[Vase el Rey, y Honorio]
+ROSAURA:
+    Arnaldo, a no haber sido de mis padres
+    la mayor encomienda el estimarte
+    y tener tu consejo por espejo
+    de todas mis acciones, me obligara
+    el amor que te tengo a descubrirte
+    lo que apenas pensé que imaginara.
+    Yo he puesto en el valor de un caballero
+    los ojos. Reina soy; ¿reyes qué importan?
+    No quiero reinos, gusto quiero, Arnaldo;
+    casarme tengo con mi propio gusto.
+ARNALDO:
+[Aparte]
+    (¡Ay recelos, hoy sin duda mis deseos
+    hallan el fin que mi temor les niega!
+    Yo apostaré que soy a quien elige,
+    yo apostaré que soy el que prefiere
+    a todas las grandezas de otros Príncipes.
+    Soy natural, criéme en su palacio,
+    conóceme, experiencia tiene en todo
+    lo que para el gobierno de su reino
+    puede querer del que por dueño escoge.)
+    Señora, gran valor tu pecho muestra
+    en despreciar los extranjeros reyes
+    y en elegir un caballero pobre.
+    Tú tienes reinos.
+ROSAURA:
+    Luego ¿acierto?
+ARNALDO:
+    Aciertas.
+    ¿Pero no me dirás el venturoso
+    que mereció tus altos pensamientos?
+ROSAURA:
+    ¡Ay, Arnaldo, no sé cómo lo diga!
+ARNALDO:
+    Que bien podrás, que nunca amor espanta,
+    aunque en desigualdades ponga el gusto.
+ROSAURA:
+    Este noble español, este gallardo
+    español, conde Arnaldo, este famoso
+    don Jüan.
+ARNALDO:
+    ¿Qué me dices?
+ROSAURA:
+    Éste ha sido
+    en quien puse los ojos.
+ARNALDO:
+    No prosigas
+    que es desatino y de tu reino afrenta.
+ROSAURA:
+    ¿De qué manera?
+ARNALDO:
+    ¿Cómo un hombre bajo
+    nos ha de gobernar?
+ROSAURA:
+    ¿Bajo es un hombre
+    que desprecia de un rey la hermana, Conde,
+    y que si la quisiera se la dieran?
+ARNALDO:
+    En su tierra será lo que él quisiere;
+    pero en la nuestra...
+ROSAURA:
+    Calla, que estás loco.
+    Luego el oro, las perlas, los diamantes,
+    ¿sólo tienen valor adonde nacen?
+    Tú me has aconsejado que procure
+    mi gusto: éste es mi gusto.
+ARNALDO:
+    Es gusto injusto,
+    y si lo intentas, caballeros tiene
+    Bretaña que sabrán quitar la vida
+    al español y al Rey que te pretende.
+ROSAURA:
+    ¡Oh, villano! ¡Prendelde! ¡Ah, gente! ¡Ah, guarda!
+    ¡Matalde! ¿Cómo, si en mi pecho vive
+    don Juan, ha de tener dueño Bretaña?
+    Muera la envidia infame, ¡viva España!
+
+JORNADA 3
+
+[Salen tres alabarderos que traen preso a Hernandillo]
+HERNANDILLO:
+    ¿Preso a mí? ¿Por qué razón?
+1º:
+    Villano, ¿qué te defiendes?
+HERNANDILLO:
+    Cosas de Rosaura son.
+    Creo, don Juan, que pretendes
+    la tuya y mi perdicïón.
+    Díjele que hablase y viese
+    a este embajador de España
+    y que no se le escondiese,
+    pues el venir a Bretaña
+    no es posible que no fuese
+    sino a informar contra él
+    a la Princesa, y no quiso
+    verse un momento con él
+    para que tomase aviso
+    de su fortuna crüel.
+    Hombre incapaz de consejo,
+    matarále su porfía;
+    que el más sabio y el más viejo
+    se ha de mirar cada día
+    a su amigo y a su espejo.
+    ¿A él no le prenden?
+2º:
+    No;
+    a ti solo nos mandó
+    prender Rosaura.
+HERNANDILLO:
+    ¡Ay de mí!
+    Si es porque a la hüerta fui,
+    ¿qué culpa le tengo yo?
+    Hame criado don Jüan,
+    que yo era un pobre asturiano;
+    debo conocer el pan.
+3º:
+    Acaba, necio villano.
+HERNANDILLO:
+    Señores, ¿adónde van?
+1º:
+    A palacio te llevamos.
+HERNANDILLO:
+    A la horca imaginé.
+2º:
+    Cuando su intención sepamos
+    y tal sentencia se dé,
+    sobran almenas y ramos
+    en el campo que se ve.
+HERNANDILLO:
+    Si ramo hubiere de ser,
+    saúco, por Dios, no sea.
+    ¿Quién me mandaba entender
+    en cosas de Doriclea?
+    ¿Qué mal no causa mujer?
+    Pues, por Dios, que no la vi
+    aunque allí me puse en vela;
+    y él sabe que me dormí
+    encima de la rodela
+    hasta que su voz sentí.
+    Mejor allá, con mis bueyes,
+    buscaba a mi vida trazas.
+    Mas ya que vine a tus leyes,
+    ¿quién metió a mis almohazas
+    con los cetros de los reyes?
+3º:
+    Consuélate, español bravo,
+    no muestres esa flaqueza;
+    que de vosotros alabo
+    la vida y la fortaleza.
+HERNANDILLO:
+    Estoy de la vida al cabo.
+    Quien se puede consolar
+    de morir desta manera
+    no es hombre, es bestia; pues dar
+    pasos por una escalera,
+    más la quisiera rodar.
+    ¡Ay, miserable Hernandillo!
+    ¿Privabas tú con el rey
+    de León? Quiero decillo:
+    hidalgo soy, y la ley
+    me ha condenado al cuchillo.
+    No he de morir en cordel,
+    que yo no he sido ladrón,
+    antes muero por ser fiel.
+1º:
+    Calla, español fanfarrón,
+    no temas morir en él.
+2º:
+    La princesa sale.
+3º:
+    Aquí
+    el español te traemos.
+[Sale Rosaura]
+ROSAURA:
+    ¿Es Hernandillo?
+HERNANDILLO:
+    Yo fui.
+    Dame esos pies.
+ROSAURA:
+    Sin extremos.
+HERNANDILLO:
+    ¿Cómo faltaran en mí?
+    De un rosario de coral
+    son los extremos la muerte,
+    pues que llego a tiempo tal
+    que me la dan, Reina, advierte
+    los extremos de mi mal.
+    El diablo me trujo aquí
+    ¡Pero si estoy sentenciado!
+    Y pues, Reina, ¿cómo, di,
+    he de morir ahorcado
+    habiéndote visto a ti?
+    Mas ya lo debo de estar,
+    pues, viéndote, un ángel veo.
+ROSAURA:
+    Deja, Hernando, de llorar.
+HERNANDILLO:
+    Mi inocencia te deseo
+    con este llanto abonar.
+ROSAURA:
+    Pues ¿de ti quieres que digan,
+    español, que puede ser
+    que lágrimas te fatigan?
+HERNANDILLO:
+    Lloro porque eres mujer;
+    que lágrimas tanto obligan.
+ROSAURA:
+    Salíos todos allá fuera
+    y aguardad en esa sala.
+[Vanse]
+HERNANDILLO:
+    ¡Oh, gran Reina, considera
+    que amor cielo y tierra iguala;
+    don Juan viva, Hernando muera!
+    Mátame a mí, que yo he sido
+    el que la culpa he tenido;
+    no mates a mi señor,
+    que es hombre de más valor
+    que en toda España ha nacido.
+    Doriclea le mandaba
+    ir a la hüerta, señora,
+    que el triste seguro estaba.
+ROSAURA:
+    Más que yo te preguntaba
+    me estás confesando agora.
+    ¡Ay, Hernando, y cuán distinto
+    es mi mal de tu temor!
+    Si mis agravios te pinto,
+    verás que me ha puesto amor
+    en más ciego laberinto.
+    Llégate acá; y pues el cielo
+    te dotó, para consuelo
+    de mi locura y pasión,
+    de pobreza y discreción...
+HERNANDILLO:
+    Prosigue.
+ROSAURA:
+    Cúbreme un hielo.
+    Advierte lo que es mujer.
+    Ni a Semíramis, ni a Dido,
+    ni a Mesalina has de ver;
+    toda en mi se ha reducido
+    la flaqueza de su ser.
+    ¿Quieres ejemplo? Pues mira
+    que quien su amor ha encubierto
+    a hombre que a ser rey aspira,
+    a un criado ha descubierto
+    lo que a su bajeza admira.
+    Mira qué puede fïarse
+    deste nuestro entendimiento,
+    pues quien, por no sujetarse
+    calló a tu señor su intento,
+    a ti viene a declararse.
+    Reiráste de mi flaqueza,
+    burlarás de nuestro ser
+    la loca naturaleza,
+    mas no después de saber
+    que esto importa a mi grandeza.
+HERNANDILLO:
+    Qué, ¿no me mandas matar
+    por haber ido a la hüerta
+    ni la rodela llevar?
+ROSAURA:
+    ¡Ay, amigo, que estoy muerta
+    de diferente pesar!
+HERNANDILLO:
+    Dame setecientas veces
+    tus pies, quiébrame esta boca
+    con ellos.
+ROSAURA:
+    Si tú me ofreces,
+    pues como a hidalgo te toca
+    servirme, como encareces,
+    de decirme una verdad,
+    en tu baja calidad
+    pondré un título.
+HERNANDILLO:
+    Señora,
+    un Trajano seré ahora.
+ROSAURA:
+    Cielos, mi amor perdonad.
+    Yo, Hernando, después que vi
+    a don Juan, perdí mi ser.
+    No pienses más de que fui,
+    naturalmente, mujer;
+    como mujer me rendí.
+    Porque su conversación
+    fue, sin que él lo entendiese,
+    conforme a mi obligación.
+    Que Doriclea fingiese
+    quererle fue mi intención;
+    fingió, escribió que le amaba;
+    que a Feliciano adoraba
+    y amar a don Juan fingía.
+    Al fin, le hablaba de día
+    y yo de noche le hablaba;
+    que no ha sido Doriclea,
+    sino yo. Mas ya que entiendo
+    que el Rey de León desea
+    darle su hermana, pretendo
+    que mayor prenda posea.
+    Que de aqueste embajador
+    he sabido su valor,
+    y viendo que me merece
+    quiero ofrecer lo que ofrece
+    siempre un verdadero amor.
+    Rey ha de ser de Bretaña
+    don Juan, y será mi esposo;
+    solo impidirá la hazaña
+    con que ha de ser tan dichoso
+    estar casado en España.
+    Y así, te mandé traer
+    porque tu lealtad me diga
+    si es la infanta su mujer.
+    Mira, Hernando, que te obliga
+    la grandeza de mi ser.
+    Que yo, por justo temor
+    de vasallos envidiosos
+    de don Juan --que su valor
+    tiene a mis grandes celosos,
+    aunque es más grande mi amor--,
+    quiero casarme en secreto,
+    y aun esta noche ha de ser;
+    mas si después del efeto
+    tuviese don Juan mujer
+    y a un rey perdiese el respeto,
+    buena, ¡por Dios!, quedaría
+    la Princesa de Bretaña;
+    pues cuando la injuria mía
+    quisiese hacer guerra a España,
+    mayor deshonra sería.
+    Dime verdad, y responde,
+    como hidalgo, a toda ley,
+    si es casado, cómo y dónde;
+    que quien hace a don Juan Rey
+    a ti, Hernando, te hará Conde.
+HERNANDILLO:
+    ¡Mire por donde ha venido
+    Hernandillo a tal grandeza!
+    Nadie, aunque esté más perdido,
+    desconfíe. Y vuestra alteza
+    me dé esos pies que le pido,
+    pues siendo cierto este día
+    que está segura la traza
+    con que gozarle confía,
+    desde mi humilde almohaza
+    me sube a tal señoría.
+    Nunca se casó don Juan
+    con Armesinda, ¡por Dios!
+ROSAURA:
+    ¿Y también sabes que están
+    desobligados los dos?
+HERNANDILLO:
+    Rosaura, escrito se han;
+    pero tomado una mano,
+    de ningún modo, ni fuera
+    posible estando su hermano
+    advertido; de manera
+    que fuera su intento en vano.
+    Ni le mandara matar
+    de ninguna suerte cuando
+    él la pudiera gozar.
+ROSAURA:
+    ¿Cierto?
+HERNANDILLO:
+    ¡Por vida de Hernando,
+    que los mandara casar!
+    Vuestra alteza esté segura;
+    haga Rey al mejor hombre
+    que tiene España.
+ROSAURA:
+    Ventura
+    tiene don Juan.
+HERNANDILLO:
+    No te asombre
+    lo que tu reino procura;
+    que le das un rey de oro,
+    gloria del honor cristiano,
+    temor del orgullo moro;
+    y a mí, que me ves tan llano,
+    soy hombre de buen decoro.
+    No hay en mi linaje ofensa,
+    los envidiosos lo digan.
+    La almohaza es mi defensa,
+    que los trabajos obligan
+    a lo que el hombre no piensa.
+    Mil con rojos y amarillos
+    hábitos hacen corrillos
+    contra el lacayo que ves,
+    que puede honrar un pavés
+    con diez y nueve castillos.
+    Cuando yo vuelva a León,
+    ¿qué dirán los mal nacidos
+    de verme Conde bretón?
+ROSAURA:
+    ¿Qué dudan ya mis sentidos?
+    Falsas mis sospechas son.
+    ¡Ah de la guarda!
+[Salen los tres alabarderos]
+1º:
+    Señora.
+ROSAURA:
+    Cerrad en este aposento
+    a este español.
+HERNANDILLO:
+    ¿Pues agora
+    sales con eso?
+ROSAURA:
+    Al momento.
+HERNANDILLO:
+    Esta mudanza os desdora.
+    Con esto, ¿quién ha de haber
+    que de vuestro flaco ser
+    tenga jamás buen conceto?
+ROSAURA:
+    Esto importa a mi secreto.
+HERNANDILLO:
+    ¡Brava industria!
+ROSAURA:
+    Soy mujer.
+    Advertid que esté cerrado
+    y velalde con cuidado
+    toda esta noche hasta el día.
+HERNANDILLO:
+    ¡Qué poco fui señoría
+    por subir de establo a estado!
+[Meten a Hernando los Alabarderos, y sale Pinabelo]
+PINABELO:
+    Celio me fue a decir que me llamaba,
+    gran señora, tu alteza.
+ROSAURA:
+    Oh, Pinabelo;
+    a que hoy vinieses aguardando estaba.
+    Aguarda un poco. Hoy me promete el cielo
+    un grande bien casándome a mi gusto:
+    la noche escura tiende el negro velo.
+    Tales celos me ha dado y tal disgusto,
+    ardiéndose en el fuego Doriclea
+    y queriendo a don Juan más de lo justo,
+    que ya no quiero que tercera sea
+    ni que a don Juan escriba; que es locura
+    que adore a una mujer y otra posea.
+    Llegada es de mi bien la coyuntura;
+    rindo mi honor, mi pensamiento allano;
+    goce de la ocasión, de su ventura.
+    Este papel le escribo de mi mano,
+    en que para esta noche le prometo
+    la posesión que le defiendo en vano,
+    Pinabelo.
+PINABELO:
+    Señora.
+ROSAURA:
+    Con secreto
+    darás al español que ya conoces
+    este papel; no más, tú eres discreto.
+PINABELO:
+    Mil años, Reina, de tu esposo goces;
+    que por la sucesión que en ti desea
+    tu verde edad, tu reino daba voces.
+[Vase Rosaura, y sale el Rey, y Honorio]
+REY:
+    ¿Por qué culpas, Honorio, lo que hice?
+HONORIO:
+    Porque no te conozcan, y Rosaura
+    de verte en traje vil se escandalice.
+REY:
+    Enciende, convertido en sutil aura,
+    mi fuego con sus alas un deseo
+    donde de amor el Fénix se restaura.
+    Éste sale a los ojos con que veo,
+    es dueño de la lengua con que digo
+    mil cosas que yo mismo no las creo.
+    Mas no por eso a imaginar me obligo
+    que soy quien soy, que lo que no se espera
+    deslumbra la verdad, Honorio amigo.
+HONORIO:
+    ¿Y qué aguardamos ya?
+REY:
+    Que ella me quiera,
+    respondiendo a mis cartas, por esposo.
+HONORIO:
+    Sí hará, si tu grandeza considera.
+[Llega Pinabelo al Rey, y dice]
+PINABELO:
+    ¿Puédote hablar, embajador famoso?
+REY:
+    ¡Oh, Pinabelo!: ¿hay novedad alguna
+    que a mis cosas prometa fin dichoso?
+PINABELO:
+    Hoy está de tu parte la fortuna;
+    sin duda que tu Rey goza esta diosa
+    que el mundo con suspiros importuna.
+    Despacha un caballero a la famosa
+    corte de España, que este papel creo
+    que firma que es del Rey de León esposa.
+REY:
+    El cielo escuche nuestro buen deseo;
+    sólo ser papel suyo basta agora
+    y que sin duda lo que dices creo.
+PINABELO:
+    A España llevaréis una señora
+    que no la ve más generosa y bella
+    la lámpara del sol en cuando dora.
+REY:
+    No dudes de que goce también ella
+    un hombre igual a su valor y partes.
+PINABELO:
+    Siempre tengan favorable estrella;
+    para leerle quiero que te apartes
+    aun de mí mismo. A Dios te queda.
+REY:
+    Espera.
+    ¿Sin prenda de mi amor de mí te partes?
+    Toma aqueste diamante, que quisiera
+    que fuera el sol en luz, en precio el mundo,
+    y el fino engaste, el oro de su esfera.
+PINABELO:
+    Prendas de amor tienen valor profundo;
+    para señal del tuyo, el don acepto.
+[Vase Pinabelo solo]
+REY:
+    ¡Qué bien aquí mis esperanzas fundo!
+    Llega Honorio: veremos el efeto
+    que ha hecho mi venida en esta dama,
+    que para tu privanza no hay secreto.
+HONORIO:
+    ¿Eso dudabas de tu buena fama?
+REY:
+    «Al español», el sobrescrito dice.
+HONORIO:
+    Lo que tienes mejor, eso te llama.
+    Léele, porque tu gusto solenice.
+[Abre el Rey la carta, y léela diciendo]
+HONORIO:
+    ¡Notable caso!
+REY:
+    ¡Espantoso!
+HONORIO:
+    Informóle de quién eras
+    algún español quejoso
+    de que a peligro pusieras
+    la vida, el reino, el reposo.
+    Que eras el Rey le han contado.
+    Ella, viendo que has dejado
+    por verla tu patria así,
+    enamorada de ti,
+    reino y posesión te ha dado.
+    Y es buen medio; que en Bretaña
+    tendrán esta pretensión
+    muchos, que ella desengaña,
+    o a lo menos a traición
+    que la goce el Rey de España.
+    Y por eso en esa hüerta
+    verse contigo concierta;
+    porque posesión tomada,
+    queda por fuerza casada
+    y su pretensión incierta.
+    Bien ha hecho, y ha impedido
+    que la envidia nos impida
+    lo que habemos pretendido.
+REY:
+    Noche de estrellas vestida,
+    favor a tus luces pido.
+    Baja de tu negro ocaso,
+    saca el carro al cielo raso,
+    sientan tus caballos dueño,
+    pica al olvido y al sueño
+    para que alarguen el paso.
+    No porque quiera que antes
+    que aqueste engaño ejecutes
+    le entoldes de tus diamantes,
+    antes quiero que le enlutes
+    de tinieblas semejantes.
+    Bella Andrómeda, Ariana,
+    Calisto y cuantas estrellas
+    ya tuvistes forma humana
+    y vos la mejor entre ellas,
+    de la triforme Dïana,
+    pues amastes a Perseo,
+    a Júpiter, a Teseo,
+    y al pastor Indimión,
+    cubrid en esta ocasión
+    vuestro resplandor febeo;
+    goce yo tanta ventura.
+    Saca tu cabeza obscura,
+    dulce noche, destocada;
+    así del alba rosada
+    goces el ambrosía pura.
+HONORIO:
+    ¡Poética exclamación!
+    No hay duda, sino que baje
+    a tanta conjuración.
+REY:
+    Vamos a mudar de traje.
+    ¿Son las seis?
+HONORIO:
+    Las cinco son.
+REY:
+    Mira que dieron denantes
+    y que ha mil siglos que espero.
+HONORIO:
+    No me espanto.
+REY:
+    No te espantes,
+    que anda siempre delantero
+    el reloj de los amantes.
+[Vanse, y salen Feliciano y el Conde Arnaldo]
+FELICIANO:
+    Hame vuelto del camino,
+    Arnaldo, el mismo furor;
+    no puedo lo que imagino,
+    porque resistiendo amor
+    se convierte en desatino.
+    No tiene mi honor poder
+    para poder resistir
+    la injuria de una mujer;
+    que agravios hacen hüir
+    y celos hacen volver.
+    Salí con mil desatinos,
+    Arnaldo, de la ciudad;
+    mas estos celos indinos
+    son varas de la hermandad
+    que prenden por los caminos.
+    Son soga, aunque de cabellos,
+    que tira un hombre con ellos
+    la ingrata que tiene el cabo;
+    hierros en rostro de esclavo,
+    que le conocen por ellos.
+    Son como joya olvidada
+    que al caminante forzó
+    a volver a la posada
+    por cuya causa perdió
+    la mitad de la jornada.
+    Son agua o sol que detiene
+    la brevedad del camino,
+    y a quien huye y celos tiene,
+    agua que a los ojos vino,
+    fuego que del alma viene.
+    En fin, me pude volver
+    del camino comenzado
+    sólo, Arnaldo, con haber
+    de don Juan imaginado
+    que hoy goza desta mujer.
+ARNALDO:
+    ¡Ay, Feliciano, cuán lejos
+    vas de aquel cierto dolor
+    que tiene a los dos perplejos!
+    Celos no es el sol de amor,
+    pero es de su luz reflejos.
+    Arde amor, y reverbera
+    en celos su rayo ardiente;
+    mi mal como el vuestro fuera;
+    pero mi mal no consiente
+    ni que olvide ni que quiera.
+    Así fuera yo querido
+    como vos de Doriclea;
+    ya el encanto se ha sabido.
+FELICIANO:
+    ¿Qué me decís?
+ARNALDO:
+    Que os desea,
+    perdida, y estáis perdido.
+    Ama Rosaura a don Juan,
+    Doriclea le entretiene;
+    si en la huerta hablando están
+    es porque Rosaura viene
+    y ella y las demás se van.
+    Afeite es deste arrebol
+    su flaqueza, y atropella
+    su honor, y así el español
+    piensa que goza la estrella
+    y está en los brazos del sol.
+FELICIANO:
+    ¿Es posible, o me engañáis
+    con los celos que tenéis?
+ARNALDO:
+    Para que más lo creáis
+    quiero que os desengañéis,
+    que hay mayor mal que pensáis.
+FELICIANO:
+    ¿De qué suerte?
+ARNALDO:
+    Hoy me llamó,
+    y como en fin se informó
+    de que era don Jüan de Haro
+    de linaje ilustre y claro,
+    conmigo se declaró;
+    que casarse pretendía
+    con él, me dijo.
+FELICIANO:
+    ¡Ah, liviana!
+ARNALDO:
+    Y que hombre que merecía
+    de un Rey de León hermana,
+    serlo en Bretaña podía.
+    Respondíle --de mi amor,
+    de su locura olvidado
+    perdí la vista y color,
+    porque el color demudado
+    muestra del alma el furor--
+    que era espantosa locura,
+    indigna de su grandeza;
+    ella, encendida cual pura
+    rosa, aumentó su belleza.
+    ¿Quién vio furor y hermosura?
+    Y díjome que tenía
+    reino y que gusto quería.
+    Mudé otro nuevo color
+    entonces, que ya mi amor,
+    sueltas las riendas, corría,
+    y respondí que en Bretaña
+    habría mil que impidiesen
+    que nos gobernase España.
+    Dio voces que me prendiesen.
+FELICIANO:
+    ¿A ti, Conde? Cosa extraña.
+ARNALDO:
+    Tiento la espada, enmudezco,
+    calo el sombrero y la guarda;
+    mírame, tiemblo y parezco
+    pólvora que el fuego aguarda:
+    si me le dan, yo perezco.
+    Que en el punto que me vi
+    echar a la mar la ropa
+    ser pólvora pretendí,
+    que aunque abrasa a lo que topa
+    al fin se consume a sí.
+    Nuevo Sansón me contemplo;
+    cayera y cayera el templo
+    en que mi venganza fundo,
+    para dejar en el mundo
+    no menos glorioso ejemplo.
+FELICIANO:
+    ¡De qué extraña variedad
+    se forma la confusión
+    de la vida en esta edad!
+    Así, cuantas cosas son
+    tienen ser y calidad.
+    De lo que aquel empobrece
+    éste medra y enriquece;
+    aquél enferma, éste sana;
+    que para menguar mañana,
+    se hincha el mar, la luna crece.
+    Aquellos van sosegados,
+    los otros vienen quejosos,
+    hay queridos y olvidados;
+    porque no hubiera dichosos
+    si no hubiera desdichados.
+    Conde, de oír tu tormento
+    nace mi gusto y contento;
+    perdonad esta alegría,
+    que yo os juro que en ser mía
+    presto me la lleve el viento.
+    Vos estábades ufano
+    y yo triste, y ya la suerte
+    trocó el azar.
+ARNALDO:
+    Feliciano,
+    hoy hemos de dar la muerte
+    a aqueste español villano.
+    Conmigo habéis de venir,
+    donde al entrar de la hüerta,
+    ¡vive dios, que ha de morir!
+FELICIANO:
+    Será cerrar yo la puerta
+    que el amor me quiere abrir.
+    Si él no goza a Doriclea
+    y ella me quiere y desea,
+    dando muerte a este español,
+    ¿cómo, Conde, querrá el sol
+    que sus estrellas posea?
+    Ha de ser fuerza ausentarme,
+    o ha de ser fuerza perdella;
+    bien podéis, Conde, mandarme
+    lo que no fuere ofendella,
+    que el ofendella es matarme,
+    y el amigo ha de querer
+    lo que es honesto y es justo.
+ARNALDO:
+    Así dicen que ha de ser,
+    y de suplicaros gusto
+    cosa que podéis hacer.
+FELICIANO:
+    ¿Cómo?
+[Al oído]
+ARNALDO:
+    Como hoy.
+FELICIANO:
+    Que me place.
+ARNALDO:
+    ¿Dáisme palabra?
+FELICIANO:
+    Sí doy;
+    que no hace ni deshace
+    que muera o que viva hoy
+    quien ni bien ni mal me hace.
+    Quedad con Dios.
+[Vase Feliciano]
+ARNALDO:
+    Él os guarde.
+    Y él vive, que si no fuera
+    porque el vengarme no tarde,
+    que aquí donde estoy le diera
+    muerte a este infame cobarde.
+    La verdadera amistad
+    no repara en propio bien
+    cuando se trata verdad,
+    mas no ha de faltarme quien
+    muestre a mis cosas lealtad.
+    Hablaré al Conde Leonicio,
+    que de su amor tengo indicio,
+    y mataré al español,
+    porque en poniéndose el sol
+    haga la luna su oficio.
+[Vase, y sale Doriclea, y Lucinda, villana]
+DORICLEA:
+    Tendrás, Lucinda, cuidado,
+    porque ha de venir don Juan,
+    que esté tu esposo acostado.
+LUCINDA:
+    Cuantos en la huerta están
+    han ido esta noche al prado;
+    que como víspera es
+    del primero día de mayo,
+    desde las dos a las tres
+    hasta que despierte el rayo
+    del sol, las flores que ves
+    con música adornarán
+    cuantas puertas aquí están
+    de todas las hortelanas.
+DORICLEA:
+    Eso he visto las mañanas
+    de San Pedro y de San Juan.
+LUCINDA:
+    La de mayo es mayor fiesta,
+    porque en mañana como ésta
+    casan las mozas baldías
+    de todas las caserías
+    y anda el amor sobre apuesta.
+    Y antes os viene mejor,
+    porque entre tanto rüido
+    de hortelano y labrador
+    no sea don Juan sentido
+    si habéis de hacerle favor.
+    ¿A qué hora ha de venir?
+DORICLEA:
+    Vendrá a las doce.
+LUCINDA:
+    Pues entre,
+    que bien os podéis dormir
+    sin que la gente le encuentre,
+    y él, cuando el alba, salir.
+    Que ya estarán recogidos
+    o por ventura dormidos
+    al pie de los altos olmos
+    o sobre los verdes colmos
+    de mimbre y hierba tejidos.
+DORICLEA:
+    Con todo ha de ser azar
+    de mi pretensión.
+LUCINDA:
+    Yo quiero,
+    aunque no pensé bailar,
+    ir allá con mi pandero
+    y al regocijo ayudar.
+    Que viniendo yo con ellos
+    más presto haré recogellos,
+    y vos de vuestro español
+    gozaréis hasta que el sol
+    peine sus rubios cabellos.
+DORICLEA:
+    Hazlo, mi Lucinda, así;
+    recoge los hortelanos,
+    no haya nadie por aquí
+    cuando el alba de sus manos
+    vierta el clavel y alhelí;
+    que mi palabra te doy
+    de darte una joya.
+LUCINDA:
+    Espera,
+    que al prado a llamarlos voy.
+[Vase]
+DORICLEA:
+    ¿Quién de mi lealtad creyera
+    que la que esto inventa soy?
+    Tanto Rosaura ha querido
+    que finja, que a Don Juan quiero;
+    que de verle tan perdido
+    ha parado en verdadero
+    lo que comencé fingido.
+    Quiero a don Juan, y deseo
+    que en esta ocasión que veo
+    gane mi amor por la mano.
+    Perdóname Feliciano,
+    que en mayor valor me empleo.
+[Sale Feliciano]
+FELICIANO:
+    Si amando llamarte puedo,
+    noche, fábrica de asombros,
+    manto de cualquier enredo,
+    tú, de cuyos negros hombros
+    pende la capa del miedo,
+    mis cobardes pasos guía,
+    puesto que te llaman ciega,
+    donde la esperanza mía
+    al dulce puerto navega
+    del bien que gozar solía.
+    Noche de luto cubierta,
+    dame en esta verde hüerta,
+    si es que tu poder es cierto,
+    a mis desengaños puerta
+    y a mis esperanzas puerto.
+    No esté, pues, más ofendida
+    la vida, aunque honor se nombre,
+    ser un ángel homicida.
+DORICLEA:
+    ¡Ay, Dios, allí he visto un hombre!
+    ¿Sois vos, don Juan de mi vida?
+FELICIANO:
+    (La voz es de Doriclea,
+    don Juan dijo, mal responde
+    si a Feliciano desea;
+    celos engañan al Conde.
+    Temo que Rosaura sea,
+    y no lo pudiera hacer
+    en ofensa de su ser.
+    Es así que me engañó;
+    pero trataréla yo
+    como a mudable mujer.
+    Hoy se verá que castiga
+    el cielo injustas mudanzas.)
+DORICLEA:
+    ¿No entráis?
+FELICIANO:
+    (A venganza obliga
+    su traición; mis esperanzas
+    cumplió amor, dulce enemiga.)
+DORICLEA:
+    Entrad pues.
+FELICIANO:
+    Miro si hay gente.
+DORICLEA:
+    No, que están los hortelanos
+    en el bosque de la fuente.
+FELICIANO:
+    Dame, señora, esas manos.
+DORICLEA:
+    (Perdona, honor, que esto intente;
+    tú me enseñaste, Rosaura,
+    a amar a don Juan.)
+FELICIANO:
+    (¡Oh, fiera!
+    ¡Qué casta Porcia, qué Laura!)
+DORICLEA:
+    Entra.
+FELICIANO:
+    (¿Quién, noche, creyera
+    lo que tu engaño restaura?)
+[Entre don Juan solo]
+DON JUAN:
+    Dulce tormento do el amor se vía
+    pues camináis al fin de mi esperanza,
+    las alas esforzad, que cuando alcanza
+    con más aliento el corazón porfía.
+    Sobre los ramos que esta huerta cría,
+    pintad luego en su orilla semejanza
+    del Fénix de la Arabia sin mudanza.
+    La obscura noche vela y duerme el día;
+    pues llego cerca de su ilustre nido,
+    y como blanco azor las uñas tiendo.
+    Fuentes, no murmuréis ni hagáis ruido;
+    que si callando a amor sus alas prendo
+    entre su pico de rubíes ceñido,
+    dejar el alma por la presa entiendo.
+[Suena gran ruido de hortelanos, con sus instrumentos; canten dentro]
+    Las mañanicas de abril
+    dulces eran de dormir.
+DON JUAN:
+    ¡Ay, notable confusión!
+    Éstos los villanos son,
+    jardineros desta hüerta;
+    dejarles quiero la puerta,
+    si he de perder la ocasión.
+[Cantan]
+    Las mañanicas de abril
+    dulces eran de dormir,
+    y las de mayo mejor,
+    si no despertara amor.
+[Salen todos con sus ramos y instrumentos]
+BELARDO:
+    ¿Quién ha de echar los casados?
+TORINDO:
+    La música lo dirá,
+    que ya los traigo estudiados.
+DON JUAN:
+    ¡Ay, ay, cuán perdida está
+    la ocasión de mis cuidados!
+LUCINDA:
+    Cántalos en voz erguida,
+    que todos responderán.
+DON JUAN:
+    ¡Oh canalla mal nacida!
+    ¿Ved, por quién llora don Juan,
+    tan alta ocasión perdida?
+[Canta Torindo solo]
+TORINDO:
+    Belardo y Lucinda,
+    ¿casaránse?
+TODOS:
+    Sí.
+TORINDO:
+    Belisa y Castalio,...
+TODOS:
+    ...¡oh qué par gentil!
+TORINDO:
+    Tirreno y Diana,...
+TODOS:
+    ...sol y serafín.
+TORINDO:
+    Clarinda y Riselo,...
+TODOS:
+    ...ébano y marfil.
+TORINDO:
+    Silvano y Belisa,...
+TODOS:
+    ...clavel y jazmín.
+TORINDO:
+    Toribio y Antonia,...
+TODOS:
+    ...apio y perejil.
+TORINDO:
+    Riselo y Pascuala,...
+TODOS:
+    ...toronja y cetí.
+TORINDO:
+    Rebollo y Andrea,...
+TODOS:
+    ...guindas y pernil.
+TORINDO:
+    Las mañanicas de abril
+    dulces eran de dormir,
+    y las de mayo mejor,
+    si no despertara amor.
+[Asómase la Infanta en lo alto del jardín]
+ROSAURA:
+    ¿Hay desdicha semejante?
+    Que no supe esta costumbre
+    de aquesta gente ignorante.
+    ¡Oh qué extraña pesadumbre
+    se pone a mi bien delante!
+    ¿Si habrá venido don Juan?
+DON JUAN:
+    ¿Qué he de hacer, que no se van
+    y allí siento a Doriclea?
+    ¿Qué hará quien pierde y desea
+    una ocasión que le dan?
+BELINDA:
+    A las damas de palacio
+    casad también.
+TORINDO:
+    Pues ya empiezo.
+DON JUAN:
+    Ellos lo toman de espacio.
+LUCINDA:
+    Alargad bien el pescuezo,
+    que es muy largo el cartapacio.
+[Torna a cantar, y responden todos]
+TORINDO:
+    Doriclea y don Juan,
+    ¿casaránse?
+TODOS:
+    Sí.
+DON JUAN:
+    Todo os lo perdono
+    si sucede así.
+TORINDO:
+    Lisarda y Arnaldo,...
+TODOS:
+    ...rosa y alhelí.
+TORINDO:
+    Augusta y Leonicio,...
+TODOS:
+    ...Jimena y el Cid.
+TORINDO:
+    Laura y Feliciano,...
+TODOS:
+    ...rosa y toronjil.
+TORINDO:
+    Pinabelo y Celia,...
+TODOS:
+    ...almendras y anís.
+TORINDO:
+    El Rey y la Reina,...
+TODOS:
+    ...San Juan y San Gil.
+TORINDO:
+    ¡Tantos años vivan...
+TODOS:
+    ...como el Rey David!
+TORINDO:
+    Si ella se empreñare...
+TODOS:
+    ...para un paladín...
+TORINDO:
+    ...tan valiente sea...
+TODOS:
+    ...como un puercoespín;
+TORINDO:
+    Santantón la alumbre...
+TODOS:
+    ...con el su candil.
+TORINDO:
+    Las mañanicas de abril
+    dulces eran de dormir,
+    y las de mayo mejor,
+    si no despertara amor.
+[Váyanse con grita, y entre Honorio, y el Rey]
+DON JUAN:
+    Gracias a Dios que se han ido;
+    voy a entrar. Mas, ¿qué ruïdo
+    de gente es éste? Mejor
+    será esconderme.
+REY:
+    De amor
+    vitoria y ejemplo he sido.
+    ¿Vienes bien puesto?
+HONORIO:
+    Muy bien.
+REY:
+    Conde, los puestos recorre,
+    las sendas, y ve también
+    a ver la guarda en la torre.
+[Vase Honorio solo, y entra el conde Arnaldo, y Leonicio]
+ARNALDO:
+    Leonicio, el paso detén.
+LEONICIO:
+    ¿Cómo?
+ARNALDO:
+    Un hombre he visto allí,
+    y casi a la puerta llega.
+LEONICIO:
+    ¿Hablaréle?
+ARNALDO:
+    Espera, sí.
+LEONICIO:
+    ¿Eres español?
+REY:
+    ¿Quien niega
+    que lo soy?
+ARNALDO:
+    ¿Qué haces aquí?
+REY:
+    Tomo el fresco.
+DON JUAN:
+    ¡Oh gran rigor,
+    si es éste el embajador
+    y éstos le quieren matar!
+ARNALDO:
+    ¿No hallabas otro lugar
+    para tomarle mejor?
+REY:
+    Seguí a los hortelanos,
+    que con ramos en las manos
+    iban cantando y tañendo.
+ARNALDO:
+    ¡Matadle!
+REY:
+    Ofendido, ofendo.
+[Llega don Juan]
+DON JUAN:
+    ¿Dos para un hombre, villanos?
+    Mas si español le nombráis
+    no es mucho le acometáis
+    dos, y dos mil.
+LEONICIO:
+    ¡Tente, fiero!
+REY:
+    Ya huyen.
+DON JUAN:
+    Seguirlos quiero.
+[Huyan, y quédese el Rey, y don Juan]
+REY:
+    Tened, hidalgo, y no os váis.
+DON JUAN:
+    Dejad que los mate.
+REY:
+    ¿Huyendo
+    no van? ¿Qué queréis?
+DON JUAN:
+    Matallos.
+REY:
+    Más conoceros pretendo
+    que seguillos.
+DON JUAN:
+    En dejallos
+    que os hago servicio entiendo.
+REY:
+    ¿Español sois?
+DON JUAN:
+    Vese claro
+    que vos lo sois.
+REY:
+    Sí, señor.
+    ¿Quién sois?
+DON JUAN:
+    Lo mismo reparo.
+REY:
+    Yo soy el embajador.
+DON JUAN:
+    Y yo soy don Jüan de Haro.
+REY:
+    ¿Quién?
+DON JUAN:
+    Don Juan.
+REY:
+    ¡Válame Dios!
+DON JUAN:
+    ¿Pues de qué os espantáis vos?
+REY:
+    ¡Ah, don Juan! ¿Quién os dijera
+    que aquí y de aquesta manera
+    nos halláramos los dos?
+    El enojo me has quitado
+    que tuve por justa ley,
+    de tu lealtad injuriado.
+DON JUAN:
+    ¿Pues quién sois vos?
+REY:
+    Soy tu Rey.
+    No huyas.
+DON JUAN:
+    Estoy turbado.
+REY:
+    Abrázame.
+DON JUAN:
+    Con temor
+    parezco ante vos, señor.
+REY:
+    Antes yo vergüenza tengo.
+DON JUAN:
+    ¿Cómo vienes aquí?
+REY:
+    Vengo
+    forzado de un justo amor.
+    Rosaura me ha conocido,
+    por un papel he venido
+    aquesta noche a gozalla.
+DON JUAN:
+    ¿Quién pudo desengañalla?
+REY:
+    Alguien de mi gente ha sido
+    que ser yo el Rey le diría;
+    y porque tuviese efeto
+    que fuese Bretaña mía,
+    casándonos de secreto
+    le pareció que podría.
+    Y fue verdad, con razón
+    de que hay muchos que aquí tienen
+    esta misma pretensión,
+    que llenos de envidia vienen
+    para matarme a traición.
+DON JUAN:
+    A ninguno conocí;
+    pero pues permite el cielo,
+    señor, que llegase aquí,
+    porque conozcáis el celo
+    con que en España os serví;
+    y que allá los envidiosos
+    de mi virtud y valor
+    y de mis hechos famosos,
+    para infamarme, señor,
+    fueron con vos poderosos.
+    Entrad donde la gocéis;
+    que mientras con ella estéis
+    quedaré en guarda a la puerta,
+    para vos, Príncipe, abierta,
+    que tan bien la merecéis.
+    Y no digo que Sansón,
+    Héctor, Pirro, Telamón,
+    quedan por vuestro reparo;
+    mas queda don Jüan de Haro,
+    sangre del Rey de León.
+REY:
+    Don Juan, si lo permitiera
+    el tiempo, mucho quisiera
+    hablar mis cosas contigo.
+    Soy tu Rey, eres mi amigo;
+    ya ves que Rosaura espera,
+    no me puedo detener.
+DON JUAN:
+    Entrad, que tiempo ha de haber
+    para hablar; que es más razón
+    que no perdáis ocasión
+    en que más podéis perder.
+REY:
+    Voy, y tú espérame aquí.
+DON JUAN:
+    Sí, haré, señor.
+REY:
+    ¡Ah, mi bien!
+ROSAURA:
+    ¿Sois vos?
+REY:
+    Mi señora, sí.
+[Lléguese el Rey hacia la puerta, y baje Rosaura]
+ROSAURA:
+    ¿Si os habrán visto?
+REY:
+    No hay quién.
+ROSAURA:
+    Paréceme que sentí
+    gente en la hüerta.
+REY:
+    Sería
+    la guarda.
+ROSAURA:
+    Los hortelanos,
+    ¿no os toparon?
+REY:
+    No venía,
+    mi bien, por pasos tan llanos.
+    Abridme, Rosaura mía.
+ROSAURA:
+    ¿Sois mi esposo?
+REY:
+    Vuestro esclavo.
+Rosaura:
+    Entrad, que con esto acabo
+    de mi amor todas las muestras;
+    Bretaña y yo somos vuestras.
+[Entre el Rey con Rosaura]
+DON JUAN:
+    La resolución alabo.
+    Entróse; esto sí es llegar
+    a gozar de la ocasión,
+    no hay más bien que desear;
+    que perdella no es razón
+    cuando se puede ganar.
+    Contento estoy en extremo
+    que tal reino el Rey posea.
+[Entra Hernandillo, perdido y desalentado]
+HERNANDILLO:
+    Que ya no he de hallarle temo.
+DON JUAN:
+    ¿Quién va?
+HERNANDILLO:
+    ¿Quién quiere que sea?
+    Quien escapó de horca o remo,
+    quien huyó de la prisión
+    que tuvo por tu ocasión.
+DON JUAN:
+    Hernando, ¿dónde has estado?
+HERNANDILLO:
+    En una torre encerrado.
+DON JUAN:
+    ¿Preso?
+HERNANDILLO:
+    Sí.
+DON JUAN:
+    ¿Por qué razón?
+HERNANDILLO:
+    Pues he tenido ventura,
+    oye la tuya, don Jüan:
+    Rosaura hacerte procura
+    Rey de Bretaña, si dan
+    tiempo, lugar y ventura.
+    Con la guarda me llamó,
+    la historia me declaró;
+    su amor es el verdadero,
+    suyo fue el papel primero
+    y las joyas que te dio;
+    que ella hizo a Doriclea
+    que te escribiese y fingiese
+    que te adora y te desea
+    para que no se entendiese
+    de su valor cosa fea.
+    La que de noche has hablado
+    es la Princesa, señor;
+    y habiéndose ya informado
+    de que te sobra valor
+    para ser de un Rey cuñado
+    te ha escrito un tierno papel,
+    llamándote dueño en él,
+    y diciendo que la puerta
+    tendría esta noche abierta
+    deste amoroso vergel.
+    Sólo quería informarse
+    si eras casado en España
+    para contigo casarse;
+    hoy eres Rey de Bretaña,
+    que no hay más que aventurarse.
+    Y como dije verdad
+    jurando tu libertad,
+    prometió por tu afición
+    hacerme conde bretón.
+    ¡Brindis a tu majestad!
+    Ya eres rey. Esto quería
+    decirte; habla, responde,
+    mirad a mi señoría,
+    que bien puede un rey a un conde
+    hacer cualquier cortesía.
+    ¿Qué te suspendes? ¿Qué quieres?
+    Sabe que nacen mil hombres
+    con tal ventura en mujeres
+    que han tenido reales nombres,
+    y tú, don Juan, déstos eres.
+    Entra, goza la ocasión,
+    si no es que ya la has gozado,
+    sacra majestad bretón,
+    y a este conde alacayado
+    echa tu real bendición.
+DON JUAN:
+    Que quiso levantarme mi fortuna
+    a tan alto lugar y le he perdido.
+    Quien nació para pobre, ¿qué importuna
+    al cielo de sus quejas ofendido?
+    ¿Habrá persona en todo el mundo alguna
+    que a tan alto lugar haya subido
+    y que tan presto dé tan gran caída?
+    Tarde se cobra la ocasión perdida.
+    Que subiesen los césares romanos
+    a la alta dignidad del cetro augusto
+    después de tantos hechos soberanos,
+    ya, en fin, tuvieron de gozarle gusto.
+    Mas yo, engañado por amores vanos,
+    ¿qué consuelo tendré de mi disgusto,
+    si yerro de un papel erró mi vida?
+    Tarde se cobra la ocasión perdida.
+    ¡Ay, amigo, que al Rey de León han dado
+    ese papel que para mí venía!
+    Que es éste embajador, que disfrazado,
+    vino a robarme la ventura mía.
+    Aquí llegó, llamó...
+HERNANDILLO:
+    ¿Y entró?
+DON JUAN:
+    Ya ha entrado.
+HERNANDILLO:
+    Luego no hay majestad ni señoría.
+DON JUAN:
+    ¿Adónde? ¿Cómo?
+HERNANDILLO:
+    Vive Dios, que ha sido
+    el pobre Hernando conde mal parido,
+    que aun título no tuve. ¡Alto! ¡Paciencia!
+    Yo he caído en el limbo de los condes.
+DON JUAN:
+    ¡Ah, fortuna crüel, con qué violencia
+    me muestras la corona y me la escondes!
+    Conociendo mi habla y mi presencia,
+    Rosaura, a otro hombre desigual respondes.
+    ¿Parézcome yo al Rey?
+HERNANDILLO:
+    De ningún modo.
+DON JUAN:
+    Mis desdichas lo pueden hacer todo.
+HERNANDILLO:
+    Consuélate, señor, y vuelve a España.
+DON JUAN:
+    La puerta le guardaba, caso feo;
+    ¡qué de bajezas hace quien se engaña!
+HERNANDILLO:
+    No des voces, señor.
+DON JUAN:
+    Morir deseo.
+HERNANDILLO:
+    Pues no has podido ser rey de Bretaña,
+    serás de aquí adelante Rey de Angeo.
+DON JUAN:
+    Bien me consuelas.
+HERNANDILLO:
+    ¿Y mi señoría
+    es por ventura alguna niñería?
+    ¿Y es barro haber perdido el pobre Hernando
+    este condado por tan linda traza
+    y ver el coronel de oro adornando
+    la vara del caballo y la almohaza?
+[Entra el Conde Arnaldo, y el Almirante, Pinabelo, y Leonicio, y guarda, con alabardas]
+ARNALDO:
+    Ninguno dude que la está gozando.
+HERNANDILLO:
+    Gran gente suena, la rodela embraza.
+DON JUAN:
+    ¡Ay, cielos, dos mil hombres juntos vienen!
+HERNANDILLO:
+    Huye, señor, ¿qué resistencia tienen?
+DON JUAN:
+    Huir no; pero estando aquí a la mira
+    veré quién es el hombre que han buscado.
+    Hernando, entre estos olmos te retira.
+HERNANDILLO:
+    ¿Mas que no para en bien este condado?
+ARNALDO:
+    ¡Romped las püertas!
+ALMIRANTE:
+    Sosegad la ira,
+    que ya os mostráis, Arnaldo, apasionado.
+    Tengamos más respeto a la Princesa.
+ARNALDO:
+    ¡Linda flema, por Dios. Romped apriesa!
+[Sale Doriclea a las voces y el ruido]
+DORICLEA:
+    ¿Qué es aquesto, qué buscáis
+    con tantas armas y grita?
+ARNALDO:
+    A Rosaura, Doriclea,
+    Reina de Bretaña indigna,
+    y al traidor que está en sus brazos;
+    que a un español que venía
+    con él ya le habemos muerto
+    al pie de aquestas encinas.
+    Las espaldas le guardaba;
+    y tú, pues lo mismo hacías,
+    hoy morirás, Doriclea.
+DORICLEA:
+    Arnaldo, con menos ira;
+    y para que el Almirante
+    y los que a tu lado inclinas
+    conozcan que te ha engañado
+    más envidia que justicia,
+    sal, don Juan, que eres mi esposo;
+    sepan que a mí me servías,
+    que Rosaura está inocente.
+ALMIRANTE:
+    ¿Véis, Conde, vuestras mentiras?
+HERNANDILLO:
+    ¿Cómo es aquello, don Juan?
+DON JUAN:
+    Esta mujer desatina,
+    si no es que hay dos como yo.
+[Sale Feliciano]
+FELICIANO:
+    Caballeros, si no admira
+    las industrias en amor
+    cuando los celos le incitan,
+    sabed que soy Feliciano,
+    y que con la seña misma
+    que pensó venir don Juan
+    hurté la suerte a su dicha.
+    Yo soy, y he de ser su esposo;
+    perdonad, señora mía.
+DORICLEA:
+    ¡Hay tal maldad!
+FELICIANO:
+    No es maldad,
+    sino amor.
+DORICLEA:
+    Estoy corrida.
+ARNALDO:
+    Ya habéis visto, caballeros,
+    si dice el Conde mentiras.
+    Todo está bien ocupado,
+    ved qué Porcias, qué Artemisas.
+PINABELO:
+    ¡Oh palacio de traiciones!
+    ¡Oh jardín de Falerina!
+    ¡Oh hüerta más encantada
+    que la de Jasón vencida!
+    Conde, pasad adelante.
+[Sale la Princesa]
+ROSAURA:
+    ¿Qué es esto? ¿Quién os anima
+    a tal maldad en mi casa,
+    gente infame y mal nacida?
+    Tened las armas, cobardes,
+    llenas de infamia y envidia,
+    pues tantas veces de España
+    las habéis visto rompidas.
+    ¿Para una mujer, villanos,
+    tantos venablos se limpian,
+    tantas vírgines espadas,
+    tantas lucientes cuchillas?
+    Allá donde habéis dejado
+    tantas banderas perdidas
+    vendrán mejor esas armas,
+    que no a vuestra Reina misma.
+ARNALDO:
+    Señora...
+ROSAURA:
+    No respondáis,
+    pues ved qué Scipión os guía
+    para que el veneno infame
+    no derrame que le incita.
+    Yo me he casado muy bien;
+    España, el mundo lo diga.
+ALMIRANTE:
+    ¿Con quién?
+ROSAURA:
+    Con don Jüan de Haro,
+    noble sangre vizcaína,
+    hombre que el rey de León
+    le rogó con Armesinda
+    y de quien tiemblan los moros
+    fronterizos de Castilla.
+    Ya es hecho. ¿Qué me queréis?
+ARNALDO:
+    Si es hecho, princesa invicta,
+    Dios es quien le dio a Bretaña,
+    San Pedro se la bendiga.
+HERNANDILLO:
+    ¿Oyes aquello, señor?
+DON JUAN:
+    ¿Otro don Juan?
+HERNANDILLO:
+    Desatinan
+    estas mujeres, por Dios;
+    y es que todas te querían.
+    Y tantas te han de sacar,
+    que alguna vieja maldita
+    habrá de topar contigo.
+ROSAURA:
+    Sal, don Juan, porque este día
+    quiero que besen tu mano.
+[Sale el Rey]
+REY:
+    ¿Por qué mi nombre me quitas?
+    ¿Desconóceme, señora?
+ROSAURA:
+    ¿Qué es esto?
+REY:
+    ¿Ya no sabías
+    cuando escribiste el papel
+    quién era?
+ROSAURA:
+    ¡Yo soy perdida!
+    ¿No eres don Juan?
+REY:
+    No, señora.
+ROSAURA:
+    ¿Pues quién te ha dado osadía
+    para emprender tal maldad?
+REY:
+    Tú, señora.
+ROSAURA:
+    ¿Yo?
+REY:
+    Tú misma.
+ROSAURA:
+    Pinabelo, ¿no te di
+    un papel?
+PINABELO:
+    Sí.
+ROSAURA:
+    ¿Y qué decía?
+PINABELO:
+    «Al español. » ¿No es aquéste?
+ROSAURA:
+    No, que es don Juan.
+DORICLEA:
+    ¡Qué desdicha!
+PINABELO:
+    Señora, la culpa tengo.
+REY:
+    Yo pensé que me escribías
+    conociendo mi valor.
+ROSAURA:
+    ¡Quitalde luego la vida!
+[Llega don Juan]
+DONJUAN:
+    Eso no, porque primero
+    me habéis de quitar la mía,
+    que éste es el Rey de León,
+    don Alonso de Castilla.
+    Errando, acertastes, reina.
+ROSAURA:
+    Si es verdad, tendrélo a dicha.
+REY:
+    Yo soy, que de tu hermosura
+    cuando a don Juan defendías
+    me trujo en aqueste traje
+    la fama que la publica.
+    Rey soy en la noble España
+    para igualarte, este día
+    lo quisiera ser del mundo.
+ROSAURA:
+    Soy de merecerte indigna.
+DORICLEA:
+    Basta, don Juan; que, engañada,
+    soy de Feliciano.
+DON JUAN:
+    Olvida
+    mis engaños, Doriclea;
+    lo que tienes merecías.
+ROSAURA:
+    Conde, no estéis descontento,
+    yo os casaré con mi prima.
+REY:
+    Y yo, por mi obligación,
+    a don Juan con Armesinda.
+ARNALDO:
+    Digo que lo aceto.
+DON JUAN:
+    Y yo;
+    que es justo, señor, que os pida
+    perdón y bese esos pies.
+HERNANDILLO:
+    Todos de Hernando se olvidan.
+    ¿No hay algo que darme a mí
+    sobre aquella señoría?
+    ¿No habrá un poco de bretaña
+    para hacer una camisa?
+ROSAURA:
+    Si no fuiste conde, Hernando,
+    serás señor de dos villas.
+HERNANDILLO:
+    ¡Gran merced!
+DON JUAN:
+    Y aquí, senado,
+    da fin La ocasión perdida.

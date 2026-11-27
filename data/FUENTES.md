@@ -19,13 +19,40 @@ cabecera ni el pie de Gutenberg, como permite su licencia. Más información:
 
 ---
 
-# Teatro de Calderón (`calderon/tei/`, cuaderno 04)
+# Teatro del Siglo de Oro (`calderon/tei/` y `teatro/`)
 
-Selección de 14 obras del corpus TEI privado `DrKroll/Calderon_TEI`. Se incluyen **solo textos
-claramente libres**: autos en CC0 basados en una edición antigua (1717), textos de la colección
-ARTELOPE/EMOTHE (libres para lectura y reproducción con cita de la procedencia) y las ediciones de Simon Kroll
-(una propia y dos en coautoría, incluidas con su autorización expresa del 23/11/2026).
-Los archivos XML se copian **sin modificar** (cabecera TEI completa).
+**688 obras de 26 autores**, sin duplicados, reunidas el 27/11/2026 de los repositorios de Simon Kroll:
+
+| Repositorio de origen | Destino en este repo | Obras | Formato |
+|---|---|---:|---|
+| `DrKroll/Calderon_TEI` | `calderon/tei/` | 150 | TEI-XML (copiado sin cambios) |
+| `DrKroll/Calderon_TEI` | `teatro/calderon-de-la-barca/` | 8 | texto con personajes (convertido del formato txt2tei) |
+| `DrKroll/corpus` | `teatro/<autor>/` | 514 | texto con personajes (txt2tei) o solo texto de los parlamentos |
+| `DrKroll/corpus` | `calderon/tei/` | 2 | TEI-XML |
+| selección anterior de este repo (ver tabla de abajo) | `calderon/tei/` | 14 | TEI-XML |
+
+También se revisaron `DrKroll/Computational-stylometry` (solo copias o fragmentos de obras ya incluidas),
+`DrKroll/machine-learning-rhythm-authorship` (sin textos) y `DrKroll/Curso-UAM` (vacío): no aportan obras nuevas.
+
+**Licencia:** las obras son de los siglos XVI y XVII y están en el **dominio público**. Así lo ha decidido
+Simon Kroll (27/11/2026) para todo el teatro áureo de sus repositorios. Las ediciones digitales de las que proceden se
+citan en la cabecera TEI de cada obra o en la columna `edicion` de **`teatro_indice.csv`**, que también da para cada
+obra el repositorio y la ruta de origen. Dos archivos llevan un aviso de copyright moderno de la edición digital:
+*El divino Narciso* y su loa (Sor Juana; «© UNAM 2020»).
+
+**Sin duplicados:** cuando una obra estaba en varios repositorios, formatos o ediciones, se conserva **una sola versión**:
+la de este repositorio si ya estaba; si no, la TEI; si no, la versión con personajes, y entre ellas la más completa.
+Las copias se detectaron por autor y título normalizado y por comparación del texto (copias con otro nombre de archivo,
+copias parciales y fragmentos). Se conservan por separado obras distintas con el mismo título (auto y comedia de
+*El pintor de su deshonra* y *El jardín de Falerina*; primera y segunda parte de *La hija del aire*, *Don Juan de Castro*,
+*El príncipe perfecto*; las dos versiones de *El divino Orfeo*, 1634 y 1663, y de *La vida es sueño* auto).
+No se incluyen los romances y la poesía de Góngora ni dos archivos ilegibles (`Gongora/all.txt`, `lope_padrino_desposado.txt`).
+
+Formatos en `teatro/`: «texto con personajes» = cada parlamento con el nombre del personaje (`NOMBRE:`), versos con sangría,
+acotaciones entre corchetes y `JORNADA n`; «solo texto» = solo el texto de los parlamentos (versiones preparadas para
+estilometría), cuando no había otra versión.
+
+## Las 14 obras de la primera selección del curso
 
 | Archivo | Obra | Edición / fuente (según la cabecera TEI) | Licencia (cabecera TEI) |
 |---|---|---|---|
@@ -55,7 +82,5 @@ sin versión clara (el enlace `publicdomain/BY/3.0` no es una URL válida de Cre
 **Uso en el taller:** solo con fines docentes y sin ánimo de lucro. *El príncipe constante* (CC BY-NC-ND) se
 distribuye sin cambios; los adaptadores entrenados no deben publicarse fuera de este curso.
 
-**No incluidos** (derechos de las ediciones modernas sin aclarar): ediciones de GRISO/Universidad de
-Navarra–Reichenberger (incluidos los autos con cabecera CC0), Biblioteca Castro, Iberoamericana/Vervuert,
-ediciones «sin publicar», los dos autos de Pando y Mier cotejados con la edición BAC (1997), las demás ediciones
-en coautoría y otros textos del corpus.
+(Las demás obras de Calderón proceden de las ediciones citadas en sus cabeceras TEI: GRISO/Universidad de
+Navarra–Reichenberger, Biblioteca Castro, Iberoamericana/Vervuert, CANON60, DraCor, ediciones de Simon Kroll y otras.)

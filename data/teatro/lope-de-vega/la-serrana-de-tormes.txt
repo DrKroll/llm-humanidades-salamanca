@@ -1,0 +1,4687 @@
+# La serrana de Tormes
+Autor: Lope de Vega
+
+JORNADA 1
+
+[Salen Alejandro, estudiante, y Bernardo, caballero]
+ALEJANDRO:
+    (¿Fuera de la iglesia a mí?
+    ¡Válame Dios! ¿Qué será?)
+BERNARDO:
+    ¿Que alterado venís ya?
+ALEJANDRO:
+    ¿No estamos bien?
+BERNARDO:
+    ¿Dónde?
+ALEJANDRO:
+    Aquí.
+BERNARDO:
+    Para lo que fuere hablar,
+    Alejandro, estamos bien.
+ALEJANDRO:
+    ¿Hemos de reñir también?
+BERNARDO:
+    Vos lo podéis escusar.
+ALEJANDRO:
+    ¿De qué manera?
+BERNARDO:
+    Escuchadme...
+ALEJANDRO:
+    En hora buena advertidme
+    lo que queréis.
+BERNARDO:
+    Pues oídme,
+    y, si hablo mal, perdonadme.
+    ¿Amáis a Dïana?
+ALEJANDRO:
+    Sí,
+    eso no puedo negar.
+BERNARDO:
+    ¿Y ella a vos?
+ALEJANDRO:
+    No puedo hablar
+    más que en lo que sé de mí.
+BERNARDO:
+    Cuando a servirla venistes,
+    ¿supistes que yo la amaba?
+ALEJANDRO:
+    Supe que no se acordaba
+    si por ventura nacistes.
+    Supe también que era hermosa,
+    que a mi alma y sus despojos
+    se lo dijeron los ojos,
+    que la tuvieron por diosa.
+    Y con solo saber esto,
+    y algunas que el alma calla,
+    luego me dispuse a amalla
+    con un pensamiento honesto.
+    Y supe que a su albedrío
+    le dio el cielo libertad,
+    que el daros su voluntad
+    ni era vuestro ni era mío.
+BERNARDO:
+    Y esto que el alma calló
+    ¿es por ventura saber
+    que os había de querer
+    la que rendida os miró?
+ALEJANDRO:
+    Delicados puntos son.
+    No amé con más confïanza
+    que estimar esta esperanza
+    por la mejor posesión.
+    Ya es eso mucho apurar.
+BERNARDO:
+    Si a mí me apura un desdén,
+    a la causa de él también
+    he de apurar y acabar.
+    Y así, pido que me deis
+    —ved cuán libremente os trato—
+    dos papeles y un retrato
+    que de mi mano tenéis,
+    que yo sé bien que la ingrata
+    que a mi perdición se anima
+    poco mi retrato estima
+    después que en el alma os trata.
+    Y en mi justicia confío
+    que tan llanamente os muestro:
+    yo no os quito lo que es vuestro,
+    sino solo lo que es mío.
+    Hacedme aqueste placer
+    y quedaremos amigos.
+ALEJANDRO:
+    Hago a los cielos testigos
+    que no están en mi poder.
+    A vos os han engañado,
+    que no me conoce apenas,
+    y mal da prendas ajenas
+    la que las propias no ha dado.
+    Y yo, ¿para qué quería
+    que ajeno papel me ocupe?,
+    que gracias a Dios bien supe
+    escribirlos algún día.
+    Pues ¿vuestro retrato yo?
+    ¿Tan hermoso os parecéis?
+BERNARDO:
+    En fin, ¿que no los tenéis,
+    ni mi enemiga os los dio?
+ALEJANDRO:
+    ¿Yo, retrato? ¿No es donoso?
+    Más le estimara tener
+    de la más fea mujer
+    que del hombre más hermoso.
+    ¿Estaba yo por ventura
+    enamorado de vos?
+BERNARDO:
+    Cosarios somos los dos,
+    poca hacienda se aventura.
+    Y ese hablar tan atrevido,
+    con tanta burla y desprecio,
+    es con término muy necio,
+    y en Toledo mal sufrido.
+    Pésame que no os saqué
+    del claustro, que yo os dijera
+    cómo se suele allá fuera
+    hablar conmigo.
+ALEJANDRO:
+    No sé
+    cómo os responda corrido.
+    ¿Dónde queréis que os aguarde?,
+    que os tengo por más cobarde
+    que el término necio ha sido.
+BERNARDO:
+    ¿Seréis hombre?
+ALEJANDRO:
+    ¡Paso! Bueno
+    que eso no se me dijera,
+    si en el hábito viniera
+    de mi profesión ajeno;
+    que el ser hombre, ¡pesia tal!,
+    no lo impiden al deseo
+    la sotana y el manteo
+    cuando está la espada igual.
+    Este mujeril embargo
+    del pecho que es bien nacido,
+    ¿es más que un hombre vestido
+    con un vestido más largo?
+    El vestido no deshonra,
+    que es honra en tantos, y mía,
+    que entre estas mantillas cría
+    muchos hércules la honra.
+    Adonde Marte importuno
+    hace mayores alardes,
+    habrá soldados cobardes,
+    pero estudiantes, ninguno.
+    Todo cuanto arrastra aquí
+    es honra, fama y valor,
+    y estad cierto que es honor
+    la facultad que aprendí.
+BERNARDO:
+    Yo me huelgo que mostréis
+    esos honrados aceros,
+    porque lleguéis hasta veros
+    donde sufrillos podéis;
+    que en ánimos semejantes,
+    suele la fuerza engañar.
+ALEJANDRO:
+    ¿Dónde me habéis de aguardar?
+BERNARDO:
+    Encima de San Cervantes,
+    porque fuera de Toledo
+    nos entendamos mejor.
+ALEJANDRO:
+    Ya os digo que aprendo honor
+    y soy idiota del miedo.
+    Quitareme la sotana
+    y descubrireme el pecho,
+    y estaréis bien satisfecho
+    si tengo en él a Dïana.
+    Y vos veréis que seglar
+    con la espada me hizo Dios.
+BERNARDO:
+    A Dios.
+ALEJANDRO:
+    Él vaya con vos.
+BERNARDO:
+    ¡Qué cólera!
+ALEJANDRO:
+    ¡Qué pesar!
+[Vanse, y entra Diana, dama, y Seraldo, su tío, con unos papeles]
+SERALDO:
+    ¿Son por ventura los ejemplos estos,
+    sobrina ingrata, de tu muerto padre?
+    ¿Son los dechados y consejos estos,
+    Dïana loca, de tu ausente madre?
+    ¿Son estos los propósitos honestos
+    y aquel valor que de tus deudos cuadre
+    a la esperanza de tu honrado tío?
+    ¿Este el servicio y el regalo mío?
+    ¿Es esta aquella noble confïanza
+    que hice de tu honrado entendimiento?
+    ¿Es este mi descuido, y la esperanza
+    fundada en tu devoto pensamiento?
+    ¡Ay, cómo el beneficio y la labranza
+    en tierra de mujer es darla al viento!
+    Rinde buen fruto al labrador la oliva;
+    ¡triste de aquel que la mujer cultiva!
+    ¿Tú eres la monja, tú la que pedías
+    tan espiritüales oratorios?
+    ¿Tú la que hablarte apenas consentías,
+    menos que en torno, red o locutorios?
+    ¿Tú la que como hipócrita fingías
+    ayunos y silicios tan notorios?
+    Mas silicios tan públicos, ¿quién duda
+    que eran sobre el jubón y no desnuda?
+    Decías que eras huérfana, y quisieras,
+    pues no podías con tu igual casarte,
+    servir a Dios donde mejor pudieras
+    con el Divino Esposo regalarte;
+    huérfana sola de virtudes eras,
+    que no de padres, pues que vengo a hallarte
+    todos estos testigos que en mi mano
+    jüez me han hecho, y tu delito llano.
+[Hace que la quiere dar]
+    ¿Cúyos son, enemiga, estos papeles?
+    ¡Que, vive Dios...
+DIANA:
+    ¡Detente! ¿Qué es aquesto?
+    ¿Cuándo ponerme tú las manos sueles?
+SERALDO:
+    Cuando las tuyas en tu infamia has puesto.
+    Hoy tu blandura las hará crüeles,
+    y libre a mí tu pecho deshonesto,
+    que estos papeles son claro proceso
+    de mi deshonra, y de tu poco seso.
+    ¿A quién amas? ¿Quién es el que te escribe?
+DIANA:
+    ¡Paso, señor, que no me dan tormento!
+    Si amor es caridad, no se prohíbe
+    para servir a Dios en casamiento.
+SERALDO:
+    ¿Casar? No plega a Dios que yo te prive
+    de aquel estado que te da contento,
+    que, si has de ser profana religiosa,
+    mejor serás casada virtüosa.
+    ¿Quién te escribe y pretende?
+DIANA:
+    Un estudiante.
+SERALDO:
+    ¿Quién lo dudaba? Y ¿qué profesa?
+DIANA:
+    Leyes.
+SERALDO:
+    ¿Qué nacimiento?
+DIANA:
+    A quien yo soy bastante,
+    que no soy primogénita de reyes.
+SERALDO:
+    Siendo tu gusto, llévalo adelante,
+    que un labrador que vaya tras los bueyes
+    más para ser marido vale y honra
+    que un duque para ser galán sin honra.
+    ¿Es de Toledo?
+DIANA:
+    Sí, señor.
+SERALDO:
+    ¿Qué nombre?
+DIANA:
+    Alejandro se llama, hijo de Antandro.
+SERALDO:
+    Conózcole muy bien, y sé que es hombre
+    para igualar tus prendas Alejandro.
+    Escogiste mancebo gentilhombre,
+    y no menos furioso que Leandro.
+    ¿Ha entrado en esta casa?
+DIANA:
+    Mi delito
+    no se ha estendido a más que a habelle escrito.
+SERALDO:
+    ¿Quieres que trate con su padre el caso?
+DIANA:
+    Por agora es mejor que así lo dejes,
+    que ni él me adora, ni por él me abraso.
+SERALDO:
+    Esto es porque después no te me quejes.
+    Entra en tu cuadra luego. Alarga el paso,
+    que del peligro yo te haré que alejes
+    ojos, cuidados, alma y fantasía.
+DIANA:
+    (Bien sale por cualquiera celosía.)
+[Vase Diana, queda Seraldo solo]
+SERALDO:
+    El sol quiere cerrar, el viento coge,
+    al mar se entrega, ríndese al tirano,
+    pólvora guarda, víbora recoge,
+    deja por montes el camino llano,
+    al aire plumas y papel descoge,
+    confía del traidor, ruega al villano,
+    nobleza compra y falsa fama adquiere,
+    quien guarda la mujer, cuando ella quiere.
+[Vase, y entra Alejandro y Floricio; viene Alejandro en cuerpo]
+ALEJANDRO:
+    Ten de la manga, Floricio;
+    quitareme la sotana.
+FLORICIO:
+    Como es luna tu Dïana,
+    hate quitado el jüicio.
+    ¿Tú desafïado? Estoy
+    por hacer un gran desprecio.
+ALEJANDRO:
+    No voy por Dïana, necio.
+FLORICIO:
+    Pues ¿por quién?
+ALEJANDRO:
+    Por mi honra voy,
+    que es luna más importante,
+    pues ya el mundo no consiente
+    que deje de estar creciente,
+    aunque en el cielo menguante.
+[Desnúdase la sotana; dice Floricio:]
+FLORICIO:
+    Ya estás en solo el jubón.
+ALEJANDRO:
+    Traeme la espada y el jaco.
+FLORICIO:
+    A fe que le tiene flaco
+    el que cubre el corazón.
+ALEJANDRO:
+    Cierra, Floricio, la puerta;
+    no me vean si alguien pasa.
+FLORICIO:
+    No estando tu padre en casa,
+    bien puede quedarse abierta.
+[Va Floricio por la espada y jaco]
+ALEJANDRO:
+    A haceros agravios vengo,
+    Dïana, en esta ocasión,
+    pues me cubro el corazón
+    donde tan al vivo os tengo.
+    ¿Qué jaco ni qué defensa
+    he menester donde estáis,
+    pues con desdenes matáis
+    este que matarme piensa?
+    En fin, os llevo conmigo;
+    vos seréis la vencedora,
+    si tan rendida os adora
+    la espada de mi enemigo.
+    Y será vuestra la palma,
+    que, cuando llegue tan fiera,
+    volveréis su acero en cera,
+    dándole el sol en el alma.
+[Sale Floricio con espada y jaco]
+FLORICIO:
+    Aqueste es el jaco; toma.
+ALEJANDRO:
+    ¡Qué buena malla, Floricio!
+FLORICIO:
+    ¡Por Dios, con gentil silicio
+    Dïana tus carnes doma!
+    Viste...
+ALEJANDRO:
+    Bien parece un hombre
+    con cualquier arma.
+FLORICIO:
+    ¡Muy bien!
+ALEJANDRO:
+    No hay gala que esté tan bien.
+FLORICIO:
+    Sin armas, no hay gentilhombre.
+    ¿Qué te has de poner encima?
+ALEJANDRO:
+    Cuera de ante me pondré.
+FLORICIO:
+    ¡No llevarás frío, a fe!
+ALEJANDRO:
+    De estos hombros me lastima.
+FLORICIO:
+    Tan cargado vas, señor,
+    de hierro como de miedo.
+ALEJANDRO:
+    Si guardar el pecho puedo,
+    ¿iré desnudo mejor?
+[Sale Antandro, viejo, padre de Alejandro]
+ANTANDRO:
+    ¿Para dónde, gentilhombre,
+    son las armas y la espada?
+ALEJANDRO:
+    ¿No la dejaras cerrada?
+ANTANDRO:
+    No se espante, no se asombre.
+    Bien le viene la sotana:
+    para el invierno es muy buena,
+    que no hará lodos.
+ALEJANDRO:
+    (¡Oh, pena
+    como forzosa inhumana!
+    ¡Oh, sujeción paternal!)
+ANTANDRO:
+    ¿Qué estás hablando entre ti?
+ALEJANDRO:
+    (¿De que me hables ansí?)
+    De mí mismo digo mal.
+ANTANDRO:
+    ¿Dónde ibas?
+ALEJANDRO:
+    ¿Yo, señor?
+    Cierto amigo la vendía,
+    y probármela quería.
+ANTANDRO:
+    ¡Buen Jasón, gentil doctor!
+    ¿De qué tenías dinero?
+ALEJANDRO:
+    Mi madre me lo prestaba,
+    porque entendió que compraba...
+ANTANDRO:
+    ¿Qué comprabas? ¡Habla, fiero!
+    A tu engaño dan alcance
+    esos turbados recelos.
+ALEJANDRO:
+    Compraba unos tiraquelos
+    que se vendían de lance.
+ANTANDRO:
+    Como mientes, vas turbado.
+    ¿Tú, jaco? ¿Qué es esto, perro?
+ALEJANDRO:
+    ¿Qué impide un poco de hierro
+    a los libros y al cuidado?
+    ¿No has oído que la lanza
+    jamás embota la pluma?
+ANTANDRO:
+    Deshízose como espuma
+    en tu engaño mi esperanza.
+ALEJANDRO:
+    ¿Tan mal parece, señor,
+    entre los libros colgada
+    una rodela y espada,
+    siendo todo un mismo honor?
+    Una hiedra y un laurel,
+    y sobre el libro un almete,
+    es símbolo que promete
+    que las dos son hijas de él.
+    Si las letras quieren paz,
+    con la milicia se adquiere:
+    espada, libro requiere.
+ANTANDRO:
+    ¿Tú con un viejo, rapaz?
+    ¿Sofisterías a mí?
+    ¿Con fingidos argumentos
+    tus juveniles intentos
+    quieres hacer honra aquí?
+ALEJANDRO:
+    Pues...
+ANTANDRO:
+    ¡Calla!
+ALEJANDRO:
+    Mandas que calle,
+    y es la obediencia mi oficio.
+ANTANDRO:
+    Cierra la puerta, Floricio.
+FLORICIO:
+    ¿Cuál puerta?
+ANTANDRO:
+    La de la calle.
+[Dale una llave]
+FLORICIO:
+    ¿Llave me das?
+ANTANDRO:
+    Cierra, pues,
+    y vuélvete aquí la llave.
+ALEJANDRO:
+    No es este caso tan grave
+    como tu condición es;
+    que querer comprar un jaco
+    no es caso de Inquisición.
+ANTANDRO:
+    ¡Mal haya mi condición
+    si la vida no te saco!
+    Pero ¿con quién has reñido?
+    Dilo todo, dilo luego:
+    ¿fue por amor o por juego?
+ALEJANDRO:
+    Ni juego ni amor ha sido.
+    Yo, ¿cuándo suelo jugar,
+    ni menos tratar de amor?
+ANTANDRO:
+    No me lo niegues, traidor,
+    que lo quiero remediar.
+ALEJANDRO:
+    Digo, señor, que no es nada.
+    ¿Gustarías que mintiese?
+ANTANDRO:
+    ¡Vive Dios que te atraviese,
+    si meto mano a mi espada!
+[Hace que empuña]
+ALEJANDRO:
+    Si es una la sangre nuestra,
+    mátame, no importa nada.
+[Sale Floricio]
+FLORICIO:
+    Ya está la puerta cerrada.
+ANTANDRO:
+    ¿Y la llave?
+FLORICIO:
+    Toma.
+ANTANDRO:
+    Muestra.
+    Quédate, Floricio, aquí,
+    y él váyase a su aposento,
+    que yo te daré tormento.
+FLORICIO:
+    Pues ¿por qué, señor, a mí?
+ALEJANDRO:
+    (¿Hay desdicha que se iguale
+    a mi pena injusta y fiera?
+    ¿Cómo que Bernardo espera,
+    y que Alejandro no sale?
+    ¿Qué puede decir de mí
+    después que en vano me aguarde,
+    sino que fue de cobarde?)
+ANTANDRO:
+    ¿Todavía estás aquí?
+    Vaya a su aposento y calle.
+FLORICIO:
+    ¡En buenas manos me deja!
+ALEJANDRO:
+    ¡Vive Dios!, que a estar sin reja,
+    que me arrojara a la calle.
+    Quiérome entrar a escribir
+    la razón por que no voy.
+[Vase]
+[Queda Floricio y Antandro]
+ANTANDRO:
+    Contigo a solas estoy:
+    la verdad me has de decir.
+FLORICIO:
+    Si va a decir la verdad,
+    contra todo gusto mío,
+    iba a un cierto desafío,
+    y fuera de la ciudad.
+ANTANDRO:
+    ¿Con quién?
+FLORICIO:
+    Con un caballero.
+ANTANDRO:
+    ¿Cómo se llama?
+FLORICIO:
+    Bernardo.
+ANTANDRO:
+    ¿Es hombre de hecho?
+FLORICIO:
+    Gallardo.
+ANTANDRO:
+    ¿Que es gallardo?
+FLORICIO:
+    Fuerte y fiero.
+ANTANDRO:
+    ¿Por qué fue?
+FLORICIO:
+    Por amor fue.
+ANTANDRO:
+    ¿De quién?
+FLORICIO:
+    De una cierta dama.
+ANTANDRO:
+    ¿Quién es?
+FLORICIO:
+    Dïana se llama.
+ANTANDRO:
+    ¿Cúya hija?
+FLORICIO:
+    No lo sé.
+ANTANDRO:
+    Y ¿dónde era el desafío
+    de los dos necios amantes?
+FLORICIO:
+    Encima de San Cervantes,
+    de esotra parte del río.
+ANTANDRO:
+    ¿Allí le aguarda?
+FLORICIO:
+    Él decía
+    que allí junto le aguardaba.
+ANTANDRO:
+    ¿Y para eso se armaba?
+FLORICIO:
+    Señor, sí.
+ANTANDRO:
+    Muy bien hacía.
+    Haz que aquella yegua blanca
+    y el macho un esclavo ensille,
+    que quiero que se acuchille
+    no menos que en Salamanca.
+FLORICIO:
+    ¿Luego le quieres llevar?
+ANTANDRO:
+    Luego al punto, porque es fuego
+    que, si no se mata luego,
+    tarde se podrá matar.
+    No digas nada a su madre
+    mientras voy a prevenir
+    que luego pueda partir.
+[Vase; queda Floricio]
+FLORICIO:
+    Eres cuerdo y, al fin, padre.
+    Notable desdicha ha sido,
+    aunque quizá por mejor,
+    que la vida y el honor
+    el miedo y duda han perdido;
+    que, aunque no salir es culpa
+    a quien disculpa no cuadre,
+    es tal la fuerza del padre
+    que le defiende y disculpa.
+[Sale Alejandro, y dice como desesperado:]
+ALEJANDRO:
+    ¡Oh, Floricio! ¿Dónde es ido
+    mi padre tan enojado,
+    que llave a la puerta ha echado?
+FLORICIO:
+    Todo tu bien has perdido:
+    a Salamanca a estudiar
+    te lleva dentro de un hora.
+ALEJANDRO:
+    ¡Triste de mí!
+FLORICIO:
+    Pues agora
+    su yegua manda ensillar,
+    y la mula para ti,
+    y que te pongas espuelas
+    me dijo.
+ALEJANDRO:
+    ¡Basta! Pondrelas
+    al mal del bien que perdí;
+    que no es mucho que el dolor
+    y el ánimo apresurado
+    acaben vida y cuidado,
+    donde se acaba el honor.
+    ¿Hay, dime, ventana en casa
+    que alguna reja no tenga?
+FLORICIO:
+    Y ¿qué dirá cuando venga
+    y le diga lo que pasa?
+ALEJANDRO:
+    ¿No me cuentas ya por muerto?
+    Disculparaste conmigo.
+    ¡Hazlo, por Dios, hazlo, amigo!
+FLORICIO:
+    Es locura y desconcierto;
+    que nos podremos matar
+    y ser vistos de la gente,
+    que es mayor inconveniente.
+ALEJANDRO:
+    ¿Que al fin me quiere llevar?
+FLORICIO:
+    Ya no hay remedio.
+ALEJANDRO:
+    ¿Qué haré?
+FLORICIO:
+    Escribir esto a tu dama.
+ALEJANDRO:
+    Y de mi honra y mi fama
+    ¿qué cuenta al mundo daré?
+FLORICIO:
+    Escribe por sí o por no,
+    antes que tu padre venga
+    y a llevarte se prevenga.
+ALEJANDRO:
+    Él me engendró y me mató.
+[Vanse; sale solo Bernardo]
+BERNARDO:
+    Honra, amor, celos y agravio
+    me traen a ver mi muerte,
+    pues no quiere de otra suerte
+    remediarme el tiempo sabio.
+    Rato ha que sois testigo,
+    castillo invencible y alto,
+    que a mi palabra no falto
+    y que espero a mi enemigo.
+    De la honra mil recelos,
+    de amor la esperanza vana,
+    el agravio de Dïana
+    y de Alejandro los celos,
+    todos juntos, que pudiera
+    cualquiera solo por sí,
+    me han hecho esperar aquí
+    vida alegre o muerte fiera.
+    Pero el ver que la tardanza
+    del contrario la defiende,
+    parece que al cielo ofende
+    la razón de mi venganza;
+    pues ¿qué es esto, cielo airado,
+    cuando eternamente he sido
+    de la razón ofendido
+    y a la maldad obligado?
+    Mas ¿qué mucho que en razón
+    dejes, Dïana, tu luna
+    defienda sin causa alguna
+    su lascivo Endimïón?
+    ¿Es posible que no viene
+    cumpliendo con su arrogancia
+    el que tan poca distancia
+    del libro a la espada tiene?
+    Pero ¿quién será este viejo
+    que viene derecho a mí?
+[Entre Antandro, padre de Alejandro]
+ANTANDRO:
+    (Muy desarmado salí;
+    no he traído buen consejo,
+    que no viene a este lugar
+    descuidado mi enemigo.)
+    ¡Ah, galán!
+BERNARDO:
+    ¿Habláis conmigo?
+ANTANDRO:
+    Y a vos os vengo a buscar.
+BERNARDO:
+    ¿Vos a mí? Pues ¿a qué efeto?
+ANTANDRO:
+    ¿No sois Bernardo?
+BERNARDO:
+    Sí soy.
+    (¿Yo no vine a donde estoy
+    por lo más solo y secreto?
+    ¿Quién habrá dicho el suceso?
+    Pero, si se trata de paz,
+    yo pienso estar pertinaz
+    rogado, oprimido o preso.)
+ANTANDRO:
+    Sacad, Bernardo, la espada,
+    que aquí está vuestro enemigo.
+[Mete mano]
+BERNARDO:
+    ¿Yo con vos?
+ANTANDRO:
+    Sí, vos conmigo.
+    ¿No es como la vuestra honrada?
+BERNARDO:
+    Señor, si en mi vida os vi,
+    ¿por qué he de reñir con vos?
+    Si no es que ha de ser con dos...
+ANTANDRO:
+    Por el que falta salí.
+    No puede agora Alejandro
+    salir a tan justa empresa,
+    que está su persona presa,
+    pero por él viene Antandro.
+    No dudéis que nos matemos
+    si queréis vengaros de él,
+    porque os juro que yo y él
+    la misma sangre tenemos.
+    Siempre a la causa se culpa
+    de cualquier efeto malo;
+    yo, que a la causa me igualo,
+    soy el actor de la culpa.
+    Por mí vive el que esperáis;
+    por eso, matadme a mí
+    como quien la causa fui
+    del agravio que vengáis.
+    Porque ninguno la arguya
+    de cobarde y abatida,
+    matad, Bernardo, esta vida
+    que dio principio a la suya.
+    Yo le encerré con prisiones
+    de mi llave y obediencia,
+    satisfaciendo en ausencia
+    entrambas obligaciones.
+    Como era mi sangre aquella,
+    sabed que la recogí
+    porque, si se vierte aquí,
+    quedase mi sangre en ella.
+    ¿No ha de ser, aunque os provoco,
+    tanta vuestra cortesía?
+    Si habéis de verter la mía,
+    ¿qué se os da que quede un poco?
+    ¿Quién deja de hacer jamás
+    lo que el amor le aconseja?
+    Viértase esta sangre vieja
+    y dure la nueva más.
+    Aquel que mata inclemente,
+    por vengarse, a su enemigo,
+    que hace un desconcierto digo,
+    porque el muerto ya no siente.
+    Si vivo y muerto quedase,
+    su castigo lloraría,
+    y muerto y vivo vería
+    el que mata al que matase.
+    Y esto podéis hacer vos,
+    siendo, si yo muero aquí
+    y vive Alejandro allí,
+    haber rendido a los dos:
+    verase en su padre muerto,
+    y vos en su padre a él,
+    y con salir yo por él
+    él cumplirá su concierto;
+    que, como digo, yo supe
+    la ocasión y la pendencia,
+    y es mejor que mi esperiencia
+    aqueste lugar ocupe.
+    Quieroos tratar como hidalgo,
+    que por lo que airado os dijo,
+    aunque es honrado mi hijo,
+    como más honrado salgo.
+    Ea, pues que estáis en duda,
+    alzad esa mano airada,
+    que se me queja la espada
+    de que la tengo desnuda.
+    ¿Qué miráis?
+BERNARDO:
+    Estoy suspenso
+    de tal determinación,
+    y así con justa razón
+    a los dos rendirme pienso:
+    a él por hijo dichoso
+    de tal padre como vos,
+    y a vos porque os hizo Dios
+    tan discreto y animoso.
+    Y esto lo puedo hacer bien
+    sin ofender a mi honor,
+    por agravio de un amor
+    y defensa de un desdén.
+    Esa sangre recogida,
+    de quien dais tan buena muestra,
+    mil años viva en la vuestra,
+    siendo los dos una vida.
+[Dásela]
+    Esta, señor, es mi espada;
+    vos habéis muy bien reñido,
+    pues ya me tiene rendido
+    la vuestra en piedad bañada.
+    De vuestro hijo y de vos
+    soy amigo.
+ANTANDRO:
+    Será llano
+    concierto con esa mano,
+    pues esta os doy por los dos;
+    que, si la mano me dais,
+    la espada entregáis también.
+BERNARDO:
+    Negociado habéis más bien,
+    Antandro, que imagináis.
+    A Dïana, si tenía
+    a su amor algún derecho,
+    la despido de mi pecho
+    y se la diera, a ser mía.
+    Él puede casar con ella
+    si no os da a vos pesadumbre,
+    aunque de estos ojos lumbre
+    y de esta Troya centella;
+    que este lazo de amistad
+    hoy mi casamiento ha sido.
+ANTANDRO:
+    Tarde la habéis ofrecido,
+    que hoy sale de la ciudad.
+BERNARDO:
+    ¡Cómo!
+ANTANDRO:
+    Ya está de camino
+    a Salamanca a estudiar,
+    que así se suele estorbar
+    un juvenil desatino.
+    Vos podéis casar con ella,
+    y, aunque con él ir quería,
+    se irá solo, y este día
+    he de hablar sus tíos de ella.
+    Quiero haceros buen tercero;
+    por eso, venios conmigo,
+    que en despachando a quien digo
+    hablar a Seraldo quiero,
+    con quien en la mocedad
+    tuve amistad muy estrecha,
+    y la amistad aprovecha
+    con más fuerza en esta edad.
+BERNARDO:
+    ¡Quiero besaros los pies,
+    no los retiréis de mí!
+ANTANDRO:
+    ¡Paso! No tratéis así
+    a quien ya tan vuestro es;
+    que yo os la daré en efeto,
+    y no es pobre de valor,
+    que la virtud y el honor
+    son los dotes del discreto.
+[Vase, y sale Seraldo y Diana]
+DIANA:
+    ¿La ventana me clavas? ¿A qué efeto?
+SERALDO:
+    Porque es ocasionada la ventana
+    para regalos de un amor secreto.
+DIANA:
+    ¿Que a escuras he de estar noche y mañana?
+SERALDO:
+    ¿A escuras? Es el sol muy inquïeto,
+    y muy galán de su querida hermana;
+    eres Dïana tú, y es su costumbre
+    dar a Dïana de sus rayos lumbre.
+DIANA:
+    ¿Con fábulas me engañas?
+SERALDO:
+    Halo sido
+    la esperanza que puse en tu memoria,
+    aunque tu seso, con tu honor perdido,
+    son por mi daño verdadera historia.
+DIANA:
+    Bien me tienes por falta de sentido,
+    si al Limbo me reduces de tu gloria.
+SERALDO:
+    ¿Y no eres loca, si a ti misma ofendes,
+    y con razones necias te defiendes?
+DIANA:
+    Serelo ya, pues que cerrada quedo,
+    que la pasión no hay seso que no gaste,
+    y más que, a escuras sola, tendré miedo.
+SERALDO:
+    Sin miedo alguna vez de noche hablaste.
+DIANA:
+    Pues ¿cómo hacer labor sin lumbre puedo,
+    ya que a labor de noche me obligaste?
+SERALDO:
+    A la mujer que es virtüosa y casta
+    para labrar muy poca luz le basta.
+[Sale Julia, criada de Diana, con la escribanía]
+JULIA:
+    La escribanía que mandaste traigo.
+SERALDO:
+    ¡Oh, Julia amiga, así mil años vivas!,
+    que me has hecho placer.
+DIANA:
+    Agora caigo
+    en que también me mandas que no escriba.
+SERALDO:
+    Esta vez de tu pecho desarraigo
+    toda ocasión que del honor te priva:
+    instrumento de mal, y no otra cosa,
+    son pluma y tinta en la mujer ociosa.
+    ¿Qué libros tienes?
+DIANA:
+    Un Fray Luis.
+SERALDO:
+    Es santo,
+    santa su lengua, pluma, escrito y vida.
+    ¿Qué más?
+DIANA:
+    Un oratorio.
+SERALDO:
+    Ve, entre tanto,
+    Julia, por ellos.
+DIANA:
+    (¡Ay, que soy perdida!)
+[Vase]
+SERALDO:
+    Leyendo en quien trató del cielo tanto
+    que un alma deja de su amor herida,
+    ¿a lo humano te trajo tu locura?
+DIANA:
+    ¿No puede amarse Dios en su criatura?
+SERALDO:
+    ¿Que aun para aquesto quieres ser sofista?
+DIANA:
+    Amar a un hombre es pensamiento honesto
+    con habla grave y vergonzosa vista,
+    y al matrimonio el corazón dispuesto.
+SERALDO:
+    ¿Quién hay que a tanta obstinación resista
+    donde se prueba el hurto manifiesto?
+[Sale Julia con los libros de Diana]
+JULIA:
+    ¿Los libros son aquestos?
+SERALDO:
+    Muestra.
+DIANA:
+    (¡Ay, triste!)
+SERALDO:
+    ¿El oratorio y Fray Lüis dijiste?
+[Lee los títulos y dice:]
+    ¡Buena encuadernación! Primera parte
+    de La Dïana... ¡Bien, por vida mía!
+    ¡Qué gentil Fray Lüis! Quisiera darte
+    la culpa que tu culpa merecía.
+DIANA:
+    Deja ya de mirallos y enojarte,
+    que así me los prestó una prima mía.
+SERALDO:
+    Primero ver el oratorio quiero...
+    ¡Oh, qué espiritüal! ¿El Cancionero?
+    ¡Tienes vergüenza! Mira allí quién llama.
+JULIA:
+    Dos hombres son, un viejo y un mancebo.
+SERALDO:
+    Di que pueden entrar, y entre esa dama.
+DIANA:
+    (Más que arrepentimiento, enojo llevo.)
+[Vase]
+SERALDO:
+    ¡Cuán cara es de guardar mujeril fama,
+    que como simple pez acude al cebo!
+    En mí los padres grande ejemplo tienen.
+JULIA:
+    Ya entran.
+SERALDO:
+    Entren, que a mal tiempo vienen.
+[Salen Bernardo y Antandro]
+ANTANDRO:
+    Guarden los cielos con nestoreos años,
+    Seraldo noble, tus honradas canas.
+SERALDO:
+    ¡Oh, Antandro mío! ¿Puede ser que veo
+    tus perezosos pies por estas puertas?
+    ¿Qué novedad es esta?
+ANTANDRO:
+    No te espantes
+    que tarde, caro amigo, las visite,
+    pues ya la edad, negocios y familia
+    no dan aquel lugar que en años verdes
+    los dos gozamos con tan varios gustos,
+    y porque mi venida te suspende
+    y en este joven pones ya los ojos,
+    dime si le conoces, porque quiere
+    ser hoy tu hijo y mío, si tú gustas.
+SERALDO:
+    Conózcole muy bien, y de sus padres
+    tengo la relación que de los míos;
+    pero advierte aquí aparte dos palabras.
+ANTANDRO:
+    Que me place de oírlas.
+BERNARDO:
+    (¡Santo cielo!
+    ¿Qué será lo que hablan y murmuran
+    aquestas dos colunas de mi vida,
+    sustento universal de mi esperanza?
+[Los viejos solos en secreto hablen]
+    ¿Ha de romper el viento impetüoso
+    la máquina del bien donde me anego
+    por este mar de confusión y lágrimas
+    sin que lleguen las áncoras al puerto?
+    ¿Si le ha dicho que soy algún perdido,
+    que bien nacido no podrá negallo?
+    ¿Si le dice que juego o solicito
+    las mujeres ajenas o las libres?
+    ¿Qué será aquesto?)
+ANTANDRO:
+    Pues si aqueso fuera,
+    ¿había yo de hablaros por Bernardo?
+    Antes, por sosegalle, aquesta tarde
+    partirá a Salamanca a sus estudios,
+    y no hay cosa que más los interrompa
+    que el casamiento en los primeros años:
+    quieren las letras solo y libre el hombre,
+    desnudo de negocios y cuidado,
+    que mal estudiará quien le tuviere
+    del cotidiano pan de la familia;
+    por eso mil filósofos dejaron
+    sus patrimonios, y a vivir se fueron
+    a soledades del desierto campo,
+    y alguno se sacó los mismos ojos.
+SERALDO:
+    Quise advertiros de esto, porque tengo...
+    Llegá al oído.
+BERNARDO:
+    (¡Oh, mísera esperanza,
+    de dos caducos viejos combatida
+    te vas al fondo de miseria y pena!
+    ¿Si me engañó este viejo? ¿Si por dicha
+    viene a pedilla para el hijo propio?)
+ANTANDRO:
+    Todo eso es causa de que yo lo intente,
+    y digo que haréis cuenta que es mi hijo,
+    fuera de que sus padres son notorios
+    hijosdalgo del valle de Carriedo.
+SERALDO:
+    Pues, siendo así, yo soy el venturoso.
+    Entrémonos con él en mi aposento,
+    y, pues el cielo, Antandro, a verme viene,
+    agora firmaré las escrituras,
+    y aquesta noche se darán las manos.
+ANTANDRO:
+    Haces, Seraldo, como cuerdo en todo.
+    Dïana es pobre, y este mozo es rico;
+    échale el yugo, que, una vez echado,
+    aquí pondremos en razón sus padres.
+SERALDO:
+    ¡De tu mano me viene el ser que tengo!
+ANTANDRO:
+    Bernardo, mal se ha hecho tu negocio.
+    Dije tus pensamientos y tus prendas,
+    y dice que la tiene prometida,
+    que él quisiera servirte, mas no puede.
+BERNARDO:
+    Pues ábrase la tierra, y en su centro
+    confunda aqueste cuerpo miserable;
+    un villano me pase aqueste pecho,
+    y a mi padre me lleven muerto en brazos.
+    ¡Oh, pesado vivir, oh, carga inútil,
+    oh, vergonzosa cárcel de mi alma!,
+    ¿cuándo será que desatada y libre
+    de su prisión y pesadumbre escape?
+    Dile que tome, Antandro, aquesta daga,
+    dile que pase las entrañas mías,
+    dile que el corazón lleve a Dïana,
+    de su infidelidad justo sepulcro.
+    ¡Cielos, piedad, que muero y enloquezco,
+    que rabio, desespero y me consumo!
+    Pues ¿es posible?
+ANTANDRO:
+    ¡Paso, loco! Advierte,
+    no más locuras, que Dïana es tuya:
+    entra a tratarlo con tu honrado suegro,
+    que ya me ha dado el sí.
+BERNARDO:
+    ¡Dame esos brazos,
+    esos pies, esas piernas, y aun quisiera
+    besarte esas mejillas llenas de honra!
+ANTANDRO:
+    ¡Tente! ¿Estás loco?
+BERNARDO:
+    Y vos, mi amado padre,
+    herrad aqueste rostro con mil eses,
+    que todas digan vuestro dulce nombre.
+    Yo no he de ser, como otros, grave yerno,
+    que no he de ser sino la humilde hechura
+    que hoy sale al mundo de esas manos santas.
+ANTANDRO:
+    ¿Santas? ¿Qué dices?
+SERALDO:
+    El placer le ciega,
+    que bien caducas son, flacas y débiles.
+    Vente conmigo a mi escritorio.
+BERNARDO:
+    Vamos,
+    que quiero hacer en él una escritura
+    de esclavitud y sujeción perpetua.
+ANTANDRO:
+    ¡Qué loco amor!
+SERALDO:
+    Por esto hemos pasado.
+BERNARDO:
+    Más me mata este bien que el mal pasado.
+[Vanse, y entre Diana y Julia]
+DIANA:
+    ¿Con botas y espuelas, dices?
+JULIA:
+    A la puerta falsa está,
+    porque con lágrimas ya
+    su partida solenices.
+DIANA:
+    Mira también si te engañas.
+JULIA:
+    Digo que a Alejandro he visto.
+DIANA:
+    Si a tanto fuego resisto,
+    hoy son piedras mis entrañas.
+    ¿Dónde su padre le envía?
+JULIA:
+    A estudiar a Salamanca.
+DIANA:
+    Pues hazle esta puerta franca,
+    y entre a verme el alma mía.
+JULIA:
+    ¿Estando tu tío aquí
+    y su padre de él también?
+DIANA:
+    ¿Qué importa, Julia, que estén,
+    si tanto amor está en mí?
+JULIA:
+    Pues yo le voy a llamar.
+DIANA:
+    Ve, querida amiga, corre,
+    que no hay tan fuerte torre
+    que un alma pueda guardar.
+    Entre el rayo que me abrasa
+    desde que su cielo vi,
+    pues podrá quemarme a mí
+    y dejar libre la casa.
+[Salen Alejandro y Floricio, su criado de Alejandro, con botas de camino]
+ALEJANDRO:
+    Si para darte razón
+    de mi confusa partida,
+    en que hoy el alma y la vida
+    quieren hacer división
+    por la pena, y los enojos
+    de mi entendimiento mengua,
+    faltara a mi alma lengua,
+    mira llorando mis ojos:
+    de ellos mejor lo sabrás,
+    si con lágrimas no ciego,
+    porque son lenguas de fuego
+    que con el agua arden más.
+    Una sinrazón de un padre
+    de tu alma me ha sacado
+    como a niño que han quitado
+    de los pechos de su madre.
+    Arrancáronme de allí,
+    donde pierda el calor de ellos,
+    y acíbar quieren ponellos
+    para que no vuelva a ti.
+    No solo para apartarte
+    de mí con tan breve ausencia
+    usa de tanta inclemencia,
+    pero hoy pretende casarte.
+    ¿A qué piensas que ha venido
+    este padre?
+DIANA:
+    Ya te aguardo.
+ALEJANDRO:
+    A que hoy sea Bernardo
+    mi veneno y tu marido.
+    Y con tanto miedo viene
+    que hoy me manda caminar,
+    que piensa que he de estorbar
+    el pensamiento que tiene.
+    Por eso, tus brazos dame
+    y Dios te haga dichosa,
+    que presto quedará ociosa
+    de esta alma esta tierra infame;
+    que antes que salga de aquí
+    llorarás mi triste muerte.
+DIANA:
+    ¿Cómo podré responderte,
+    mi bien, sin alma y sin ti?
+    ¡Vuélveme a dar sentimiento,
+    y no me dejes el alma
+    como reloj que está en calma,
+    faltándome el movimiento!
+    Que en la hora que me dejas,
+    en esa siempre estaré
+    por señalar una fe
+    con número de mil quejas.
+    ¡Triste yo! Mi flaca vida,
+    a quien es la muerte avara,
+    sin casamiento acabara
+    con el mal de tu partida.
+    ¿Qué sirven tantos contrarios
+    si no tienen más firmeza,
+    que para tanta flaqueza
+    son rigores temerarios?
+    ¿Tú partirte y yo casarme?
+    ¡Si la mitad era mía
+    de la culpa que tenía,
+    pena igual pudieran darme!
+    Tú partes y libre vas;
+    yo quedo, y casada quedo:
+    este es agravio, mas puedo
+    penar más, pues amo más.
+    Cásate, mi bien, también,
+    porque ausentes y casados
+    el amor y los cuidados
+    en igual balanza estén.
+ALEJANDRO:
+    Calla, que dices locuras.
+    Hablemos en lo que importa,
+    si en aquesta vida corta
+    algún término procuras;
+    porque no solo querría,
+    ya que es forzoso el partir,
+    que fuese para morir
+    una enfermedad la mía.
+    Muera yo de solo ausencia,
+    no muera, Dïana amada,
+    de mal de verte casada,
+    que es general pestilencia.
+    Pide término, difiere
+    el casamiento y aguarda,
+    que poco el agravio tarda
+    adonde la fe no muere.
+    De aquestos caducos viejos
+    no te venzan las porfías,
+    que con las lágrimas mías
+    derribarás sus consejos;
+    que yo volveré, si puedo,
+    a cumplirte la palabra.
+DIANA:
+    ¡Trágueme el centro y se abra,
+    si en tal propósito quedo!
+FLORICIO:
+    ¿No nos hablamos, mi bien?
+JULIA:
+    Hablar y servir, Floricio.
+[Aparte, Diana y Alejandro hablen]
+FLORICIO:
+    Tu silencio es poco indicio.
+JULIA:
+    Y diga, ¿vase él también?
+FLORICIO:
+    También me voy.
+JULIA:
+    ¡Ay, crüel!
+    A no estar aquí mi ama,
+    de este suelo hiciera cama
+    y me desmayara en él.
+    Tenme, por Dios, en los brazos.
+FLORICIO:
+    ¿Harete aire?
+JULIA:
+    Un poquito.
+FLORICIO:
+    ¡Mucho pesas!
+JULIA:
+    Infinito.
+FLORICIO:
+    ¿Si suelto?
+JULIA:
+    Hareme pedazos.
+ALEJANDRO:
+    ¿Qué es eso?
+FLORICIO:
+    Ninguna cosa.
+ALEJANDRO:
+    Ya lo que es se me revela...
+FLORICIO:
+    Mirábala cierta muela
+    de que está muy dolorosa.
+ALEJANDRO:
+    ¿Tiempo es este de burlar?
+FLORICIO:
+    Los viejos salen.
+ALEJANDRO:
+    ¿Los dos?
+FLORICIO:
+    Los dos, pues.
+ALEJANDRO:
+    Mi gloria, ¡a Dios!
+DIANA:
+    ¡A Dios!
+ALEJANDRO:
+    ¿Quereisme abrazar?
+DIANA:
+    ¿Por qué no?
+FLORICIO:
+    ¿Y tú a mí?
+JULIA:
+    También.
+DIANA:
+    Que salen... ¡Ay, suerte impía!
+ALEJANDRO:
+    Quédate a Dios, alma mía.
+[Vanse Alejandro y Floricio; quédase Diana y Julia, y entran Seraldo y Antandro]
+ANTANDRO:
+    Todo se ha de hacer muy bien.
+SERALDO:
+    Aquí está Dïana.
+ANTANDRO:
+    Hablalda.
+SERALDO:
+    ¿No es gallarda?
+ANTANDRO:
+    Por estremo.
+SERALDO:
+    Que no se me altere temo.
+ANTANDRO:
+    Entrad humilde y rogalda.
+SERALDO:
+    ¿Hija?
+DIANA:
+    Señor...
+SERALDO:
+    Cuidadoso
+    de tu bien, hoy te ha traído
+    Antandro un galán marido,
+    rico, hidalgo y virtüoso.
+    No venimos por el sí,
+    sino a solo que le veas,
+    que, si remedio deseas,
+    ¿cuál mejor?
+ANTANDRO:
+    (Bueno va así.)
+DIANA:
+    No me atrevo a responder,
+    por tener tu voluntad
+    por firme ley.
+SERALDO:
+    ¡Qué humildad!
+    Pues alto; ¿quiéresle ver?
+DIANA:
+    ¿Dónde queda?
+SERALDO:
+    En mi aposento.
+DIANA:
+    Pues ve y entretenle un poco,
+    mientras me visto y me toco.
+SERALDO:
+    ¡Qué humildad, qué entendimiento!
+    Vamos, que tiene razón,
+    porque compuesta la vea.
+[Vanse los dos viejos]
+ANTANDRO:
+    ¡Qué humildad!
+DIANA:
+    ¿Qué habrá que sea
+    remedio en esta ocasión?
+    Julia, ya tengo pensado
+    el que en esto puede haber.
+JULIA:
+    ¿Qué es lo que piensas hacer?
+DIANA:
+    Gran maestro es el cuidado.
+    Desde que intentó mi tío
+    que no viese sol ni calle,
+    propuse para dejalle
+    un notable desvarío.
+    Sácame aquel ferreruelo,
+    sombrero, daga y espada
+    que hallarás allí guardada
+    de mi hermano Pinabelo.
+JULIA:
+    ¿A qué efeto?
+DIANA:
+    No te tardes,
+    que es de veras el efeto.
+[Vase Julia]
+JULIA:
+    Yo voy.
+DIANA:
+    El amor perfeto
+    hace fuertes los cobardes.
+    Pensé remediar mi mal
+    en hábito varonil,
+    cuando dio aqueste civil
+    en serme tan criminal.
+[Quítase la saya; queda de hombre]
+    Y así la mitad me puse
+    debajo de aquesta saya,
+    para que estorbo no haya
+    la libertad que propuse;
+    y más agora que intento
+    con varonil fortaleza
+    cubrir esta vil flaqueza
+    de tan loco atrevimiento.
+    No hay libertad en los hombres
+    que un punto de honor les cueste.
+[Sale Julia con espada, daga y ferreruelo; admírase de vella]
+JULIA:
+    ¡Ay, Jesús! ¿Qué hombre es este?
+DIANA:
+    Calla, yo soy. No te asombres.
+JULIA:
+    ¿Eres tú, señora mía?
+DIANA:
+    ¿No lo ves? ¡Dame esa espada!
+JULIA:
+    ¡Qué buena estás disfrazada!
+DIANA:
+    No soy la que ser solía,
+    que esta espada que me ciño
+    ha de vencer a la Muerte.
+JULIA:
+    ¿Cómo te ha hecho tan fuerte
+    Amor, si dicen que es niño?
+DIANA:
+    Es niño muy poderoso.
+    Dame el sombrero, y a Dios.
+[Vase Diana. Queda Julia, y entran los viejos y Bernardo]
+BERNARDO:
+    Llegad primero los dos,
+    que voy turbado y medroso.
+SERALDO:
+    ¿Dónde, Julia, está Dïana?
+JULIA:
+    De casa, señor, se ha ido.
+SERALDO:
+    ¿Cómo, de casa? ¿Has perdido
+    el seso, infame villana?
+JULIA:
+    Digo, señor, que se fue
+    por no dar consentimiento
+    a este nuevo casamiento.
+SERALDO:
+    Y ¿adónde fue?
+JULIA:
+    ¿Yo qué sé?
+SERALDO:
+    ¿Cómo no?
+BERNARDO:
+    Pues cielos justos,
+    ¿por qué quisistes guardar
+    tal género de pesar
+    en medio de tantos gustos?
+    Antandro, mirad qué es esto,
+    si no queréis que me mate.
+ANTANDRO:
+    Debe de ser disparate,
+    si no fue melindre honesto.
+    En cas de alguna vecina
+    se debe de haber entrado.
+    ¿Que lo has visto y lo has callado?
+SERALDO:
+    Ven con nosotros, camina,
+    que, si no parece luego,
+    yo haré que tu alma vaya
+    en su busca.
+JULIA:
+    ¿Soy su aya?
+BERNARDO:
+    ¡Al estremo punto llego!
+[Vanse, y entra Laurencio, alférez, y Feliciano y Leonardo y Rosindo, soldados, y dice Feliciano:]
+FELICIANO:
+    En fin, señor alférez, que mañana
+    marchar pretende el Capitán.
+LAURENCIO:
+    Sospecho
+    que partiremos al romper del alba,
+    porque ducientos hombres tiene en lista,
+    que, cuando de ellos los cincuenta falten,
+    bien queda una lucida compañía.
+LEONARDO:
+    Y ¿a dónde marchan?
+LAURENCIO:
+    A Castilla marchan,
+    tierra de Salamanca, Béjar y Alba,
+    para que por Ciudad Rodrigo entremos
+    en Portugal cuando se dé el aviso.
+ROSINDO:
+    Esa es tierra del cielo, abundantísima
+    de pan y vino, carne, fruta y huéspedes.
+    No querría salir de ella en mi vida.
+LAURENCIO:
+    ¡Qué bueno sois para lagarto en Nápoles!
+ROSINDO:
+    Mejor que para ser sargento en Flandes.
+    Ya he sido piñatero en Alejandría,
+    y he tenido en mujeres y en el juego
+    toda la dicha que Leonardo sabe.
+LEONARDO:
+    La guerra de Rosindo es muy pacífica:
+    jugar socorros y meter la guardia,
+    contar raciones, convidar amigos,
+    parar un julio y tresdoblarle presto,
+    tener hermosa amiga y buenas armas.
+LAURENCIO:
+    Según eso, en Toledo habrá tenido
+    Rosindo esos estremos con estremo.
+ROSINDO:
+    De Francisco Ruiz, único artífice
+    en temple y en labor, tengo esta hoja;
+    pero de esotro, eterno olvido tengo.
+[Salga Diana de hombre, bizarra]
+FELICIANO:
+    ¿Quién es este mancebo?
+LEONARDO:
+    ¡Bravo talle!
+DIANA:
+    ¿Es de Vuesas Mercedes, por ventura,
+    alguno el Capitán?
+LAURENCIO:
+    Cualquiera puede
+    por méritos, servicios o persona.
+    Él no está aquí, pero su alférez basta.
+FELICIANO:
+    Mirad, señor, en qué serviros puedo.
+DIANA:
+    Soy de aquesta ciudad un noble hidalgo,
+    inclinado a la guerra desde niño;
+    estórbanme mis padres este intento,
+    y vengo huyendo casi a la partida
+    por alistarme y ir al Rey sirviendo.
+    Así marcial estrella me ha forzado,
+    mas temo, si soy visto o descubierto,
+    ser de un caduco viejo detenido,
+    que como a vil mujer quiere casarme,
+    teniendo cuando menos en el pecho
+    todo un Marte mayor que un Alejandro.
+LAURENCIO:
+    A tan honrado intento, caballero,
+    todos acudiremos como es justo.
+    Yo tengo un aposento razonable
+    donde podéis estar hasta mañana,
+    que mañana sin duda nos partimos.
+    Seremos camaradas todos cinco,
+    y yo, si vos queréis, de mesa y cama.
+DIANA:
+    Besoos las manos por merced tan grande.
+LAURENCIO:
+    Pues vamos a alistaros.
+DIANA:
+    Eso os pido,
+    que con vuestro favor a nadie temo.
+LEONARDO:
+    (¿Este es mujer?
+ROSINDO:
+    Parécelo en estremo.)
+
+JORNADA 2
+
+[Salen Feliciano y Rosindo]
+FELICIANO:
+    Cuatro meses y más que hemos andado
+    alojados, Rosindo, por Castilla,
+    en este loco pensamiento he dado.
+ROSINDO:
+    Hame causado espanto y maravilla
+    que me digas que es hembra aqueste mozo.
+FELICIANO:
+    Si no basta miralla, baste oílla.
+    ¿No veis que apenas la señal del bozo
+    le adorna el rojo y femenino labio,
+    y del alférez el secreto gozo?
+ROSINDO:
+    Sin duda que es mujer, y, como es sabio,
+    sacola de Toledo en traje de hombre,
+    temiendo de los padres el agravio.
+FELICIANO:
+    Esto no es nuevo, ni hay de qué os asombre
+    ver mujeres amantes de soldados
+    con traje militar, espada y nombre.
+[Sale Laurencio, alférez, con gente]
+LAURENCIO:
+    ¿Están Vuesas Mercedes alojados?
+ROSINDO:
+    Juntos nos dieron en aquesta sierra
+    unos casares viejos derribados.
+LAURENCIO:
+    No hay otro alojamiento en esta tierra;
+    que a mí, y a don Martín mi camarada,
+    una cabaña de un villano encierra.
+FELICIANO:
+    No hay mal alojamiento ni posada
+    para dos que se quieren, que en amantes
+    el duro suelo es cama regalada.
+LAURENCIO:
+    Déjense de razones semejantes,
+    si los amantes son hombres.
+FELICIANO:
+    No entiendas
+    que tus secretos son muy importantes,
+    ni del amigo como yo te ofendas,
+    que mi capa sabrá cubrir tus cosas
+    cuando favor de mi amistad pretendas.
+    Las manos delicadas y curiosas,
+    la bella tez que escureció la mano,
+    y las mejillas de clavel hermosas
+    de aqueste disfrazado toledano
+    descubren fácilmente que es tu amiga.
+LAURENCIO:
+    ¡Mira bien lo que dices, Feliciano!
+FELICIANO:
+    Laurencio, todo el cielo me maldiga
+    si don Martín no es hembra.
+LAURENCIO:
+    ¡Y todo el cielo,
+    si yo lo sé, me ofenda y me persiga!
+    Con llaneza de amigo y puro celo
+    por hombre y por soldado le he traído,
+    aunque es verdad que con algún recelo,
+    que, si en un aposento hemos dormido,
+    jamás le vi acostar, porque aguardaba
+    que estuviese dormido o divertido;
+    y aunque su talle a sospechar me daba
+    mil ocasiones que mujer no fuese,
+    pero su discreción me aseguraba.
+    ¿Qué dama vio jamás que no sirviese?
+    ¿Qué socorro cobró que no jugase?
+    ¿Cuáles armas que diestro no esgrimiese?
+    Mas, si es mujer, no es bien que oculto pase.
+    Dejadme a mí con él, que, si ello es cierto,
+    quizá me pagará que me engañase.
+FELICIANO:
+    Procúralo, señor, en campo abierto,
+    aunque fuera mejor dentro en la cama...
+    Mas, si es hombre, sería mal concierto.
+LAURENCIO:
+    Mejor es en la parte que se enrama
+    más intrincando aqueste monte escuro,
+    por cuya falda el Tormes se derrama.
+FELICIANO:
+    Vamos, que viene ya.
+LAURENCIO:
+    Cosa procuro
+    de que pretendo no pequeña gloria,
+    por el poco peligro que aventuro.
+[Vanse, y queda Laurencio y sale Diana]
+DIANA:
+    ¿De manera, señor, que no hay memoria
+    de los amigos en saliendo fuera?
+LAURENCIO:
+    (Ya me voy prometiendo la vitoria.)
+    Estoy por vida vuestra de manera
+    de una cierta mortal melancolía,
+    nacida de un secreto bien que espera;
+    que estoy como sin seso todo el día
+    en esta confusión que me deshace,
+    y desde el alba hasta la noche fría.
+DIANA:
+    Pues ¿no podré saber de adónde nace?
+LAURENCIO:
+    Con vuestro entendimiento que no yerra
+    eternamente cuanto dice y hace,
+    por el verde pretil de aquesta sierra
+    la causa trataré, ¡causa notable
+    que quiere descansarme en poca tierra!
+DIANA:
+    Si puede ser el mal comunicable,
+    ¿quién duda que en el alma disminuye
+    gran parte del estado miserable?
+    Con el amigo fácilmente huye
+    del corazón la pena que le ofende.
+LAURENCIO:
+    Eso mismo de vos mi amor arguye,
+    y así deciros su dolor pretende,
+    porque descanse yo, porque se acabe
+    el corazón el fuego que le enciende.
+DIANA:
+    Cuando el dolor de alguna herida es grave,
+    pone el medicamento en él templanza,
+    y así es al alma el buen consejo suave.
+    Tiene el amigo cierta semejanza
+    al alma del amigo, como espejo
+    que imita al propio cuanto a ver alcanza.
+    Si la necesidad de mi consejo,
+    siendo tan mozo, a dalle me habilita,
+    lo que es amaros en silencio dejo.
+    Mi alma, al parecer, la vuestra imita:
+    en ella se ve el vuestro, y aun en ella,
+    como en espejo en quien amor habita.
+LAURENCIO:
+    (¡Por Dios, que es tan discreta como bella!
+    De mí me espanto que, con serlo tanto,
+    tanto pude tardar en conocella.
+    Es sin duda mujer.)
+DIANA:
+    Decidme cuanto,
+    Laurencio amigo, os da desasosiego,
+    pues ya solos nos ve del cielo el manto.
+LAURENCIO:
+    ¡Ay, sol de cuyos rayos estoy ciego!
+    ¡Ay, don Martín, martirio de mi alma
+    y de la Troya de mi pecho fuego!
+    Todo este tiempo que he vivido en calma
+    sin conoceros, he vivido muerto,
+    y me ha negado Amor la dulce palma.
+    No me parece estraño desconcierto
+    que las sospechas por verdades crea,
+    pues ser mujer, aunque secreto, es cierto;
+    no hay hombre que lo dude, como os vea.
+    Si hombre os amé como del alma amigo,
+    bien es que, dama, vuestro amante sea.
+DIANA:
+    ¿Estáis loco, Laurencio?
+LAURENCIO:
+    Verdad digo,
+    silencio como firme amor prometo.
+DIANA:
+    A no lo estar, os diera igual castigo.
+LAURENCIO:
+    ¡No me encubráis, por Dios, vuestro secreto!
+    Mirad que puedo aprovechar en algo.
+DIANA:
+    ¿Que esto presuma un hombre tan discreto?
+    Mirad que yo lo soy, y tan hidalgo
+    que a quien os dijo tal diré que miente,
+    y mostraré que por diez hombres valgo.
+LAURENCIO:
+    ¿Estáis resuelta en esto?
+DIANA:
+    Eternamente
+    diré otra cosa, porque yo soy hombre,
+    y hombre muy bien nacido, y muy valiente.
+LAURENCIO:
+    Pues yo también lo estoy de que os asombre
+    la fuerza que os haré para sabello,
+    aunque en esta amistad traidor me nombre.
+DIANA:
+    Por esta espada...
+LAURENCIO:
+    ¡Paso!, que un cabello
+    os puede echar la espada de la mano,
+    mal gobernada de ese brazo bello.
+DIANA:
+    ¡Paso, alférez traidor! ¡Paso, inhumano!
+    ¡Aquí de Dios, que quiere hacerme fuerza!
+LAURENCIO:
+    Hay mucho espacio de este monte al llano.
+DIANA:
+    ¡Que me fuerza, señores, que me fuerza!
+LAURENCIO:
+    ¿A los robles llamáis señores? ¡Bueno!
+DIANA:
+    ¡Traidor!
+LAURENCIO:
+    Ese «traidor» mi pecho esfuerza,
+    y al apetito de razón ajeno
+    no parará, que corre desbocado.
+DIANA:
+    Póngale Dios con su justicia freno.
+LAURENCIO:
+    Solo quiero quedar desengañado.
+[Entran tres villanos carboneros, con bastones, llamados Batavo, Chamizo, Elenco]
+BATAVO:
+    Digo que están batallando...
+    ¡Cuerpo del sol, acudí!
+CHAMIZO:
+    ¡Eh, Dios!, ¿que le están forzando?
+BATAVO:
+    Luego ¿es hombre?
+ELENCO:
+    ¿Hombre?
+CHAMIZO:
+    ¡Sí!
+ELENCO:
+    ¡Por Dios, que es pecado Hernando!
+CHAMIZO:
+    No, son pecado elefante.
+BATAVO:
+    ¡Suelta el muchacho, arrogante!
+LAURENCIO:
+    ¡Oh, villanos, que es mujer!
+ELENCO:
+    ¿Con bragas lo habia de ser?
+LAURENCIO:
+    Que es mujer, nadie se espante.
+CHAMIZO:
+    Pues, borracho, aunque lo fuera,
+    ¿era bueno destrupalla
+    a solas de esa manera?
+LAURENCIO:
+    ¿Quereisme dejar, canalla?
+CHAMIZO:
+    ¿Canalla?
+BATAVO:
+    ¡Oh, traidor, espera!
+LAURENCIO:
+    Pues ¿por qué queréis matarme?
+DIANA:
+    (Algún ángel a ayudarme
+    trajo aquestos tres aquí.)
+[Vase huyendo Laurencio]
+CHAMIZO:
+    ¿Hüis, borracho? ¡Eso sí!
+    No pienso tras él cansarme.
+BATAVO:
+    Allá va cual ciervo herido.
+ELENCO:
+    ¡Pardiós, que no hay alcanzalle!
+CHAMIZO:
+    Decidnos lo que esto ha sido.
+DIANA:
+    Tener razonable talle
+    y ir por el monte perdido.
+    En ángeles transformados
+    remediastes mis cuidados.
+BATAVO:
+    ¿Ángeles dice que fuimos?
+ELENCO:
+    ¿Vos no miráis que venimos
+    para ángeles muy tiznados?
+CHAMIZO:
+    De vos querría saber
+    —pues de aquel hombre os libramos
+    que tal fuerza os quiso hacer—,
+    si es que en esto no pecamos,
+    si sois hombre o sois mujer;
+    que en decirnos la verdad
+    ganaréis nuestra amistad
+    y en nuestra casa tendréis
+    todo el tiempo que querréis
+    mesa, cama y voluntad.
+    Somos ciertos carboneros
+    que en este monte habitamos;
+    serranos y compañeros,
+    carbón a vender llevamos
+    y partimos los dineros.
+    Si la choza abierta y franca
+    no os agrada, una potranca
+    os daré para que os vais,
+    que desde aquí solo estáis
+    tres leguas de Salamanca.
+    ¿Qué decís?
+DIANA:
+    Estoy de suerte
+    que apenas he vuelto en mí
+    para que a hablaros acierte,
+    que ha muy poco que salí
+    de mayor mal que la muerte.
+    Soy en efeto mujer;
+    lo demás podéis saber
+    despacio en vuestra cabaña,
+    que abrasará la montaña
+    si aqueste acierta a volver;
+    que trae una compañía
+    de que es alférez valiente.
+BATAVO:
+    Pues, como venga de día,
+    quizás en ver nuestra gente
+    le tomará alferecía.
+    Mas venid a nuestra choza,
+    veréis lo que el monte goza.
+DIANA:
+    Ya voy perdiendo el enojo.
+ELENCO:
+    (Echado le llevo el ojo...
+    ¡Voto al sol, que es linda moza!)
+[Vanse y sale Alejandro solo, en hábito de estudiante]
+ALEJANDRO:
+    Con el tiempo se pasan horas y años,
+    con el tiempo el mayor reino perece,
+    con el tiempo el ingenio desfallece,
+    con el tiempo la guerra y los engaños.
+    Con el tiempo da el tiempo desengaños,
+    la beldad con el tiempo se envejece,
+    con tiempo mengua el mar, con tiempo crece,
+    y con el tiempo acaban nuestros daños.
+    Con tiempo al mar sereno dio fortuna,
+    con tiempo cae la máquina más alta,
+    y nos da el tiempo sepultura y cuna.
+    El tiempo seca el campo, y él le esmalta,
+    con el tiempo se eclipsan sol y luna,
+    y en mí jamás amor con tiempo falta.
+[Sale Mauricio, estudiante, compañero de Alejandro]
+MAURICIO:
+    ¿Anda ya vuestra Dïana
+    creciendo con tanto exceso
+    que se va del alma el seso?
+    ¡Oh! ¿Que lloráis de mañana?
+    ¿Al cabo de tantos días
+    no se os olvida Toledo?
+ALEJANDRO:
+    Olvidarme de mí puedo,
+    mas no de las ansias mías.
+    Cuando en Toledo amanece
+    aquel alba celestial,
+    la escuridad de mi mal
+    en Salamanca anochece,
+    porque la hermosa Dïana,
+    que darme su luz solía,
+    hace allí la noche día,
+    y aquí noche la mañana.
+MAURICIO:
+    Según eso, ya sois vos
+    como un estudiante honrado
+    que pensó, de muy letrado,
+    que las lunas eran dos;
+    que, si está más turbia y blanca,
+    de que digáis tengo miedo
+    que la luna de Toledo
+    no es esta de Salamanca.
+ALEJANDRO:
+    ¡Y cómo si lo diré!,
+    pues esta vive en el suelo,
+    y esa en el primero cielo
+    con luz hurtada se ve.
+    De esta su valor se arguya,
+    que, si tiene por costumbre
+    recebir del sol su lumbre,
+    esta al sol le da la suya;
+    esta es creciente en mi lloro,
+    menguante en el mal presente
+    por eclipsado accidente
+    de la hermosura que adoro.
+MAURICIO:
+    Agora creeros quiero,
+    porque luna de estudiante
+    es de ordinario menguante
+    en el seso y el dinero;
+    y por esa fe y amor
+    más os debe esa Dïana
+    que aquella hermosa y tirana
+    le debe a Montemayor.
+    Haced un libro como él,
+    para que quede memoria
+    de esa tragedia y historia:
+    tierno amor, padre crüel.
+    Pintad allí el nuevo esposo
+    burlado en el mayor bien,
+    y ella estorbando también
+    el casamiento forzoso;
+    y a vos tras ellos sin blanca,
+    y de puro amor perdido,
+    entre dos ríos metido
+    de Toledo y Salamanca.
+    ¡Por Dios, buena camarada
+    tengo en vos para mi humor!
+    ¿Para qué ponéis amor
+    en una luna eclipsada?,
+    que entre vos y aquel galán
+    ha puesto más tierra en medio
+    que hay para vuestro remedio
+    desde Salamanca a Orán.
+    Vamos, ¡pese a tal!, con vos
+    a ver una forastera
+    como un ángel, que hoy me espera,
+    y es ropa que hay para dos,
+    que, por lo que he celebrado
+    vuestro talle y discreción,
+    de veros tiene afición,
+    y de serviros cuidado.
+    Y mostrad más alegría,
+    que me dicen en escuelas
+    que si es de dolor de muelas
+    tan larga melancolía;
+    y aun ha habido hombre, por Dios,
+    que os tiene por sospechoso.
+ALEJANDRO:
+    No es sino el mal peligroso
+    que sabéis, Mauricio, vos.
+MAURICIO:
+    Que ya no os canséis en vano,
+    ni me habléis de esa manera.
+    Vamos a esta forastera,
+    que os curará por la mano.
+    La llaga, untada, se aplaca,
+    y al que no pide no dan,
+    y como dice el refrán
+    «clavo con clavo se saca».
+    Venid y intentad remedio;
+    haced como hombre.
+ALEJANDRO:
+    Oh, Mauricio,
+    de mi salud es indicio
+    ver que estáis vos de por medio.
+    Vamos, que quiero alegrarme,
+    que si dura esta tristeza
+    vendrá a ser naturaleza
+    y, peligrosa, a matarme.
+    ¿Es hermosa esta mujer?
+MAURICIO:
+    Es razonable.
+ALEJANDRO:
+    ¿Es común?
+MAURICIO:
+    Es entre perdiz y atún.
+ALEJANDRO:
+    ¡Qué común debe de ser!
+MAURICIO:
+    Canta y tañe por estremo,
+    y es sevillana.
+ALEJANDRO:
+    Eso basta,
+    y más si es de cierta casta
+    en cuya nieve me quemo.
+MAURICIO:
+    Antes no es casta, ni sabe
+    si eso es vicio o es virtud.
+    Tomalda para salud
+    como primero jarabe,
+    que para purgar amor
+    del mismo amor se ha de hacer.
+ALEJANDRO:
+    Luego, ¿mujer con mujer?
+MAURICIO:
+    Así lo dice un doctor.
+[Sale Tarreño, capigorrón, vestido a lo gracioso]
+TARREÑO:
+    Domines, ¿est hodie edendum,
+    o fue como ayer ieiunia
+    in perenne? Si hay pecunia,
+    ¿quid de la plaza ferendum?,
+    que ya la hambre me arrastra,
+    y de nuestra chimenea,
+    ¡oh, qué terrible pelea!,
+    fumus non itur ad astra.
+ALEJANDRO:
+    ¡Qué bueno viene Tarreño
+    de hambre, elocuencia y talle!
+MAURICIO:
+    ¿Tenéis vos algo que dalle?
+ALEJANDRO:
+    ¿Y puede faltarle un leño?
+MAURICIO:
+    ¿No os he dicho que no habléis
+    latín, borracho? Tomad.
+TARREÑO:
+    La hambre y necesidad
+    me obliga al latín que veis:
+    piden las tripas sustento,
+    y por eso empiezo a hablar
+    lengua que no sea vulgar,
+    y sosiéganse al momento.
+ALEJANDRO:
+    Y ¿suélense comedir
+    con lengua estraña?
+TARREÑO:
+    ¿Pues no?
+    Presumen que no soy yo,
+    y déjanme de pedir.
+    Imagínanse pasando
+    a un hombre no conocido,
+    y como a recién venido
+    de vergüenza están callando.
+MAURICIO:
+    Traed lo que os pareciere
+    mientras de lición salimos,
+    y pensad que ya venimos
+    porque la comida espere.
+TARREÑO:
+    Yo lo haré, pero por dicha
+    no podré carnero hallar,
+    pero no podrán faltar
+    adobatus et salchicha.
+[Vanse, y salen Elenco y Chamizo, carboneros]
+ELENCO:
+    Mientras llevastes carbón,
+    buen Chamizo, a la ciudad,
+    me ha dado en la voluntad
+    mal de muelas y torzón,
+    de que vi aquel gentilhombre
+    que era mujer en la choza,
+    ya con hábito de moza
+    y cansada de ser hombre.
+    No es de burlas, son, que creo
+    que tanta hermosura encierra
+    que a la nieve de esta sierra
+    encenderá su deseo.
+    Por Dios, que es bella serrana,
+    y que tengo prenotado
+    que a su botín colorado
+    vencen sus labios de grana.
+    Trae un sayuelo polido,
+    sayo de tal perfeción
+    que quisiera ser sayón
+    para vérmele vestido;
+    y una cofia en el tranzado
+    de aquel cabello lustroso
+    que quisiera ser tiñoso
+    por habérmela tocado;
+    y un delantar que pudiera
+    ser, entre nieve y cristal,
+    de la luna delantal,
+    si la de Valencia fuera.
+    ¡Qué garganta hermosa y clara!
+    Si vino tinto bebiera,
+    como por vidro se viera
+    hasta que al pecho llegara.
+    Ella es toda milagrosa.
+CHAMIZO:
+    Par Dios, si así te consumes,
+    que presumo...
+ELENCO:
+    ¿Qué presumes?
+CHAMIZO:
+    ... que ha de ser...
+ELENCO:
+    ¡Dilo!
+CHAMIZO:
+    ... tu esposa.
+ELENCO:
+    ¡Quisiéralo mi ventura
+    y nuestro amigo Batavo,
+    que yo sería su esclavo
+    en cambio de su hermosura!
+    Que yo le sirviera a él,
+    con más paciencia que Job,
+    lo que dicen de Jacob
+    por la divina Raquel.
+CHAMIZO:
+    ¡Eh, Dios, que te ha hecho amor
+    estremado bachiller!
+ELENCO:
+    Oí su historia antiyer
+    a un cierto predicador.
+    ¿No fue grande la ventura
+    del que la tiene en su casa?
+CHAMIZO:
+    Mas, si contigo se casa,
+    la tuya fue más segura;
+    que él no hace más de vella,
+    y tú, Elenco, has de gozalla.
+ELENCO:
+    Pues, si yo la gozo, calla,
+    verás cuál ando con ella.
+CHAMIZO:
+    No os iré yo a despartir,
+    si estás tan antojadizo.
+ELENCO:
+    En nueve meses, Chamizo,
+    tres veces ha de parir.
+CHAMIZO:
+    ¿A tres meses? ¿Tú no ves
+    que a lo natural repugna?
+ELENCO:
+    ¡Cualquiera se pare una,
+    par Dios, que ha de parir tres!
+    Vuestra burra, ¿cuánto estuvo
+    preñada de mi rocín?,
+    que la burra de Martín
+    más poco termeño tuvo...
+CHAMIZO:
+    ¡Calla, insinsato! ¿Así eres
+    de torpe y rebusto engeño?
+    Que no tienen un termeño
+    las bestias y las mujeres...
+ELENCO:
+    Ella viene, ¡voto a mí!,
+    y su ama viene con ella.
+[Entra Diana como serrana y Lorena, carbonera]
+LORENA:
+    En fin, ¿te holgarás de vella?
+DIANA:
+    Dígola, madre, que sí,
+    que dicen que Salamanca
+    es una rica ciudad,
+    y tengo la voluntad
+    que el corazón se me arranca,
+    porque tengo un deudo en ella
+    que me debe la mayor
+    deuda.
+LORENA:
+    ¿Deuda a ti?
+DIANA:
+    De amor,
+    y estoy cerca de perdella.
+    Mas no sé si vaya allá,
+    que diz que hay bellaca gente,
+    y deuda de amor ausente
+    tarde y mal se cobrará.
+LORENA:
+    ¿Has de andar tú por ventura
+    de noche por la ciudad?
+DIANA:
+    Antes busca claridad
+    quien perdido amor procura.
+LORENA:
+    Espérate un poco aquí
+    y los huevos juntaré,
+    que se han de vender, a fe,
+    a cuatro y medio por ti,
+    que tu gracia y hermosura
+    será como piedra imán.
+DIANA:
+    Id con Dios, que ellos tendrán
+    en su venta mi ventura.
+[Vase, y queda Diana]
+    Cumplido se ha mi deseo
+    para ver a mi estudiante;
+    aunque falso e inconstante,
+    dentro del alma le veo.
+    Pero ¿dónde le hallaré
+    entre tanta multitud,
+    si no le saco en virtud
+    de los ojos de mi fe?
+    ¡Ay, Alejandro, mi bien!
+    Hoy te busca una perdida,
+    que en albricias de tu vida
+    te dará el alma también.
+    Mas, si le he de hallar trocado,
+    mi muerte voy a buscar.
+ELENCO:
+    (¡Pardiez!, que la voy a hablar,
+    mal o bien, libre o turbado.
+CHAMIZO:
+    Llega, pues, antes que salga
+    Lorena a estorbar tu bien.
+ELENCO:
+    ¡Llega tú!
+CHAMIZO:
+    Yo iré también.)
+ELENCO:
+    Guardeos Dios, serrana hidalga.
+DIANA:
+    ¡Oh, Elenco! ¡Oh, Chamizo amigo!
+ELENCO:
+    ¿Amigo te llama a ti?
+CHAMIZO:
+    Inclínase más a mí,
+    y es porque menos la sigo;
+    que eso tiene la mujer
+    con quien ella se descuida,
+    porque pocas veces cuida
+    lo que le ha de suceder.
+ELENCO:
+    Yo estoy desde que te vi,
+    señora de mi carbón,
+    hechos los ojos doblón
+    y el alma maravedí.
+    Los ojos me vuelves oro
+    siempre que en su luz me envuelves,
+    y el alma hierro me vuelves,
+    pues mi propio yerro adoro.
+    Sabe, Dominga gentil,
+    que desque te vi en la cuesta
+    no he tenido día de fiesta,
+    y de trabajos dos mil.
+    Tal es la melancolía
+    que ese tu rostro me ha dado,
+    que ando hasta el alma tiznado
+    del humo que no sabía;
+    que ha hecho de mi carbón
+    amor fragua y fuego tanto
+    que, a no socorrerme el llanto,
+    derritiera el corazón.
+    Con el viento de desgracia
+    son fuelles temor y olvido,
+    y por aquesto te pido
+    el hisopo de tu gracia.
+    No escribe sobre tiznado
+    amor, sino en mi fïel
+    pecho, que es blanco papel,
+    las letras de mi cuidado.
+    Lee lo demás en él,
+    que me enmudece el temor.
+DIANA:
+    ¿Que me tienes tanto amor?
+ELENCO:
+    Serrana, dígalo él.
+    Duélate mi sentimiento,
+    pues lo causó tu beldad.
+DIANA:
+    Voy agora a la ciudad,
+    que yo volveré al momento.
+[Vase Diana]
+CHAMIZO:
+    Con la miel nos ha dejado...
+ELENCO:
+    Más con la hiel en la boca...
+CHAMIZO:
+    Es presuntüosa y loca;
+    no querrá galán tiznado.
+ELENCO:
+    En dondequiera que está,
+    la nieve excede en pureza.
+CHAMIZO:
+    Que el rigor y la belleza
+    juntas siempre el cielo da.
+ELENCO:
+    ¡Oh, prega a Dios que tropieces
+    por el camino que vas,
+    y, para que ruedes más,
+    en dos manos de almireces!
+    Pues no te duele el mal mío,
+    ¡en ellas pongas los pies,
+    y tan gran caída des
+    que no pares hasta el río!
+    ¡Cuando hubiere algún finado,
+    te mate el aire el candil,
+    y si coges perejil
+    te dé un lagarto un bocado!
+    ¡Un duende contigo tope,
+    y, si algo a escuras buscares,
+    metas la mano que echares
+    en un cántaro de arrope!
+    ¿Ahorcareme, Chamizo?
+CHAMIZO:
+    No te lo aconsejo, Elenco.
+ELENCO:
+    ¿Soy por dicha algún podenco?
+    ¿Soy hijo de algún erizo?
+    Vamos, que quiero seguilla.
+CHAMIZO:
+    No la sigas, que es peor.
+ELENCO:
+    Mal sabes tú qué es amor.
+CHAMIZO:
+    Ando agora en la cartilla.
+[Vanse, y salen Alejandro, Mauricio y Narcisa, dama]
+ALEJANDRO:
+    ¿Hasta la calle salís?
+    ¡Gran muestra de voluntad!
+MAURICIO:
+    Lisonja ha sido, en verdad.
+NARCISA:
+    ¿Yo lisonjera? ¡Mentís!
+MAURICIO:
+    ¿Quedo cargado, Alejandro,
+    de este mentís?
+ALEJANDRO:
+    ¡Yo qué sé!
+MAURICIO:
+    Que me desagraviaré,
+    pues ya no soy su Leandro.
+    Si está mi honra cargada,
+    procurarela matar.
+ALEJANDRO:
+    No puede mujer cargar.
+MAURICIO:
+    Mas no hay carga tan pesada.
+NARCISA:
+    Sí, mas ¿con qué me promete
+    desagraviarse de mí?,
+    pues cuando le desmentí
+    aun no tenía bonete.
+    ¿Trae acaso alguna espada
+    por aforro del manteo?
+MAURICIO:
+    ¡Por Dios, Narcisa, que os veo
+    a perseguirme inclinada!
+    Contentáos con que habéis hecho,
+    siendo el primero en serviros,
+    este agravio a mis suspiros
+    y esta deshonra a mi pecho.
+    Vuestro es ya, Narcisa bella,
+    este galán que se abrasa;
+    ya sé que le traje a casa
+    para que me echase de ella.
+    Darle gusto he pretendido
+    y que con él le tengáis,
+    porque los dos os queráis
+    y él me quede agradecido.
+    Cierto que Alejandro es hombre
+    que lo será para vos,
+    pero fuímoslo los dos,
+    yo en obras y él en el nombre,
+    pues habiendoos retratado
+    la fama dentro en su pecho,
+    el primitivo derecho
+    de mi fe y amor le ha dado.
+    Gozáos, que aquese es mi gusto.
+ALEJANDRO:
+    ¿Habláis de veras, Mauricio?
+NARCISA:
+    Dejalde, que habla de vicio.
+ALEJANDRO:
+    No es vicio hablar con disgusto.
+    ¡Mal haya el amigo, amén,
+    que quiere dama de amigos,
+    aunque presentes testigos
+    la dejen y se la den!,
+    que, aunque se vea glorioso
+    y al darla no se arrepienta,
+    después que la ve contenta
+    por fuerza ha de andar celoso.
+MAURICIO:
+    Si lo estoy, nunca yo medre
+    de que os quiera y la queráis,
+    ¡que a fe que nunca veáis
+    que su calle desempiedre!
+    Contra mi amistad hacéis
+    ese argumento conmigo.
+ALEJANDRO:
+    Querría, pues sois mi amigo,
+    que la sirváis y gocéis,
+    que de mi estudio el cuidado,
+    pues ya vos sabéis cuál es,
+    es el mayor interés
+    de mi pensamiento honrado.
+MAURICIO:
+    Es hacerme gran desprecio
+    ese cumplimiento loco,
+    que es tenerme más que en poco
+    presumir que soy tan necio.
+    Querelda muy norabuena
+    sin género de sospecha,
+    que no es Grecia tan estrecha
+    que no haya más de una Helena.
+    A mí no me ha de faltar
+    con quien pueda entretenerme.
+NARCISA:
+    Yo misma quiero ofrecerme
+    y a Mauricio acomodar,
+    que aún hay en las tenerías
+    otra vieja medusea
+    que la mayor Melibea
+    baje del cielo en dos días.
+    Yo le daré de mi mano
+    conversación como un oro.
+MAURICIO:
+    Eres único tesoro
+    del lenguaje cortesano.
+    De Täis hermosa y franca
+    Corinto esté vitoriosa,
+    que de ti, Narcisa hermosa,
+    se preciará Salamanca.
+    Veamos ese angelillo,
+    y arrímese Baldo un poco,
+    que no se ha de volver loco
+    ni de estudiar amarillo.
+    Démonos los cuatro un verde,
+    que la juventud lozana
+    es lirio por la mañana
+    que por la noche se pierde.
+    ¿Cuándo la quieres traer
+    para que cenemos juntos?,
+    porque quiero tomar puntos
+    de una lición de querer.
+    ¿Es morenita, es trigueña?
+    ¿Es blanca, es descolorida?
+    ¿Amorosa, desabrida,
+    juguetona, zahareña?
+    ¿Es discreta o primeriza,
+    de las que llamaba un cura
+    de la primera tonsura?
+    ¿Es alta, es flaca, es maciza?
+    Porque te quiero celosa,
+    si tales sus partes fueren.
+NARCISA:
+    Bien dirán los que las vieren
+    que es una Venus hermosa.
+    Basta que yo te la escoja.
+    ¿Háblame aquese atronado
+    que te ve desenojado
+    y apenas te desenoja?
+MAURICIO:
+    ¡A mí, señor mentecato!
+    Vuelva el rostro a aquesta perla,
+    que bien puede agradecerla
+    condición, nobleza y trato.
+    Abrácenseme aquí luego,
+    que este es mi gusto.
+ALEJANDRO:
+    Por mí,
+    digo mil veces que sí.
+NARCISA:
+    Y yo, mis brazos te entrego.
+ALEJANDRO:
+    No es bien el bien sin testigos.
+NARCISA:
+    Mirad que estáis en la calle...
+ALEJANDRO:
+    Quiero el bien comunicalle,
+    y más entre mis amigos.
+[Salen Lorena y Diana con dos cestillos de huevos]
+LORENA:
+    Anda, hija, no te canses.
+DIANA:
+    ¡Pardiez!, madre, no aprovecha,
+    que, como no estoy doecha,
+    ya deseo que descanses.
+    Son estas calles muy luengas,
+    y mi ventura muy corta.
+LORENA:
+    Vender presto nos importa
+    para que descanso tengas.
+DIANA:
+    Madre, ¿sabe ella por dicha
+    dónde se suelen juntar
+    estos que van a estudiar,
+    y el que fue por mi desdicha?
+LORENA:
+    Por allí pasé una vez
+    y vi esa gente inquïeta,
+    como tordos en veleta
+    y más negros que la pez.
+    Mas di, ¿para qué pretendes
+    ir a ver los escolares?
+DIANA:
+    Tengo allá un quitapesares
+    entre todos esos duendes.
+    Ya, ¡pardiez!, madre Lorena,
+    si queréis, velle querría.
+LORENA:
+    Gastarás en eso el día,
+    mas vamos en hora buena,
+    que entre tanta multitud
+    serán pretensiones vanas.
+MAURICIO:
+    ¡Oh, qué graciosas serranas!
+    Así me dé Dios salud.
+ALEJANDRO:
+    La una es bella en estremo.
+NARCISA:
+    ¿Qué venden?
+ALEJANDRO:
+    No lo he mirado.
+NARCISA:
+    ¿Es hoy día de mercado?
+ALEJANDRO:
+    Que habéis de burlarme temo.
+NARCISA:
+    ¡Por Dios, que es notable traje!
+ALEJANDRO:
+    Yo mejor decillo puedo,
+    que en el Reino de Toledo
+    usan gorguera y plumaje.
+    No hay villana ni mozuela
+    en cualquier pueblo de fama
+    que no traiga como dama
+    su copete y arandela.
+DIANA:
+    (Cielos, ¿qué sombra es aquesta
+    que a mis ojos ofrecéis?
+    Yo os suplico que me deis
+    como oráculos respuesta.
+    Amor, ¿qué dulce ilusión
+    es aquesta que me ofreces?
+    ¿Cómo en sueños te apareces
+    donde vela el corazón?
+    Pero yo, ¡triste de mí!,
+    ¿qué dudo que aquesto sea?
+    Cuando el cuerpo no le vea,
+    ya con el alma le vi.
+    Estoy por llamarle a voces,
+    que ya me mira turbado.
+    ¡Ah, traidor mal empleado,
+    que a tu mujer desconoces!
+    Bien vi yo que al gran placer
+    de venir a ver y hablar,
+    menos que tanto pesar
+    no pudiera suceder.
+    Corriera abiertos los brazos
+    luego que el alma le vio,
+    mas quien a otros les dio
+    no merece mis abrazos.
+    ¿Ya qué le puedo decir,
+    si tal ofensa me ha hecho?)
+ALEJANDRO:
+    (Si es verdad lo que sospecho,
+    desde hoy comienzo a vivir.
+    Mas ¡ay, esperanza vana!,
+    ¿por qué tan grande belleza
+    pusistes en la corteza
+    de una grosera villana?
+    ¡Oh, milagro del poder
+    del Artífice del mundo!
+    ¿Qué rostro al suyo segundo,
+    si no es Dios, pudiera hacer?
+    Disimular es mejor
+    y hacer esta pena risa,
+    porque no entienda Narcisa
+    la fe del primer amor.)
+    ¿No es hermosa la serrana?
+NARCISA:
+    Y aun así me guarde Dios,
+    ¿que os parece bien a vos?
+ALEJANDRO:
+    (A lo menos, a Dïana.)
+MAURICIO:
+    ¡Que digo, buena mujer!...
+DIANA:
+    (¡Ay, cuánta pena me cuestas!)
+MAURICIO:
+    ... ¿qué es lo que en aquestas cestas
+    traéis...
+DIANA:
+    ¡Quedito!
+MAURICIO:
+    ... a vender?
+LORENA:
+    ¡Pardiez, señor!, doce huevos
+    para duelos y quebrantos.
+MAURICIO:
+    ¿Y la muchacha?
+LORENA:
+    Otros tantos.
+MAURICIO:
+    ¿Son frescos?
+LORENA:
+    Todos son nuevos,
+    y aun en verdad que estos dos
+    son del primer maleficio.
+MAURICIO:
+    ¿Era polla?
+LORENA:
+    A su servicio,
+    que huevo ofrézcole a Dios.
+MAURICIO:
+    ¿La muchacha ha puesto ya?
+LORENA:
+    ¡Doyle a Dios que ha de poner!
+MAURICIO:
+    ¿Queréis oírme?
+DIANA:
+    A placer.
+    ¿No ven que despacio está?
+MAURICIO:
+    ¿Tenéis gallo?
+DIANA:
+    Ya solía,
+    y está en otro gallinero.
+ALEJANDRO:
+    Hablaros a solas quiero,
+    serrana, por vida mía.
+    ¿De dónde sois?
+DIANA:
+    De mi tierra.
+ALEJANDRO:
+    ¿No me diréis lo que os ruego?
+DIANA:
+    ¿Qué?
+ALEJANDRO:
+    El nombre...
+DIANA:
+    Llámase Fuego.
+ALEJANDRO:
+    ¿Cómo así?
+DIANA:
+    Es lugar de sierra.
+    Ciertos delitos inormes
+    se le dejaron así.
+ALEJANDRO:
+    ¿Y vuestro nombre?
+DIANA:
+    Eso sí.
+ALEJANDRO:
+    ¿Cómo?
+DIANA:
+    Dominga de Tormes.
+ALEJANDRO:
+    ¿Nacistes en él?
+DIANA:
+    Y aún más,
+    que con mis ojos le crío,
+    que yo soy el mismo río,
+    porque jamás vuelvo atrás.
+ALEJANDRO:
+    ¿Es esta buena mujer
+    vuestra madre?
+DIANA:
+    Su hija soy
+    y no soy.
+ALEJANDRO:
+    ¿Cómo?
+DIANA:
+    A eso voy:
+    que puede y no puede ser.
+ALEJANDRO:
+    ¿Tenéis padre?
+DIANA:
+    Y aun dos tengo;
+    y este que vive y más quiero
+    es, con perdón, carbonero.
+ALEJANDRO:
+    (¡A perder el seso vengo!)
+    ¿Queréis que os diga una cosa?
+DIANA:
+    (¿Ya qué me podéis decir
+    que no sea todo fingir?)
+ALEJANDRO:
+    Diré yo que sois hermosa.
+DIANA:
+    (Eso es mayor fingimiento,
+    que solo es verdad en mí
+    que para morir nací
+    entre desdicha y tormento.)
+ALEJANDRO:
+    De una mujer como vos
+    he estado yo enamorado.
+DIANA:
+    Ya decís que habéis estado...
+ALEJANDRO:
+    ¡Y aún agora estoy, por Dios!
+    Estad, señora, conmigo,
+    y os digo en esto verdad,
+    aunque de mi voluntad
+    lleve por premio castigo.
+    Casose...
+DIANA:
+    ¿Fue por su gusto?
+ALEJANDRO:
+    No sé.
+DIANA:
+    ¿Que no lo sabéis?
+ALEJANDRO:
+    No, a fe.
+DIANA:
+    ¿Que, en fin, la queréis?
+ALEJANDRO:
+    Vínome su talle al justo.
+DIANA:
+    Pues ¿qué es lo que hacéis también
+    con aquesta honrada dueña?
+    ¿No veis que junto a la leña
+    nunca estuvo el fuego bien?
+ALEJANDRO:
+    Por divertirme he venido
+    a entretenerme a su casa,
+    porque el fuego que me abrasa
+    no puede cubrirle olvido.
+DIANA:
+    Según eso, la que amáis
+    también para no morirse
+    procurará divertirse,
+    pues vos divertido andáis.
+ALEJANDRO:
+    Si en mudarte la pareces
+    como en el rostro, ¡ay de mí!
+LORENA:
+    Hija, ¿qué hacemos aquí?
+    ¿No ves que te desvaneces?
+DIANA:
+    A dos me da por los huevos,
+    y hémonos desconcertado,
+    porque le he visto ocupado,
+    madre, en pensamientos nuevos.
+    Debe de hacer del galán
+    con las damas cortesanas,
+    y burla de las serranas
+    que a vender cuidados van.
+    Madre, vámonos de aquí,
+    que estoy ya desesperada.
+    ¡Oh, ciudad triste y cansada,
+    nunca yo viniera a ti!
+    Mejor me estaré en la sierra;
+    madre, no me traiga acá.
+    ¿No le veis? A dos me da,
+    y con una me hace guerra.
+    Pues no habéis de tener dos,
+    que una os sobrará, a fe mía,
+    y, pues no es quien ser solía,
+    ¡malas Pascuas os dé Dios!
+ALEJANDRO:
+    ¿Para qué me maldecís?
+DIANA:
+    ¿Por qué no me los compráis?
+ALEJANDRO:
+    Pues ¡alto!, ¿a cómo los dais?
+DIANA:
+    ¡Qué fingido que venís!
+ALEJANDRO:
+    ¿Yo fingido?
+DIANA:
+    ¡Vos fingido!
+    Y me queréis engañar,
+    pues me venís a comprar
+    después de haberme vendido.
+ALEJANDRO:
+    (¡Cielos! ¿No es esta Dïana?)
+LORENA:
+    Dominga, ¿ves que te espero?
+DIANA:
+    ¡Ya voy!
+NARCISA:
+    (¡Por Dios!, que me muero
+    de celos de la serrana,
+    que es por estremo graciosa,
+    y Alejandro está muy tierno.
+MAURICIO:
+    Es en Castilla moderno,
+    y admírale cualquier cosa.)
+DIANA:
+    ¿No miráis que estoy de prisa?
+    Señor, mi madre me llama,
+    mas decidme, aquesta dama
+    ¿cómo se llama?
+ALEJANDRO:
+    Narcisa.
+DIANA:
+    ¿Y tenéis vos por posible
+    que se enamore de sí?
+ALEJANDRO:
+    Como yo lo estoy de ti,
+    fuera a Narcisa imposible;
+    porque en ti, como en cristal,
+    veo de un ángel la forma,
+    en cuya luz se transforma
+    su hermosura celestial,
+    que eres su pintura en sombra,
+    y como primera mano
+    de aquel rostro soberano.
+DIANA:
+    ¿No le ven? ¡Sombra me nombra!
+    Diga, señor, ¿la señora
+    es mujer de todo gusto?
+ALEJANDRO:
+    Vine a templar mi disgusto.
+DIANA:
+    ¿Y fue la primera agora?
+ALEJANDRO:
+    Otra sin esta he venido.
+DIANA:
+    ¿Quién duda que os quiere bien?
+ALEJANDRO:
+    Bien me quiere.
+DIANA:
+    Y vos también
+    le estaréis agradecido.
+    Guardáos, que alguna de aquestas,
+    y más de pico andaluz,
+    por cofadre de su luz
+    os pondrá algún monte a cuestas,
+    que os dejarán sus locuras,
+    si dais en seguir su antojo,
+    como rocín flaco y flojo,
+    y lleno de mataduras.
+    Y con esto, a Dios quedad,
+    que otro día nos veremos.
+LORENA:
+    ¿No nos vamos?
+DIANA:
+    Ya podemos,
+    que se acaba el amistad.
+    Quédese con Dios, señora;
+    mil años goce el galán,
+    que a fe que son, como están,
+    de iguales prendas agora.
+    Es buen pez: póngale el cebo.
+NARCISA:
+    ¡Vaya con Dios la villana!
+DIANA:
+    Poco a poco, menos vana.
+    Quiero hablar, y no me atrevo.
+    Ande acá, madre.
+MAURICIO:
+    ¡Qué gracia!
+DIANA:
+    ¿Que gracia os parece aquesta?
+    Mal sabéis lo que me cuesta
+    el ir agora en desgracia.
+NARCISA:
+    Idos, que sois muy picuda.
+DIANA:
+    Antes ando muy callada...
+NARCISA:
+    ¡Qué villana tan taimada!
+    Que lo sea pongo en duda.
+DIANA:
+    Ande acá, madre. ¿Es delito
+    decir que os gocéis los dos?
+NARCISA:
+    ¿Que no os queréis ir con Dios?
+DIANA:
+    La calle es del Rey: ¿qué os quito?
+    Que no es vuestra Salamanca,
+    aunque os preciáis de Narcisa,
+    que es como decir por risa
+    a una negra doña Blanca.
+    Ande acá, madre.
+NARCISA:
+    ¡Dejadme,
+    rasgarele aquellas tocas!
+LORENA:
+    Dominguilla, ¿estamos locas?
+ALEJANDRO:
+    ¡Dejalda!
+DIANA:
+    ¡Venid, probadme!
+MAURICIO:
+    Id con Dios, buena mujer.
+DIANA:
+    Quédese con Dios, buen hombre.
+NARCISA:
+    Yo buscaré quien la asombre,
+    pues nadie lo quiere hacer.
+[Vase Narcisa, enojada]
+MAURICIO:
+    No os entréis tan enojada...
+ALEJANDRO:
+    ¡Dejalda, cuerpo de tal!
+    ¡Ah, serrana celestial
+    en Dïana transformada,
+    no os vais, esperad un poco!
+DIANA:
+    Déjeme, vuélvase allá.
+LORENA:
+    ¿A esto venistes acá?
+ALEJANDRO:
+    Sigámoslas, que estoy loco.
+DIANA:
+    ¡No pellizque, estese quedo!
+LORENA:
+    ¡Dale una coz, Dominguilla!
+DIANA:
+    Vuélvase, amigo, a Sevilla.
+ALEJANDRO:
+    Llévame el alma a Toledo.
+[Vanse, y salen Chamizo y Elenco]
+ELENCO:
+    En fin, ¿habéis vendido?
+CHAMIZO:
+    Ya he vendido
+    a catorce la carga, que anda caro,
+    y en comiendo los bueyes pienso irme.
+    Mas dime, ¿has encontrado por ventura
+    con tu fuego, tu amor, tu hielo y rabia,
+    tu Dominga crüel, tu fiera ingrata?
+ELENCO:
+    He encontrado a mi padre, ¡voto al soto!,
+    que no topo otra cosa por las calles
+    sino de estas bandadas de estorninos:
+    todo es bonetes y hopalandas todo.
+    Hui corriendo a la igleja, que por ella
+    un paseo dijeron que pasaba
+    para tomar la posesión un crego
+    de un púlpito de aquellos en que parlan,
+    pensando que Dominga allí estuviera;
+    y, cuando más embebecido estaba
+    mirando sus maestros y doctores,
+    algunos como tiestos de albahaca,
+    con una rama verde en la cabeza,
+    y otros de colorado como gallos,
+    sin otros que llevaban una onza
+    de azafrán por encima del bonete,
+    otros de hierba de cuajar la leche,
+    de zul y blanco una esparcida borla,
+    descuideme, Chamizo, del pescuezo,
+    y un estordiante de un revés a zurdas
+    la nuez me derribó hasta el estómago,
+    que creo que comer será imposible,
+    que todo el arteficio está quebrado.
+    ¡Ah, Dominga, Dominga!
+CHAMIZO:
+    ¿De eso lloras?
+ELENCO:
+    ¿No he de llorar lo que por ella paso?
+    ¿Pareceos que sería poca lástima
+    que no comiese agora en cuatro días?
+CHAMIZO:
+    Calla y sufre; no pienses que es buñuelo,
+    que no hay más de arrojalle y quedar frito.
+    Los trabajos se hicieron para el hombre,
+    y no es hombre el que vive sin trabajos.
+    Hoy es Dominga suya, y otro día,
+    queriendo Dios, será Dominga tuya,
+    y estonces será día de domingo
+    para ti, para mí, y aun para ella.
+ELENCO:
+    ¡Oh, prega a aquel que pintan saeteado
+    con arco y flecha, y venda por los ojos!
+CHAMIZO:
+    Saetero, dirás, porque es Cupido.
+ELENCO:
+    Ese debe de ser el que me ha muerto.
+    Mas, ¡ay de mí!, ¿no es esta mi Dominga?
+CHAMIZO:
+    Y Lorena con ella... ¿Que lo dudas?
+ELENCO:
+    ¡Cuerpo del Sol! Dos escolares vienen
+    en seguimiento de la hermosa moza.
+[Salen Lorena, Diana, Alejandro y Mauricio]
+LORENA:
+    ¿En eso estás determinada?
+DIANA:
+    Madre,
+    no es para mí la sierra, ni los árboles.
+    Buena comodidad es la presente:
+    el señor me recibe por su ama
+    con buena voluntad y buen salario.
+    Vaya con Dios, y dígale a mi padre
+    que de semana por acá se venga,
+    hará con mi señor las escrituras.
+LORENA:
+    ¿Que te quieres quedar?
+DIANA:
+    ¡No llore, madre!
+ALEJANDRO:
+    Amiga, no lloréis, que vuestra hija
+    no se queda tan mal acomodada,
+    que os aseguro que en mi alma queda.
+MAURICIO:
+    ¿Vos no venís, serrana, cada día
+    a la ciudad? Pues ¿qué lloráis agora?,
+    que a Dominga veréis cuando quisiéredes.
+LORENA:
+    Es moza, y lloro que entre mozos queda.
+DIANA:
+    No llore, madre, y solo aquesto crea,
+    que la virtud doquiera está guardada,
+    que ni hierro ni fuego la consume,
+    y que la voluntad no sufre fuerza.
+    No me quiere el señor con mal intento,
+    sino porque me dice que soy limpia
+    y gustará que cuide de su ropa.
+ALEJANDRO:
+    Eso solo me mueve, madre mía.
+    Andad con Dios, que mi posada es esta;
+    tomad esos cien reales de ese lienzo,
+    y el sábado venid por otros tantos.
+LORENA:
+    Hija, queda con Dios, que muy bien quedas
+    en cas de buen señor acomodada.
+    Sirve como mujer de bien, y mira
+    que no te olvides de tus padres.
+ALEJANDRO:
+    ¡Hola!
+[Asómase Tarreño por arriba]
+    ¡Hola, Tarreño! ¡Ah, bestia!
+TARREÑO:
+    Adsum. Quid ais?
+ALEJANDRO:
+    ¡Abre esa puerta!
+TARREÑO:
+    Ya deciendo, espérese.
+ELENCO:
+    Dominga, ¿qué es aquesto?
+DIANA:
+    Oh, buen Elenco,
+    hame puesto Lorena con un amo.
+ELENCO:
+    ¿Cómo, con amo? ¡Ahí sería el dimuño!
+ALEJANDRO:
+    Pues ¿quién os mete a vos en esto, hermano?
+ELENCO:
+    Yo, que la tengo ya medio enhornada
+    para hella mi santo matrimoño.
+DIANA:
+    Es de mi tierra, y voluntad me tuvo.
+    Elenco, aquí me estoy. No te alborotes;
+    cuando vengas acá, podrás hablarme,
+    que no por eso perderé del dote,
+    pues todo mi servicio se le añade.
+ELENCO:
+    Pues, si gustas estar en Masalanca,
+    sea en buen hora; mas, Dominga, mira
+    que eres almendra en flor, y que no es justo
+    que coma yo después fruta con cáscara.
+MAURICIO:
+    ¡Mirad si es el villano malicioso!
+ELENCO:
+    Mi casamiento queda peligroso.
+[Sale Tarreño, capigorrón]
+TARREÑO:
+    ¿Qué gente es esta? ¿Habéis comprado algo?
+ALEJANDRO:
+    Esta moza, Tarreño, esta serrana
+    he recebido para mi servicio.
+ELENCO:
+    ¿Ese tenéis en casa? ¡Voto al soto,
+    que no se ha de quedar Dominga en ella!
+TARREÑO:
+    ¡Suelta, diablo villano, no la ensucies!
+ELENCO:
+    ¡Ayuda aquí, Chamizo!
+ALEJANDRO:
+    ¡Suelta, bestia!
+ELENCO:
+    ¡Dios, que no ha de quedar!
+MAURICIO:
+    ¡Suéltala, necio!
+TARREÑO:
+    ¡No la bazuques, bestia! ¡Tenla recio!
+[Siéntase en el suelo Elenco, y abrázala por los pies]
+ELENCO:
+    Primero habéis de despedir el mozo.
+TARREÑO:
+    ¿Mas que si tomo un palo, que la suelta?
+CHAMIZO:
+    Suéltala, Elenco, y vamos, que ella es moza
+    que sabrá defenderse.
+DIANA:
+    Pues ¡no había!
+    ¿Pensáis que no sé yo filocosía?
+ELENCO:
+    Por vos la suelto, mas mirá, estodiantes,
+    que ha de ser mi mujer, y ¡por San Pego!
+    que, si sé que habláis latín con ella,
+    que os he de dar en somo del cocote
+    con un gerundio de aguijar los bueyes.
+MAURICIO:
+    Las burlas cesen, no alleguemos gente.
+    Vayan con Dios, y vos, Dominga, entráos.
+DIANA:
+    A Dios, Lorena, a Dios, Elenco amigo.
+LORENA:
+    A Dios te queda, hija.
+CHAMIZO:
+    A Dios, Dominga.
+ELENCO:
+    A Dios, esposa.
+DIANA:
+    A Dios, señor marido.
+ELENCO:
+    ¡Entre gente de picos ha caído!
+ALEJANDRO:
+    ¡Oh, inmenso bien, oh, venturoso lance!
+    Si aquesta no es Dïana, yo estoy loco,
+    o hizo el cielo dos hermosos rostros
+    en una estampa, porque en tal belleza
+    duplícase el honor Naturaleza.
+    ¡Oh, poderoso Amor, haznos conformes!
+    ¡Oh, serrana bellísima de Tormes!
+
+JORNADA 3
+
+[Salen Diana, serrana, y Tarreño, capigorrón gracioso]
+DIANA:
+    ¿No me dirás dónde fue
+    Alejandro con su amigo?
+TARREÑO:
+    ¿Celitos?
+DIANA:
+    ¿Celos?
+TARREÑO:
+    Ya digo
+    que, si lo son, no hay por qué.
+DIANA:
+    ¡Yo, celos de mi señor!
+TARREÑO:
+    Sí, porque te quiere bien.
+DIANA:
+    Pídemelos tú también...
+TARREÑO:
+    Pudiera, pues tengo amor,
+    y aun es este amor igual
+    y digno de merecerte,
+    que no le está bien quererte
+    a quien es tu desigual.
+    Dice Lelio en Cicerón:
+    «dispares mores, disparia
+    estudia sequuntur varia»,
+    y tiene mucha razón;
+    que la cosa de que amor
+    más presto engendrarse pudo
+    es ipsa similitudo.
+    ¡Oh, peregrino orador!
+    ¡Ah, Dominga amiga, heus!
+    ¿Cómo no ves que te volo?
+    ¡Vuelve, y no me digas «nolo»,
+    que me muero, vivit Deus!
+    No te quiero yo mandar,
+    sino quiero que me mandes;
+    busque Alejandro otros grandes
+    con quien se pueda igualar.
+    Amor no es imperativo;
+    conjuguemos amo, amas,
+    y llegaré, si me llamas,
+    Dominga, al modo optativo:
+    ¡utinam, si tú me amases
+    o dijeses «amaré»,
+    y con futuros de fe
+    mi indicativo pagases!
+    ¿Pones en mi amo, en fin,
+    tu amor? ¡Qué grave demencia!
+DIANA:
+    Yo no entiendo en mi conciencia
+    ese tu amor en latín.
+    La fe quiere ser muy clara,
+    puro e inocente amor,
+    y el que tengo a mi señor
+    el argumento declara
+    que es claro, puro y honesto
+    con el celo de su bien.
+TARREÑO:
+    Pues ámame a mí también,
+    no me dejes sicut cesto.
+    Dominga, deja a mi amo.
+    Mira que en mi corazón
+    siempre hago esta oración:
+    ego Dominicam amo.
+    Volvámosla por pasiva,
+    y dime que soy amado,
+    porque la fe que te he dado
+    «Tarreño víctor» escriba.
+    Y porque de víctor dije,
+    sosiega el vano temor,
+    que Mauricio y tu señor,
+    que un amor gobierna y rige,
+    son idos con cierta gente
+    a rotular a Monzón,
+    que es de aquesta oposición
+    dignísimo pretendiente;
+    ansí que no hay que temer,
+    si no van a descansar
+    o a algún secreto lugar.
+DIANA:
+    ¿Quiéresme hacer un placer?
+TARREÑO:
+    ¿Placer? ¿Qué no faciam tecum,
+    aunque tu amor me desdeñe?
+    ¡Vivit Dominus, que empeñe
+    hasta el propio vademécum!
+    ¿En qué te possum servire?
+DIANA:
+    En hábito de estudiante
+    quiero ver aquel mi amante.
+TARREÑO:
+    ¿Vis ad rotulandum ire?
+DIANA:
+    Quiérole ver disfrazada,
+    y que tú vayas conmigo.
+TARREÑO:
+    Iré, Dominga, contigo
+    con mi rodela y espada.
+    Entra, y pondraste un vestido.
+DIANA:
+    Vamos, pues, y seguirelos.
+    Hijos sois del amor, celos,
+    y así no engendráis olvido.
+[Vanse, y salen de camarada vestidos de denoche Alejandro, Mauricio, Riselo, Velardo y Gomecio, con rodelas y espadas y guitarras]
+ALEJANDRO:
+    Por aquí nos iremos haciendo hora,
+    mientras se llegan los demás amigos.
+    ¿Hablastes al pintor?
+RISELO:
+    Ya queda hablado,
+    la escala y las colores prevenidas.
+MAURICIO:
+    ¿Qué haremos, que es temprano?
+VELARDO:
+    ¿No dariamos
+    en cas de un pastelero con nosotros?
+ALEJANDRO:
+    ¿Corréis vos bien?
+GOMECIO:
+    Como un gitano.
+ALEJANDRO:
+    Oídme:
+    demos primero al Tabladillo un tiento;
+    pero esperad, Gomecio vaya solo,
+    y en un jarro, si a dicha hubiere jarro
+    de proporción bastante y estatura,
+    corra lo que pudiere, o tinto o blanco,
+    porque después traeremos algo dulce,
+    o los pasteles que Velardo dice.
+GOMECIO:
+    Toma aquesta guitarra, y, si por suerte
+    el tabernero llega hacia nosotros,
+    perezca el insensato a espaldarazos.
+ALEJANDRO:
+    Guíete Baco, su inventor primero,
+    que, aunque viniera su Sileno propio,
+    el precioso licor me diera esfuerzo.
+MAURICIO:
+    Descuidad que le alcance ni le siga;
+    puede correr, si quiere, sobre apuesta
+    asido de una cerda de un caballo.
+[Sale Geraldo, estudiante, con un tostador de castañas]
+GERALDO:
+    ¡Seguidme, pues, si acaso os atreviéredes!
+    ¿Qué es esto, cielo? ¡He dado en la justicia!
+ALEJANDRO:
+    ¿Qué gente? ¿Dónde vas? ¡Hombre, detente!
+GERALDO:
+    ¿Es Alejandro?
+ALEJANDRO:
+    El mismo.
+GERALDO:
+    No me habías
+    dejado sangre que no fuese hielo.
+ALEJANDRO:
+    ¿Adónde vas, Geraldo, con tal prisa?
+GERALDO:
+    Cogile a aquella tuerta castañera
+    el tostador que veis.
+RISELO:
+    ¡A hermoso tiempo!
+    Reparte en tanto que Gomecio venga,
+    que es ido al Tabladillo por sustancia.
+GERALDO:
+    Parad en esa capa.
+VELARDO:
+    Arroja en esta,
+    y tomen poco a poco.
+ALEJANDRO:
+    Dos me bastan.
+MAURICIO:
+    Para Gomecio y para mí he tomado
+    por buen agüero al esperado vino.
+    Temo, Geraldo amigo, tu venida.
+[Sale Gomecio con un jarro de vino, y tras de él el tabernero]
+GOMECIO:
+    ¡Vuélvete, tabernero mentecato,
+    que te darán un pan como unas nueces!
+TABERNERO:
+    ¡Oh, bellaco ladrón! ¡Justicia!
+ALEJANDRO:
+    ¡Dale!
+TABERNERO:
+    ¡Ay, que me han muerto!
+ALEJANDRO:
+    ¡Quéjate a la noche!
+MAURICIO:
+    ¡Vive Dios, que lo has hecho como un príncipe!
+[Váyase el tabernero]
+GOMECIO:
+    ¿Quién trajo las castañas?
+GERALDO:
+    ¿Quién? ¡Geraldo!
+GOMECIO:
+    Tú habías de ser. ¿Y para mí no hubo?
+MAURICIO:
+    Aquí te tocan tres.
+GOMECIO:
+    Muestra.
+MAURICIO:
+    Bebamos.
+RISELO:
+    Vaya por orden, en bebiendo el cura.
+ALEJANDRO:
+    ¡No es malo, vive Dios!
+GOMECIO:
+    Es estremado.
+RISELO:
+    Con sed le doy.
+MAURICIO:
+    ¿Pensabas que era leche?
+GERALDO:
+    Acomódense, pues que queda poco.
+ALEJANDRO:
+    ¿A dónde iremos un ratillo agora?
+MAURICIO:
+    A darles vaya a los REPRESENTANTEs.
+RISELO:
+    Mauricio dice bien: haya coplita,
+    y díganse esta vez todas sus faltas.
+VELARDO:
+    ¿Adónde posan?
+GERALDO:
+    A la puerta estamos:
+    en esas dos ventanas los he visto.
+ALEJANDRO:
+    ¡Ah, bellaco Pablillos! ¡Ah, bellaco!
+    ¡No hagas entremeses a lo viejo!
+    ¡Mira que ya no dices cosa nueva!
+MAURICIO:
+    ¡Ah, galán enrizado de copete!
+    ¡No te alfeñiques tanto con la dama,
+    y enmiéndate de piernas y de prosa!
+RISELO:
+    ¡Ah, mi señora doña Nufla Hernández!
+    ¿Por qué no estudia más y yerra menos?
+    Calce más justo y traiga buenas medias,
+    que las galas alientan las comedias.
+VELARDO:
+    ¡Sal acá, viejo! ¡Sal acá, potrilla!
+GOMECIO:
+    ¡Haced buenas comedias, borrachones,
+    y enmiéndense de tonos esos músicos!
+[Asómase a la ventana un REPRESENTANTE con un candil]
+REPRESENTANTE:
+    ¿He de echar una olla de ceniza?
+ALEJANDRO:
+    ¡Ah, bellaco barbillas! ¡Tente, aguarda!
+    ¡No cierres la ventana! ¡Habla, no te entres!
+MAURICIO:
+    Aquesto queda bien por esta noche;
+    mudemos de servicio.
+RISELO:
+    ¿Dónde iremos?
+MAURICIO:
+    ¿Vamos en casa de Narcisa?
+VELARDO:
+    Vamos,
+    pero estará acostada.
+GERALDO:
+    Pues ¿qué importa?
+    Gomecio, canta; démosla una música,
+    y abrirá por lo menos la ventana,
+    que, aunque es pobre mujer, es cortesana.
+[Salen Diana y Tarreño como estudiantes]
+TARREÑO:
+    Mira que, si con ellos encontramos,
+    no te adelantes, ni respondas nada,
+    que yo sé el nombre y lo que importa en esto.
+DIANA:
+    ¿No ves que yo no vengo a acuchillarlos,
+    sino solo a saber si por ventura
+    Alejandro visita alguna dama?
+TARREÑO:
+    Deja, ¡por Dios!, de atravesarme el alma
+    con decir que Alejandro te da celos;
+    engáñame siquiera con sufrillos,
+    que voy hecho de cera a tus desdenes.
+    Mira que, si en el hábito primero
+    enamoraste mis indignos óculos,
+    agora pertransierunt usque ad animam.
+    Bella fuiste mujer, bello eres hombre:
+    ¿cómo es posible que serrana seas?,
+    que ese no es pie para pisar terrones,
+    sino pie de la copla más perfeta
+    que hizo Garcilaso ni Temístocles.
+ALEJANDRO:
+    Esta es la casa; templa.
+MAURICIO:
+    ¡Oh, quién tuviera
+    una corneta para dar principio!
+    Allá saltó la prima con los diablos,
+    pero era falsa; no se pierde nada.
+    Gente viene, Alejandro, por la calle.
+ALEJANDRO:
+    Salgamos al camino. ¡Ah, gentilhombres!
+    ¿Quién víctor?
+TARREÑO:
+    Quien quisieren que lo sea.
+RISELO:
+    No vale nada eso, diga el nombre.
+TARREÑO:
+    Víctor Monzón. Amigos somos todos;
+    Vuesas Mercedes canten y se huelguen,
+    que todos somos de la camarada.
+ALEJANDRO:
+    ¡Ea, Gomecio, vaya una letrilla!
+VELARDO:
+    Y más agora que Narcisa sale.
+MAURICIO:
+    ¡Narcisa está, por Dios, a la ventana!
+    Todo el mundo chitón.
+GOMECIO:
+    Vaya la letra.
+DIANA:
+    (¡Oh, rabia que me abrasa y me penetra!)
+[Canta Gomecio una letrilla, y luego dicen:]
+NARCISA:
+    ¡Por mi fe, que canta bien!
+GOMECIO:
+    Vuesa Merced me la hace.
+NARCISA:
+    La música satisface,
+    y la persona también.
+GOMECIO:
+    ¡Ojalá cantara yo
+    tan bien como sois hermosa!
+ALEJANDRO:
+    ¡No nos faltaba otra cosa!
+GOMECIO:
+    Pues ¿qué, no he de hablarla?
+ALEJANDRO:
+    ¡No!
+    ¿No sabéis que es cosa mía?
+NARCISA:
+    ¿Estaba Alejandro ahí?
+ALEJANDRO:
+    Aquí estoy, fuera de mí
+    de una mortal celosía.
+DIANA:
+    (¡Oh, traidor! ¿Que celos tienes?)
+NARCISA:
+    Si Vuesa Merced viniera
+    solo, en verdad que le abriera.
+MAURICIO:
+    Haz cuenta que solo vienes.
+    Vete, que yo llevaré
+    los amigos a esperarte.
+ALEJANDRO:
+    He de saber a qué parte.
+MAURICIO:
+    Hacia San Francisco iré.
+ALEJANDRO:
+    Narcisa, mandadme abrir,
+    que para que pueda veros
+    se van estos caballeros...
+DIANA:
+    (¿Tal maldad puedo sufrir?)
+NARCISA:
+    Abre, Dórida, esa puerta.
+VELARDO:
+    No es, a fe, el de peor talle.
+ALEJANDRO:
+    ... dejando sola la calle.
+RISELO:
+    Vamos.
+NARCISA:
+    Entra, ya está abierta.
+[Vanse]
+DIANA:
+    ¿Qué te parece de aquesto?
+TARREÑO:
+    Hermana, viene a buscar
+    lo que en ti no puede hallar,
+    que aquí negóciase presto.
+DIANA:
+    Dime, ¿ha de dormir aquí?
+TARREÑO:
+    ¿Quién lo duda?
+DIANA:
+    ¡Cielo santo!
+    ¿Que no me deshago en llanto
+    cuando tal palabra oí?
+    ¿Quién podrá con mi furor
+    que no haga un disparate?
+TARREÑO:
+    ¡Tente!
+DIANA:
+    Deja que me mate,
+    ya que me mata el dolor.
+TARREÑO:
+    ¿Eres tú la melindrosa
+    que si te hablaba gritabas,
+    y en tocándote temblabas?
+    ¿Cómo rabias de celosa?
+    No hay que creer en mujer,
+    porque regala y desama,
+    y a veces desama y ama
+    para no darse a entender.
+    Serrana, ansí os guarde Dios,
+    que nos volvamos a casa,
+    que ese fuego que os abrasa
+    aplacaremos los dos.
+    Yo os quiero, queredme a mí,
+    y no sigáis quien os deja.
+DIANA:
+    Con esta postrera queja,
+    traidor, me aparto de ti.
+    Si en esto me desconoces
+    más que en el mal que me has hecho,
+    salga la voz de mi pecho,
+    y diga quién soy a voces.
+    ¡Villano, Alejandro injusto,
+    desconocido, crüel,
+    contra el pecho más fïel,
+    más puro, inocente y justo!
+    Yo soy la misma Dïana
+    que tu mujer solia ser;
+    quizá por ser tu mujer
+    he venido a ser villana.
+    No soy serrana, traidor,
+    sino aserrada por medio
+    de este dolor sin remedio
+    y de este insufrible ardor.
+    Dejé a mi patria y mi tío,
+    y aquel mi engañado esposo;
+    desvarío fue forzoso,
+    y ya inútil desvarío.
+    Vine en traje de soldado
+    a buscarte lastimada,
+    y después vine a soldada
+    de quien la fe me ha quebrado.
+    Pero ya que estoy aquí
+    sin ser, sin alma y sin nombre,
+    ¡guarda!, que he vuelto a ser hombre
+    para vengarme de ti.
+    Hice bien, si habia de ser
+    tan insufrible el tormento,
+    porque tanto sufrimiento
+    matara cualquier mujer.
+    Esa que estimas agora
+    goza, traidor, muchos años,
+    porque ha de ser de tus daños
+    y de mi venganza autora;
+    y quédate en esos brazos,
+    que ya de los tuyos huyo,
+    hasta que algún rufián suyo
+    entre ellos te haga pedazos.
+[Vase Diana furiosa; queda Tarreño solo]
+TARREÑO:
+    ¡Vive Dios, que estoy helado!
+    ¡Ah, señora! Ya se fue.
+[Sale Alejandro]
+ALEJANDRO:
+    ¡Qué bueno es eso! Saldré,
+    aunque pese.
+TARREÑO:
+    Ya has tardado,
+    que la que dices que ha sido
+    tu Dïana, ya partió
+    como un caballo.
+ALEJANDRO:
+    ¡Y que yo
+    no la hubiese conocido!
+    ¿Quién la trajo aquí?
+TARREÑO:
+    Yo mismo,
+    porque ella lo quiso ansí.
+ALEJANDRO:
+    ¡Abrásete como a mí
+    todo el fuego del abismo!
+    ¿Por adónde fue, traidor?
+TARREÑO:
+    Bien la puedes alcanzar.
+ALEJANDRO:
+    Ayúdamela a buscar...
+    Mas quédate, que es peor,
+    porque, si volviere aquí
+    y la trajeren los cielos,
+    desengañando sus celos
+    digas que a matarme fui.
+[Vase Alejandro]
+TARREÑO:
+    Como es santa la oración
+    del ne nos inducas, creo
+    que sigue a cualquier deseo
+    peligrosa tentación.
+    Bien dicen que al daño esfuerza,
+    mas, si este me hubiera dado
+    un beneficio curado,
+    que le sirviera por fuerza.
+[Narcisa a la ventana]
+NARCISA:
+    ¡Ah, gentilhombre! ¿Sois vos
+    de Alejandro?
+TARREÑO:
+    A sus servicio,
+    y de su amigo Mauricio:
+    de coco sirvo a los dos.
+NARCISA:
+    ¿Quién era aquella mujer
+    que daba voces aquí?
+TARREÑO:
+    Como vos la conocí,
+    y eso deseo saber.
+NARCISA:
+    ¿No dijo que era Dïana,
+    que su mujer ser solía?
+TARREÑO:
+    No entendí lo que decía,
+    mas pareciome villana;
+    que, como estoy descuidado,
+    el sueño me divirtió.
+NARCISA:
+    Ya no lo pienso estar yo
+    del sueño de su cuidado;
+    y direisle, amigo mío,
+    que no es noble proceder
+    obligar a su mujer
+    un hombre a tal desvarío
+    que no la traiga perdida;
+    por el mundo entre soldados,
+    y que a los hombres casados
+    nunca les doy acogida;
+    que él ni cosas suyas más
+    no me parezcan aquí.
+TARREÑO:
+    Direlo, señora, así.
+    ¿Voyme?
+NARCISA:
+    Vete. ¿No te vas?
+TARREÑO:
+    ¿Ya no lo ve?
+NARCISA:
+    ¿Que esto pasa?
+[Vase Tarreño]
+    Alejandro era casado...
+    Basta lo que me ha burlado:
+    no entrará más en mi casa.
+[Vase de la ventana, y sale Elenco y Diana]
+DIANA:
+    Luego que el alba salió,
+    Elenco, te conocí.
+ELENCO:
+    Hasta el punto que te vi,
+    para mí no amaneció.
+    Mas ¿en qué me conociste,
+    estando el carro parado
+    y los bueyes por el prado
+    que la primavera viste?
+    Ventura fue que durmiendo
+    en noche que te llorase
+    tan bello sol despertase
+    los ojos que te están viendo.
+DIANA:
+    Vengo de aquel mi señor
+    en este traje vestida,
+    aventurando la vida
+    por lo que toca al honor;
+    y, como tus bueyes vi
+    rumiando la hierba al prado,
+    en el hosco y el tostado,
+    Elenco, te conocí.
+    ¿Quién son, dime, los demás
+    que están en tu compañía?
+ELENCO:
+    Pregúntalo agora al día,
+    que de su luz lo sabrás.
+    Batavo, tu padre, es uno;
+    Chamizo, Lenio y Bartolo
+    son los demás, y aquel solo
+    que ya se levanta es Bruno.
+DIANA:
+    ¿Y venís de Salamanca?
+ELENCO:
+    En el mercado estovimos,
+    y a fe que a buscarte huïmos
+    antes que vendiese blanca.
+    Pero aquel capigorrón
+    de la manchada sotana
+    nos echó por la ventana
+    a todos tres un jergón;
+    y tanta prisa nos dio
+    que sin verte nos venimos,
+    y, aunque todos lo sentimos,
+    yo fui quien más lo sintió.
+    Huélgome que lo dejases,
+    aunque él en dejarte yerra,
+    y a ser reina de la sierra
+    y de aquesta alma tornases.
+    Matrimóñate conmigo,
+    y vuélvete a ser mujer,
+    que al servir y obedecer
+    ya dan por premio castigo.
+    ¿Qué te faltaba en la sierra,
+    donde todos te adoramos?
+DIANA:
+    Ahora bien, Elenco, vamos
+    donde el tiempo nos destierra.
+    En el monte trataremos
+    lo que a los dos esté bien,
+    y en el camino también
+    cuenta a mi padre daremos;
+    que sin él, y sin Lorena,
+    no es bien que palabra dé.
+[Sale Alejandro]
+ALEJANDRO:
+    ¡Cuánto el caminar a pie
+    causa a pies no usados pena!
+    Y más yo, que como toro
+    agarrochado y herido
+    a buscar agua he venido
+    dentro en el fuego que adoro.
+    Oh, bellísima Dïana,
+    ¿por qué no alumbras la tierra
+    desde el suelo de la sierra
+    donde eres deidad serrana?
+    Ya el sol que sale de Oriente
+    prados y montes descubre,
+    mas todavía se encubre
+    mi luna en el Ocidente.
+    Preguntaré por aquí
+    si alguien la ha visto pasar.
+DIANA:
+    Señor me viene a buscar...
+    Él es sin duda. ¡Ay de mí!
+    ¿Qué haremos, Elenco?
+ALEJANDRO:
+    ¡Ay, cielos!
+    ¿No es aquella disfrazada
+    mi bella luna eclipsada
+    de la sombra de mis celos?
+    ¡Suelta la prenda, villano!
+ELENCO:
+    ¡Soltalda, estodiante, vos,
+    que es mi mujer!
+ALEJANDRO:
+    ¡Bien, por Dios!
+DIANA:
+    ¿Qué me persigues, tirano?
+    ¡Vuélvete allá con tu amiga,
+    y en mi desdicha me deja!
+ALEJANDRO:
+    ¿No satisface a tu queja
+    esta fineza, enemiga?
+DIANA:
+    ¿Qué satisfación presumes
+    que puede engañar mis ojos?
+ALEJANDRO:
+    Ninguna, si en tus enojos
+    obstinada te resumes.
+    Como mozo inadvertido...
+ELENCO:
+    ¡Haceos ende!
+ALEJANDRO:
+    ... entre otros tales,
+    con travesuras iguales,
+    en Salamanca he vivido,
+    mas no porque tu afición,
+    que tan de veras me enciende,
+    pudiese helar...
+ELENCO:
+    ¡Idos dende!
+ALEJANDRO:
+    ... mi abrasado corazón.
+    ¡Mi bien, no te conocí!
+    ¡Vuelve conmigo!
+DIANA:
+    ¿Contigo?
+ALEJANDRO:
+    ¡Mi alma!
+ELENCO:
+    ¡Haceos dende, digo!
+ALEJANDRO:
+    ¿Que quieres dejarme así,
+    Dïana mía?
+ELENCO:
+    ¡Arre allá,
+    aunque fuera el hombre un cesto!
+ALEJANDRO:
+    ¿Qué engañado prosupuesto
+    venciendo tu amor está,
+    amores míos?
+ELENCO:
+    ¡Borracho,
+    heos de dar con el bastón!
+ALEJANDRO:
+    ¡Mi cielo, mi corazón!
+ELENCO:
+    ¡Tened, noramala, empacho!
+ALEJANDRO:
+    Mira que solo es forzoso
+    que te pierdas y me pierdas,
+    y que en las mujeres cuerdas
+    no es agravio el amoroso,
+    no es ofensa un accidente,
+    y, aunque lo fuera, en los dos
+    Amor es Dios, pues ¿qué, Dios
+    castiga quien se arrepiente?
+    Dame, señora, la mano,
+    y volvamos donde veas
+    el dulce fin que deseas.
+ELENCO:
+    ¿Era todo tinto, hermano?
+    ¡Voto al sol, tan por demás,
+    sin morir uno de dos,
+    es querer llevarla vos
+    como volver Tajo atrás!
+ALEJANDRO:
+    ¿Sabes, villano ignorante,
+    con quién hablas?
+ELENCO:
+    Sé con quién.
+ALEJANDRO:
+    Y ¿sabes quién es mi bien?
+ELENCO:
+    Es a mi bien semejante.
+ALEJANDRO:
+    ¡Loco, déjame llevalla!
+ELENCO:
+    ¿Llevar? ¡Después de mi muerte!
+    ¡No la tiréis de esa suerte,
+    que no es vuestra, pues que calla!
+[Saca Alejandro una daga, y dale]
+ALEJANDRO:
+    ¡Con esta la dejarás!
+ELENCO:
+    ¡Ay, que me ha muerto! ¡Ay de mí!
+DIANA:
+    ¿Qué has hecho, Alejandro?
+ALEJANDRO:
+    ¡Ansí
+    conmigo te igualarás!
+BATAVO:
+    ¡Aquí de los carboneros!
+BRUNO:
+    ¡Muera!
+BARTOLO:
+    ¿Qué agravio os hizo?
+[Salen Chamizo, Bartolo y Bruno, Cueto y Batavo]
+BARTOLO:
+    ¡A Elenco han muerto, Chamizo!
+CHAMIZO:
+    ¡Muera!
+BARTOLO:
+    ¡Paso!
+BATAVO:
+    ¡Muera!
+ALEJANDRO:
+    ¡Oh, fieros!
+BARTOLO:
+    No le matéis, que es mal caso.
+    ¡Son, prendelde! ¡Date, perro!
+DIANA:
+    Él ha sido estraño yerro,
+    mal suceso, triste caso.
+    Volver quiero a la ciudad,
+    y avisar de esto a Mauricio.
+[Vase Diana, y dice Chamizo a Alejandro:]
+CHAMIZO:
+    ¡Heis hecho buen maleficio!
+    Rinde la espada.
+ALEJANDRO:
+    Tomad.
+CUETO:
+    ¿Irá a Salamanca preso?
+BATAVO:
+    ¡Cuál diabros! Vaya al lugar;
+    varas hay para juzgar,
+    y plumas para el proceso.
+CHAMIZO:
+    ¿Y si acaso nos envían
+    desde allá pesquisidor?
+BATAVO:
+    Y aún eso sería mejor,
+    si en llevarle no porfían.
+    Tenelde bien; miraré
+    si es muerto Elenco. ¡Ah, sobrino!
+    ¿Conoceisme?
+ELENCO:
+    Bien atino
+    vuestra voz. Ponedme en pie.
+BATAVO:
+    ¡Eh, Dios, que va sangre de él
+    como de un novillo nuevo!
+BRUNO:
+    Tenelde... ¡Ah, pobre mancebo!
+CUETO:
+    ¿Por qué le heriste, crüel?
+ALEJANDRO:
+    Diome bastante ocasión.
+CHAMIZO:
+    Presto llorarás su muerte.
+BRUNO:
+    Atalde una cuerda fuerte
+    hasta ponelle en prisión.
+BARTOLO:
+    Seguras lleva las manos.
+    Vamos.
+ALEJANDRO:
+    ¡Ay, Dïana airada,
+    preso voy, y tú vengada,
+    pues lo voy entre villanos!
+[Vanse, y salen Diana, Mauricio y Tarreño]
+MAURICIO:
+    ¿Cómo piensas remediar
+    de Alejandro la prisión?
+DIANA:
+    El amor me ha de enseñar.
+    Yo, que fui su perdición,
+    su vida espero librar.
+MAURICIO:
+    ¿Por qué luego no veniste,
+    cuando arrepentido viste
+    a Alejandro sin jüicio?
+DIANA:
+    Porque a los cielos, Mauricio,
+    ninguna furia resiste.
+    Dios sabe si me arrepiento
+    de mi prolija venganza
+    contra mi propio contento,
+    pero tengo a mi esperanza
+    igual el atrevimiento:
+    yo le daré libertad.
+MAURICIO:
+    Si tienes necesidad,
+    señora, de este y de mí,
+    juntos nos tienes aquí.
+DIANA:
+    Hoy se ha de ver tu amistad.
+    Los dos habéis de ir conmigo.
+TARREÑO:
+    Contigo iremos los dos,
+    y yo moriré contigo.
+DIANA:
+    Libraréis, si quiere Dios,
+    un preso hidalgo y amigo.
+    La traza que he de tener
+    después la podéis saber,
+    que en el camino hay lugar
+    para poderos mostrar
+    lo que sabe una mujer.
+MAURICIO:
+    Como a libralle te aprestes,
+    esta vida en sacrificio
+    te doy, que a la muerte prestes;
+    que hoy resucita Mauricio
+    la antigua amistad de Orestes.
+TARREÑO:
+    Pues, si a libralle te aprestas,
+    sacalle del fuego a cuestas,
+    como Anquises, imagino.
+DIANA:
+    ¡Ay, celoso desatino,
+    cuántas lágrimas me cuestas!
+[Vanse, y salen Batavo y Chamizo con varas de alcaldes, y Cueto y Bruno, carboneros]
+BRUNO:
+    Ya que el concejo os ha dado
+    las varas para esta audiencia,
+    y entre muchos quillotrado,
+    tened los dos advertencia
+    que todo vaya acertado,
+    que, si esto en bien se remata
+    y alguno con el Rey trata
+    que vueso caletre importe,
+    quizá os llevará a la Corte
+    para alcaldes de poyata.
+BATAVO:
+    Dejad todos a mi cargo
+    la sentencia de este injusto,
+    que de ahorcalle me encargo,
+    en justo y en verenjusto,
+    sin testigo ni descargo.
+    Decí, ¿no vistes vosotros
+    la cuestión? Pues ¿por qué otros
+    mejor lo sentenciarán,
+    ni qué testigos serán
+    más honrados que nosotros?
+CHAMIZO:
+    ¡Pardiez, que traigo en la cholla
+    ser otro Salamelón,
+    si el seso no se me abolla,
+    y poner ese ladrón
+    en un palo y una argolla!,
+    que Zaragatón no hizo
+    lo que pienso hacer Chamizo
+    si escompiezo a sentencialle.
+    ¡Voto al sol, que he de encuballe
+    con un gato y un erizo!
+    ¿Quién le guarda?
+CUETO:
+    ¿Quién? Bartolo.
+CHAMIZO:
+    ¡No le engañe!
+CUETO:
+    Basta él solo
+    para guardar un princepo,
+    demás que le echó en el cepo.
+BRUNO:
+    ¿Echole el candado?
+CUETO:
+    Echolo.
+    Tray un chuzo, aunque está boto,
+    que fue espanto de Tejares,
+    y un casco mohoso y roto,
+    con que guarda melonares
+    desde la cabaña al soto.
+CHAMIZO:
+    ¿No le tiene puesto un perro?
+CUETO:
+    ¿Para qué? ¿No veis que es yerro
+    que andemos tan recelantes?
+CHAMIZO:
+    Mal conocéis estodiantes:
+    harán un monte de un puerro.
+    ¿Es de buen hierro y acero
+    la cadena?
+CUETO:
+    Puede atar
+    un diablo.
+CHAMIZO:
+    Advertiros quiero
+    que se puede rezumar
+    por algún resquebradero;
+    que estos hacen que se alteren,
+    hechos trasgos, los que mueren;
+    apedrean los sembrados,
+    saben conjurar nublados,
+    y aun llover cuando ellos quieren.
+    Tienen libros y dibujos,
+    crecen y menguan la mar,
+    sus crecientes y reflujos,
+    y aun he oído contar
+    que algunos de estos son brujos.
+    Esta vez ha de pagarme
+    las veces que por burlarme
+    me han hurtado algunas prendas,
+    y muchas Carnestolendas
+    que han sabido bien tiznarme.
+    Haz que le saquen acá,
+    Batavo.
+BRUNO:
+    Yo voy por él,
+    si es hora de audiencia ya.
+BATAVO:
+    Poneme aquí un escabel.
+CUETO:
+    Siéntese, que puesto está.
+BATAVO:
+    En nombre de Dios, me siento,
+    y de su Madre bendita,
+    que aguce mi entendimiento.
+CHAMIZO:
+    ¿Dónde está la causa escrita?
+BATAVO:
+    ¿Hémosle de dar tormento?
+[Entran Bartolo y Bruno, y traen a Alejandro con una cadena, y carboneros con chuzos]
+BARTOLO:
+    Ya tenéis el preso aquí.
+BATAVO:
+    Ponelde bien cara a mí.
+CHAMIZO:
+    Verá que se hace mostrenco,
+    habiendo matado a Elenco.
+BATAVO:
+    ¿Por qué le mataste, di?
+ALEJANDRO:
+    No sé qué os diga en que acierte.
+    Acabad ya con mi vida,
+    y dadme presto la muerte.
+CHAMIZO:
+    ¡Oh, traidor carbonicida!
+    ¿Aun aquí te muestras fuerte?
+    ¿Al campo no le salías,
+    después de ciertas espías,
+    a quitalle su mujer?
+ALEJANDRO:
+    Menos será menester
+    para las desdichas mías.
+    ¿No os digo que me matéis,
+    pues que su muerte confieso?
+    ¿Qué más testigos queréis,
+    qué probanza, qué proceso?
+    ¿Qué esperáis o qué teméis?
+    No tengo padre o pariente
+    que justa o injustamente
+    mi muerte después os pida.
+    Vivir siente ya mi vida,
+    que tarde la muerte siente.
+CHAMIZO:
+    Él está desesperado:
+    por esto, como por eso,
+    merece ser sentenciado.
+    Aquí no hay que hacer proceso,
+    procurador ni letrado.
+    Batavo, dad la sentencia,
+    o yo sin vuestra licencia
+    de mi cholla la diré.
+BATAVO:
+    Chamizo, yo no la sé;
+    descargo en vos mi conciencia.
+    Pues Dios os dio buen pergeño,
+    jodicalde a vuestro modo,
+    que yo no sé más que un leño.
+CHAMIZO:
+    ¿Yo lo tengo de hacer todo?
+    ¡Sus, que en ruin barba me enseño!
+    Yo mando que en mi pollino
+    le lleven hasta el camino
+    do el delito cometió,
+    y a cuantos fueren les do
+    caridad de pan y vino...
+    Y aun estoy por dar licencia
+    para que ganen perdones.
+BATAVO:
+    ¿Sos obispo?
+CHAMIZO:
+    En mi conciencia,
+    que tenés dos mil razones,
+    que esta no es más de sentencia.
+    Mando, pues, que sea ahorcado
+    por los pies y asaeteado,
+    y aun era de parecer
+    que no le den de comer
+    hasta después de finado.
+    Y mando que sea traído
+    a nuesa carnicería,
+    donde sea repartido,
+    que aun ser cecina podría,
+    pues lo es un toro corrido.
+    Y mando que por sus daños
+    cuelguen tripas y redaños
+    de una escarpia en algún cesto,
+    y que vaya después de esto
+    a galeras por diez años,
+    y cumplidos venga aquí
+    a servirnos de aguador.
+BATAVO:
+    ¡Nunca tal sentencia vi!
+CHAMIZO:
+    ¿Diérala nadie mejor?
+ALEJANDRO:
+    ¡Por Dios, bueno quedo ansí!
+    Con estar tan lastimado,
+    a risa me ha provocado.
+BRUNO:
+    ¿Cuándo se ha de ejecutar?
+BATAVO:
+    Luego.
+CHAMIZO:
+    No hay más que aguardar.
+    Pásenle por el mercado,
+    y córtenle el brazo izquierdo.
+BATAVO:
+    Si el viejo ha de aconsejar,
+    la sentencia es de hombre cuerdo,
+    mas hase de dilatar
+    para más pensado acuerdo,
+    que de la ciudad ¿quién duda
+    que algún alguacil acuda
+    a saber cómo se hizo?
+    Y podría ser, Chamizo...
+CHAMIZO:
+    ¿Qué?
+BATAVO:
+    Que la fama no es muda.
+CHAMIZO:
+    ¡Pardiez, que dice verdad,
+    que nos costará dinero
+    si acuden de la ciudad!
+    Ya no os mato, compañero,
+    no es posible, perdonad.
+    Yo quisiera daros gusto,
+    pero debo más, que es justo,
+    a aquesta gente y a mí.
+ALEJANDRO:
+    No importa... ¡Ya muero aquí
+    de celos, rabia y disgusto!
+CHAMIZO:
+    Esto está por hoy bien hecho.
+    Vamos, que yo de mi mano
+    le pondré en un cepo estrecho.
+BATAVO:
+    ¡Gran jüez!
+CUETO:
+    ¡Bravo serrano!
+BATAVO:
+    ¡Qué valor!
+BRUNO:
+    ¡Notable pecho!
+ALEJANDRO:
+    ¡Oh, fugitiva Dïana,
+    mira esta cárcel tirana
+    de mi firmeza crisol!
+CHAMIZO:
+    Andá, que yo os voto al sol
+    que no lo digáis mañana.
+[Vanse, y sale Diana en hábito de serrana, y Tarreño, capigorrón, vestido de serrana vieja, con un rebozo en las barbas, que fingen la figura de Lorena]
+DIANA:
+    Que has de fingir, te digo,
+    que eres Lorena, mi fingida madre.
+TARREÑO:
+    ¿Qué familiar amigo,
+    qué amigo, digo yo, qué hermano o padre,
+    ni su linaje todo
+    viniera por librarle de este modo?
+    ¿Vengo bien disfrazado?
+    Que son estos villanos maliciosos,
+    y, en viendo por un lado
+    que soy Tarreño, acudirán golosos
+    con los palos más gordos
+    a mis espaldas como a olivas tordos.
+    Haz presto que Mauricio
+    acuda con su vara y con su engaño
+    a su fingido oficio,
+    que ha que no me confieso más de un año,
+    y esto temo, Dïana,
+    puesto entre gente rústica y villana.
+DIANA:
+    Pierde esta vez el miedo,
+    que como disfrazado vas seguro.
+TARREÑO:
+    Mucho, por Dios, lo quedo.
+    Mira detrás de aquel fosado muro
+    a Alejandro sin seso,
+    entre villanos y en la cárcel preso.
+DIANA:
+    ¡Paso, que estás en ella!
+    Disimúlate bien.
+TARREÑO:
+    ¡Cuántos rodeos
+    he hecho por no vella!
+    ¡Oh, Sancte Petre ad Vincula, doleos
+    de este preso sin culpa,
+    que la afición y la amistad disculpa!
+[Sale Bartolo con un chuzo]
+BARTOLO:
+    ¿Quién es el atrevido
+    que osa llegar aquí?
+TARREÑO:
+    ¿De qué estás muda?
+DIANA:
+    Yo soy la que he perdido
+    mi bien y mi remedio, y la vïuda
+    del triste Elenco, muerto
+    a manos de un traidor en un desierto.
+    Vengo, que al fin soy parte,
+    a pedir mi justicia, ¡mi justicia!
+BARTOLO:
+    Esa quieren guardarte,
+    y castigar de veras su malicia.
+    A muerte le condena
+    Chamizo.
+TARREÑO:
+    ¿Dónde está?
+BARTOLO:
+    Preso en cadena.
+DIANA:
+    ¿Puedo velle?
+BARTOLO:
+    ¡Bien puedes!
+DIANA:
+    Quisiérale reñir por mi venganza,
+    si este bien me concedes.
+BARTOLO:
+    Todo se hará bien; ten esperanza.
+    Si ansí vengarte esperas,
+    entra, Dominga, dile cuanto quieras.
+DIANA:
+    Entra, amiga Lorena.
+BARTOLO:
+    ¿Lorena era? No la conocía.
+DIANA:
+    Anda con esta pena
+    llena de una mortal melancolía.
+BARTOLO:
+    Entra, que aquí te espero.
+DIANA:
+    (Dame las limas.
+TARREÑO:
+    Entra.
+DIANA:
+    ¡Oh, santo acero!)
+BARTOLO:
+    Dile, por vida tuya,
+    cuanto en su injuria del traidor supieres
+    que su pecado arguya,
+    que en esto sois maestras las mujeres,
+    y en diciendo «estordiante»
+    no digas más, ni pases adelante,
+    porque es echar el sello
+    a toda la demás bellaquería.
+[Salen Mauricio con vara de justicia, y gente, y con él Batavo y Chamizo]
+MAURICIO:
+    Yo mismo quiero vello.
+BATAVO:
+    Bien dije yo que el alguacil vendría...
+CHAMIZO:
+    Aquí está muy bien preso,
+    y hecha averiguación de su proceso.
+MAURICIO:
+    ¿Que ya está averiguado?
+CHAMIZO:
+    De verbo a verbo está todo por letra,
+    y muy bien sentenciado.
+MAURICIO:
+    No pudo hacerse, por la ley impetra,
+    párrafo de ahorcatis,
+    digestis de villanis engañatis.
+    De esto vengo quejoso,
+    como pesquisidor de aquesta causa.
+BATAVO:
+    Si os dan el alevoso
+    que esta maldad y desvergüenza causa,
+    ¿estaréis satisfecho?,
+    que el escribillo ansí no fue mal hecho.
+MAURICIO:
+    Y ¿quién lo ha escrito todo?
+CHAMIZO:
+    El sacristán, que es hombre muy sesudo,
+    y está por tan buen modo,
+    según es en los órganos agudo,
+    que al Rey ha de envïarse,
+    y con un carro de carbón llevarse.
+MAURICIO:
+    Llevarelos yo presos
+    a la ciudad, y luego harán presente
+    del carbón y procesos.
+CHAMIZO:
+    ¿A nosotros? ¡Mal año!
+MAURICIO:
+    Buena gente,
+    si sois hombres de prendas,
+    mirad que os costará vuestras haciendas;
+    que mal habéis podido
+    de vuestra autoridad darle sentencia.
+BATAVO:
+    ¿Qué os hemos ofendido,
+    si os damos el ladrón?
+MAURICIO:
+    ¡Gentil audiencia!
+    Dadme ausilio al momento.
+BATAVO:
+    ¿Teneisle vos, Chamizo?
+MAURICIO:
+    ¡Estraño cuento!
+    ¿Quién son estas serranas
+    que salen de la cárcel?
+BATAVO:
+    Es la viuda
+    con lágrimas humanas
+    y ansias de verse de su bien desnuda.
+MAURICIO:
+    ¿Y esta vieja?
+BATAVO:
+    Es Lorena.
+MAURICIO:
+    En los suspiros se le ve la pena.
+[Salen de la prisión Alejandro y Diana, vestidos de serranas]
+    Mejor es que no entremos...
+    Sáquenle, que no quiero visitarle.
+BARTOLO:
+    Los dos por él iremos.
+MAURICIO:
+    Aprecíbanme luego en qué llevarle,
+    y cuatro arcabuceros.
+CHAMIZO:
+    ¿Chuzos no bastarán de carboneros?
+MAURICIO:
+    Cualquiera cosa sobra,
+    que yo sé que el camino está seguro.
+[Salen corriendo Bartolo y el capigorrón]
+TARREÑO:
+    ¡Gentil crédito cobra
+    vuestra prisión y guardia!
+BATAVO:
+    ¡Algún conjuro
+    apostaré que ha hecho!
+CHAMIZO:
+    ¿Qué tenemos?
+BARTOLO:
+    Saliose por el techo...
+MAURICIO:
+    ¿Quién?
+CHAMIZO:
+    El preso estodiante,
+    que solo estaba allí este hombre honrado
+    que aquí tenéis delante,
+    y dice que es del alguacil crïado,
+    y que a buscalle entraba.
+TARREÑO:
+    Yo le vi que los techos conjuraba,
+    y que a ciertas razones
+    en lenguas ningrománticas formadas
+    se abrieron los tablones,
+    los cepos y cadenas derribadas,
+    aunque, en saliendo afuera,
+    quedose el techo como de antes era.
+CHAMIZO:
+    ¡Esto yo lo decía!
+    ¡Voto a mí, que era brujo!
+MAURICIO:
+    ¿Este cuidado
+    para prisión de un día
+    habéis tenido? Mas ¿de qué me enfado?
+    ¡Vénganse todos presos,
+    llevaranse a la Corte los procesos!
+BATAVO:
+    (Paréceme más sano,
+    ya que esto socedió de esta manera,
+    que le untemos la mano,
+    que es el dinero sol, y el hombre es cera;
+    que ir presos es locura,
+    y dejar nuestra hacienda a la ventura.
+CHAMIZO:
+    ¡El diabro acá le trujo!
+    ¿Qué le podremos dar?
+BATAVO:
+    Treinta ducados.
+CHAMIZO:
+    ¿Valía tanto el brujo?
+BATAVO:
+    ¡Prega a Dios que los quiera, y aun doblados!
+    A hablalle voy de oído...)
+    ¿Qué os parece del caso socedido?
+MAURICIO:
+    Por vos hacello quiero,
+    que no por el dinero, en mi conciencia.
+BATAVO:
+    Venid por el dinero.
+CHAMIZO:
+    (A mosotros nos dimos la sentencia...
+    ¡Fïad de brujos tales!)
+TARREÑO:
+    (¡Bien se ha hecho! ¿Qué dan?
+MAURICIO:
+    Quinientos reales.)
+[Vanse todos, y salen Antandro, Seraldo, Laurencio y Bernardo]
+ANTANDRO:
+    Ya no es posible errar, si por ventura
+    en esta sierra tan remota vive,
+    por las señas que de ella da Laurencio.
+SERALDO:
+    Si nos fuera de menos importancia
+    que la vida y la honra aquesta empresa,
+    yo pienso que el cansancio me estorbara,
+    que más por esos montes anduviera
+    inhabitables, solos y desiertos,
+    no pisados jamás de humanas plantas.
+LAURENCIO:
+    Lo más defícil rompe la paciencia;
+    pues todos la llevamos, no te falte.
+BERNARDO:
+    Nunca las esperanzas he perdido
+    que del alférez tengo en esta empresa.
+    ¡O quiera el cielo, o el amor lo quiera,
+    que cobre este mi crédito y mi honra!
+ANTANDRO:
+    Desde aquí nos iremos todos juntos
+    a ver a mi Alejandro, que sospecho
+    que aprovecha muy bien en los estudios,
+    y allí descansaremos del trabajo
+    y gozaremos la ciudad insigne
+    que a París y Bolonia excede en letras.
+SERALDO:
+    Ansí le veréis hombre y gran letrado,
+    que, lejos del regalo de los padres,
+    más a los hijos la virtud se acerca.
+BERNARDO:
+    Dos serranas se acercan a nosotros.
+    Aquí nos apartemos, que por dicha
+    tendrán de tanta gente miedo.
+ANTANDRO:
+    ¡Lleguen,
+    que, por mi vida, que me alegra el traje!
+SERALDO:
+    Entre ellas, hay algunas muy hermosas.
+LAURENCIO:
+    Sí, pero por estremo zahareñas.
+ANTANDRO:
+    ¿Qué pueden ser, nacidas entre peñas?
+[Salen Diana y Alejandro en hábito de serranas]
+ALEJANDRO:
+    Si yo te debo la vida,
+    que estuvo en tan sutil hebra,
+    tu lealtad jamás oída
+    a cuantas Roma celebra
+    merece estar preferida.
+    Así, a tus hazañas solas,
+    bandera que hoy enarbolas
+    para arrogante divisa,
+    Italia, que tantas pisa,
+    se rinde a las españolas.
+DIANA:
+    Todo ha nacido, mi bien,
+    de amor, que no de valor,
+    aunque hubo valor también;
+    por eso es justo que a Amor
+    eternas gracias se den.
+    Mas... ¡Ay! ¿Qué es esto?
+ALEJANDRO:
+    ¡Oh, bien mío!
+    ¿Si es justicia?
+DIANA:
+    Yo confío
+    del cielo, y en él aguardo
+    piedad.
+ALEJANDRO:
+    ¿No es este Bernardo?
+DIANA:
+    ¡Y con tu padre y mi tío!
+    ¡Tápate!
+ALEJANDRO:
+    Ya estoy cubierto.
+ANTANDRO:
+    Este traje me ha de dar
+    ocasión a un desconcierto.
+    Cortés las podéis hablar;
+    de su aspereza os advierto.
+    ¡Ah, serrana de mis ojos!
+[Antandro a su hijo]
+    Descubríos, no os tapéis,
+    que dais mayores antojos,
+    que mientras cubierta estéis
+    se doblarán mis enojos...
+[Seraldo a su sobrina]
+SERALDO:
+    Hermosa y bella serrana,
+    pues podéis hacer afrenta
+    a la mejor ciudadana,
+    de un cortesano haced cuenta
+    que os tiene por cortesana...
+ANTANDRO:
+    ¡Ah, mi vida! ¿No me habláis?
+SERALDO:
+    ¡Descubríos, no os cubráis!
+ANTANDRO:
+    A mayor desdén se esfuerza...
+SERALDO:
+    Pues ¡descubrilda por fuerza!
+ANTANDRO:
+    Como vos lo mismo hagáis...
+[Descubre Antandro a su hijo, y Seraldo a su sobrina]
+ANTANDRO:
+    ¡Cielos! ¿Qué es esto que veo?
+SERALDO:
+    ¿Eres Dïana, traidora?
+ANTANDRO:
+    ¿Alejandro? ¡No lo creo!
+DIANA:
+    Soy quien sus desdichas llora.
+ALEJANDRO:
+    Y yo, quien morir deseo.
+DIANA:
+    Vesme aquí, tío, a tus pies.
+ALEJANDRO:
+    Suplícote que me des,
+    padre, la muerte.
+ANTANDRO:
+    ¿Qué es esto?
+    ¿Quién en tal traje te ha puesto?
+ALEJANDRO:
+    Muerto, lo sabrás después.
+ANTANDRO:
+    ¡Dilo, traidor!
+ALEJANDRO:
+    Preso estando
+    por muerte de un labrador,
+    que a Dïana vi forzando,
+    en este traje, señor,
+    Dïana me libró.
+ANTANDRO:
+    ¿Cuándo?
+ALEJANDRO:
+    Agora en este momento,
+    y temo que como el viento
+    la sierra me sigue ya.
+ANTANDRO:
+    Seraldo, en peligro está
+    tu honor, y mi pensamiento,
+    aunque ya será locura
+    querer quitar a Dïana
+    el esposo que procura,
+    porque soldado y serrana
+    puso la vida a ventura.
+    Poneldos en salvo luego,
+    que de mi parte os lo ruego
+    si por vuestro amigo valgo.
+SERALDO:
+    Sois discreto y sois hidalgo,
+    pero estoy de enojo ciego.
+    Cásense los dos perdidos
+    de hacienda, vida y sentidos,
+    si por dicha quiere Antandro.
+ANTANDRO:
+    Dale la mano, Alejandro.
+LAURENCIO:
+    Bien parecéis bien nacidos;
+    es muy justo el casamiento.
+BERNARDO:
+    Poneldos en salvo agora.
+ALEJANDRO:
+    ¡Bien haya tanto tormento,
+    pues que me trajo, señora,
+    al fin del mayor contento!
+[Salen Mauricio y Tarreño]
+MAURICIO:
+    ¿Por aquí dices que van?
+TARREÑO:
+    No me engaño, que aquí están.
+ALEJANDRO:
+    ¡Oh, Mauricio! ¡Oh, caro amigo!
+MAURICIO:
+    ¿Quién son los que están contigo?
+ALEJANDRO:
+    Los que la vida me dan:
+    el tío de mi serrana,
+    y mi padre.
+MAURICIO:
+    Hablallos quiero
+    en abrazando a Dïana.
+ANTANDRO:
+    ¿Quién es?
+ALEJANDRO:
+    Fue mi compañero,
+    y a quien has de dar mi hermana.
+MAURICIO:
+    ¡Dame esas manos!
+ANTANDRO:
+    Los brazos,
+    como a hijo, y mil abrazos.
+MAURICIO:
+    Después sabrás el suceso.
+TARREÑO:
+    ¿Y a mí no me alcanza un queso,
+    después de hacerme pedazos?
+MAURICIO:
+    Tarreño, quinientos reales
+    que a los serranos quité
+    son tuyos.
+TARREÑO:
+    Pese a mis males,
+    luego a mi tierra me iré
+    con trompetas y atabales.
+ALEJANDRO:
+    Los villanos son inormes;
+    ¿qué haremos?
+ANTANDRO:
+    Todos conformes
+    de esta montaña salgamos,
+    pues fin con sus bodas damos
+    a La serrana de Tormes.

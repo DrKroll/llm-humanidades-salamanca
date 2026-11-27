@@ -1,0 +1,3398 @@
+# Halcon de Federico
+Autor: Lope de Vega
+
+El halcón de Federico,:
+comedia famosa de Lope de Vega Carpio.:
+Dirigida a Sebastián Jaime, ciudadano de Valencia:
+Tanto más dijo Plinio que era torpe la ingratitud, cuanto más honesta la causa del agradecimiento. No he tenido con qué mostrarle al beneficio que recebí de Vuestra Merced cuando llegué a Valencia a acompañar al excelentísimo señor Conde de Lemos, que venía de gobernar a Nápoles; pues, ya de la aspereza del camino, ya de la inclemencia del tiempo, en que reinaba aquella estrella que Ovidio llamó proterva («et micet Icarii stella proterva canis»), Codro malsana y Mantuano morbosa, perdí la salud, que con el cuidado y regalos de Vuestra Merced, después de la piadosa mano del cielo, recuperé brevemente. Hace ventaja esa ilustrísima ciudad a todas las de Europa en honrar, amparar y regalar los forasteros; es madre de la cortesía, de la gentileza y de la piedad, pues a los que no conocen y de quien por ventura no esperan reconocimiento, hacen tan singulares bienes y mercedes. ¿Qué castellano, o de otra cualquiera nación, ha llegado a Valencia que en ella no hallase más tierno, más amoroso, más regalado acogimiento que en su misma casa? Adórnala el cielo de cuanto puede desear la imaginación humana; sus ingenios son divinos, sus soldados valerosos, sus caballeros gallardos, sus damas bellísimas, su religión y fidelidad la mayor que se conoce, y su gobierno tan excelente que ha dejado atrás las repúblicas platónicas, donde, con el ejemplo de la mixtión de los agudos y graves con que la música forma tan suave concento y armonía, alaba en un reino o ciudad la junta maravillosa de la fortaleza y de la templanza. Desconsolado estuviera de parecer ingrato, si no dijera lo que debo a esa ciudad generosa, y entre algunas personas de ella a Vuestra Merced, pero quiero que advierta que también le pareció a Cicerón que no sólo había de ser agradecido el que recebía el beneficio, «verum etiam is cui potestas accipiendi fuit».:
+    Esta comedia sale a luz con el nombre de Vuestra Merced para que tenga el amparo que le deseo. Recíbala en su protección como a mí en su casa, que si, por opinión de Casiodoro, ninguno entiende lo que recibe si no se acuerda de haberlo recebido, yo, por lo menos, que lo confieso, no lo ignoro, y espero en mayores cosas mostrarme agradecido. Dios guarde a Vuestra Merced como deseo.
+    Lope de Vega Carpio
+Figuras de la comedia:
+Federico, caballero:
+Fabio, criado:
+Feliciano, criado:
+Ludovico, caballero:
+Camilo, caballero:
+Julia, dama:
+Celia, mujer de Camilo:
+Perote, loco:
+Lidio, criado:
+Clavela:
+Riselo:
+Aureliano:
+El capitán Rutilio:
+Soldados, caja y bandera:
+Un alcalde villano:
+Eliano, Celio, hermanos suyos:
+César, su hijo:
+Un casero labrador [Leridano]:
+Representola Riquelme:
+ACTO PRIMERO:
+Federico, caballero, Fabio, criado:
+FABIO			  El premio de más galán:
+    te han dado en este torneo.
+FEDERICO		Podré decir que al deseo,:
+    Fabio, ese premio le dan;
+    que, como yo no lo estoy,					5
+    y tanto deseo ser
+    quien pueda bien parecer
+    a los ojos de quien soy,
+    quien de galán me ha premiado
+    por donde aquel ángel veo,					10
+    me ha visto, Fabio, el deseo
+    de agradar a quien no agrado;
+    que los ojos, cuya calma
+    del justo temor desdice,
+    son cédulas donde dice					15
+    sus pensamientos el alma.
+    ¿Qué me dieron?
+FABIO			                            Una pluma:
+    de diamantes.
+FEDERICO		                     Bien hicieron,:
+    que en pluma y diamantes dieron
+    de todo mi mal la suma:					20
+    pluma son mis esperanzas
+    que lleva el viento inconstante,
+    y mis firmezas diamante
+    al rigor de sus mudanzas;
+    pluma son mis prevenciones				25
+    que vuelan sin galardón,
+    y diamante el corazón
+    que sufre tantas pasiones;
+    pluma son mis diligencias
+    contra un ingrato desdén,					30
+    y diamante el pecho en quien
+    caben tan largas paciencias;
+    pluma es el loco volar
+    de aquesta imposible empresa,
+    y diamante lo que pesa					35
+    el peso de mi pesar.
+FABIO			  El seso se te ha olvidado,:
+    que debieras hacer pluma
+    con que escribieras la suma
+    de lo mucho que has gastado.					40
+    Vuelve, por tu vida, en ti,
+    y con pluma en un diamante
+    escribe que un loco amante
+    a perderse vuela ansí.
+    Señor, en ninguna cosa					45
+    conoce a lo que has llegado
+    como en que muestre un crïado
+    libertad tan rigurosa.
+    Yo he propuesto hablarte claro;
+    si te ofendo, a Amor castiga,					50
+    que él me manda que te diga
+    los daños en que reparo.
+    Toda Florencia murmura
+    tus gastos desatinados,
+    nacidos de los cuidados					55
+    de esta imposible hermosura.
+    Repórtate, y considera
+    que de esta hacienda gastada
+    a Celia no alcanza nada,
+    cuando menester la hubiera.					60
+    Ella es casada, y su esposo
+    tan rico que no hay dos hombres
+    en Florencia con los nombres
+    de rico y de venturoso
+    que los tengan con más causa.				65
+FEDERICO		La ventura bien le viene,:
+    pues de quien la mayor tiene
+    tantas desdichas me causa.
+    La riqueza sabe Dios
+    que no le envidio.
+FABIO			                             Eso creo,					70:
+    porque antes tienes deseo
+    de ser pobre.
+FEDERICO		                   Celia, en vos:
+    toda mi riqueza estriba:
+    oro fue vuestra cabeza;
+    de esa frente la belleza					75
+    plata blanca, limpia, altiva;
+    esos ojos piedras son
+    que preciosas hacen tiros.
+    ¿Quién ha visto con zafiros
+    dar veneno al corazón?					80
+    Rubíes y perlas bellas
+    son esos dientes y boca;
+    ámbar el aire que toca
+    como en blanco azahar en ellas.
+    Pues quien tiene en su belleza				85
+    perlas, piedras, plata y oro,
+    sin duda tiene el tesoro
+    de la más alta riqueza.
+FABIO			  Si fuera tuya, es verdad,:
+    pero es casada y ajena,					90
+    porque la riqueza es buena
+    gozada con libertad.
+    Pero ¿qué se me da a mí
+    del jardín de mi vecino?
+FEDERICO		Eres necio.:
+FABIO			                 Eso imagino.					95:
+FEDERICO		Pues es sin duda.:
+FABIO			                          Es ansí.:
+FEDERICO		  La estimación de una cosa:
+    el conquistarla ha de ser,
+    que la fruta y la mujer,
+    la hurtada es la más sabrosa.					100
+    Si el oro que te he contado
+    de Celia tuviera yo,
+    del bien que nunca me dio,
+    Fabio, estuviera cansado.
+    No ha dicho la Antigüedad,					105
+    en cuanto tengo leídas,
+    a la fábula de Midas
+    cosa que tenga igualdad:
+    todo aquello que tocaba
+    en oro se convertía,						110
+    oro comía y bebía,
+    y hasta en oro se acostaba.
+    Lo mismo deben de ser
+    los gustos de los casados,
+    pues, estando en casa atados,					115
+    cuanto tocan es mujer.
+FABIO			  En mi vida, Federico,:
+    cosa tan aguda oí.
+FEDERICO		Ve por la pluma, y aquí:
+    me deja.
+FABIO			             Oye, te suplico...					120:
+FEDERICO		  No hay que oír. Tú has de llevarle:
+    a Celia.
+FABIO			            ¿Vendrán, señor?:
+FEDERICO		¿Quién?:
+FABIO			            El sastre, el bordador,:
+    a quien fuera mejor darle,
+    porque quinientos ducados					125
+    que debes entre los dos...
+FEDERICO		Camina, Fabio, por Dios,:
+    deja esos necios cuidados.
+FABIO			  No te quiero replicar.:
+Vase Fabio:
+FEDERICO		Traeme a casa la respuesta.					130:
+Sale Julia, dama:
+JULIA			¿Podrete hablar?:
+FEDERICO		                          Poco cuesta,:
+    Julia, oír. Comienza a hablar,
+    y plega a Dios que aproveche.
+JULIA			Crüel Federico airado,:
+    ¿qué montes te han engendrado?				135
+    ¿Qué tigres te dieron leche?
+FEDERICO		  ¿Ya comienzas por ahí?:
+JULIA			¿Ya el principio no te agrada?:
+FEDERICO		Ni me puede agradar nada,:
+    Julia, de ti.
+JULIA			                 ¿Cómo ansí?					140:
+FEDERICO		  El cómo, porque estoy loco,:
+    y el ansí, porque estoy ciego.
+    Julia, todo soy de fuego:
+    ¡ay de las cosas que toco!
+JULIA			  Mucho en pensar me desvelo,				145:
+    si es lo que dices ansí,
+    cómo tanto fuego en mí
+    pueda convertirse en hielo.
+FEDERICO		  Antes muy conforme estoy:
+    a los estremos que llego,					150
+    porque para mí soy fuego
+    y para ti hielo soy.
+    Consúmeme todo el día
+    amor que es rayo del cielo,
+    y después parezco hielo					155
+    porque la ceniza es fría.
+JULIA			  Si yo acabase conmigo:
+    de aborrecer tu desdén,
+    no quería mayor bien
+    que en venganza tu castigo;					160
+    pero como estoy tan loca,
+    lo que era vengarme en ti
+    viene a ser castigo en mí,
+    y en las entrañas me toca.
+FEDERICO		  ¿Por qué me quieres?:
+JULIA			                                   No sé.					165:
+FEDERICO		¿No lo sabes? Yo tampoco.:
+JULIA			Tú, ¿por qué quieres?:
+FEDERICO		                                  Por loco.:
+JULIA			Pues yo lo mismo seré.:
+    Mas sin duda es la ocasión
+    que quiero, porque he querido				170
+    a quien me ha correspondido,
+    y dúrame esta pasión.
+FEDERICO		  Si quisiste a quien te amaba,:
+    aborrece a quien te olvida,
+    que ésta es razón conocida					175
+    y que todo el mundo alaba.
+JULIA			  ¿Cómo no la consideras,:
+    pues quieres quien te aborrece?
+FEDERICO		Porque por eso merece:
+    que la quiera con más veras.					180
+    Celia nunca me ha querido,
+    que, si querido me hubiera
+    y me olvidara, yo hiciera
+    contrahierba de su olvido.
+JULIA			  Pues, si te digo verdad,					185:
+    yo te quiero porque veo
+    que te mata otro deseo
+    y enciende tu voluntad.
+FEDERICO		  Eso no es amor, que es celos:
+    y envidia.
+JULIA			               Bien puede ser,					190:
+    porque hicieron la mujer
+    llena de envidia los cielos.
+    Mejor libre me pareces
+    que cuando rendido estás;
+    en fin, yo te quiero más					195
+    después que tú me aborreces.
+    Y dame que me quisieras,
+    que a fe que me despicara
+    de suerte que no te hablara
+    si dos mil almas me dieras.					200
+    Quédate, que el gran dolor
+    me ha hecho decirte más
+    de lo justo, porque estás
+    lejos de tenerme amor;
+    mas mira que la mujer					205
+    es peligroso enemigo.
+FEDERICO		¿Qué puedes tú hacer conmigo:
+    más que dejar de querer?
+JULIA			  Si de quererte dejara,:
+    luego no te persiguiera:					210
+    quien persigue y persevera
+    amor secreto declara.
+    Y mientras te tengo amor,
+    te tengo de perseguir.
+FEDERICO		¿Qué podrás hacer?:
+JULIA			                              Decir					215:
+    a Celia que eres traidor.
+FEDERICO		  ¡Ojalá que tú la hablases:
+    y tu pasión le dijeses,
+    quejas de mi amor le dieses
+    y el que tengo le contases!					220
+    ¡Ojalá que a Celia hermosa
+    le dijeses que la quiero,
+    porque no hay tan buen tercero
+    como una mujer celosa!
+    ¡Ojalá que por delito						225
+    dijeses que te aborrezco,
+    y que lo que yo merezco
+    viese en tus ojos escrito!
+    Por ventura podría ser
+    despertases a quien duerme.					230
+JULIA			Mal sabes tú conocerme,:
+    ni entiendes lo que es mujer.
+    Yo lo trazaré de modo
+    que, sin saber que te quiero,
+    te pinte un bajo escudero					235
+    de vil pensamiento en todo;
+    y finalmente has de ver,
+    ya que soy aborrecida,
+    que no hay víbora ofendida
+    como lengua de mujer.					240
+Vase:
+FEDERICO		  Amo quien me aborrece, aborreciendo:
+    a quien me quiere; adoro a mi enemigo;
+    huyo de quien me va siguiendo, y sigo
+    la misma sombra que de mí va huyendo.
+    Muero por quien por otro está muriendo,			245
+    y a quien me da su vida a muerte obligo;
+    a quien me sigue con lealtad persigo,
+    y a quien jamás me paga estoy sirviendo.
+    Así por este mar de amor navego:
+    con hielo abraso, y nieve en fin me enciende;		250
+    donde sigo mi error, la razón niego;
+    que cuando Amor lo que es razón pretende,
+    ya no es Amor; que Amor es niño y ciego:
+    cual ciego mira, y como niño entiende.
+Vase Federico:
+Sale Celia y Camilo, su marido, de camino, y Feliciano:
+CELIA			  ¿Qué tienes allá que hacer?					255:
+CAMILO		Voy, hermosa Celia mía,:
+    a la heredad por un día;
+    luego me pienso volver.
+CELIA			  ¿Sabes cómo cuenta Amor:
+    el tiempo de las ausencias?					260
+CAMILO		Conozco sus experiencias.:
+CELIA			Yo las entiendo mejor.:
+    Amor ausente, Camilo,
+    cuenta de esta suerte un día,
+    porque en su contaduría					265
+    tengo aprendido el estilo:
+    un instante un día es,
+    un cuarto de hora es semana.
+CAMILO		  ¡Buena cuenta!:
+CELIA			                          Cuenta es llana,:
+    y una hora entera es un mes;					270
+    que un día es un año advierte,
+    una semana una edad,
+    un mes una eternidad.
+CAMILO		¿Y un año?:
+CELIA			                 Nada, es la muerte;:
+    porque, si llega el rigor					275
+    a un año, y el que ama siente,
+    o ha de morirse el ausente,
+    o quitársele el amor.
+CAMILO		  Pues ¿tras un año de ausencia:
+    no hay amor?
+CELIA			                     No.:
+CAMILO		                           ¿De qué suerte?				280:
+CELIA			Ha de haber olvido o muerte::
+    muerte, porque no hay paciencia;
+    olvido, porque en un año,
+    si es que el ausente vivió,
+    es indicio que olvidó						285
+    y que no sintió su daño.
+CAMILO		  Pues, mi bien, venir dos días:
+    antes que el año se acabe,
+    si es el término que sabe
+    Amor en sus niñerías.						290
+    Mas ¿cómo estuvo diez años
+    Penélope, y no olvidó
+    su esposo?
+CELIA			                Porque fingió:
+    un poeta esos engaños;
+    que no debió de querer					295
+    pintar en esa ocasión
+    cómo las mujeres son,
+    sino cómo habian de ser.
+CAMILO		  Luego, si yo me ausentase:
+    un año, ¿cierto sería						300
+    tu olvido?
+CELIA			               Antes moriría:
+    que en ausencia te olvidase;
+    mas no se burle ninguno
+    que ame a la ausencia de un año,
+    que es término muy estraño,					305
+    muy áspero y importuno.
+    En un año todo el cielo
+    muda cuanto engendra y cría,
+    la noche se iguala al día,
+    el calor se trueca en hielo;					310
+    los árboles se desnudan,
+    ríos y fuentes se secan,
+    las condiciones se truecan,
+    los pensamientos se mudan.
+    Un día es toda la vida;					315
+    mira tú qué será un año,
+    donde nos lleva el engaño
+    a la muerte de corrida.
+    El alba es la primavera,
+    el verano el mediodía,					320
+    tarde el otoño, y la fría
+    noche el invierno que espera.
+    ¡Mira tú lo que es amar,
+    y mira lo que es sufrir!
+CAMILO		Tú que lo habrás de sentir,					325:
+    Celia, lo habrás de mirar.
+    Por un año a Roma voy.
+CELIA			¡Válgame el cielo!:
+CAMILO		                             Detente,:
+    que es burla.
+CELIA			                    ¡Estraño acidente!:
+CAMILO		¿Qué tienes?:
+CELIA			                   Temblando estoy.				330:
+CAMILO		  Mi bien, probarte quería.:
+CELIA			¡Estrañas burlas, Camilo!:
+CAMILO		¿Ya no sabes tú mi estilo?:
+CELIA			¿Dónde vas, por vida mía?:
+CAMILO		  Aquel campo que está junto					335:
+    a nuestra heredad me venden;
+    a eso voy.
+CELIA			               Lo que pretenden:
+    de llevarte allá pregunto.
+CAMILO		  Que le vea, y concertalle.:
+    Esto es verdad. Queda a Dios.				340
+CELIA			Vamos los dos.:
+CAMILO		                        A los dos:
+    no querrán, mi Celia, dalle
+    por lo que a mí me le dan,
+    que han de entender, y lo creo,
+    que le tenemos deseo.						345
+CELIA			Ahora bien, tú vas galán.:
+    Plega a Dios que sea por bien.
+CAMILO		¿Agora celos?:
+CELIA			                      Pues ¿cuándo:
+    mejor que al irte apartando
+    de los ojos que te ven?					350
+CAMILO		  Lidio, ¿está el caballo a punto?:
+LIDIO			Sacando piedras está:
+    porque a la heredad no va.
+Vase Camilo:
+CAMILO		A Dios, mi bien.:
+CELIA			                         ¡Triste punto!:
+    Feliciano...
+FELICIANO		                    Mi señora...					355:
+CELIA			Oye cerca...:
+FELICIANO		                   ¿Qué me mandas?:
+CELIA			Estoy...:
+FELICIANO		            Mas ¿que en celos andas?:
+CELIA			Diómelos Camilo agora:
+    más que en mi vida.
+FELICIANO		                                 ¿Por qué?:
+CELIA			Dice que va a la heredad.					360:
+FELICIANO		En eso dice verdad.:
+CELIA			¿Sábeslo tú?:
+FELICIANO		                   Yo lo sé.:
+CELIA			  ¿Va sin duda a concertar:
+    este campo?
+FELICIANO		                   Hoy lo han tratado.:
+CELIA			Siempre de ti me he fïado.					365:
+FELICIANO		De mí te puedes fïar.:
+CELIA			  Hazme un placer.:
+FELICIANO		                             Un servicio,:
+    has de decir.
+CELIA			                   Un caballo:
+    toma.
+FELICIANO		         Si acaso le hallo,:
+    que allá van Lidio y Fabricio.				370
+CELIA			  Sea de casa o de fuera,:
+    tú has de seguir a Camilo,
+    mas con tan discreto estilo
+    que no te conozca.
+FELICIANO		                             Espera...:
+    En un campo, ¿de qué modo?				375
+    Dame un recado, y iré
+    público.
+CELIA			             ¿Qué te daré?:
+FELICIANO		Piénsalo y míralo todo;:
+    que celos imaginados,
+    para dar tantas molestias,					380
+    por lo que tienen de bestias
+    es bien que vayan pensados.
+CELIA			  Las reliquias se olvidó,:
+    que hoy en la cama las vi.
+FELICIANO		Bien.:
+CELIA			          Llévaselas, y di						385:
+    que se las envío yo,
+    porque sé su devoción.
+FELICIANO		Ése es achaque estremado.:
+CELIA			Mira si va acompañado:
+    o, si hay mujeres, quién son.					390
+FELICIANO		  ¿Mujeres habia de haber?:
+CELIA			¿No es hombre?:
+FELICIANO		                         No, que quien ama:
+    apenas hombre se llama
+    para ninguna mujer.
+    Voy por las reliquias luego.					395
+CELIA			Sobre el almohada están,:
+    que aun ellas celos me dan.
+FELICIANO		Que te declares te ruego.:
+CELIA			  Pienso que las ha dejado:
+    de industria.
+FELICIANO		                   ¡Qué pensamiento				400:
+    tan malo!
+CELIA			              Es del mal que siento.:
+FELICIANO		Aquí te aguarda un recado:
+    de Federico, que entraba
+    a decírtelo, y tus celos
+    me lo olvidaron.
+CELIA			                          ¡Los cielos					405:
+    le destruyan! Vete, acaba.
+Vase Feliciano:
+Sale Fabio:
+FABIO			  Después de besar tus manos,:
+    Federico, Celia hermosa,
+    centro en que sólo reposa
+    de mil pensamientos vanos,					410
+    dice que en aquel torneo
+    que con tu presencia honraste,
+    donde de nuevo abrasaste
+    en tus ojos su deseo,
+    el premio de más galán					415
+    le envïaron los jüeces,
+    favor que tú le mereces
+    y que a ti misma le dan.
+    Y ansí, señora, te envía
+    esta pluma de diamantes,					420
+En una cajita:
+    a tu rigor semejantes
+    y a su firmeza y porfía;
+    porque es bien que se te dé,
+    cuando ningún premio alcanza,
+    en la pluma su esperanza,					425
+    y en los diamantes su fe.
+    Y porque es tan semejante,
+    dice que en obedecerte
+    será pluma, y en quererte
+    dice que será diamante.					430
+CELIA			  Por ser precio de torneo,:
+    a quien debo cortesía,
+    la tomo, y de la porfía
+    me espanto de su deseo.
+    Y podrasle responder,					435
+    Fabio, que aquestos diamantes
+    y pluma muy semejantes
+    a los dos nos han de ser:
+    que como poder labrar
+    con los puntos de una pluma					440
+    algún diamante, es en suma
+    imposible de acabar,
+    así podrá mi dureza
+    ablandarse a su porfía,
+    porque esta dureza es mía					445
+    si es suya aquella firmeza.
+    No porque le quiero mal
+    esto yo se lo confieso,
+    mas porque siento en exceso
+    que tenga esperanza igual;					450
+    que soy noble, estoy casada
+    con quien sabes, no he de hacer
+    cosa en que pueda ofender
+    punto de quien soy en nada.
+    Con esta resolución,						455
+    si Federico me quiere,
+    dile que a otro mundo espere
+    de este su amor galardón;
+    que allá me podrá gozar
+    como el Petrarca decía					460
+    de Laura.
+FABIO			              ¿A tanta porfía:
+    tan justo desengañar?
+    Todo lo tiene entendido,
+    no puede más.
+CELIA			                      ¡Caso estraño!:
+FABIO			Él quiere con este engaño,					465:
+    desengañado y perdido.
+    Ama, señora, de suerte
+    que yo y cuantos le tratamos
+    como enfermedad amamos
+    que se pega cuando es fuerte.					470
+    Aman todos los crïados,
+    los caballos, los azores,
+    los perros, los cazadores,
+    los pájaros enjaulados.
+    El papagayo decía						475
+    «Celia» ayer; todo se abrasa,
+    que, en diciéndole «¿Quién pasa?»,
+    «Celia» dice todo el día.
+    Es cosa que se ha pegado
+    hasta en los mismos vecinos.					480
+CELIA			Péganse los desatinos:
+    de ese amor desatinado,
+    que, si un triste suele hacer
+    triste al otro que le mira,
+    y un airado mueve a ira,					485
+    podrá un loco enloquecer.
+    Vete con Dios, y dirás
+    que cuando el loco de casa
+    –ya le conoces, pues pasa
+    siempre por la vuestra y más–				490
+    cobre seso, podrá ser
+    que él me ablande y yo le quiera.
+Vase ella:
+FABIO			El suyo cobrar quisiera,:
+    que le habrá bien menester,
+    sin meterse en curar locos.					495
+    ¡Estraña resolución!
+    ¡Oh Amor, y qué cuerdos son
+    los que huyen de ti, y son pocos!
+Sale Perote, loco, con sayo largo de colores:
+PEROTE		  ¿Siempre me han de estar picando?:
+    ¿Soy yo bestia como ellos?					500
+FABIO			Perote, de tus cabellos:
+    aquí estábamos tratando.
+PEROTE		  ¡Créolo, que aquestos pajes:
+    me dan lindo repelón!
+FABIO			¿Dónde vas?:
+PEROTE		                   Voy a lición.					505:
+    Desvíate, no me atajes.
+FABIO			  ¿Lición?:
+PEROTE		                 Sí, paso del ba:
+    y ando...
+FABIO			             ¿Adónde?:
+PEROTE		                            En ban, ben, bin.:
+FABIO			¿Que vas a la escuela, en fin?:
+PEROTE		Sí, tío, soy grande ya.						510:
+FABIO			  ¿No me conoces?:
+PEROTE		                             Pues no...:
+    ¿No estáis vos con Federico,
+    aquel mentecato rico,
+    casi casi como yo?
+FABIO			  ¿Mentecato?:
+PEROTE		                      Pues ¿no es					515:
+    mentecato el que ha gastado
+    la riqueza que ha heredado
+    en cuatro meses o tres?
+FABIO			  ¡Qué bien dicen que los locos:
+    dicen siempre la verdad!					520
+PEROTE		Preguntaldo a la ciudad,:
+    que a fe que lo nieguen pocos.
+FABIO			  ¿Cómo no le vas a ver?:
+PEROTE		¿Hay allá qué merendar?:
+FABIO			Pues ¿no?:
+PEROTE		               ¿Quereisme llevar?					525:
+FABIO			Yo sé que le harás placer,:
+    que estima de aquesta casa
+    hasta un perro.
+PEROTE		                       Vamos, vamos.:
+FABIO			¡Qué lindo trueco llevamos:
+    para una alma que se abrasa!					530
+PEROTE		  Antes vos lo entendéis poco,:
+    porque está puesto en razón
+    que los que tan locos son
+    vayan a ver al más loco.
+Vanse:
+Sale Camilo y Ludovico, caballero amigo suyo:
+CAMILO		  Tengo por caso imposible					535:
+    que saliera de otra suerte.
+LUDOVICO		¡Bravos celos!:
+CAMILO		                      No es la muerte,:
+    Ludovico, más terrible.
+    Siempre quise a Celia bien,
+    mas después que en esto ha dado				540
+    no estoy tan enamorado.
+LUDOVICO		Pocos habrá que lo estén:
+    si los aprietan ansí,
+    porque tanta privación
+    trae deseos que son						545
+    los que os han traído aquí.
+CAMILO		  Celos de propia mujer,:
+    ¿cuándo no fueron cansados?
+LUDOVICO		Es porque gustos casados:
+    son hoy lo mismo que ayer,					550
+    y es otro divertimiento
+    el de la familia y casa
+    que acorta, modera y tasa
+    de amor cualquiera contento.
+    Yerra quien los pide, en fin,					555
+    en casamiento o sin él,
+    porque el amor es Abel
+    y los celos son Caín:
+    hermanos son, en rigor,
+    mas ¿qué importa que lo sean				560
+    si la muerte se desean
+    y al fin Celos mata Amor?
+    En fin, vos como el que está
+    preso de noche salís.
+CAMILO		¡Dichoso vos que vivís					565:
+    libre!
+LUDOVICO		        Cautivo soy ya,:
+    que no sé a quién tengo amor.
+    Ésa es mayor libertad,
+    porque está la voluntad
+    a su gusto en lo mejor;					570
+    que lo mejor es aquello
+    que un hombre a su gusto elige.
+    Vamos donde ayer os dije.
+CAMILO		Colgada está de un cabello:
+    la espada de este tirano					575
+    sobre mi cabeza. ¡Ah, celos!
+    ¿Cuándo librarán los cielos
+    mi vida de vuestra mano?
+    ¿Es hermosa esa mujer
+    donde me queréis llevar?					580
+LUDOVICO		Ni hay más bien que desear,:
+    ni en Florencia hay más que ver.
+    Vila en cierta tienda escura
+    donde taparse intentaba,
+    ma no de suerte envainaba					585
+    la espada de la hermosura
+    que no dejase por donde
+    pudiese herir y matar.
+    Quise el intérprete hablar
+    que por su merced responde,					590
+    y diome buena razón
+    de la esperanza, y la casa.
+CAMILO		¡Qué vida un mancebo pasa!:
+LUDOVICO		¿Es envidia?:
+CAMILO		                   Envidias son.:
+LUDOVICO		  Nadie está alegre en su estado;				595:
+    muy buen estado tenéis...
+CAMILO		Poco de celos sabéis.:
+LUDOVICO		¿Si es este vuestro crïado?:
+Sale Feliciano:
+CAMILO		  A Feliciano parece.:
+FELICIANO		¡Qué bien hice en sospechar					600:
+    que aquí te había de hallar!
+CAMILO		¿Búscasme a mí? ¿Qué se ofrece?:
+FELICIANO		  Mi señora en gran secreto:
+    que te siga me mandó,
+    que tu jornada le dio						605
+    a la heredad mal concepto.
+    En seguirte obedecí,
+    Camilo, su mandamiento,
+    y en descubrirte su intento
+    lo que te debo cumplí.					610
+    No es esto poca lealtad,
+    sino justa obligación,
+    porque los crïados son
+    correos de la amistad.
+    De los casados estriba					615
+    la paz entre los crïados,
+    que quien sirve a los casados
+    tal vez de su paz les priva.
+    Yo no puedo allá volver;
+    acá me puedes mandar.					620
+CAMILO		¿Qué puede un crïado errar:
+    que sabe lo que ha de hacer?
+    Los crïados entendidos
+    dan a sus dueños honor,
+    y obligan con su valor					625
+    a serles agradecidos.
+    Vienes a buena ocasión,
+    que te habremos menester.
+LUDOVICO		Quien tan bien sabe entender:
+    lo que los servicios son,					630
+    en todo andará acertado,
+    será de provecho en todo.
+FELICIANO		Yo sé, Ludovico, el modo:
+    de hacer su oficio el crïado,
+    y huélgome de que en mí					635
+    cayese aqueste secreto.
+CAMILO		Gratificarte prometo:
+    lo que has dicho y hecho aquí.
+    Vamos donde sin prisiones
+    una hora tengamos buena,					640
+    que me cansa la cadena
+    de tantas obligaciones.
+    ¿Siempre he de estar preso allí?
+    ¿De qué sirve la riqueza
+    que tengo?
+LUDOVICO		                 La gentileza					645:
+    y los verdes años di,
+    que son los que mueven más.
+CAMILO		¿Dónde vive esa mujer?,:
+    que quiero darme a entender
+    que estoy libre.
+LUDOVICO		                        ¿Libre estás?					650:
+CAMILO		  No me nombres en todo hoy,:
+    Feliciano, a mi mujer,
+    aunque la debo querer
+    y quiero, a fe de quien soy,
+    mas porque quiero pensar					655
+    que estoy libre.
+FELICIANO		                        Harelo ansí.:
+LUDOVICO		Venid los dos por aquí.:
+    ¡Oh, si tuviese lugar!
+CAMILO		  Si estos pasos me costara:
+    Celia, mucho la quisiera.					660
+LUDOVICO		¿Qué te cansa?:
+CAMILO		                       Que a cualquiera:
+    tiempo topo con su cara.
+Vanse:
+Sale Federico, Fabio y el loco:
+FEDERICO		  ¡Linda respuesta, por Dios!:
+PEROTE		¿Tan mala os ha parecido?:
+    Pues, por Dios, que no he podido				665
+    casarme agora con vos
+    sin traer del Santo Papa
+    dispensación.
+FEDERICO		                     ¿De qué suerte?:
+PEROTE		Somos parientes...:
+FABIO			                             Advierte:
+    que Celia, señor, se escapa					670
+    con decir que tiene estado
+    a que no ha de hacer ofensa.
+FEDERICO		Lo que es justo, Fabio, piensa.:
+PEROTE		Vos estáis muy bien pensado.:
+    Ea, venga la merienda.					675
+FEDERICO		¡Qué visita tan igual:
+    a la calidad del mal!
+PEROTE		Vayan por algo a la tienda,:
+    que en casa ya sé que ha días
+    que no tenéis qué comer.					680
+FEDERICO		Públicas deben de ser,:
+    Fabio, las locuras mías.
+FABIO			  ¿En eso piensas agora?:
+    Pues ¿hay fábula en Florencia
+    como tu amor?
+PEROTE		                         Ten paciencia,				685:
+    que la paciencia mejora
+    con la esperanza del bien
+    la desventura del mal.
+FEDERICO		¡Qué buen loco!:
+FABIO			                         No lo hay tal:
+    en el mundo.
+PEROTE		                    Erráis también,					690:
+    porque yo os digo que hay tantos
+    que hierve el mundo de locos,
+    y son los cuerdos tan pocos
+    que se pueden saber cuántos.
+    Sólo en un palmo de tierra					695
+    he visto dos locos.
+FEDERICO		                             ¿Dos?:
+PEROTE		Sí, dos digo.:
+FEDERICO		                   ¿Quién?:
+PEROTE		                               Yo y vos.:
+FEDERICO		¡Acierta, por Dios!:
+FABIO			                               No yerra.:
+    Éste fue un grande estudiante,
+    según ayer entendí.						700
+PEROTE		De estudiar me puse ansí,:
+    no, como vos, de ignorante.
+FEDERICO		  ¿En efecto hay gran locura:
+    en el mundo?
+PEROTE		                    Eso es forzoso,:
+    y es argumento curioso					705
+    de lo que en los hombres dura,
+    lo que os diré.
+FEDERICO		                        Dilo, a ver.:
+PEROTE		El mundo ¿no es rueda?:
+FEDERICO		                                     Sí.:
+PEROTE		Yo siempre rodar le vi;:
+    redondo debe de ser,						710
+    y es sin duda, que se infiere
+    que es rueda, y aun de navaja,
+    pues rodando sube y baja
+    a las personas que quiere.
+    Pues, si los que en él estamos				715
+    siempre andamos en su rueda,
+    ¿qué cabeza habrá que pueda
+    sufrirlo?
+FEDERICO		            Con eso andamos:
+    faltos de seso los más.
+PEROTE		¡Bravas vueltas dio con vos!					720:
+FEDERICO		No digas tú con los dos,:
+    que conmigo cuerdo estás;
+    que si el necio no lo es
+    en conociendo su error,
+    si eres loco, yo mayor,					725
+    porque lo niego después.
+PEROTE		  Cuatro cosas hizo un día:
+    sus colunas la locura.
+FEDERICO		¿Que son?:
+PEROTE		                Amor y hermosura,:
+    valentía y poesía.						730
+    Un hombre que en lindo toca,
+    digo si se precia de ello,
+    es loco del pie al cabello,
+    más que la mujer más loca.
+    El que ama y quiere bien,					735
+    si en vuestro ejemplo reparo,
+    ése es un loco tan claro
+    que cuantos quieren le ven.
+    El valiente ha de ser loco,
+    que, si es cuerdo y el fin siente,				740
+    ¿cómo puede ser valiente?
+    Y así, el que es cuerdo lo es poco.
+    Poetas, ¿qué os diré yo?
+FEDERICO		Pues ¿son locos?:
+PEROTE		                          ¿No es locura:
+    decir que el seso se apura					745
+    en lo que el otro escribió,
+    sino sólo escribir mal?
+    Porque bien lo saben pocos,
+    y aun éstos también son locos
+    si les falta el natural.						750
+FEDERICO		  Yo escribo, Perote amigo,:
+    enseñado de mi amor,
+    sin más arte que el dolor
+    del imposible que sigo.
+PEROTE		  Para ser poeta, hermano,					755:
+    muy poco habréis menester,
+    porque no es más de leer
+    al poeta más cercano
+    y hurtalle hasta las razones:
+    llamar al agua cristal,						760
+    a los madroños coral,
+    concetos a las razones;
+    para decir que amanece,
+    contar que el alba salía
+    y que al Sol un cuello hacía					765
+    de círculos doce o trece;
+    y otros cien mil disparates,
+    y alabar una mujer
+    haciéndola mercader
+    de joyas y de alpargates.					770
+    Y haciendo, si os inquïeta
+    envidia, un soneto o dos
+    a quien no sabe si Dios
+    os hizo bestia o poeta;
+    que con tanto lo seréis					775
+    entre amigos y vecinos,
+    laureado con pepinos,
+    hasta que el mundo canséis,
+    y en la última partida
+    restituyáis con verdad						780
+    a la misma necedad
+    lo que le hurtastes en vida.
+FEDERICO		  Yo quedo bien enseñado,:
+    y, pues ya sabes mi mal
+    y eres hombre del caudal					785
+    que en tu razón has mostrado,
+    te quiero pedir consejo:
+    ¿dejaré mi pretensión?
+PEROTE		A quien está sin razón,:
+    que sirve al alma de espejo,					790
+    ¿quién le puede aconsejar?
+    ¿Vos amáis?
+FEDERICO		                   Amo esta fiera.:
+PEROTE		¿Qué os dice?:
+FEDERICO		                     Que no la quiera.:
+PEROTE		¿Cierto?:
+FEDERICO		            Sí.:
+PEROTE		                ¡Pues no la amar!:
+FEDERICO		  Morireme.:
+PEROTE		                  Veis ahí						795:
+    cómo no asienta el consejo.
+FEDERICO		La razón hiciste espejo:
+    del alma agora.
+PEROTE		                        Es ansí.:
+FEDERICO		  Pues Celia es ya mi razón,:
+    luego es espejo del alma.					800
+PEROTE		No es alma lo que desalma,:
+    que las que animan lo son.
+    Pero, pues estáis perdido
+    y habéis de querer por fuerza
+    este envite a que os esfuerza					805
+    no la razón, el sentido,
+    querelda y tened firmeza,
+    que es mujer y no es montaña.
+FEDERICO		Responde a mi ruego estraña.:
+PEROTE		Mal conocéis su flaqueza,					810:
+    y lo que el tiempo derriba.
+FEDERICO		¿Conquistaré su afición?:
+PEROTE		Sí.:
+FEDERICO		    ¿Con qué?:
+PEROTE		                    Con un halcón.:
+FABIO			Ya de sentido le priva:
+    la furia.
+FEDERICO		              Ya estás perdido...					815:
+    ¿Con un halcón?
+PEROTE		                          Sí, que es ave:
+    que lleva el vuelo süave,
+    por los vientos esparcido.
+    Y, pues vos sois cazador,
+    entended esto que os digo.					820
+FEDERICO		¿Ha de ser algún amigo?:
+FABIO			No, dineros es mejor.:
+PEROTE		  Ni es amigo, ni dinero.:
+FEDERICO		Pues ¿qué ha de ser?:
+PEROTE		                                Un halcón.:
+FEDERICO		¿De los que pájaros son?					825:
+PEROTE		De los mismos.:
+FEDERICO		                        ¡Qué grosero!:
+    Pues, bestia, ¿cómo ha de ser
+    que un ave pueda cazar
+    una mujer?
+PEROTE		                 De estudiar:
+    he venido a enloquecer					830
+    una ciencia que solía
+    decirme algún buen suceso.
+FABIO			¿No te dijo lo del seso?:
+PEROTE		Nunca supe en cosa mía,:
+    que en sus cosas nadie es sabio.				835
+FEDERICO		Éste no parece loco...:
+PEROTE		Las propias míranse poco::
+    de mi descuido me agravio.
+FABIO			  En ninguna cosa veo:
+    que tú estás loco, y más que él,				840
+    sino en ponerte con él
+    a tratar de tu deseo.
+FEDERICO		  Tales los amantes son.:
+    Ahora bien, tu astrología
+    dice que a la garza mía					845
+    alcance con un halcón;
+    y yo digo que me obligo,
+    cuando sea verdad eso,
+    a volverte el seso.
+PEROTE		                            ¿El seso?:
+FEDERICO		Sí.:
+PEROTE		    ¿Sí?:
+FEDERICO		          Y otra vez lo digo.					850:
+PEROTE		  ¿Cumplireislo?:
+FEDERICO		                         Sí, por Dios.:
+    Ve y dale de merendar.
+    (Muestra, que voy a pasear.)
+PEROTE		Vámonos juntos los dos.:
+FEDERICO		  No, no, merienda primero.					855:
+PEROTE		Acordáos de aquel halcón.:
+FABIO			Sin duda esta posesión:
+    se ha de alcanzar con dinero.
+Vanse:
+Sale Julia, Camilo y Ludovico:
+LUDOVICO		  Oye aparte...:
+JULIA			                       Ya lo entiendo.:
+LUDOVICO		Es Camilo, Julia, un hombre,					860:
+    fuera de ser gentilhombre,
+    que ya su talle estás viendo,
+    el más rico de Florencia,
+    y un hombre muy liberal.
+JULIA			No me parece muy mal;					865:
+    agrádame su presencia,
+    y viene a buena ocasión,
+    que habrá en el alma lugar
+    porque procuro sacar
+    un hombre del corazón.					870
+LUDOVICO		  ¿Cómo, no te trata bien?:
+JULIA			Antes me trata tan mal:
+    que estoy de celos mortal
+    y de desprecios también.
+LUDOVICO		  ¿Sobre los celos, desprecios?				875:
+    ¡No lo sufras!
+JULIA			                      No podré.:
+LUDOVICO		Tener con desprecios fe,:
+    Julia, es condición de necios.
+JULIA			  ¿Camilo querrame a mí?:
+LUDOVICO		Si Camilo, Julia, fuera					880:
+    libre, mucho te quisiera.
+JULIA			Pues ¿cómo, es casado?:
+LUDOVICO		                                     Sí.:
+JULIA			  ¡Vete luego de mi casa,:
+    Ludovico!
+LUDOVICO		                Escucha, advierte...:
+JULIA			¿Qué he de escuchar? ¿De qué suerte?			885:
+LUDOVICO		Como eso en el mundo pasa,:
+    amor tiene dos maneras
+    de gozarse: una es el gusto,
+    y otra el interés.
+JULIA			                         No es justo:
+    que hables más.
+LUDOVICO		                         ¿De qué te alteras?				890:
+    Haz, Julia, como discreta:
+    uno mande y otro elija,
+    que Amor es estrella fija
+    y el interés es cometa.
+    Párate con el amor						895
+    que podrás gozar después,
+    porque imite el interés
+    de la cometa el furor.
+JULIA			  Este mozo, Ludovico,:
+    casado, rico y galán,						900
+    será de los que se van,
+    más que de manos, de pico;
+    en los mármoles mañana
+    se alabará que llegó,
+    vio, pidió, gozó y dejó,					905
+    César de mujer liviana.
+    Llévale luego de aquí.
+LUDOVICO		Óyele siquiera...:
+JULIA			                          Llegue.:
+LUDOVICO		Aun no quiere que la ruegue.:
+CAMILO		¿Por quién la ruegas?:
+LUDOVICO		                                 Por ti.					910:
+CAMILO		  ¿No estaba la puerta llana?:
+    ¿Hay algún gigante en ella?
+JULIA			¿Queréis vos pasar por ella:
+    como por cosa liviana?
+CAMILO		  ¿Cómo, si os quiero servir					915:
+    y no vengo más de a veros?
+JULIA			¡Quién supiera conoceros:
+    para enseñarse a mentir!
+    Andad, Camilo, con Dios,
+    que no estoy bien con casados.				920
+CAMILO		¡Con los ojos engañados:
+    me habéis mirado, por Dios!
+    ¿Yo casado?
+JULIA			                     Luego ¿no?:
+CAMILO		¿Huelen los casados?:
+JULIA			                                 Sí.:
+LUDOVICO		Ya no hay que negar aquí:					925:
+    la verdad me preguntó,
+    y díjele la verdad.
+JULIA			Sé vuestro nombre y estado,:
+    y los dos me han obligado
+    a no haceros amistad:						930
+    el nombre, porque es de un hombre
+    que tiene cierta mujer
+    que Infierno debe de ser,
+    aunque es del cielo su nombre;
+    Celia se llama, ¡ay de mí!,					935
+    a quien un hombre que adoro
+    quiere tanto que hoy le lloro
+    por muerto, que hoy le perdí.
+LUDOVICO		  Calla, necia, y no prosigas,:
+    que celos te han engañado.					940
+Quedo a ella::
+    (¡Muy necia, Julia, has estado!
+    Haz por donde te desdigas,
+    que este Camilo es aquél
+    que es de esta Celia marido.)
+CAMILO		(Hablando se están de oído...					945:
+    ¡Ay, desventura crüel!
+    Muerto soy, Celia me ha muerto:
+    fingidos sus celos son.
+    ¿Hombre a Celia?)
+JULIA			                             (Esa razón:
+    me advierte.
+LUDOVICO		                   De ésta te advierto.)				950:
+JULIA			  Burlaros quise, Camilo,:
+    no hurtéis color a la cara:
+    bien os conozco.
+LUDOVICO		                          Repara:
+    en que es ordinario estilo,
+    Camilo, de las mujeres.					955
+CAMILO		Ansí, Julia, lo he pensado.:
+    Sé con quién estoy casado,
+    como tú sabes quién eres.
+    No tratemos de esto más,
+    que ni tu galán cualquiera					960
+    la vista en el Sol pusiera,
+    ni éste se eclipsa jamás.
+    Vámonos a entretener,
+    que mi libertad es poca.
+LUDOVICO		Mucho te fuiste de boca;					965:
+    eres, Julia, al fin, mujer.
+JULIA			  Salgamos a aquel jardín,:
+    hablemos cosas de gusto.
+CAMILO		(No sé yo si mi disgusto:
+    sin mi muerte tendrá fin.					970
+    Quejábame de los celos
+    de Celia... ¡Cuánto mejor
+    fuera agradecer su amor!
+    Castigado me han los cielos.
+    ¡Oh terribles desvaríos!					975
+    ¡Pena irreparable y brava!
+    De los suyos me quejaba,
+    ya me quejo de los míos.
+    ¿Quién será el hombre, ¡ay de mí!,
+    que tiene a Celia afición?					980
+    ¿Si le habrá dado ocasión?)
+LUDOVICO		(¿Qué estará hablando entre sí?):
+CAMILO		  (Mas, fingiendo voluntad:
+    a esta mujer, yo sabré
+    quién y cómo y cuándo fue.					985
+    ¡Válame Dios! ¿Si es verdad?)
+LUDOVICO		  ¿No vienes?:
+CAMILO		                     Estoy pensando:
+    qué le daré.
+LUDOVICO		                  ¿Traes dinero?:
+CAMILO		Darle esta cadena quiero.:
+LUDOVICO		¿La cadena? ¿Estás burlando?				990:
+Hace que le quiere dar una cadena, y ellos se espantan:
+CAMILO		  No burlo, que me contenta:
+    el donaire; es como un oro,
+    que, puesto que a Celia adoro,
+    es de otra tela esta cuenta.
+JULIA			  (Mostrando va gran placer...)				995:
+    Esto es sin duda, Camilo.
+LUDOVICO		(O sabe bien, por su estilo,:
+    que tiene honrada mujer.)
+ACTO SEGUNDO DEL HALCÓN DE FEDERICO:
+Salen Celia y Feliciano:
+CELIA			  ¿Qué tiene?:
+FELICIANO		                    Yo no lo sé.:
+CELIA			¿Gran mal?:
+FELICIANO		                 Estraña tristeza.					1000:
+CELIA			¿Es del alma?:
+FELICIANO		                     Ansí se ve,:
+    porque a ser de la cabeza
+    ya no se tuviera en pie.
+CELIA			  ¡Maldiga Dios la heredad,:
+    no dé para siempre fruto,					1005
+    si de aquella soledad
+    me vino este amargo luto!
+FELICIANO		(No fue sino la ciudad.):
+CELIA			  ¿Qué dices?:
+FELICIANO		                     Que es cosa estraña:
+    ver la tristeza que tiene.					1010
+CELIA			Gran soledad la acompaña,:
+    y a veces a tanta viene
+    que el rostro en lágrimas baña.
+    ¿Que no sabes la ocasión?
+FELICIANO		Aquí me hicieras reír,						1015:
+    a no ser tal mi pasión.
+    ¿Yo a ti te puedo decir
+    cosas que del alma son?
+    Si tú, que estás a su lado
+    las noches que algún casado					1020
+    suele juzgar por eternas,
+    y cuyas caricias tiernas
+    pueden haberle obligado,
+    no penetras la ocasión
+    de tanta melancolía,						1025
+    ¿parécete que es razón
+    que sepa, señora mía,
+    de Camilo el corazón?
+CELIA			  Si tú que fuiste con él:
+    no sabes su mal crüel,						1030
+    yo, que por dicha le ofendo,
+    ¿qué te espantas si no entiendo
+    esta novedad en él?
+    Ya con amor y con ruego,
+    y algunas veces con llanto,					1035
+    tan tierna a sus brazos llego
+    que se enterneciera un canto
+    y que se templara un fuego;
+    mas ni porque llore y ruegue,
+    porque me aparte o me allegue,				1040
+    o me enoje, o me enternezca,
+    es posible que merezca
+    sino sólo que lo niegue.
+    Tal vez en su pecho tierno
+    cogiendo el fruto de amor					1045
+    me muestra un amor eterno,
+    mas luego vuelve el furor
+    como furia del Infierno;
+    y, arrojándome de sí,
+    quedo sin él y sin mí,						1050
+    donde le oigo unos suspiros
+    tales que parecen tiros
+    de su pecho contra mí;
+    y, aunque no puedo entendellos,
+    ni de raíz los arranco						1055
+    para ver la causa en ellos,
+    a fe que no yerra el blanco
+    que da en el alma con ellos.
+FELICIANO		  Pues ¿qué imaginas?:
+CELIA			                                  Presumo:
+    que le tiene ciego el humo					1060
+    de algún pensamiento vil,
+    contra mi honor tan sutil
+    que me deshago y consumo.
+FELICIANO		  ¿Cómo, de celos de ti?:
+CELIA			Eso presumo, ¡ay de mí!,					1065:
+    y no entiendo la ocasión.
+    que vive en mi corazón
+    y le quiero más que a mí.
+    Es muy ordinaria cosa,
+    cuando se tuerce la cara					1070
+    de una amistad amorosa,
+    pensar en lo que repara
+    y por qué vive quejosa;
+    y así yo tengo pensado
+    cuanto desde que nací						1075
+    puedo haber imaginado
+    hasta que su esposa fui,
+    y un pensamiento no he hallado;
+    pues, después que me casé,
+    si no es haberme servido					1080
+    Federico, yo no sé
+    qué pueda haberle ofendido,
+    y esto por qué culpa fue.
+    ¿Puedo yo quitar a un hombre
+    que no me quiera?
+FELICIANO		                            No creas					1085:
+    que eso le espante y asombre.
+    Mira, señora, que afeas
+    la claridad de tu nombre.
+CELIA			  Como tan público ha sido:
+    que en saraos, en torneos					1090
+    tanta hacienda ha despendido,
+    pueden haber sus deseos
+    a su noticia venido,
+    porque, si fue Federico
+    caballero noble y rico						1095
+    y ya está en humilde estado,
+    por lo que por mí ha gastado...
+FELICIANO		Que me escuches te suplico.:
+    ¿Qué importa que un loco intente,
+    engañado de su amor,						1100
+    ser fábula de la gente
+    para presumirse error
+    de tu virtud excelente?
+CELIA			  Está el mundo de manera,:
+    Feliciano, que a cualquiera					1105
+    le parecerá que un mozo
+    que hace en su hacienda destrozo,
+    y en su opinión perservera,
+    no gasta sin ocasión
+    ni sirve sin esperanza;					1110
+    y, si esta mala opinión
+    también a Camilo alcanza,
+    ésa fue mi perdición.
+    Y, si esto le tiene ansí,
+    hoy me despido de mí,					1115
+    hoy mis galas me desnudo,
+    hoy, Feliciano, me mudo
+    de todo aquel ser que fui:
+    no me verá más Florencia,
+    será de esclava mi traje.					1120
+FELICIANO		Oye, espera, ten paciencia,:
+    baja la voz.
+CELIA			                  ¿Que la baje?:
+    Falta a mi mal resistencia.
+FELICIANO		  ¿Por qué quieres de esa suerte:
+    dar ocasión a su muerte?					1125
+CELIA			Porque él me la da a la mía.:
+FELICIANO		¡Gran mal comienza este día!:
+    Vuelve, señora, y advierte...
+CELIA			  ¿Qué quieres?:
+FELICIANO		                        Si me fïara:
+    de ti, yo te remediara.						1130
+CELIA			¿Sabes algo de mi mal?:
+    Que en ser mujer principal,
+    aunque soy mujer, repara.
+FELICIANO		  Dame palabra de hacer:
+    con secreto y discreción					1135
+    lo que fuere menester
+    para impedir tu pasión,
+    y aquí la podrás saber.
+CELIA			  ¡Feliciano, plega al cielo...:
+FELICIANO		No jures...:
+CELIA			                 ... que se abra el suelo,				1140:
+    y viva me trague en sí...
+FELICIANO		No jures...:
+CELIA			                 ... si contra mí...:
+FELICIANO		Basta, conozco tu celo.:
+    Sabe, pues, que tu marido
+    no salió de la ciudad,						1145
+    ni a vuestra heredad ha ido.
+CELIA			Luego ¿no fue a la heredad?:
+FELICIANO		Fue de un amigo inducido:
+    a ver una bella dama
+    que es la gala de Florencia.					1150
+CELIA			¿Hablola?:
+FELICIANO		               No, que te ama.:
+CELIA			¿Cómo no? Quien finge ausencia,:
+    gusto en posesión, desama.
+FELICIANO		  Antes no, pero he creído:
+    que ésta es dama de interés,					1155
+    y si interés le ha movido
+    y sabe cuán rico es
+    mi señor y tu marido,
+    querrale, Celia, coger,
+    y para poderlo hacer						1160
+    hará lo que suelen muchas.
+CELIA			¿Hechizos?:
+FELICIANO		                  Como lo escuchas.:
+CELIA			Hechizos deben de ser.:
+FELICIANO		  Las más de éstas piensan dallos:
+    para amar y amartelallos;					1165
+    fíanse de otras como ellas
+    que las engañan a ellas
+    y danlos para matallos.
+    Si vieses sus boberías,
+    palabras en consonantes,					1170
+    hierbas, piedras, tropelías
+    y otras cosas semejantes,
+    compasión de ellas tendrías;
+    pues, si astrólogo se ofrece,
+    allí la consulta pasa:						1175
+    si quiere, si da, si ofrece,
+    si a otra, si vendrá a casa
+    o si se estará en sus trece...
+    Eligen toda invención
+    contra ignorantes.
+CELIA			                            Has dado					1180:
+    luz por donde mi pasión
+    he visto.
+FELICIANO		             Lo que has jurado:
+    cumple.
+CELIA			            Harelo, que es razón.:
+    Pero has de llevarme allá.
+FELICIANO		La casa te enseñaré						1185:
+    donde esta señora está.
+    Camilo viene.
+CELIA			                      ¿Qué haré?:
+FELICIANO		Disimular.:
+CELIA			                ¿Quién podrá?:
+Sale Camilo, criados, Clavela y Lidio:
+CAMILO		  ¡Quitádmele de delante,:
+    no parezca más aquí!						1190
+CLAVELA		¿Hay frenesí semejante?:
+CELIA			¿De qué viene, Lidio, ansí?:
+LIDIO			No hay cosa que más me espante::
+    porque César se llegó
+    alegrarle, se enfadó						1195
+    de la manera que ves.
+CELIA			(¡Ah, traidor, ya sé lo que es!:
+    Mas ¿por qué le culpo yo?)
+    ¿A su hijo, un ángel bello,
+    arroja ansí de sus ojos?					1200
+CLAVELA		Ni quiere hablallo ni vello.:
+CAMILO		(Si me da tantos enojos:
+    pensallo, ¿qué hará creello?
+    ¿Si es mi hijo? Mas, ¡ay, triste!,
+    ¿por qué lo debo dudar?)					1205
+CELIA			Mi señor, ¿en qué consiste:
+    no dejaros regalar
+    de César?
+CAMILO		               (La causa fuiste.):
+CELIA			  ¿No me habláis?:
+CAMILO		                            (¿Si puede ser:
+    que en esta noble mujer					1210
+    haya cabido mi ofensa?
+    Quien con celos ama y piensa
+    el seso quiere perder.
+    ¿Qué pienso, pues? ¿Qué imagino?
+    ¿Qué espíritu me infundió					1215
+    el primero desatino?
+    Si Celia no me ofendió,
+    ¿por qué mi ofensa adivino?)
+CELIA			  A César, que de diez años:
+    pudiera espada ceñir,						1220
+    con mil regalos estraños
+    solíades vos pedir
+    para los brazos.
+CAMILO		                        (¡Qué engaños!):
+    Déjenme todos aquí.
+CELIA			¿Yo también he de dejaros?					1225:
+CAMILO		Vos, pues.:
+CELIA			                ¿Yo?:
+CAMILO		                       Digo que sí.:
+CELIA			¿También yo vengo a enojaros?:
+    (Él está fuera de sí.)
+    Mas, si vuestro hijo os cansa,
+    ¿qué mucho que os canse yo?				1230
+CLAVELA		(En su tristeza descansa:
+    ya del furor que le dio;
+    no viendo a César, se amansa.)
+    Licencia os quiero pedir,
+    mi señor, para salir						1235
+    de casa un rato esta tarde.
+CAMILO		Id con Dios.:
+CELIA			                   El cielo os guarde.:
+CAMILO		Y todos se pueden ir.:
+CELIA			  Dejalde solo.:
+CLAVELA		                       Sí haremos.:
+CELIA			Venid conmigo, que Dios					1240:
+    remediará el mal que vemos.
+FELICIANO		¿Iremos solos los dos?:
+CELIA			Solos, Feliciano, iremos.:
+Vanse todos:
+Queda Camilo solo:
+CAMILO		  Celos bastardos de amor,:
+    locos que formáis de sueños					1245
+    imaginaciones vanas,
+    ciegos que andáis siempre a tiento,
+    fantasmas en noche escura,
+    sospechas para el deseo,
+    dudas para la memoria,					1250
+    del alma tormento eterno,
+    desconfïanzas que llaman
+    hijas del entendimiento,
+    enredos donde se acaba
+    el ovillo de Teseo,						1255
+    bastardos, locos, mortales,
+    imaginaciones, miedos,
+    fantasmas, sospechas, dudas,
+    desconfïanzas, enredos,
+    ¿cómo, si sois Infierno, injustos celos,			1260
+    sólo una letra os falta para cielos?
+    Encubridores del mal,
+    ladrones del honor cierto,
+    que encubrís lo que sentís
+    y hurtáis el crédito ajeno,					1265
+    moneda falsa que hace
+    a la honra el pensamiento,
+    juanelos de un artificio
+    que lleva la infamia al seso,
+    polilla del corazón,						1270
+    correos del pensamiento,
+    astrólogos del agravio,
+    arquitectos del silencio,
+    mirad que muero, y que saber deseo
+    lo que me ha de matar, si a verlo llego.			1275
+    Siento decir mi dolor,
+    callo lo que voy sintiendo,
+    sufro el temor que me mata
+    aunque digo lo que temo,
+    desengaño a quien engaño,					1280
+    creo el daño que no veo,
+    dudo la verdad que miro,
+    confirmo el mal que sospecho,
+    persigo mi propio gusto,
+    niego lo mismo que creo,					1285
+    adoro mi perdición,
+    aborrezco mi remedio,
+    siento, callo, sufro, digo,
+    desengaño, engaño, creo,
+    dudo, confirmo, persigo,					1290
+    niego, adoro y aborrezco,
+    y cuando llego a ver lo que deseo
+    tiemblo del daño, y al temor me vuelvo.
+Sale Perote, loco:
+PEROTE		  A la fe, con vos me envían,:
+    que dicen que loco estáis.					1295
+    Huélgome que en cuerdo dais,
+    que así los locos se crían.
+    Sabé que el mundo ha llegado
+    a estado que tengo en poco
+    el que no parece loco						1300
+    para vivir descansado.
+    Si vos queréis descansar,
+    creedme, y perded el seso,
+    que con seso yo os confieso
+    que tenéis bien qué llorar.					1305
+    Dos filósofos había
+    que, viendo lo que pasaba,
+    Heráclito lo lloraba,
+    Demócrito lo reía.
+    Escoged de aquestos dos:					1310
+    si sois cuerdo, lloraréis,
+    si sois loco, rëiréis.
+    Hablad, ¡mal os haga Dios!,
+    que aunque loco no soy necio,
+    que hablando os he de cansar.				1315
+CAMILO		Tengo mucho en que pensar,:
+    cosas que en el alma precio;
+    mas, pues ya corre la fama
+    que estoy loco, y tú lo estás,
+    hoy quiero estimarte en más:					1320
+    de hoy más, mi amigo te llama.
+    Hablemos tú y yo de veras
+    en cosas de gran primor.
+PEROTE		¿Qué cosas?:
+CAMILO		                   Cosas de amor.:
+PEROTE		Amor es todo quimeras,					1325:
+    pues que, si escapáis de ahí
+    y dais por ventura en celos,
+    no han hecho cosa los cielos
+    más estraña.
+CAMILO		                   ¿Cómo ansí?:
+PEROTE		  Sabed que cuenta un poeta					1330:
+    que Celos antiguamente
+    era una parte excelente
+    del cielo, estrella o cometa.
+    Ésta, viendo que nacía
+    tan legítima de Amor,						1335
+    comenzó a tener valor
+    y a preciarse de hidalguía.
+    Mas Júpiter, enojado
+    de que al Amor, que era dios,
+    se atreviese, y que los dos					1340
+    fuesen reyes de un estado,
+    arrojola de los cielos
+    y a la tierra castigó,
+    y en afrenta la trocó
+    de Cielos el nombre en Celos.				1345
+CAMILO		  Siempre de tu entendimiento,:
+    Perote, aunque estabas loco,
+    estimé el valor.
+PEROTE		                        No es poco.:
+    ¿Qué tenéis?
+CAMILO		                    Siento y no siento.:
+PEROTE		  Pues quejáos y no os quejéis.				1350:
+CAMILO		Tú ¿qué hicieras, si quisieras?:
+PEROTE		No me metiera en quimeras,:
+    como vos quizá lo hacéis,
+    sino gozara el deleite
+    que da amor con más cordura,				1355
+    porque amor es hermosura
+    que nunca le falta afeite.
+CAMILO		  Y ¿si no fuera en tu mano:
+    sino estar de ella celoso?
+PEROTE		Fuera con silencio honroso					1360:
+    por el camino más llano:
+    inquiriendo la verdad,
+    si hallara lo cierto, huyera,
+    y, si lo incierto supiera,
+    doblara la voluntad.						1365
+CAMILO		  Quien pide consejo a un loco:
+    no está cuerdo.
+PEROTE		                       Sois un necio,:
+    que un loco no tiene precio
+    en la materia que toco.
+    Cuando hacéis una escritura,				1370
+    ¿no llamáis un escribano?
+    ¿No os sangra el que es cirujano,
+    y el que es médico no os cura?
+    Pues, siendo locura amor,
+    no acertáis, Camilo, poco					1375
+    en pedir consejo a un loco,
+    que ése es el mejor doctor.
+CAMILO		  De tu perdido sentido:
+    fío el silencio en mi mal,
+    porque con un cuerdo igual					1380
+    nunca me hubiera atrevido;
+    que tú, con las variedades
+    de tus locos pensamientos,
+    no dirás de mis tormentos
+    las confesadas verdades.					1385
+    Celoso estoy.
+PEROTE		                       Tenéis mal:
+    que os pondrá en notable aprieto.
+    Tres cosas dijo un discreto
+    que eran congoja mortal:
+    la primera, mareado						1390
+    verse un hombre y afligirse;
+    la segunda, arrepentirse
+    después de haberse casado;
+    y la tercera y mayor,
+    tener celos.
+CAMILO		                 Dijo bien,						1395:
+    que no hay congojas que den
+    más insufrible dolor.
+    Pero, en fin, ¿tú me aconsejas
+    que el desengaño procure?
+PEROTE		¿No es mejor que no que dure				1400:
+    la sospecha con las quejas?
+CAMILO		  ¿Cómo lo tengo de ver?:
+PEROTE		Siguiendo con gran secreto:
+    esa mujer, si el discreto
+    sigue jamás la mujer.						1405
+    Mas vos, porque loco estáis,
+    y amor es todo locura,
+    seguilda, que por ventura
+    veréis lo que procuráis;
+    pero guardaos de ver					1410
+    algún fuerte desengaño
+    de que os resulte más daño.
+CAMILO		¿Qué mayor mal puede ser?:
+    Quédate, Perote, a Dios,
+    que me he burlado contigo.					1415
+PEROTE		Hablado os he como amigo;:
+    lo demás, sabeldo vos.
+CAMILO		  ¿Yo había de estar celoso?:
+PEROTE		No, que un rico y gentilhombre:
+    de vuestra opinión y nombre					1420
+    no puede estar sospechoso.
+    Dadme, si tenéis ahí,
+    un real por aquel consejo,
+    pues algún letrado viejo
+    no os diera el que agora os di.				1425
+CAMILO		  Toma, que me has hecho gusto.:
+PEROTE		Plega a Dios que le tengáis,:
+    que me parece que andáis
+    estos días con disgusto.
+CAMILO		  Calla, ignorante.:
+PEROTE		                            Ya callo.					1430:
+    Bien puede ser que no estéis
+    celoso, mas parecéis
+    celoso.
+CAMILO		          ¿En qué?:
+PEROTE		                        En el negallo.:
+Vanse:
+Sale Federico, Fabio y Riselo, criados:
+FEDERICO		  ¿Qué dices, Fabio? ¡Mira que estás loco!:
+FABIO			Digo, señor, que entró en su misma casa.			1435:
+FEDERICO		Celia ¿en casa de Julia?:
+FABIO			                                   ¿No lo ha visto:
+    Riselo como yo?
+FEDERICO		                          Dime, Riselo,:
+    ¿tú conoces a Celia?
+RISELO			                                Desde el día:
+    que comenzaste a hacer por ella fiestas,
+    no sólo tus crïados, a quien toca				1440
+    de tu desdicha tan notable parte,
+    mas la conocen en Florencia todos.
+FEDERICO		Y ¿entró en casa de Julia?:
+RISELO			                                         Entró sin duda.:
+FEDERICO		Pues ¿qué tiene con Julia?:
+FABIO			                                         Por ventura,:
+    rendida a tu justicia, que no hay piedra			1445
+    a la continuación del agua firme,
+    te quiere, y quiere hacerte gusto en todo,
+    y porque, como Julia te ha querido,
+    puede temer que a Julia vuelvas luego,
+    cosa que la costumbre puede en muchos,			1450
+    querrá informarse de ella del estado
+    en que agora tu amor está con ella.
+FEDERICO		Dice verdad, por Dios: no es otra cosa.:
+    Toma este anillo y, en llegando a casa,
+    ponte, Fabio, el vestido que ayer traje.			1455
+    ¿Hay ventura tan grande? ¿Hay tanta dicha?
+    Cielos, tierra, aves, hombres, animales,
+    piedras, árboles, mar, vencí una fiera,
+    vencí una tierra incógnita a los hombres,
+    cacé una ave famosa, cogí una águila,			1460
+    una piedra ablandé y un árbol duro.
+    Ya el mar furioso en que anegaba el alma
+    está en bonanza: deme Amor la palma.
+FABIO			Entra, que bien podrás; que si, cual pienso,:
+    viene dispuesta para amarte Celia,				1465
+    holgarase en estremo que a sus ojos
+    des a entender que aborreciste a Julia.
+FEDERICO		Temblando llego. No sé si me atreva:
+    a pasar de esta sala.
+FABIO			                               Entra, cobarde,:
+    que, cuando Celia en su compuesto estrado			1470
+    cercada de crïadas y de dueñas
+    estuviera tan grave como suele,
+    entonces el respeto fuera justo,
+    mas agora que viene rebozada,
+    dejado el aparato y la vergüenza,				1475
+    a visitar una mujer de amores,
+    amores vendrán bien, porque las cosas
+    sólo se estiman del lugar que tienen.
+    La barba es en el hombre tan honrada
+    que para hacerle la mayor afrenta				1480
+    le decimos que miente por la barba,
+    y después que el barbero se la quita
+    vemos echarla al muladar primero.
+    No está Celia en la cara de Camilo,
+    sino quitada ya de su respeto					1485
+    y casi echada al muladar de Julia.
+FEDERICO		Ánimo pones a mis pies turbados.:
+FABIO			No dices mal, que todos los que aman:
+    en ellos tienen el entendimiento.
+FEDERICO		Ya estoy, Fabio, mirando su aposento.			1490:
+FABIO			Clavela está en aquesto.:
+FEDERICO		                                      Verdad dices,:
+Sale Clavela:
+    que, como fue conversación de amores,
+    dejaron a Clavela fuera.
+CLAVELA		                                     ¿Fabio?:
+FABIO			Clavela de mis ojos, ¿qué es aquesto?:
+CLAVELA		No sé, Fabio, por vida de los tuyos.				1495:
+    Aquí ha venido Celia disfrazada;
+    enseñonos la casa Feliciano,
+    y en llegando dejonos a la puerta.
+FABIO			¿De cuándo acá tiene amistad con Julia?:
+CLAVELA		Ni sé que la tuviese, ni imagino				1500:
+    qué le puede mover a visitarla.
+FABIO			Habla con Federico.:
+CLAVELA		                               Señor mío...:
+FEDERICO		Alba del Sol que adoro, estrella clara:
+    que al mundo vienes anunciando el día,
+    ¿qué quiere Celia aquí?
+CLAVELA		                                     Si no lo sabes,			1505:
+    te aseguro que yo no te lo diga.
+    Sólo sé que de Celia mi señora
+    jamás creyera liviandad tan grande.
+FEDERICO		¿Seré yo causa de esto, por ventura?:
+CLAVELA		Bien puede ser que tú la causa seas.				1510:
+FEDERICO		¿Quiéreme Celia bien?:
+CLAVELA		                                    Yo lo deseo,:
+    que tengo a Fabio amor. Si no es mintiendo,
+    no te puedo decir más de que tienes
+    a Celia aquí, si a ver a Celia vienes.
+FEDERICO		¿Qué han hecho? ¿Qué han hablado?:
+CLAVELA		                                                          Lo que he visto	1515:
+    son muchas voces que las dos han dado.
+FEDERICO		¿Voces, Clavela?:
+CLAVELA		                           Tan estrañas voces:
+    que mujeres comunes parecían,
+    porque nunca las nobles hablan recio.
+FEDERICO		Fabio, sin duda que la infame Julia				1520:
+    ha dicho a Celia algunas libertades,
+    con los celos que tiene.
+FABIO			                                     ¡No lo dudes!:
+FEDERICO		Las dos tienen amor, y las dos celos.:
+FABIO			Y las dos salen.:
+FEDERICO		                        ¡Socorredme, cielos!:
+Salen Celia y Julia:
+JULIA			  De tu mucha libertad					1525:
+    quedaré con justa queja.
+CELIA			Yo haré, si el honor me deja,:
+    echarte de la ciudad.
+    Al Duque me quejaré,
+    que me quitas lo que adoro.					1530
+JULIA			Tu calidad ni tu oro:
+    tengo en lo que pisa el pie.
+    Vete con Dios, que ni entiendo
+    por qué te quejas de mí,
+    ni en mi vida te ofendí,					1535
+    que a nadie en mi casa ofendo.
+FEDERICO		  ¿Qué es esto?:
+CELIA			                       ¿Y aun esto más?:
+FEDERICO		Celia bella, si en mi vida:
+    fue Julia de mí querida,
+    Julia, a quien riñendo estás,					1540
+    hoy me la quiten los cielos.
+CELIA			Eso ¿qué me importa a mí?:
+FEDERICO		Con celos hablas ansí.:
+CELIA			Verdad es que hablo con celos.:
+FEDERICO		  Pues, mi bien, si no te adoro				1545:
+    y más que a todas te estimo,
+    si las piedras no lastimo
+    con las lágrimas que lloro,
+    nunca en tu gracia me vea.
+CELIA			No entiendo esos desatinos.					1550:
+FEDERICO		Pues, mi bien, ¿por qué caminos:
+    haré que tu miedo crea
+    que no tienes qué celar?
+CELIA			Sí tengo, pues he venido:
+    donde sé que me ha ofendido					1555
+    quien me debiera estimar.
+FEDERICO		  Si ofensa jamás supiera:
+    que venir aquí te hacía,
+    aun agora, Celia mía,
+    de estos umbrales huyera.					1560
+JULIA			  ¿Yo amor a ningún nacido?:
+    ¿Yo rendirme ni querer
+    a nadie?
+CELIA			            Bien puede ser:
+    que a ninguno hayas querido.
+    Él querrás que a ti te quiera					1565
+    porque su hacienda te dé.
+JULIA			¿Yo, su hacienda? ¿Para qué?:
+    Poco ese interés me altera.
+    Yo tengo en mi calidad
+    más que tú en la tuya tienes.					1570
+FEDERICO		Señora, engañada vienes;:
+    no te han dicho la verdad.
+    Más ha de un año, por Dios,
+    que una joya no le he dado.
+CELIA			Que no es eso mi cuidado;					1575:
+    el que es sabemos las dos.
+    Pues, aunque estés muy preciada,
+    Julia, de que eres hermosa,
+    yo sé que ha sido otra cosa
+    por lo que soy desdichada.					1580
+    Cuando de hechizos se vale
+    una mujer y los obra,
+    poca hermosura le sobra,
+    y ya de ser moza sale.
+JULIA			  ¿Yo, hechizos? ¡Qué lindo engaño!				1585:
+    Mis hechizos son mis prendas,
+    que, aunque tú no las entiendas,
+    hacen un efeto estraño.
+    Ésta que ves, y el agrado
+    con que yo lo sobredoro,					1590
+    no tienen las Indias oro
+    para que fuese comprado.
+FEDERICO		  ¿Yo hechizado, mi señora?:
+    ¿Es porque he venido aquí
+    por Julia no, por vos sí?,					1595
+    que sois a quien sólo adora
+    el alma que ya buscáis,
+    gloriosa de que tratéis
+    de estimarla en lo que hacéis,
+    que en lo que hacéis la estimáis.				1600
+CELIA			  ¡Donaire tiene este hombre!:
+FEDERICO		Besoos por esa merced:
+    las manos.
+CELIA			                ¡Allá os tened,:
+    que apenas sé vuestro nombre!
+FEDERICO		  ¿Tanto pueden unos celos?					1605:
+CELIA			Éstos que traigo son justos.:
+FEDERICO		¡Cesen los celos injustos,:
+    luz de amor, Sol de los cielos!
+CELIA			  Clavela, ven por aquí.:
+FEDERICO		Señora, aguardad un poco...					1610:
+CELIA			¡Sin duda este hombre es loco!:
+Vase Celia con Clavela:
+FEDERICO		Julia, ¿qué has dicho de mí?:
+JULIA			  ¿Yo de ti?:
+FEDERICO		                  Sí, tú, celosa.:
+    Julia, tanto mal me ha hecho,
+    que celos en vuestro pecho					1615
+    no hay víbora tan furiosa.
+    Tomaré de ti venganza,
+    yo te quitaré la vida.
+JULIA			¿A qué viento sube asida:
+    esa tu loca esperanza?					1620
+    ¿Cosa que piense el deseo,
+    que como a niño te engaña,
+    que el de Celia le acompaña?
+FEDERICO		Julia, lo que he visto creo.:
+JULIA			  ¿Qué has visto?:
+FEDERICO		                          Que vino aquí				1625:
+    a pedirte Celia celos.
+JULIA			Y ¿por quién son sus desvelos?:
+FEDERICO		¿No está claro que por mí?:
+JULIA			  ¿Por ti? ¡Qué gracioso engaño!:
+FEDERICO		Pues ¿de quién los ha pedido?				1630:
+JULIA			De Camilo, su marido.:
+FEDERICO		¡Desdichado desengaño!:
+    Pues ¿cuándo o cómo te vio?
+JULIA			Cuándo o cómo, esto es verdad,:
+    y que de su voluntad						1635
+    soy la ley y el dueño yo.
+    Luego, ¿de ti imaginabas
+    que Celia celos pedía?
+FEDERICO		¡Oh falsa esperanza mía,:
+    hoy naciste y hoy te acabas!					1640
+    Que fímera la flor trueca
+    más presto y muda su ser,
+    pues sale al amanecer
+    y al ponerse el Sol se seca.
+    ¡Ay, Fabio, cuán engañados					1645
+    venimos los dos aquí!
+    No eran los celos por mí:
+    celos son, Fabio, casados.
+    ¡Oh, Julia, plega a los cielos
+    que de mi fuego te abrases,					1650
+    que aquesta noche te cases
+    y mañana tengas celos!
+    ¿Adónde sino en tu casa
+    tanto mal me sucediera?
+JULIA			Salte, Federico, afuera,					1655:
+    si te hielo y ella abrasa,
+    que ni a ti ni a cosas tuyas
+    quiero ver jamás en ella.
+    Sirve a Celia, que es muy bella,
+    adora las prendas suyas,					1660
+    que la que la tiene en más
+    es con quien yo me regalo,
+    que al alma misma la igualo,
+    donde ha un mes que ya no estás:
+    mi gusto he puesto en Camilo.				1665
+FEDERICO		Si piensas que me amartelas,:
+    tarde, Julia, te desvelas;
+    ése es muy trillado estilo...
+    Cuando, aunque fuiste mujer,
+    a Celia, Julia, quisieras,					1670
+    pienso que celos me dieras,
+    cosa que no puede ser;
+    mas, de querer a Camilo,
+    antes me vengas de ti.
+JULIA			Pues ¿para mí que nací,					1675:
+    Federico, orilla el Nilo,
+    tú, martelos, tú, desprecios?
+    ¿Hombres conmigo burlando?
+    Sabios sois todos dejando,
+    que amando todos sois necios.				1680
+    Vete con Dios.
+FEDERICO		                         Ya me voy:
+    a seguir el Sol que adoro.
+JULIA			Todos esos rayos de oro:
+    pisa el Sol de quien yo soy,
+    y me los pone a los pies.					1685
+    ¡Mira tú quién vale más!
+FEDERICO		¿Niegas que celosa estás?:
+JULIA			De ti bien libre me ves.:
+    ¿Tú a mí celos, que eres hoy
+    lo que más mal me parece?					1690
+    De que Celia te aborrece
+    bien certificada estoy;
+    y, cuando bien te quisiera,
+    viendo que te aborrecía,
+    ¿qué celos tener podía?					1695
+FEDERICO		¡Julia, que eres hechicera!:
+JULIA			  Federico, si lo mides:
+    con verte desengañado,
+    verdad es, pues que te he dado
+    hechizos con que me olvides.					1700
+    Los que tomé para mí
+    son los ojos de Camilo,
+    que es hechizo cuyo estilo
+    me lleva el alma tras sí;
+    déjala que se le dé						1705
+    en los ojos el pesar.
+FEDERICO		Julia, quiérote dejar,:
+    puesto que ya te dejé.
+JULIA			  La que te dejó yo fui.:
+FEDERICO		Lo que has visto quiero más.					1710:
+JULIA			Eso no lo gozarás.:
+FEDERICO		Ni tú gozarás de mí.:
+Vase Federico con sus criados:
+JULIA			  Abrasándome quedo, aunque lo niego;:
+    el daño en el silencio multiplico;
+    por los ojos el alma significo,				1715
+    que, pues Amor lo ve, veralo un ciego.
+    Turbada mariposa a la luz llego;
+    mis alas son la leña que le aplico;
+    adoro, aunque desprecio, a Federico;
+    muérome y finjo, vitupero y ruego.				1720
+    ¿De qué sirve fingir ira y despecho,
+    si, cuando con la lengua me adelanto,
+    muestran los ojos el dolor deshecho?
+    Que da, cuando es como el que abrasa tanto,
+    este fuego que cubre en vano el pecho			1725
+    humo a los ojos que provoca a llanto.
+Camilo, solo:
+CAMILO		  De aquesta casa salió:
+    y con Clavela la vi...
+    ¡Cielos, Julia vive aquí,
+    en casa de Julia entró!					1730
+    ¿A qué o cómo, en una casa
+    donde se trata de amor?
+    Hoy mi locura es mayor,
+    todo el Infierno me abrasa.
+    Celia en cas de Julia... ¿A qué?				1735
+    ¿Ésta es amistad honrada
+    de una mujer que estimada
+    de toda Florencia fue?
+    ¿En cas de una cortesana,
+    Celia? Mi temor es cierto:					1740
+    ¡sin honra estoy, yo soy muerto!
+    ¡Oh mujer falsa y liviana!
+    ¿Qué tengo ya que inquirir?
+    ¿Qué tengo ya que buscar?
+    ¿Qué procuro preguntar?					1745
+    Ya ¿qué me pueden decir?
+    Aquí mis ojos la vieron
+    sin crïado de mi casa.
+    Julia de celos se abrasa;
+    sin duda amistad hicieron,					1750
+    y goza a Celia el galán,
+    y ella sirve de tercera,
+    que por interés cualquiera
+    honra y gusto venderán.
+    Mas ¡ay de mí, que de allá					1755
+    salen hombres! ¡Hombres son!
+    Cerráos, ojos, que es visión
+    que al honor espanto da.
+Federico, Riselo y Fabio:
+FEDERICO		  Del enojo que me ha dado:
+    tomaré venganza presto.					1760
+FABIO			Procede, señor, en esto:
+    más cuerdo y menos airado.
+Vase Federico:
+FEDERICO		  ¿Irán lejos?:
+RISELO			                    Ya estarán:
+    al cabo de aquesta calle.
+FABIO			Tiene Clavela buen talle.					1765:
+RISELO			En fin, ¿eres su galán?:
+FABIO			  Como a mi vida la quiero,:
+    y ella me muestra afición.
+RISELO			Más justos amores son:
+    que los de este majadero.					1770
+    ¿Dónde va agora tras ella?
+FABIO			A deshonralla no más,:
+    porque no acierta jamás
+    sino sólo en ofendella.
+    Toda Florencia ha cansado					1775
+    con fiestas y con torneos,
+    y tan públicos deseos,
+    Riselo, causan enfado.
+    ¿Él está pobre?
+RISELO			                         Y tan pobre:
+    que la casa ha despedido.					1780
+FABIO			Pues gasta más atrevido:
+    que al que más hacienda sobre.
+    Ya de todo lo que viste
+    –pajes, lacayos, libreas,
+    joyas, galas y preseas–					1785
+    no hay más de lo que se viste.
+RISELO			  Par Dios, Fabio, yo querría:
+    dejarlo al anochecer
+    para no aguardar a ver
+    de tanta miseria el día.					1790
+    Él no tiene qué gastar;
+    lástima te tengo a ti.
+FABIO			Diez años que le serví:
+    me han de obligar a esperar.
+    Donde quisiere me lleve,					1795
+    que, como el alma no estrague,
+    ya que en su vida me pague,
+    conocerá que me debe.
+    Sigámosle, por tu vida,
+    no diga que le dejamos.					1800
+Vanse Riselo y Fabio:
+RISELO			Por esta calle atajamos...:
+CAMILO		¿Qué hacéis, honra? ¡Estoy perdida!:
+    ¿Qué haremos? Tomar venganza.
+    ¿Cómo? Matad la ocasión.
+    ¿Con qué causa o qué razón?					1805
+    Basta la afrenta. No alcanza,
+    que matar una mujer
+    por un delito secreto
+    es deshonrarse en efecto,
+    y honor y patria perder.					1810
+    ¿Qué me aconsejáis? No sé.
+    ¿No veis que vendo mi honor?
+    Preguntádselo al dolor,
+    que él os dirá lo que ve.
+    El dolor es excesivo,						1815
+    y el consejo lo será;
+    y, según me duele ya,
+    sólo por vengarme vivo.
+    Bien dijo un emperador,
+    y después de él muchos reyes				1820
+    que confirmaron sus leyes,
+    que el mío es justo dolor.
+    Pues, si es justo, mataré
+    justamente a quien me agravia.
+    La resolución no es sabia:					1825
+    más me deshonro. ¿Qué haré?
+    ¿Quitareme a mí la vida?
+    No, que no soy el culpado,
+    ni hay tan miserable estado
+    que obligue a serme homicida.				1830
+    Pues algo se ha de perder,
+    ahora bien, el seso sea,
+    porque quien sin él me vea
+    piense lo que puede ser.
+    Cumpliré con quien murmura				1835
+    mi mal, y también conmigo,
+    pues no sentiré el castigo
+    que mi deshonra procura.
+    La primera señal sea
+    que arrojemos el vestido,					1840
+    pues que cubrir no he podido
+    del honor mancha tan fea.
+    Vaya, pues, también la espada,
+    pues que no puede vengar
+    mis agravios sin dejar						1845
+    mayor mancha ensangrentada.
+    Sólo el sombrero dejemos,
+    ya que el dolor se descubra,
+    porque como a Midas cubra
+    la deshonra que tenemos.					1850
+    ¡Ah, Celia, qué sin razón
+    me has hecho tan dura afrenta!
+    Si el mundo ha puesto a mi cuenta
+    cosas de tu obligación,
+    no te doy muerte, pues basta				1855
+    matar mi seso, en que estriba
+    que honrado o sin honra viva,
+    si pienso que no eres casta.
+    Con esto muerte recibes,
+    aunque tu vida consiento,					1860
+    pues mato mi entendimiento,
+    adonde pienso que vives.
+Vase:
+Salen Celia, Clavela, Feliciano y Lidio, y Aureliano:
+CELIA			  Dícenme que tú puedes, Aureliano,:
+    remediar a Camilo mi marido
+    y de esta enfermedad volverle sano.				1865
+    Por Dios, si puedes, tanto bien te pido,
+    que de la paga te aseguro tanta
+    cuanto es el daño de mi honor perdido.
+AURELIANO		  ¿Qué tiene?:
+CELIA			                    De la cama se levanta:
+    tan triste, y con silencio tan notable,				1870
+    que a mí me mata y los demás espanta.
+    Amaba a César, que es rapaz amable,
+    y huye agora de él como si fuera
+    un áspid.
+AURELIANO		              Deja que le vea y hable.:
+CELIA			  Cualquiera cosa con rigor le altera,				1875:
+    no hay sombra que no diga que es gigante.
+AURELIANO		¡Melancolía pertinaz y fiera!:
+CELIA			  Hay en Florencia una mujer bastante:
+    a mudar como Circe en piedras hombres,
+    y a Calipso y Medea semejante.				1880
+    Ésta le ha dado hechizos. No te asombres,
+    su condición sabiendo y su riqueza,
+    que de Camilo son públicos nombres.
+    Vio por su mal Camilo su belleza.
+AURELIANO		Pues, si es hermosa, ¿qué mayor hechizo?			1885:
+    Que amor también se sube a la cabeza.
+CELIA			  Sin duda no es amor, es bebedizo,:
+    que amor no puede hacer tales efectos.
+AURELIANO		Como esas veces el amor los hizo.:
+CELIA			  No en los hombres casados y discretos,			1890:
+    sino en mancebos libres.
+AURELIANO		                                       En fin, ¿quieres:
+    probar de esta mi ciencia los secretos?
+CELIA			  Yo sé la condición de las mujeres.:
+Sale Ludovico:
+LUDOVICO		  ¡Manda, Celia desdichada,:
+    recoger a tu marido;						1895
+    vaya Feliciano presto,
+    corran Claridoro y Lidio!
+    Que ya su melancolía
+    dio al través con su jüicio
+    en el mar de la tristeza					1900
+    que tantos cubre de olvido.
+    Por las calles de Florencia
+    viene tu amado Camilo
+    dando voces y arrojando
+    como loco los vestidos.					1905
+    No le he podido tener,
+    ni han bastado sus amigos,
+    que con igual sentimiento
+    lloran su daño conmigo.
+CELIA			¡Ay, desdichada mujer					1910:
+    sobre cuantas han nacido!
+    ¡Hoy pierdo todo mi bien!
+    ¡Presto, Feliciano y Lidio,
+    presto, amigo!
+FELICIANO		                      No te mates,:
+    que ya Camilo ha venido.					1915
+Camilo, desatinado:
+CAMILO		¡Afuera, digo, cobardes,:
+    afuera, digo, enemigos!
+CELIA			¡Camilo del alma mía!:
+CAMILO		¿Quién eres tú, basilisco?:
+CELIA			Celia soy.:
+CAMILO		               ¿Celia? ¡Oh crüel!					1920:
+    Tú sola mi muerte has sido,
+    tú que hiciste mis sospechas
+    verdades con tus delitos.
+    ¡Afuera, afuera digo,
+    que soy mis celos y el Infierno mismo!			1925
+LUDOVICO		¡Ah, Camilo! ¿No conoces:
+    a tu amigo Ludovico?
+CAMILO		¡Vete luego de mis ojos,:
+    que tú fuiste por quien vino
+    la nueva de mis infamias					1930
+    a mis honrados oídos!
+CLAVELA		Señor, escucha a Clavela...:
+CAMILO		¡El cielo te dé el castigo:
+    que las terceras merecen!
+CLAVELA		¿Yo tercera?:
+CAMILO		                   Yo lo he visto.					1935:
+CELIA			¡Llega, Aureliano!:
+AURELIANO		                             Señor,:
+    vuelve a tomar tu vestido,
+    sosiega y sabrás tu mal
+    mientras el remedio aplico.
+CAMILO		Demonios, ¿qué me queréis?					1940:
+    No tiene el honor perdido
+    más remedio que perder
+    el seso, por no sentirlo.
+    Si le he perdido, dejadme,
+    mientras con mi sangre escribo				1945
+    en el papel de mi infamia
+    al cielo el agravio mío.
+    ¡Afuera, afuera digo,
+    que soy mis celos y el Infierno mismo!
+CELIA			¡Ay, Ludovico! Una Julia,					1950:
+    una fiera, un cocodrilo,
+    que llora para matar
+    y da como Circe hechizos,
+    le ha puesto de esta manera.
+LUDOVICO		Más desventura imagino:					1955:
+    celos tuyos me parecen.
+CAMILO		¿Cómo es eso? ¡Hola, quedito,:
+    nadie diga que son celos!
+    Mas, ¡ay, ciegos desvaríos!,
+    si es infamia confesarlos,					1960
+    ¿qué pena será sufrirlos?
+    Yo moriré de este mal.
+LUDOVICO		Traigan, señora, a su hijo.:
+CAMILO		¡No le traigan, no le nombren,:
+    que no es posible que es mío!				1965
+AURELIANO		Esta locura es mortal;:
+    ningún remedio imagino.
+    Hazle, señora, llevar
+    a la cama.
+CAMILO		               ¿Dónde dijo?:
+CELIA			A la cama, mi señor,						1970:
+    que estáis enfermo.
+CAMILO		                              Confío:
+    que será la sepultura.
+CELIA			¡Ay, mi querido Camilo!:
+CAMILO		¡No me toques, Feliciano!:
+FELICIANO		Ea, señor, ven conmigo.					1975:
+LUDOVICO		Camilo, ten más respeto:
+    a tu honor.
+CAMILO		                 Ya está perdido.:
+LUDOVICO		¿Perdido? ¿De qué manera?:
+CAMILO		Tú lo sabes.:
+LUDOVICO		                  Si permito:
+    que digas esa razón						1980
+    es porque estás sin jüicio:
+    Celia es ejemplo en Florencia
+    de virtud y de honor limpio.
+CAMILO		Sí, que también hay ejemplos:
+    de deshonras de maridos.					1985
+    ¡Afuera, afuera digo,
+    que soy mis celos y el Infierno mismo!
+ACTO TERCERO DEL HALCÓN DE FEDERICO:
+Sale una compañía de soldados alojándose en una aldea, y detrás el capitán Rutilio y Riselo, aquel criado de Federico, hecho alférez, y con ellos un alcalde labrador:
+ALCALDE		  Desde allí tomarán boletas todos.:
+RUTILIO		Entren con orden, vayan poco a poco.:
+RISELO			¡Ah, señores soldados, sin dar voces!			1990:
+SOLDADO 1		Ya sabe el sor Alférez que me tocan:
+    a mí cuatro boletas.
+RISELO			                               Más cuarenta...:
+    Conténtese con dos.
+RUTILIO		                               ¡Entren, acaben!:
+RISELO			¿Echaste el bando?:
+CAJA			                              Ya le tengo echado.:
+Vanse los soldados, caja y bandera; quédanse el Alférez, Alcalde y Capitán:
+RUTILIO		¿Qué casas son aquéllas, cuya puerta			1995:
+    armas doradas tiene en mármol blanco?
+ALCALDE		Aquélla es la mejor de nuestra aldea,:
+    aunque está fuera del lugar un poco;
+    vive en ella, señor, una gallarda
+    vïuda de aquel noble de Florencia				2000
+    que habrá como dos años murió loco.
+RUTILIO		Conózcola muy bien, y sé el suceso.:
+    Celia se llama, y es mujer hermosa;
+    y debe de ser rico casamiento.
+ALCALDE		El casamiento fuera noble y rico				2005:
+    y de los más notables de Florencia,
+    si no tuviera hijo, que ha heredado
+    más de cien mil ducados.
+RUTILIO		                                        Entretanto:
+    que el hijo crece, es bueno el casamiento.
+ALCALDE		El hijo tiene ya dieciséis años,				2010:
+    que le dejó su padre de catorce
+    habrá dos que murió, y hase venido
+    a vivir en su hacienda por librarse
+    de deudos y de locos pretendientes.
+RUTILIO		Señaladme esa casa por posada.				2015:
+ALCALDE		Si no es por estar lejos, en ninguna:
+    podéis estar mejor.
+RISELO			                              Aquélla enfrente:
+    de los olmos que baña aquel arroyo
+    parece razonable. Pues ya tiene
+    el señor Capitán dónde alojarse,				2020
+    en aquélla estaré.
+ALCALDE		                           La casa es buena,:
+    pero podría ser que no tuviésedes
+    regalo en ella, porque en ella vive
+    un noble caballero de Florencia
+    que por gastos que ha hecho y disparates			2025
+    se ha retirado allí tan pobre y solo
+    que vive de sembrar un huertecillo
+    y envïar a Florencia la verdura
+    y alguna fruta al tiempo que madura.
+RISELO			¿Llámase Federico, acaso?:
+ALCALDE		                                          El mismo.				2030:
+RISELO			¡Válame Dios! ¿Que vino a tanto daño?:
+ALCALDE		No lo dudéis: a tanto daño vino.:
+RISELO			Pues ¿no tiene parientes?:
+ALCALDE		                                       Deudos tiene,:
+    mas los deudos son buenos para un día,
+    que en pasando de dos tuercen el rostro.			2035
+RISELO			¿No tuvo amigos?:
+ALCALDE		                            Sí, cuando era rico;:
+    pero ¿quién tiene amigos cuando es pobre?
+RISELO			¿Que no tiene otro oficio?:
+ALCALDE		                                        Éste que os digo,:
+    y un halcón que de muchos le ha quedado,
+    con que se va a cazar algunos días;				2040
+    y es tan bueno el halcón que el mismo Duque
+    por él le ofrece mil escudos de oro,
+    con que podría remediar mil cosas,
+    y no le quiere dar tanto le quiere.
+RISELO			Yo conozco ese pájaro, y al dueño				2045:
+    al tiempo que a crïarle comenzaba.
+    No escuso de ir a ver a Federico,
+    si el señor Capitán me da licencia.
+RUTILIO		Vaya el señor Alférez en buen hora,:
+    que yo con el Alcalde alojar quiero				2050
+    esta gente, que viene fatigada.
+RISELO			¡Ay, deleites del mundo, ay, pasatiempo,:
+    fïáis y ejecutáis al mejor tiempo!
+Vanse:
+Sale Federico en hábito de labrador y un casero:
+FEDERICO		  ¿Vendiose bien la hortaliza?:
+CASERO		La berza se vendió bien.					2055:
+FEDERICO		¿Y la lechuga?:
+CASERO		                       También.:
+FEDERICO		¿Qué comprastes?:
+CASERO		                            La tomiza:
+    y un serón.
+FEDERICO		                   ¿Cuánto os costó?:
+CASERO		Todo llegó a cuatro reales,:
+    pero no los tiene tales						2060
+    su mercé.
+FEDERICO		               ¿Cuánto os sobró?:
+CASERO		  Dos reales y medio, creo.:
+FEDERICO		Pues id por carne y por pan,:
+    que ya los dientes están
+    con razonable deseo,						2065
+    y no me pesa por mí
+    tanto como de ese halcón.
+CASERO		Yo le traeré corazón.:
+FEDERICO		Venid presto.:
+CASERO		                     Harelo ansí.:
+Vase el casero:
+FEDERICO		  Tierra que, con mis lágrimas regada,			2070:
+    arada con suspiros de mi pecho,
+    das fruto amargo, de mis ojos hecho,
+    a mi esperanza, en flor del tiempo helada;
+    casa de verdes plantas coronada,
+    cuyas ramas os hacen sombra y techo;			2075
+    corrientes aguas de cristal deshecho
+    sobre pizarras de color morada;
+    ya os vio paredes mi creciente Luna,
+    cubiertas de brocados de tres altos
+    donde agora la hiedra me importuna.				2080
+    ¡Oh verdes campos de esperanza faltos,
+    no os espantéis, que suele la fortuna
+    subir los bajos y bajar los altos!
+Sale Fabio, vestido de labrador:
+FABIO			  ¿Acuérdaste, por ventura,:
+    Federico, de Riselo?						2085
+FEDERICO		Acuérdome de este suelo,:
+    Fabio, y de aquesta verdura,
+    donde cultivando vivo
+    este rústico jardín
+    con la esperanza del fin,					2090
+    que es la que tiene el cautivo;
+    porque si no es con la muerte
+    ya no espero libertad.
+FABIO			Señor, cuando en la ciudad:
+    vivíamos de otra suerte;					2095
+    cuando en caballo español
+    con veinte pajes salías,
+    que parar a verte hacías
+    con envidia los del Sol;
+    cuando con galas famosas					2100
+    ocupaban tus libreas
+    los ojos de muchas feas,
+    las almas de mil hermosas,
+    entre los muchos crïados
+    que en tu servicio tenías,					2105
+    fue Riselo algunos días
+    de los más nobles y honrados.
+FEDERICO		  Riselo... ¿Un paje de espada?:
+FABIO			El mismo.:
+FEDERICO		                Pues ¿qué hay?:
+FABIO			                                        En viendo:
+    tu pobreza, fue siguiendo					2110
+    del Duque entonces la armada,
+    y ha sido tan buen soldado
+    que hoy está alférez aquí.
+FEDERICO		¡No me vea, Fabio, ansí!:
+FABIO			No importa, que es muy honrado.				2115:
+FEDERICO		  Dame aquella capa vieja,:
+    que, en fin, estaré mejor.
+Sale Riselo:
+RISELO			De que os escondéis, señor,:
+    forma mi amor justa queja:
+    tan crïado vuestro soy					2120
+    como cuando fuistes rico.
+    Dadme esos pies, os suplico.
+FEDERICO		Riselo, encogido estoy:
+    de verme de esta manera,
+    y contento en verte ansí:					2125
+    siempre lo pensé de ti.
+RISELO			Diome, señor, su bandera:
+    Rutilio, que hoy alojó
+    su gente en aquesta aldea.
+FEDERICO		En tal hidalgo se emplea					2130:
+    muy bien el cargo que os dio.
+    Ah, Riselo, veis aquí
+    en los dos un alto ejemplo:
+    de pobre a rico os contemplo,
+    y de rico a pobre a mí.					2135
+    Mirad cuánto me excedéis,
+    pues yo bajé y vos subís;
+    vos con espada venís,
+    y con azadón me veis;
+    vos con venablo en la mano,				2140
+    yo cultivando la tierra;
+    vos con oficio de guerra
+    y yo de humilde hortelano;
+    vos ganado y yo perdido;
+    yo sin honra y vos honrado;					2145
+    vos soldado y yo quebrado;
+    yo desnudo y vos vestido;
+    vos con plumas de esperanzas
+    de una justa pretensión,
+    y yo con las de un halcón					2150
+    que me enseña sus mudanzas.
+    Y esto no por la fortuna,
+    que sola virtud ha sido,
+    por haberla vos tenido
+    y no tener yo ninguna.					2155
+RISELO			  Señor, si por mercader,:
+    si por hacienda en la mar
+    os pudiérades quejar
+    del tiempo y de su poder,
+    no fuera la queja honrosa;					2160
+    pero, siendo por amor,
+    sin razón está, señor,
+    vuestra fortuna quejosa.
+    Ni habéis hasta agora hilado,
+    como el tebano varón,					2165
+    ni habéis, como Salomón,
+    por mujer idolatrado.
+    Vuestra hacienda fue no más,
+    señor, lo que habéis perdido,
+    no, cual Camilo, el sentido,					2170
+    que no le cobró jamás.
+    Aquí me dicen que vive
+    Celia, ya vïuda de él.
+FEDERICO		Aquí vive la crüel,:
+    ¡que de vida el cielo prive!					2175
+    Aquí, para más tormento
+    del alma que no la vía,
+    se vino, Riselo, el día
+    de su mayor sentimiento,
+    dicen que por no gastar					2180
+    la hacienda que el hijo tiene,
+    aunque otros dicen que viene
+    no se queriendo casar,
+    que sus deudos la fatigan
+    y mil nobles pretendientes.					2185
+RISELO			En fin, sus ojos presentes:
+    a nuevos daños te obligan.
+FEDERICO		  Huyo como de una fiera,:
+    no voy jamás donde está,
+    cuando ella a la iglesia va					2190
+    ya estoy de la iglesia fuera.
+    Si hay fiesta, yo no la veo,
+    por no ver quien me ha causado
+    tanto mal.
+RISELO			               ¿Que no ha mudado:
+    ella el rigor, tú el deseo?					2195
+FEDERICO		  Pues, con haber ocasión:
+    de su hijo, que entra aquí,
+    no ha preguntado por mí.
+RISELO			¡Temeraria condición!:
+FEDERICO		  César viene los más días,					2200:
+    a un halcón aficionado
+    que tengo, y, aunque le he hablado
+    como a niño en cosas mías,
+    no sé si enseñado viene
+    de Celia, que no me trata					2205
+    más que del falcón, que mata
+    cuanto la campaña tiene.
+    A esto viene por momentos,
+    pero fuera del halcón
+    no me ha dicho una razón.					2210
+RISELO			Descansa tus pensamientos,:
+    desecha ya la esperanza
+    que te tiene en tal dolor,
+    que no es bien que viva amor
+    en tanta desconfïanza.					2215
+    Y porque tengo que hacer
+    en alojar a mi gente,
+    y no tengo aquí presente
+    lo que quisiera tener,
+    toma estos cincuenta escudos				2220
+    que en esta bolsilla van,
+    que de corridos están
+    de mi atrevimiento mudos;
+    mas sé tu necesidad,
+    y tú sabes mi deseo.						2225
+FEDERICO		Recíbolos porque creo:
+    esa hidalga voluntad;
+    y quiera Dios que algún día
+    le pague a tan buen crïado
+    cumplimiento tan honrado					2230
+    y tan noble cortesía.
+    Quédate a comer aquí.
+RISELO			No puedo, Dios me es testigo.:
+FEDERICO		Come, Riselo, conmigo.:
+RISELO			Eso no, que te serví.						2235:
+FEDERICO		  En eso estás engañado,:
+    que no hay gusto en el señor
+    como ver que tal valor
+    haya tenido el crïado
+    que después de algunos años				2240
+    pueda sentarle a su mesa.
+RISELO			De que no puedo me pesa,:
+    que estos hombres son estraños
+    y se quejan si no acudo.
+    A Dios.
+FEDERICO		            Riselo, Él te guarde.					2245:
+Vase:
+FABIO			Rico estás.:
+FEDERICO		                 Estoy cobarde.:
+FABIO			¿Qué has de hacer de tanto escudo?:
+FEDERICO		  Dártelos luego.:
+FABIO			                          ¿Tú a mí?:
+FEDERICO		Sí, Fabio, que no he podido:
+    darte siquiera un vestido					2250
+    después que estamos aquí;
+    y, pues más te has de perder
+    mientras más estés conmigo,
+    vete, acomódate, amigo,
+    a donde puedas valer,						2255
+    que yo lloraré tu ausencia
+    como sola compañía
+    que en mis desdichas tenía.
+    ¿Qué tengo de hacer? ¡Paciencia!
+    No es justo tenerte aquí.					2260
+FABIO			Guarda el dinero, señor,:
+    que me pesa que mi amor
+    pagues con dinero ansí.
+FEDERICO		  Fabio, bien veo que es poco,:
+    pero ¿cuándo tendré más?					2265
+    Pues, si aquí perdido estás,
+    ¿no soy en tenerte un loco?
+    Vete, remédiate, Fabio.
+FABIO			Guarda, señor, tu dinero,:
+    y a un amor tan verdadero					2270
+    no le hagas tanto agravio;
+    que, si mi sangre te fuera
+    de provecho, la sacara,
+    y por dicha te dejara
+    cuando muy rico te viera;					2275
+    pero pobre, aunque me echases
+    por fuerza, no hay que tratar.
+FEDERICO		Quiérote, Fabio, abrazar.:
+FABIO			Antes que adelante pases,:
+    trata de lo que has de hacer					2280
+    del dinero.
+FEDERICO		                Nunca he dado:
+    a César nada.
+FABIO			                     Has pensado:
+    cosa que no es menester.
+FEDERICO		  ¿Cómo, no? Pues ¿qué dirá:
+    su madre? Ve, Fabio, luego					2285
+    a Florencia...
+FABIO			                    ¿Aún estás ciego?:
+FEDERICO		... y compra una joya allá:
+    que demos a César.
+FABIO			                                Bueno,:
+    ¿estás loco?
+FEDERICO		                  Esto es razón.:
+FABIO			Esa hidalga condición						2290:
+    en tal miseria condeno.
+    Déjate de hacer agora,
+    que no tienes qué comer,
+    lo que solías hacer.
+FEDERICO		Fabio, el tiempo se mejora.					2295:
+    Este dinero traerá
+    otro dinero.
+FABIO			                  No creas:
+    que si le gastas le veas,
+    porque nunca volverá.
+    Paga dos deudas que tienes.					2300
+FEDERICO		La tuya, es poco el dinero.:
+FABIO			Que pagues a Alberto quiero,:
+    que le secrestan sus bienes
+    por tu ocasión.
+FEDERICO		                         ¡Ah, mi Fabio,:
+    hablas como amigo en todo!					2305
+FABIO			Federico, de este modo:
+    satisfaces a tu agravio.
+    Muestra que el hombre de bien
+    se conoce en el pagar.
+FEDERICO		Paga, que obliga a prestar,					2310:
+    porque otra vez te lo den.
+FABIO			  Voy.:
+FEDERICO		         Vivas, Fabio, mil años.:
+Vase Fabio:
+Sale César, hijo de Celia:
+CÉSAR			¿Qué hay, Federico? ¿No iremos:
+    a caza?
+FEDERICO		           Ocasión tenemos,:
+    que unos pájaros estraños					2315
+    cubren aquesta campaña
+    desde ayer.
+CÉSAR			                 ¿Qué hay del halcón?:
+FEDERICO		No le han dado el corazón;:
+    gentilhombre le acompaña.
+    Vamos a verle volar.						2320
+CÉSAR			No ha visto tal ave el viento;:
+    ir puede por su elemento
+    de la otra parte del mar.
+    ¡Qué plumas, qué señorío,
+    qué majestad tiene en sí!					2325
+FEDERICO		Cuanto él vale y tiene en mí,:
+    César, título de mío
+    a vuestro servicio está.
+CÉSAR			Besoos las manos, señor,:
+    que de vuestro gran valor					2330
+    estoy satisfecho ya.
+    El halcón es vuestro gusto,
+    que mi madre me ha contado
+    que éste sólo os ha quedado,
+    y quitárosle no es justo,					2335
+    de muchos que habéis tenido
+    en tiempo más venturoso.
+FEDERICO		Fui rico; no estoy quejoso:
+    de haber mi hacienda perdido,
+    porque fue por ocasión					2340
+    que no pude arrepentirme;
+    como Luzbel estoy firme,
+    César, en mi pretensión.
+    ¿Cómo se halla estos días
+    la señora Celia?
+CÉSAR			                        Bien,						2345:
+    aunque la aquejan también
+    algunas melancolías.
+    Yo la aconsejo que vamos
+    a Florencia y no aprovecha,
+    que tiene alguna sospecha					2350
+    de que los dos nos perdamos:
+    ella tomando marido
+    y yo buscando mujer.
+FEDERICO		Lo primero es de temer,:
+    pues en vuestro daño ha sido;				2355
+    lo segundo, aún es temprano.
+CÉSAR			Vamos a ver el halcón.:
+FEDERICO		Mostraisle mucha afición.:
+CÉSAR			Quiero llevarle en la mano.:
+FEDERICO		  Ya os digo que vuestro es.					2360:
+CÉSAR			Señor, no os he de quitar:
+    vuestro gusto, ni obligar
+    me puede a tanto interés.
+    Sé que el Médices famoso
+    mil escudos os ha dado,					2365
+    y, aunque yo estoy heredado,
+    tener paciencia es forzoso
+    mientras que pupilo soy.
+FEDERICO		Pues, César, aquí tenéis:
+    el halcón, si le queréis,					2370
+    porque de gracia os le doy.
+CÉSAR			  Sois pobre, que yo lo sé;:
+    mil escudos son dinero.
+FEDERICO		No importa, dárosle quiero.:
+CÉSAR			¡Jesús, no le tomaré!						2375:
+    Mas, por mi vida, que es bello,
+    y que siempre pienso en él.
+FEDERICO		Tomalde, y servíos de él.:
+CÉSAR			Señor, no tengo de hacello.:
+    Vamos a volar una ave.					2380
+FEDERICO		Cuervos hay. Vamos.:
+CÉSAR			                                  (No hay cosa:
+    en mi gusto más hermosa,
+    más alegre, más süave.
+    Muriendo me estoy por él
+    y no me atrevo a tomalle,					2385
+    porque no tengo qué dalle
+    que se iguale al precio de él.
+    ¡Ay, quién tuviera su hacienda!)
+FEDERICO		¿No vamos?:
+CÉSAR			                   Ya voy con vos.:
+FEDERICO		(Y yo muriendo, por Dios,					2390:
+    porque eres de Celia prenda.)
+Vanse:
+Salen Celia y el capitán Rutilio, y Clavela y Feliciano:
+RUTILIO		  No he pagado mal, por Dios,:
+    mi señora, el hospedaje.
+CELIA			Moneda de ese linaje:
+    la dan nobles como vos,					2395
+    que pagar en voluntad
+    es cosa puesta en razón
+    donde sirve la afición
+    y recibe la amistad.
+RUTILIO		  Si la voluntad, señora,					2400:
+    es alma, en ésa he pagado.
+CELIA			Sois galán, y sois soldado.:
+RUTILIO		Soy un hombre que os adora.:
+CELIA			  Quedo, señor Capitán,:
+    que os oirán esos crïados,					2405
+    que están mejor enseñados
+    y a los dos murmurarán.
+    No paséis la cortesía
+    de huésped, que soy vïuda.
+RUTILIO		Eso me quitó la duda						2410:
+    que de ofenderos tenía,
+    que no pensé que era estado
+    para escrúpulos como éstos,
+    mas pensamientos dispuestos
+    para que os diesen cuidado.					2415
+CELIA			  Cuando murió mi marido,:
+    murieron todos con él.
+RUTILIO		Si yo viniera con él,:
+    no hubiera en balde nacido.
+    ¡Dichoso el alojamiento,					2420
+    la guerra y la pretensión
+    del Duque, pues fue ocasión
+    del bien que de veros siento!
+    Capitán de infantería
+    vine aquí por daros muestra,					2425
+    mas, por Dios, que por la vuestra
+    dejara mi compañía.
+CELIA			  Ya he jurado no tenella,:
+    ni, vivo César, es justo.
+RUTILIO		Si vos tuviérades gusto,					2430:
+    yo intentara merecella.
+CELIA			  No me conquistéis ansí,:
+    que quiere la voluntad
+    más blandura y amistad.
+RUTILIO		Señora, ¿en qué os ofendí?					2435:
+CELIA			  Las mujeres, Capitán,:
+    no son ciudad, muro o fuerza,
+    que se conquistan por fuerza,
+    que de voluntad se dan.
+    No hay mujer, por más que sea,				2440
+    que no se rinda a partido,
+    ni es soldado el atrevido
+    que fuerza el bien que desea.
+    Id en buen hora y volved
+    de esta famosa jornada,					2445
+    que me hallaréis obligada
+    si agora me hacéis merced;
+    pero no para ocasión
+    de que llevéis esperanza,
+    que habéis de ver en bonanza					2450
+    el mar de mi condición.
+    De mi hijo es cuanto tengo;
+    ya es hombre, muy pobre soy.
+RUTILIO		A obedeceros me voy.:
+    ¿Qué me daréis mientras vengo?				2455
+CELIA			  Licencia para que os vais.:
+RUTILIO		Crüel sois.:
+CELIA			                No, soy piadosa.:
+RUTILIO		Dios os guarde.:
+CELIA			                        ¡Estraña cosa!:
+RUTILIO		Mal los huéspedes tratáis.:
+Vase Rutilio:
+CELIA			  ¿Qué te parece, Clavela,					2460:
+    de un hombre tan arrojado?
+CLAVELA		Que quiere como soldado::
+    ni aguarda, ni se desvela.
+    Hoy te vio, y hoy te mostró
+    tan liso su pensamiento					2465
+    que te pidió casamiento.
+CELIA			Casamiento me pidió;:
+    mas, vivo César, no creas
+    que el mismo Duque bastase,
+    Clavela, a que me casase.					2470
+CLAVELA		Mal tu mocedad empleas.:
+CELIA			  ¿Adónde está César?:
+CLAVELA		                                   Fue:
+    a cazar con Federico.
+CELIA			Por más que se lo suplico:
+    que ese pesar no me dé,					2475
+    no hay orden con el rapaz.
+CLAVELA		Quiere tanto aquel halcón:
+    que es locura su afición.
+CELIA			No habemos de estar en paz.:
+Sale César:
+CÉSAR			  Haz, Clavela, por tu vida,					2480:
+    que me aperciban la cama.
+    Lidio, a Feliciano llama;
+    desnúdame tú, Leonida.
+    ¡Válame Dios! Malo vengo.
+CELIA			Luz del alma que os adora,					2485:
+    ¿qué tenéis?
+CÉSAR			                   No sé, señora,:
+    tengo aquello que no tengo.
+    No ando bueno aquestos días.
+CELIA			¡Hijo de mi corazón,:
+    mirad que esas cosas son					2490
+    contra las entrañas mías!
+    La hacienda que vos tenéis,
+    si no la tenéis tan vuestra
+    es por vuestra edad.
+CLAVELA		                               No muestra,:
+    señora, que le entendéis.					2495
+CELIA			  ¡Jesús, qué pulso! ¡Ay de mí!:
+CÉSAR			Madre, no entiende mi mal.:
+CELIA			¿Qué tienes?:
+CÉSAR			                    Estoy mortal.:
+CLAVELA		Mas ¿que heredó el frenesí:
+    del padre que le engendró?					2500
+CELIA			Feliciano...:
+FELICIANO		                  Mi señora...:
+CELIA			¿No veis cómo viene agora:
+    César?
+FELICIANO		          No le he visto yo.:
+CELIA			  ¿Dejaisle solo y al sol?:
+    ¡Gentil traza de crïados!					2505
+FELICIANO		Allá le llevan cuidados:
+    de aquel halcón español
+    en casa de Federico.
+CELIA			Llama al doctor. Tú, desnuda:
+    a César.
+CÉSAR			            Yo pongo en duda					2510:
+    mi vida.
+CELIA			            No te replico,:
+    por no decir que ese día
+    seré homicida de mí.
+CLAVELA		Su padre lo dijo ansí,:
+    mas cumplió lo que decía.					2515
+Vanse:
+Sale Perote y Federico:
+FEDERICO		  ¿Ya no vienes por acá?:
+PEROTE		Estáis pobre, ¿qué queréis?:
+FEDERICO		¿Eso es amistad?:
+PEROTE		                          ¿No veis:
+    que se usa en el mundo ya?
+    Si un cuerdo vemos hüir					2520
+    de quien no tiene qué dar,
+    un loco ¿qué ha de esperar?
+FEDERICO		¿No tienes más que decir?:
+PEROTE		  Siempre a los locos veréis:
+    entre los grandes señores.					2525
+    Convites, bodas, amores:
+    vos nada de esto tenéis.
+    En entierro en vuestra vida
+    veréis músico ni loco:
+    es gente que llora poco,					2530
+    sólo al placer se convida.
+    Y cuando os pusiera Dios
+    en el estado pasado,
+    sólo os sobra el ser honrado,
+    que loco, ¿quién como vos?					2535
+FEDERICO		  ¡Muy cuerdo estás!:
+PEROTE		                                Desde el día:
+    que Camilo enloqueció,
+    parece que me dejó
+    el buen seso que tenía...
+    o que yo el mío le di,					2540
+    y me purgué de mi mal.
+FEDERICO		¿Tú has visto locura igual?:
+PEROTE		¿Cuál?:
+FEDERICO		          ¿Cuál? ¡La vuestra!:
+PEROTE		                                         Es ansí.:
+    Y aun sospecho que es mayor,
+    que morirse de un agravio					2545
+    es hazaña de hombre sabio.
+FEDERICO		¿Qué más agravio que amor,:
+    cuando no es agradecido?
+PEROTE		Pues ¿cómo no os habéis muerto?:
+FEDERICO		Ya lo estoy, que en este huerto				2550:
+    me he enterrado, y tierra he sido.
+PEROTE		  Toda mi vida lo oí.:
+FEDERICO		¿Qué oíste?:
+PEROTE		                  Que al perro muerto:
+    le echan al huerto.
+FEDERICO		                            Eso es cierto,:
+    y a mí me sucede ansí.					2555
+    Cultivo estas verdes plantas,
+    que no tienen tantas hojas
+    como yo tengo congojas.
+PEROTE		¿Que tenéis congojas tantas?:
+    Luego no se os ha quitado					2560
+    la locura de querer
+    esta bendita mujer...
+FEDERICO		Hoy estoy con más cuidado.:
+PEROTE		  Pues no le tiene de vos,:
+    que sólo en su niño adora,					2565
+    y más tan pobre.
+FEDERICO		                          Si agora:
+    quisiese darme, por Dios...
+PEROTE		  ¿Qué os ha de dar?:
+FEDERICO		                               A sí propia.:
+PEROTE		Eso Dios no más lo hace.:
+Sale Fabio:
+FEDERICO		¡Cuerdo loco!:
+FABIO			                     ¿De qué nace,					2570:
+    cielos, cosa tan impropia?
+    ¡Celia en nuestra pobre casa!
+FEDERICO		¿Qué dices?:
+FABIO			                  Esto que ves.:
+    ¿No hay albricias que me des?
+FEDERICO		Míralo bien.:
+FABIO			                   Esto pasa.						2575:
+PEROTE		  Pues hola, no paro aquí,:
+    que no quiero que me vea.
+FEDERICO		Vete, pues.:
+PEROTE		                 Para bien sea.:
+Vase Perote:
+FEDERICO		¡No hay mayor bien para mí!:
+FABIO			  Ella y Clavela, señor,					2580:
+    salieron en dos pollinos
+    que cubría de dos finos
+    tapetes turca labor,
+    y atravesando esa arada
+    con Feliciano, que a pie					2585
+    venía, las encontré,
+    una y otra disfrazada,
+    pero Celia tan hermosa,
+    tan rica, tan bien vestida,
+    no vïuda, sino vida,						2590
+    de toda vista dichosa,
+    con brío tan español
+    que, aunque sean desatinos,
+    no en caballos, en pollinos
+    hoy sacó su carro el Sol.					2595
+    Hablé, en fin, con Feliciano,
+    que es amigo, y me contó
+    que viene a verte.
+FEDERICO		                           ¿Que yo:
+    merecí de aquella mano
+    tanta piedad, tal favor?					2600
+    ¡Quién tuviera mil brocados
+    que tender por esos prados,
+    y arroyos de agua de olor!
+    ¡Quién esta casa colgara
+    de mil telas de Milán!						2605
+FABIO			Advierte que cerca están,:
+    y fuera de esto repara
+    en que ha de comer aquí,
+    que es tarde para volver.
+FEDERICO		¿Aquí, Fabio, ha de comer?					2610:
+FABIO			¿Qué te turbas?:
+FEDERICO		                        ¡Ay de mí,:
+    que no tengo qué le dar!
+    ¡Oh inmensa pobreza mía!
+    ¡No sucediera este día
+    cuando tuve que gastar!					2615
+    Llámame, Fabio, al casero.
+    [...........................................]
+FABIO			Él viene aquí.:
+FEDERICO		                     Leridano,:
+Sale el casero:
+    ¿para un huésped que ya espero
+    hay gallina, hay pollo alguno?				2620
+CASERO		Ayer los llevé a vender;:
+    si el huésped viniera ayer,
+    no fuera de casa ayuno.
+    Pero hoy, por Dios, que aun apenas
+    tengo pan.
+FEDERICO		                ¡Válame Dios!					2625:
+    ¿No tienes un real o dos?
+CASERO		Tuvistes las manos llenas:
+    y deshicístesos de ellos.
+    Nunca el que es buen mercader,
+    por si los ha menester,					2630
+    se queda un hora sin ellos.
+    Y, cuando dinero hubiera,
+    en la plaza no se hallara.
+FEDERICO		¡Mi desdicha se declara!:
+    Mi sangre, por Dios, le diera,					2635
+    y el alma.
+CASERO		                 Ya desatina...:
+    Dile tú que el alma guarde.
+FABIO			Si fuera alma de cobarde,:
+    era darle una gallina.
+FEDERICO		  ¿Que no hay una ave? ¡Qué grave				2640:
+    pena de mi afrenta siento!
+FABIO			Señor, dale el pensamiento,:
+    que todos dicen que es ave.
+FEDERICO		  Si mi pensamiento fuera:
+    el fénix, yo le matara,						2645
+    al fuego de amor le asara
+    y sin duda se le diera.
+    Mas yo tengo qué le dar;
+    esperad los dos aquí.
+Vase Federico:
+FABIO			¿Dónde va corriendo ansí?					2650:
+CASERO		Mas ¿si se quiere matar?:
+FABIO			  No lo creas, que es cristiano,:
+    y esta dama no es caribe
+    que de comer hombres vive.
+Salen Celia, Clavela, Feliciano; ellas con capotillos y sombreros:
+CELIA			Ve delante, Feliciano.						2655:
+FELICIANO		  ¿Está Federico aquí?:
+FABIO			Luego, señora, vendrá.:
+CELIA			¡Qué buena la casa está!:
+FABIO			Por vos, señora, está ansí.:
+CELIA			  ¡Que a tanta necesidad					2660:
+    ha venido hombre tan rico!
+CLAVELA		Ya viene aquí Federico.:
+FEDERICO		Amor, ¿qué teméis? Entrad.:
+CELIA			  Federico...:
+FEDERICO		                   Celia hermosa,:
+    ¿en la choza de un pastor					2665
+    a un rústico labrador,
+    Celia, visita una diosa?
+    ¿Vos en aquesta pobreza?
+CELIA			¿Qué galas son éstas?:
+FEDERICO		                                  Creo:
+    que son hijas de un deseo					2670
+    que mató vuestra belleza.
+CELIA			  ¡Notable traje traéis!:
+FEDERICO		Hace penitencia amor:
+    de aquel mi pasado error.
+CELIA			¿Bueno estáis?:
+FEDERICO		                       Vos lo sabéis.					2675:
+CELIA			  Quieroos decir a qué vengo.:
+FEDERICO		Primero habéis de comer.:
+CELIA			No me puedo detener.:
+FEDERICO		¿Por qué?:
+CELIA			              Cierto enfermo tengo:
+    que vos le podéis sanar.					2680
+FEDERICO		¿Enfermo, y que está en mi mano?:
+    Contalde, Celia, por sano,
+    si sangre me ha de costar.
+CELIA			  César enfermo ha caído,:
+    y sin decir la ocasión						2685
+    tiene muerto el corazón
+    y casi está sin sentido.
+    Tantos regalos le he hecho
+    que me ha dicho la verdad;
+    yo, fïada en la lealtad						2690
+    y nobleza de ese pecho,
+    su remedio le ofrecí,
+    que me dice que está en vos.
+FEDERICO		¿En mí, Celia?:
+CELIA			                       ¡Sí, por Dios!:
+FEDERICO		Pues responded vos por mí.					2695:
+CELIA			  Bien sé que os he de quitar:
+    vuestro gusto, pues ha sido
+    lo que sólo habéis querido
+    de vuestra hacienda guardar,
+    y que, aunque estáis en pobreza,				2700
+    por amarlo en tanto grado,
+    Federico, habéis negado
+    lo que yo os pido a Su Alteza.
+    Pero yo os le pagaré,
+    porque muere de afición					2705
+    mi César de vuestro halcón,
+    con quien vida le daré.
+FEDERICO		  ¡Triste de mí!:
+CELIA			                       ¿Habéis sentido:
+    que os le pida?
+FEDERICO		                       ¡Ay, desdichado,:
+    en desventuras crïado						2710
+    y para afrentas nacido!
+CELIA			  ¡Jesús, Federico, basta!:
+    No entendí daros enojos.
+FEDERICO		¡Sacadme el alma y los ojos,:
+    Celia virtüosa y casta!					2715
+    ¡Quitadme luego la vida!
+CELIA			Más fïé de vuestro amor...:
+    ¡Buena venganza, señor,
+    ser de un ángel homicida!
+    Que, si yo no os he querido,					2720
+    fue porque he sido casada,
+    y como noble obligada
+    al honor de mi marido.
+    Pero un ángel, ¿qué os ha hecho?,
+    que morirá de pesar.						2725
+FEDERICO		¿Qué tardo, ¡ay de mí!, en mostrar:
+    la nobleza de mi pecho?
+    Fabio me dijo que aquí
+    habíades de comer,
+    y, por Dios, que desde ayer					2730
+    no lo ha habido para mí.
+    Un pollo, alguna gallina
+    pedí al casero; no había
+    cosa, y yo, señora mía
+    –que quien ama desatina–,					2735
+    por haceros sacrificio
+    de mi propio corazón
+    fui donde estaba el halcón,
+    de mi noble amor indicio,
+    y asiéndole de los pies					2740
+    le segué el cuello.
+CLAVELA		                            ¡Qué hazaña:
+    de un hombre noble!
+FELICIANO		                                ¡Qué estraña!:
+CELIA			Harto para mí lo es.:
+Sale Lidio:
+LIDIO			  ¿Está mi señora aquí?:
+CELIA			¿Qué hay, Lidio?:
+LIDIO			                          César me envía				2745:
+    a decir, señora mía,
+    que te llegues luego allí.
+CELIA			  ¿Qué tiene?:
+LIDIO			                    Una ansia mortal:
+    de que le den el halcón.
+CELIA			Yo vine a mala ocasión...					2750:
+    ¿Quién pensara cosa igual?
+LIDIO			  Tras esto se han apeado:
+    de Florencia en casa agora
+    tus dos hermanos, señora.
+FABIO			Si enviara Celia un crïado,					2755:
+    si ella no viniera aquí,
+    llevara vivo el halcón.
+CELIA			¡Ah, Federico, en razón:
+    pongo el quejarme de ti!
+    Por ti perdí mi marido,					2760
+    y mi hijo he de perder.
+FEDERICO		Señora, ¿qué puedo hacer:
+    si desdichado he nacido?
+CELIA			  La mía, que a tu pobreza:
+    dio causa, lo es de mi llanto,					2765
+    que, aunque me has costado tanto,
+    bien conozco tu nobleza.
+Vanse Celia y sus criados:
+FEDERICO		  ¡Maldiga el cielo la mano:
+    que tal hazaña intentó!
+FABIO			No te aflijas...:
+FEDERICO		                      ¿Cómo, no?					2770:
+FABIO			El hecho ha sido romano,:
+    si no acertaste con él,
+    que basta para dar gloria
+    a tu nobleza y memoria.
+FEDERICO		¡Con qué fortuna crüel					2775:
+    me anega en su mar el tiempo!
+    Ya son, Fabio, mis cuidados
+    servicios de desdichados,
+    que nunca llegan a tiempo.
+    Maté mi querido halcón,					2780
+    que mil escudos valía,
+    que corazones comía
+    y era todo corazón,
+    por darle muchos en uno,
+    y por mostrar que mi amor					2785
+    compite con mi valor,
+    y con mi valor ninguno.
+    Y hame salido tan bien
+    que el servicio que le he hecho
+    ha sido encender su pecho					2790
+    en mayor ira y desdén.
+    ¿Qué haré, Fabio?, que estoy loco.
+FABIO			Resistir a tu fortuna:
+    con paciencia, si hay alguna.
+FEDERICO		Todo mi mal fuera poco,					2795:
+    si este servicio acertara.
+    Vámonos, Fabio, a regar
+    la huerta de mi pesar
+    con lágrimas de mi cara.
+FABIO			  (¡Pobre halcón! Mas de tus daños				2800:
+    consuelan otros mayores.
+    Ansí pagan los señores
+    servicios de muchos años.)
+Vanse:
+Salen Eliano y Celio, hermanos de Celia, mancebos:
+ELIANO		  ¿Que, en fin, es muerto mi sobrino?:
+CELIO			                                                          Al punto:
+    que oyó decir a su afligida madre				2805
+    que había el noble Federico muerto
+    a aquel halcón, rindió su alma al cielo
+    y desmayado se quedó en sus brazos
+    como la flor del labrador pisada
+    al calor excesivo del estío.					2810
+ELIANO		¡Bien ha imitado César a su padre!:
+CELIO			En la melancolía, hasta la muerte:
+    le ha parecido.
+ELIANO		                      No era el casamiento:
+    que los dos le traíamos tan justo
+    como agora parece, muerto César.				2815
+CELIO			Ya no pienso, Elïano, tratar nada.:
+    Con el niño volvamos a Florencia,
+    que la muerte de un hijo no permite
+    tratar tan presto bodas a su madre.
+ELIANO		Ella viene afligida. Razón tiene.				2820:
+    ¡Con qué valor en tal desdicha viene!
+Salen Celia y Clavela:
+CELIA			  Clavela, ya yo sabía:
+    que César era mortal;
+    lo que siento de mi mal
+    es ver la desdicha mía.					2825
+    Perdí mi amado Camilo
+    por un loco frenesí,
+    y a César también perdí,
+    Clavela, del mismo estilo.
+    ¡Maldito sea el halcón					2830
+    que tanto mal me ha causado!
+ELIANO		Siento, Celia, tu cuidado:
+    con entrañable afición,
+    que de César mi sobrino
+    no siento tanto la muerte,					2835
+    que un ángel de aquella suerte
+    aumenta el coro divino.
+    Y, aunque en medio del pesar
+    no es bien tratar del placer,
+    pues remedio has de tener,					2840
+    del remedio he de tratar.
+    Ya no tienes herederos,
+    y tienes cien mil ducados...
+CELIA			Siempre os tuve por pesados,:
+    y agora por muy ligeros.					2845
+    Dejadme, que estoy de suerte
+    que, si me apretáis ansí,
+    daré en otro frenesí
+    con que se acerque mi muerte.
+El capitán Rutilio y el alférez Riselo:
+RUTILIO		  De desgracia tan notable,					2850:
+    ¿qué pésame darseos puede
+    que para el dolor no quede
+    más corto cuando más hable?
+    Ya estábamos de partida
+    y la gente en orden puesta					2855
+    cuando nueva tan funesta
+    llegó de esta muerte y vida:
+    muerte para los que pierden
+    este ángel, y vida a él.
+Salen Federico y Fabio:
+FABIO			¡Mira que es cosa crüel					2860:
+    dar ocasión que se acuerden!
+FEDERICO		  Pues ¿cómo puedo faltar:
+    en desdicha semejante,
+    siendo, aunque estaba ignorante,
+    la ocasión de este pesar?					2865
+    Pues hoy, ni aquí, ni en Florencia,
+    ni en el mundo, hay a quien pese
+    tanto que esto sucediese,
+    y por mi poca prudencia.
+RISELO			  Aquí el señor capitán					2870:
+    Rutilio viene a ofrecer,
+    aunque no era menester
+    donde sus deudos están,
+    Celia, cincuenta soldados
+    que con militar decencia					2875
+    lleven el cuerpo a Florencia,
+    adonde están tus pasados.
+FEDERICO		  Y yo, Federico triste,:
+    dueño del hermoso halcón
+    que dio a César la afición					2880
+    en que su muerte consiste,
+    ya que no puedo ofreceros
+    crïados, guarda, soldados,
+    unos ojos enseñados
+    siempre a llorar y a ofenderos				2885
+    os doy, para que los cierren
+    desdicha y ingratitud,
+    y el pecho para ataúd
+    adonde a César entierren.
+ELIANO		  Pudiérades, Federico,					2890:
+    escusar venir aquí.
+FEDERICO		Señores, viniendo ansí:
+    mi desdicha significo.
+CELIO			  Dice muy bien Elïano,:
+    que habéis por dos veces sido				2895
+    por quien mi hermana ha perdido
+    su remedio.
+CELIA			                  Quedo, hermano,:
+    no se trate de esto aquí.
+ELIANO		¿Cómo no se ha de tratar,:
+    siendo autor de este pesar					2900
+    y el pasado frenesí?,
+    que por sus celos Camilo
+    vino a tanta desventura.
+FEDERICO		Ya saben esa locura:
+    en Florencia de otro estilo,					2905
+    que Celia hizo prender
+    a Julia por hechicera,
+    que yo, cuando la quisiera,
+    ¿qué agravio le pude hacer?
+    Y, aunque no se le probó					2910
+    que le hubiese dado nada,
+    al fin salió desterrada,
+    y Celia honrada quedó;
+    de la cual digo, en presencia
+    de cuantos estáis aquí,					2915
+    que en mi vida vi ni oí
+    tan honrada resistencia,
+    que no es Lucrecia más casta
+    ni Penélope más cuerda.
+RUTILIO		¿Qué honor puede haber que pierda,				2920:
+    si ser vuestra hermana basta?
+    Mas, si de satisfación
+    tenéis, señores, deseo,
+    por el dolor con que os veo,
+    lo que él hizo del halcón					2925
+    haré agora de su cuello.
+RISELO			Quedo, señor Capitán,:
+    que hombres presentes están
+    que no os dejarán hacello.
+RUTILIO		  Alférez, pues ¿vos conmigo?				2930:
+RISELO			Mi Capitán sois, no hay duda:
+    de que es justo que os acuda
+    por cabeza y por amigo;
+    mas, si sois mi Capitán
+    y yo soy vuestro soldado,					2935
+    de Federico crïado
+    soy, y he comido su pan.
+FEDERICO		  Riselo, si tú no hubieras:
+    tan apriesa respondido,
+    mis obras hubieran sido					2940
+    respuesta.
+RUTILIO		                Cuando tuvieras:
+    para igualarme valor,
+    te pidiera el cumplimiento
+    de esa palabra.
+FEDERICO		                       ¡Qué intento!:
+    ¡Qué acuerdo!
+FABIO			                      ¡Tente, señor!					2945:
+Todos desnuden las espadas:
+CELIA			  Caballeros, si mi suerte:
+    causa tantos desvaríos
+    y hoy quiere poner por mí
+    vuestras vidas a peligro,
+    diré lo que no pensaba.					2950
+    Que me escuchéis os suplico.
+RUTILIO		Tú sólo impedir pudieras:
+    mi furia.
+FEDERICO		             Paso, Rutilio,:
+    que, aunque no tengo cien hombres,
+    soy un hombre bien nacido.					2955
+CELIA			Diez años ha, caballeros,:
+    que me sirve Federico
+    con tan limpia voluntad
+    como todos habéis visto.
+    Por mí ha perdido su hacienda,				2960
+    yo por su causa a Camilo,
+    porque la muerte de César
+    antes por mi culpa ha sido:
+    fui a pedirle aquel halcón
+    por dar salud a mi hijo;					2965
+    no tuvo entonces qué darme,
+    que darme de comer quiso;
+    mató el halcón que valía
+    mil escudos, hecho digno
+    de un caballero tan noble,					2970
+    y así agradecida digo
+    que, habiendo de ser forzoso
+    casarme, es hoy mi marido,
+    y le doy cien mil ducados
+    de dote.
+ELIANO		            Muy bien ha dicho.					2975:
+CELIO			Y yo lo confirmo todo.:
+FEDERICO		¿Tanto bien, cielos divinos?:
+CELIA			Abrazalde, Capitán.:
+RUTILIO		Digo, señora, que ha sido:
+    hecho de heroica mujer,					2980
+    y digno de ser escrito.
+    Dadme esa mano.
+FEDERICO		                            Yo soy:
+    vuestro amigo.
+PEROTE		                       ¡No he venido,:
+    par Dios, a mala ocasión!
+    Federico...
+FEDERICO		                 ¿Qué hay, amigo?					2985:
+PEROTE		¿Acordaisos de que un día:
+    tuvistes por desatino
+    el deciros que un halcón
+    que tuviese el vuelo altivo
+    a Celia os alcanzaría?						2990
+FEDERICO		Digo que licencia pido:
+    a Celia para una cosa.
+CELIA			Yo os la doy, esposo mío.:
+FEDERICO		Quiero dar seis mil ducados:
+    de esta suerte repartidos...					2995
+CELIA			Como no deis más, los doy,:
+    que os conozco ya los bríos.
+FEDERICO		Doy al alférez Riselo,:
+    mi amigo y crïado antiguo,
+    mil ducados, por cincuenta					3000
+    que me dio estando perdido.
+    Otros mil le doy a Fabio,
+    porque, pobre como rico,
+    me sirvió de una manera.
+    Y a vos, mi señora, pido					3005
+    le deis a Clavela, a quien
+    doy otros mil.
+CELIA			                     Ya he tenido,:
+    Federico, ese deseo.
+FEDERICO		A un loco tan entendido:
+    doy otros mil, que el dinero					3010
+    bastará a darle jüicio.
+    De los dos mil que me quedan,
+    en Florencia a vuestro hijo
+    haré labrar un sepulcro,
+    y en un mármol esculpido					3015
+    del artífice mejor
+    vos y yo, el halcón y el niño.
+CELIA			Soy contenta.:
+CLAVELA		                     Tus pies beso.:
+CELIO			Y los dos lo consentimos.:
+FEDERICO		Aquí, Senado, se acaba					3020:
+    El halcón de Federico.
+Fin:
+El viaje al que alude Lope en la dedicatoria siguiente, y que con toda probabilidad acabó siendo su última estancia en Valencia, es bastante conocido gracias a tres cartas enviadas por el autor al Duque de Sessa entre finales de junio y finales de agosto de 1616 (ed. N. Marín, pp. 177-179). En la primera de ellas, Lope le anunciaba al Duque que se iba a Valencia para encontrar a un hijo natural suyo, fraile descalzo (identificado con Fernando Pellicer); ahora bien, «hacia aquella época –a primeros de julio– el conde de Lemos, antiguo protector de Lope, llegaba a Barcelona, después de haber terminado su virreinato en Nápoles. De Barcelona se trasladó por mar a Valencia, y desembarcó en el Grao el 5 de agosto, trayendo consigo como séquito a la compañía del célebre autor Sánchez, que por mar y tierra había servido de divertimiento al duque de Lemos, representando famosas comedias» (Rennert y Castro 1968:218). A esta compañía pertenecía una antigua amante de Lope, a quien en sus cartas el Fénix se limita a llamar «la Loca» y que los estudiosos han identificado finalmente con Lucía de Salcedo (cfr. también la cronología de su relación propuesta por McGrady 1972:430-432). El propio Lope, que como es sabido ya era sacerdote, vino a confesarle al Duque que la actriz era la verdadera razón de su «desatino» (carta del 19-22 de agosto). En fechas más recientes, sin embargo, Teresa Ferrer (ed. La viuda valenciana, pp. 15-16) conjeturó que al admitir sus faltas el Fénix también le quitaba importancia al reencuentro, acaso interesado, con su antiguo protector el Conde de Lemos, ante la actitud posesiva del Duque de Sessa. Esta dedicatoria la editó Case [1975:57-58] eligiendo como texto base el de B y presentando un aparato de variantes (de C y Men) muy descuidado. A la luz de los datos relativos a la datación del texto que se refieren en el prólogo, es irrelevante esta observación de Metford [1952:76]: «Whether Lope dedicated to his benefactor a play which he had written subsequently to his stay in Valencia, or whether he did no more than link his name with an old play which he was about to publish, cannot be ascertained».:
+«Porro tanto turpius gratiam non referre, quanto honestior causa referendæ» (Plinio el Joven, Epistulæ, VIII, xii, 2, ed. R. A. B. Mynors, p. 239). Esta cita, junto con las siguientes de Cicerón y Casiodoro, pudo encontrarla Lope en las Sententiæ memorabiles del portugués André de Resende, s.v. «Gratitudo et gratiarum actio» (cito por la cuarta edición, 1593:f. 535, donde por cierto se publica con la errata «referri»). No he hallado el pasaje de Plinio en la más conocida Polyanthea Nova (Frankfurt, 1607), que sí incluye los de Casiodoro (p. 484b, s.v. «Gratitudo») y Cicerón (p. 572a, s.v. «Ingratitudo»); y, si no me equivoco, la Officina de Ravisio Téxtor no contiene ninguna de las tres citas. Sobre las fuentes de la erudición lopesca, cfr. Jameson [1937], Trueblood [1958], Vosters [1975], Trambaioli (ed. La hermosura de Angélica, pp. 91-97), González-Barrera [2007] y la síntesis de Dixon [2008], y sobre el uso de las polianteas en el Siglo de Oro véanse Infantes [1988], López Poza [1990] y [2000], y Lerner [1998].:
+Ovidio, Amores, II, XVI (XVII), v. 4 (ed. E. J. Kenney; uniformo, sin embargo, las grafías de u/v de acuerdo con los demás pasajes en latín). Esta cita, junto con las dos sucesivas de Codro y el Mantuano, aparece en los Epitheta de Ravisio bajo la voz «canicula» [1602:165].:
+Viene de un verso («Iuvit pestiferum male sana canicula fatum») de la Lamentatio ad lectum in quo expiravit Sinibaldus Ordelaphus compuesta por Antonio Urceo («Codro»), publicada en el segundo libro de sus Silvæ [1502:D5v].:
+Es una cita del humanista Giovanni Battista Spagnoli, «el Mantuano», que el repertorio de Ravisio [1602:165] recoge así: «Morbosamque canem et corvum cratera canentem». El verso correcto es, en realidad, «Morbosamque canem et corvum cratera tenentem», y aparece en el libro segundo de las Parthenicæ [1502:f. 173v]. Lope aprovecha los epítetos del Mantuano también en la Jerusalén conquistada (ed. J. de Entrambasaguas, t. I, p. 447; t. II, pp. 442, 459, 478), sacándolos siempre de Ravisio, y menciona al autor como elegante poeta bucólico en la dedicatoria de las Rimas (ed. F. B. Pedraza Jiménez, t. I, p. 143).:
+En efecto, le escribía Lope al Duque de Sessa el 6 de agosto de 1616: «Diecisiete días he estado en una cama con tan recias calenturas, que entendí que era el último tiempo de mi vida [...]. Como he podido he llegado hasta Palacio a ver al Conde, a quien pesó mucho de verme en tanta flaqueza, porque estoy tan desfigurado que yo mismo no me conozco» (Cartas, ed. N. Marín, p. 177).:
+Como señaló Tropé (ed. Los locos de Valencia, p. 144) recordando precisamente esta dedicatoria, para Lope la hospitalidad y los sentimientos caritativos de los valencianos eran proverbiales.:
+Lope podría aludir aquí a La república, III, 399a-c, con su distinción entre la armonía doria, que anima al guerrero, y la frigia, apta para las acciones pacíficas y moderadas; o bien al pasaje de IV, 431e, en el que se postula un Estado ‘moderado’, pues «la moderación se asemeja a una especie de armonía» que «produc[e] un canto unísono de los más débiles, los más fuertes y los intermedios» (trad. C. Eggers Lan). No acaba de convencerme la lectura de López Estrada [1981:358] cuando sostiene que Lope tiende «un puente político» entre esta Valencia utópica y la Florencia de la comedia («El suceso de Federico enlaza así con el prólogo a través de la ciudadanía común»), pues en realidad la segunda parece muy poco idealizada.:
+«Sed non is solum gratus debet esse qui accepit beneficium, verum etiam is cui potestas accipiendi fuit» (Cicerón, De provinciis consularibus, eds. H. E. Butler y M. Cary, 17.41.19-21). La poliantea de Resende adscribe erróneamente la cita a la oración Pro Plancio.:
+«Nemo potest intelligere quod accipit, nisi meminerit»; así en Resende, con atribución a una genérica epístola de Casiodoro que se repite en otros florilegios auriseculares. En realidad, como ha reconstruido Nighman [2001-], la frase viene de la Expositio Psalmi CXVIII de San Ambrosio, 12, 35 [1999:272]: «non enim potest plene quis intellegere quid acceperit, nisi meminerit ante quid fuerit».:
+PAGE:
+PAGE  3:
+PAGE 3:

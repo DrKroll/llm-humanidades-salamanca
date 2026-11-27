@@ -1,0 +1,3711 @@
+# Despertar a quien duerme
+Autor: Lope de Vega
+
+JORNADA 1
+
+[Salen el conde Anselmo de Barcelona y Fabio, capitán, y acompañamiento]
+CAPITÁN:
+    ¿Qué tristeza puede haber
+    que le canse a Vuestra Alteza?
+CONDE:
+    Para oprimir la tristeza
+    no hay en los reyes poder.
+    Conde soy de Barcelona;
+    hija tengo en opinión
+    que Castilla y Aragón
+    le ruegan con la corona;
+    paz tengo, y bienquisto soy
+    de mis vasallos, de quien,
+    con ser temido, también
+    soy amado, y triste estoy.
+CAPITÁN:
+    ¿Si acaso es melancolía
+    de la muerte, o del tener
+    en poco todo el poder
+    que muere y vive en un día?;
+    ¿si el mirar la brevedad
+    de aquesta vida prestada,
+    y que es todo polvo o nada
+    la mayor felicidad?;
+    ¿si el mirar con el secreto
+    que va corriendo la vida
+    a la vejez impedida,
+    de tierra frágil sujeto?
+    Esa consideración
+    entristece a muchos sabios.
+CONDE:
+    No los humanos agravios
+    causa de mi pena son,
+    Fabio, aunque tengo por bien
+    que un hombre temple las glorias
+    mortales en las memorias
+    de su desprecio también.
+    Otra cosa me fatiga,
+    otra me tiene suspenso,
+    que cada vez que lo pienso
+    a mayor pena me obliga.
+    Y porque conozco en ti
+    que me pagas este amor,
+    oye la causa.
+CAPITÁN:
+    Señor,
+    bien puedes fiar de mí
+    como de quien ha servido
+    con tanta satisfación.
+CONDE:
+    Oye aparte; cosas son
+    de mi estado.
+CAPITÁN:
+    ¿Cómo han sido?
+CONDE:
+    Bien has oído decir
+    a Rugero de Moncada.
+CAPITÁN:
+    De sus cosas, poco o nada,
+    porque gusta de vivir
+    retirado en un aldea.
+CONDE:
+    Sólo su nombre sé yo,
+    pues todo mi mal nació
+    de que mi sobrino sea.
+    A su padre, capitán,
+    quitó el mío estos estados
+    por pleitos mal sentenciados
+    que tal vez siguiendo van
+    a la fuerza los derechos
+    y los libros a las armas.
+CAPITÁN:
+    ¿De qué prevención te armas,
+    si entre cuatro humildes techos
+    Rugero contento vive,
+    sin que haya visto persona
+    a la suya en Barcelona?
+    ¿A quién habla? ¿A quién escribe?
+    ¿Con quién de toda la corte
+    trata amistad? ¿Que has sabido,
+    o que temor ha movido
+    que a tus sospechas importe?
+    ¿Hay alguna novedad?
+CONDE:
+    No, Fabio, ninguna cosa,
+    que sólo está sospechosa
+    mi conciencia en su verdad.
+CAPITÁN:
+    Pues, si Rugero contento
+    de cuatro pobres lugares
+    lleva, sin que tú le ampares,
+    con limitado sustento;
+    si no ha visto caballero
+    en toda su vida, sola
+    la menor pieza la gola
+    ni ha ceñido blanco acero;
+    si trata de su labranza
+    como un pobre labrador,
+    ¿qué te ha causado, señor,
+    recelo o desconfianza?
+CONDE:
+    Ya, Fabio, te respondí
+    que son justicia y verdad,
+    que desde su soledad
+    pueden hacer guerra en mí.
+    Parte al lugar disfrazado,
+    Fabio, donde está Rugero,
+    fingiéndote caballero
+    que, de tu gente apartado,
+    tras de un ciervo te has perdido,
+    y a solas trata con él
+    si siente el hecho crüel
+    o si le ha puesto en olvido.
+    Procura saber su pecho.
+CAPITÁN:
+    Todo me parece mal,
+    porque no he visto señal
+    de su enojo y su despecho.
+CONDE:
+    Mira si algún movimiento
+    o secreta prevención
+    de armas tiene.
+CAPITÁN:
+    Todas son
+    sombras de tu pensamiento.
+    Pero, lo mejor que pueda,
+    a saber su intento iré.
+CONDE:
+    Yo, entre tanto, engañaré
+    la sospecha que me queda,
+    que nunca el alma se mueve,
+    Fabio, sin mucha ocasión.
+CAPITÁN:
+    Ya pago a tu prevención
+    el secreto que se debe.
+[Vanse, y sale Rugero]
+RUGERO:
+    Si se buscare ejemplo
+    de la mudanza humana
+    para añadir alguna a las historias,
+    escríbirase en templo,
+    ¡oh, Fortuna tirana!,
+    la mía para ejemplo de tus glorias,
+    que todas tus memorias,
+    Marios y Belisarios,
+    Césares y Pompeyos,
+    con laureles plebeyos,
+    aplauso, triunfos y despojos varios
+    no igualaron mi estado,
+    si me tuviera yo por desdichado.
+    Muda el invierno frío
+    su hielo en primavera;
+    muda el verano, de la tierra espejo,
+    su lustre; entra el estío;
+    pasa la edad ligera
+    el viejo y muda el brío en el consejo
+    por parecer mas viejo.
+    La flor, que arromatiza
+    su fruto, el árbol trueca;
+    la rama en leña seca;
+    la leña, en fuego; el fuego, en su ceniza
+    del Fenis nacimiento;
+    múdase en tierra el agua, el agua en viento…
+    Pues si todo se muda,
+    ¿qué mucho que Rugero
+    se haya mudado en bárbaro villano?
+    ¡El alma tosca y ruda
+    del labrador grosero
+    la que tuvo de noble cortesano!
+    Demás que al Soberano,
+    si le llamo piadoso
+    por conceder mi vida,
+    que mudanza o caída
+    ya no puede tenerme temoroso.
+    ¡Dichoso el que no puede
+    caer por más que la Fortuna ruede!
+[Salen Perote, Filena, Silvia, Danteo, Jacinto y Montano con sus instrumentos]
+MÚSICOS:
+    Que si verde es la verbena,
+    más blanca es la azucena.
+RUGERO:
+    ¡Mal haya, amén, quien trocara
+    éste por ningún estado!
+FILENA:
+    El señor está en el prado.
+    ¡Para el instrumento! ¡Para!
+DANTEO:
+    Ya las uñas le desvío
+    con que le hacía gruñir.
+FILENA:
+    Non cale, sino reír.
+    Cada cual mire su brío.
+    ¿No se ha puesto hoy gentilhombre?
+RUGERO:
+    Dejaldos cantar por mí.
+PEROTE:
+    Antes se digiere a ti
+    todo este baile en tu nombre.
+MONTANO:
+    «Dirige» decir tenías,
+    que no «digiere», Perote.
+PEROTE:
+    ¡Nunca falta quien me note!
+RUGERO:
+    ¡A la fe, zagalas mías,
+    que venís en ocasión,
+    que me habéis de entretener!
+JACINTO:
+    Todas os darán placer,
+    que mozas discretas son.
+    Canta, que te valga el cielo,
+    y bailarán con mil lazos
+    estos mozos.
+PEROTE:
+    ¿Estos mazos?
+[Sale el capitán]
+CAPITÁN:
+    Que me he perdido recelo,
+    mas siempre me pierdo ansí.
+    ¡Oh, qué gallardos pastores!
+    ¿Está por dicha, señores,
+    el pueblo cerca de aquí?
+JACINTO:
+    El pueblo es aquel, que al pie
+    de aquella peña asentado
+    está mirando este prado
+    que como su alfombra fue.
+    Y el señor, el que miráis,
+    que bien el talle lo enseña.
+RUGERO:
+    El pueblo es cosa pequeña
+    para que dél os sirváis.
+    Si acaso venís perdido,
+    posad en mi voluntad.
+CAPITÁN:
+    Para tan noble ciudad
+    un rey no lo hubiera sido.
+    Dadme los pies.
+RUGERO:
+    Vos a mí
+    es justo que me los deis.
+CAPITÁN:
+    ¿Qué nombre, señor, tenéis,
+    que desde el punto que os vi
+    os tuve veneración
+    como a persona real?
+RUGERO:
+    Un labrador principal
+    de perdida estimación.
+    Rugero soy de Moncada.
+    ¿Nunca me oístes decir?
+CAPITÁN:
+    Sois a quien debo servir
+    con la vida y con la espada.
+    ¿Es posible que vivís
+    en aquesta soledad?
+RUGERO:
+    Mi quietud es mi ciudad.
+CAPITÁN:
+    Para el alma bien decís,
+    pero vos, que habéis nacido
+    tan altamente, señor,
+    ese divino valor
+    tenéis cubierto de olvido.
+    ¿No os acordáis que os quitaron
+    vuestro reino injustamente?
+RUGERO:
+    Acuérdome desta fuente,
+    cuyas aguas me mostraron
+    su espejo para vestirme
+    hoy, cuando el sol las miraba,
+    que, faltando el viento, estaba
+    su cristal seguro y firme.
+CAPITÁN:
+    ¿No os acordáis, es posible,
+    del agravio que os han hecho?
+RUGERO:
+    Acuérdome de aquel techo
+    verde, hermoso y apacible
+    que aquellos olmos componen
+    a ese bosque que, entre hierba,
+    a las salas que reserva
+    las del palacio perdonen.
+CAPITÁN:
+    ¿Posible que de un estado,
+    donde un tirano reside,
+    su dueño propio se olvide?
+RUGERO:
+    Acuérdome deste prado
+    que cruzan mil arroyuelos,
+    venas de cristales puros,
+    donde retozan seguros
+    temerosos conejuelos.
+    Más precio el oír cantar
+    estos serranos que veis
+    que cuanto vos me podéis
+    de vuestra corte acordar.
+    Ha muchos años que estoy
+    contento con esta vida.
+CAPITÁN:
+    Poco el valor os convida
+    de vuestra sangre.
+RUGERO:
+    Yo soy
+    lo que quiere la Fortuna.
+    Si estoy quieto, ¿qué me falta?
+    Pues la más suprema y alta
+    no tiene quietud ninguna.
+    Puedo comer y vestir,
+    ¿más dé por un hombre yo?
+CAPITÁN:
+    Quien desa suerte vivió
+    aún no merece vivir.
+    ¿Qué fama Pirro dejara,
+    Alejandro, Jerjes, Ciro,
+    si de la tierra que miro
+    su ambición se contentara?
+RUGERO:
+    Y ésos, ¿cuántos pies, después,
+    de todo el mundo ocuparon?
+CAPITÁN:
+    Muertos, en siete acabaron.
+RUGERO:
+    Pues bástanme siete pies.
+    ¿Allá no dijo Lucano
+    de Pompeyo, introduciendo
+    a Cordo que estaba haciendo
+    la huesa a tan gran romano,
+    «No cupo en el mundo vivo;
+    mirad dónde cupo muerto»?
+    Pues si en mi mal estoy cierto,
+    muerto estoy como os lo digo.
+CAPITÁN:
+    No os pretendo replicar.
+RUGERO:
+    Bien haréis. Venid conmigo,
+    y comeréis como amigo
+    de lo que os pudiere dar.
+CAPITÁN:
+    Iré a recebir merced.
+FILENA:
+    (¡El diablo le trujo acá!)
+RUGERO:
+    ¡Hola, no faltéis allá!
+    Cuidado en venir; tened.
+SILVIA:
+    Vamos, Filena, y sirvamos
+    en la mesa y la cocina.
+FILENA:
+    Aunque allá tiene a Marina,
+    a servirle todos vamos.
+[Vanse, y sale Estela y el Conde]
+CONDE:
+    Más estimo tu obediencia,
+    que así las virtudes tienes
+    con ser de tanta excelencia.
+ESTELA:
+    ¡Quedo, toro! ¡Suelto vienes!
+    ¿Quién te ha de hacer resistencia?
+    Demás que si de Aragón
+    es a tu satisfación,
+    aunque te dé maravilla
+    que yo me incline a Castilla,
+    forzaré mi inclinación.
+CONDE:
+    Y será con él, que quien,
+    como padre, al fin intenta
+    tu mayor descanso y bien.
+    Estela, obediencia atenta
+    y la inclinación, también.
+    Los vasallos de mi estado
+    quisieran darte marido,
+    pues lo hubiera tan honrado
+    dentro, en su patria nacido
+    y entre sus leyes criado,
+    mas yo por cierto disgusto
+    no les concedo este gusto.
+ESTELA:
+    ¿Esto te lo pudo dar?
+CONDE:
+    Deben todos de tirar
+    a un blanco; aunque noble, injusto.
+    ¿Nunca has oído decir
+    a Rugero de Moncada?
+ESTELA:
+    ¿No es muerto?
+CONDE:
+    Para sentir
+    lo que su vida me enfada,
+    le deja el cielo vivir.
+ESTELA:
+    No me acuerdo quién decía
+    que era de tu sangre.
+CONDE:
+    Y tanto,
+    que la de mis venas fría
+    enciende y provoca a espanto.
+ESTELA:
+    ¿Pues por qué?
+CONDE:
+    Por ser tan mía
+    Rugero. Sobre el condado
+    de Cerdania y Barcelona,
+    y cuanto el Pireneo helado
+    de aquella parte corona
+    y de aquesta el mar salado,
+    pleiteó su padre y el mío
+    hasta venir a parar
+    en batalla y desafío.
+    Mas vínole a sujetar,
+    que era de gallardo brío.
+    Muy en la vejez de Otón
+    nació Rugero, que vive,
+    Estela, en esta ocasión,
+    de quien tal pena recibe
+    mi afligido corazón,
+    que, aunque en una pobre aldea
+    su habitación pobre sea,
+    puede ser que el pensamiento
+    are el mar y sorba el viento
+    si la corona desea.
+ESTELA:
+    De un hombre tan desvalido,
+    entre bárbaros criado
+    y entre desdichas nacido,
+    ¿tienes, gran señor, cuidado?
+CONDE:
+    No puedo echarle en olvido.
+ESTELA:
+    ¿Qué temes dél, si en su vida
+    ha salido de una sierra?
+CONDE:
+    Temo que tu paso impida,
+    y que, yo muerto, con guerra
+    esta corona te pida.
+ESTELA:
+    ¿Pues quién le ha de dar favor?
+CONDE:
+    Quien para yerno le quiera.
+ESTELA:
+    De un hombre tan sin valor
+    nunca yo, señor, tuviera
+    ni esperanza ni temor.
+[Sale el capitán]
+CAPITÁN:
+    Donde me mandaste fui.
+CONDE:
+    ¿Viste a Rugero?
+CAPITÁN:
+    Aunque vi
+    un gallardo caballero,
+    no me pareció Rugero.
+CONDE:
+    Luego, ¿no es él?
+CAPITÁN:
+    Señor, sí,
+    mas vive tan descuidado,
+    tan ajeno del valor
+    a que ha nacido obligado,
+    tan rústico labrador
+    y tan contento a su estado
+    que no parece que es él.
+CONDE:
+    ¿Es gallardo?
+CAPITÁN:
+    Con estremo.
+    Hablé en sus cosas con él
+    y no las siente.
+CONDE:
+    Eso temo.
+CAPITÁN:
+    Pues asegúrate dél.
+CONDE:
+    ¿No ves que es disimular?
+CAPITÁN:
+    Más precia el otro la fuente
+    y el monte para cazar
+    y el ser señor de la gente
+    rústica deste lugar;
+    más precia salir al prado
+    de mil flores esmaltado,
+    de mil arroyos vestido,
+    que todo el reino perdido.
+CONDE:
+    Tú vienes, Fabio, engañado.
+    Vuelve y mira bien su tierra,
+    si hay armas, si hay movimiento
+    o prevenciones de guerra.
+CAPITÁN:
+    Ya te he dicho el pensamiento,
+    y advierte, señor, que yerra
+    quien despierta a su enemigo.
+CONDE:
+    Vuelve por mi gusto, Fabio.
+CAPITÁN:
+    Yo voy. Pero si te digo
+    que apenas sabe su agravio
+    ni está bien ni mal contigo,
+    ¿para qué das ocasión
+    a que del sueño despierte?
+CONDE:
+    Cosas que me importan son.
+    De lo que digo me advierte
+    mientras que escribo a León.
+[Vase]
+ESTELA:
+    Oye, Fabio.
+CAPITÁN:
+    ¿Qué me quieres?
+ESTELA:
+    Ya sabes tú cuán curiosas
+    son de saber las mujeres.
+CAPITÁN:
+    Las feas, no las hermosas;
+    y tú en estremo lo eres.
+ESTELA:
+    ¿Qué hombre es este Rugero?
+CAPITÁN:
+    No he visto en toda mi vida
+    más gallardo caballero;
+    sólo es quien tanto olvida
+    los agravios y el acero.
+ESTELA:
+    Pues dile que es primo mío.
+CAPITÁN:
+    Yo lo haré, mas ¿a qué efeto?
+ESTELA:
+    De estimar un deudo mío.
+    (Darele el alma en secreto
+    y despertaré su brío.)
+[Vanse, y salen los villanos]
+SILVIA:
+    Aunque os pese, ¡por los ojos,
+    será alcaide mi sobrino!
+FILENA:
+    ¿No llevas, Silvia, camino
+    de reportar tus enojos?
+PEROTE:
+    Alcalde tengo de ser,
+    o alborotaré el lugar.
+DANTEO:
+    ¿De qué sirve porfidiar,
+    si el señor le ha de escoger?
+JACINTO:
+    Si los alcaldes son dos,
+    ¿qué importa que él uno sea?
+PEROTE:
+    No hay hombre en toda la aldea
+    de más pergeño, ¡par Dios!
+    ¿Quién de vosotros me iguala?
+    Decid, zagalas hermosas,
+    ¿quién tiene en todas las cosas
+    más brío, donaire y gala?
+    ¿Quién juega al marro mejor?
+    ¿Quién lucha más en el prado?
+    ¿Quién ha tañido y cantado
+    con más despejo y primor?
+    Con la flauta y tamboril,
+    ¿quién ha hecho alborotar
+    la mocedad del lugar
+    si «Entra mayo y sale abril»
+    y aquello de «Perantón»
+    y «Cata el lobo dó va»?
+    Pues si danzo, ¿quién podrá
+    tenerme comparación?
+    Pues lo que es cascabel gordo
+    es negocio temerario,
+    que puesto en el campanario
+    haré que me escuche un sordo;
+    y más, si taño a nublado,
+    «¡San Martín y San Millán
+    guarda el vino y guarda el pan!»,
+    ni para en monte ni en prado.
+    Los muérganos, ¿quién jamás
+    vio tañer tan semejante
+    si soplara por delante
+    lo que soplo por detrás?
+MONTANO:
+    Perote tiene razón,
+    que lo merece muy bien.
+    Haz que la vara le den,
+    Silvia, en aquesta ocasión,
+    que lo que faltare en él
+    sobrará en el otro alcalde.
+SILVIA:
+    ¿Tú no lo ves?
+FILENA:
+    No es de balde
+    el hacer Silvia por él,
+    que a la fe que la ha compuesto
+    un romance muy sentido.
+JACINTO:
+    ¿Es poeta?
+PEROTE:
+    Es tan cumprido
+    que a serlo se ha descompuesto.
+JACINTO:
+    ¿De cuál eres? Porque son
+    sus epítetos notables.
+    ¿Eres de los admirables,
+    de legitima opinión,
+    o eres poeta movido,
+    con faciones y sin alma?
+SILVIA:
+    Señor viene.
+PEROTE:
+    Quedó en calma
+    quién hubiera respondido.
+[Salen Rugero y el capitán]
+RUGERO:
+    Apenas, capitán, os conocía.
+    ¿Otra vez por acá?
+CAPITÁN:
+    De vuestra casa
+    vengo, señor Rugero, de buscaros.
+RUGERO:
+    Della sois dueño, y gran placer me diera
+    el hablaros en ella como a dueño.
+    ¿Qué buena suerte mía os ha traído?
+    Que desde el otro día os he cobrado
+    justísima afición, que vuestros méritos
+    obligan a quereros y estimaros.
+CAPITÁN:
+    Ya no puedo, gallardo caballero,
+    de vuestro amor y cortesía obligado,
+    negaros la ocasión de mi venida,
+    porque la profesé toda mi vida.
+    Sabed que el conde Anselmo, vuestro tío,
+    conociendo el agravio que os ha hecho,
+    ha dado en no poder vivir seguro
+    y está de vuestra vida con cuidado.
+    Háceme que os visite por momentos
+    y sepa vuestro mismo pensamiento.
+    Yo le he dicho que a vos no se os acuerda
+    del agravio pasado, y que, estimando
+    la paz del alma, que vivís contento,
+    mas él no quiere estarlo, y me ha mandado
+    que venga a ver si acaso tenéis armas,
+    si escribís a los reyes, vuestros deudos,
+    si tratáis de casaros o en qué parte,
+    sin otras cosas que le enseña el miedo,
+    tantas que apenas referillas puedo.
+RUGERO:
+    Vuelvo a deciros, generoso Fabio,
+    que por todo su estado, y otros muchos,
+    no trocara el sosiego que aquí tengo
+    y la pura llaneza con que vivo.
+    Verdad es que, si yo tengo derecho
+    tan justo a Barcelona, el cielo es justo
+    y el cielo volverá por mi justicia.
+CAPITÁN:
+    Yo no puedo, Rugero, aconsejaros,
+    aunque puede este miedo descubriros.
+    Vos sois tan mi señor como es el Conde
+    y pudiera decir con más justicia,
+    y esto no es deslealtad, aunque es malicia.
+    Díjome Estela que os dijese aparte
+    que os acordéis que es vuestra prima.
+RUGERO:
+    El cielo
+    haga dichosa a Estela con marido
+    que con mayores reinos honre el suyo.
+CAPITÁN:
+    ¿Tan tibiamente hablás estas cosas?
+RUGERO:
+    ¿Qué fuerzas tengo yo para más fuerza?
+CAPITÁN:
+    Por no tocar en deslealtad, hablando
+    en el señor que sirvo y que me envía,
+    me vuelvo a Barcelona.
+RUGERO:
+    El cielo os guarde.
+[Vase]
+CAPITÁN:
+    (O aqueste hombre es filósofo o cobarde.)
+RUGERO:
+    ¿Qué hay, mis amigos? ¿Qué hay, mis compañeros,
+    vasallos pobres de llaneza ricos?
+    ¿Qué se ofrece? ¿A qué os habéis juntado?
+JACINTO:
+    ¡Par Dios, señor, que se ha llegado el día
+    que acabaron sus varas los alcaldes
+    y quieren hacer otro en competencia!
+RUGERO:
+    ¿Quién lo pretende?
+PEROTE:
+    Yo, con tu licencia.
+RUGERO:
+    ¡Perote! ¿Pues tú quieres ser alcalde?
+PEROTE:
+    ¿No tengo yo caletre suficiente?
+SILVIA:
+    Pues hónrale, señor, que Dios te guarde,
+    que todos los zagales te lo ruegan.
+RUGERO:
+    ¿Sabes leer?
+PEROTE:
+    Leer, señor, no supe
+    por mas años que anduve en el escuela,
+    mas razonablemente escribo.
+RUGERO:
+    Bueno.
+PEROTE:
+    Con diez años de escuela y mil azotes
+    del pan, pen, pin, pon, pun pasar no pude.
+RUGERO:
+    ¿Pues cómo escribes y leer no sabes?
+PEROTE:
+    Porque hay muchos, señor, que hacen lo mismo.
+    Fuera de que escribir es fácil cosa,
+    porque, en sacando yo los algodones,
+    escribo de una vuelta todo el pliego.
+RUGERO:
+    A saberlo, te hiciera por tus partes
+    mi secretario.
+PEROTE:
+    Despachara en breve
+    sin estos comprimientos que se usan.
+JACINTO:
+    En siendo cumplimientos, no se escusan.
+    Da la vara, señor, al buen Perote,
+    que Silvia no lo pide de vergüenza
+    y sé que lo desea.
+RUGERO:
+    ¿Tú deseas
+    que le demos la vara?
+SILVIA:
+    Así te veas
+    señor de Barcelona y de Cerdania,
+    que me lo pide con estremo Albania.
+RUGERO:
+    Pues por Albania, y porque es muy justo,
+    tenga la vara.
+PEROTE:
+    ¡Vivas, gran Rugero,
+    más que un censo perpetuo de una casa!
+    Tú verás qué gobierno tiene el pueblo.
+RUGERO:
+    Tenga la otra por si acaso fuere
+    Perote menos cuerdo, que imagino,
+    Jacinto, por su buen entendimiento.
+JACINTO:
+    ¡El cielo tus estados restituya!
+PEROTE:
+    ¡Zagales, haya un poco de aleluya!
+RUGERO:
+    Esta noche podéis hacer la fiesta.
+    Dejadme agora solo.
+PEROTE:
+    ¡Voto al soto
+    que en empuñando el palo…!
+MONTANO:
+    ¡Ten cordura!
+PEROTE:
+    ¡Venid, y beberéis de lo malvado!
+    Ya entenderéis que digo «malvasía»…
+FILENA:
+    ¡Por mil años y buenos, mi Jacinto!
+JACINTO:
+    ¡Para serviros, mi Filena amada!
+PEROTE:
+    ¡Rabiando estoy por her una alcaldada!
+[Vanse]
+RUGERO:
+    ¿Qué es esto, mi olvidado entendimiento?
+    ¿No era bien despertar de tanto olvido?
+    ¿Un hombre de tan alto pensamiento
+    vivía entre cuatro rústicos dormido?
+    ¿Fui yo quien de un tirano tan sangriento
+    agravio, tan cruel, ha recebido?
+    ¿Así vengo a mi padre? ¿Así a mi ofensa?
+    ¿Y mi enemigo mis agravios piensa?
+    ¿Yo soy; yo soy Rugero de Moncada,
+    legítimo señor de Barcelona?
+    ¿Es este mi bastón que mi dorada
+    divisa gime y mi valor pregona
+    deciendo: «Yo, de la mejor espada
+    que de laurel su guarnición corona»?
+    No duerme quien me tiene en tal estado,
+    ¿y duermo yo que soy el agraviado?
+    ¿Como no guardo aquesta sola vida,
+    ya que mi estado de cobrar me olvido?
+    Pues éste a que despierte me convida,
+    ¿por qué causa a su voz estoy dormido?
+    Antes que el paso a mi remedio impida,
+    abrir quiero los ojos del sentido,
+    y algo dice Estela si me estima,
+    pues me mandó decir que era mi prima.
+    ¡Ánimo a mi remedio! Escribir quiero
+    a Castilla, Aragón y a mi olvidada
+    patria, que, viendo relucir mi acero,
+    para el tirano sacará la espada.
+    ¡Patria, yo soy legitimo heredero;
+    bien sabes que es verdad averiguada!
+    ¡Yo, tu señor, favor, favor te pido!
+    ¡Patria, despierto estoy y no dormido!
+[Vase, y sale el Conde y el capitán]
+CONDE:
+    Dime toda la verdad.
+CAPITÁN:
+    Digo que vive contento
+    Rugero, sin pensamiento
+    de alterar tu majestad.
+CONDE:
+    ¿Qué armas, qué gente tiene?
+CAPITÁN:
+    ¿Gente? Unos pobres villanos,
+    rotos, descalzos, sin manos,
+    con quien a los montes viene,
+    y el primero que varea,
+    que poda, que siega, es él.
+    ¿Armas? En ella ni en él
+    no hay cosa que acero sea.
+    Sólo he visto una escopeta
+    con que mata algún conejo,
+    y un lanzón mohoso y viejo
+    con su funda de bayeta,
+    colgado de una armería
+    de tocino, que es su fruta,
+    donde mejor ejecuta
+    sus fuerzas que su osadía.
+    Verdad es que se turbó
+    cuando en sus cosas hablé,
+    que algunas le pregunté
+    y algunas me respondió.
+    Y al fin, con poca malicia,
+    dijo para entre los dos:
+    «No importa, señor, que Dios
+    volverá por mi justicia».
+CONDE:
+    ¿Que eso dijo?
+CAPITÁN:
+    ¿Y eso es mucho?
+CONDE:
+    ¿Y eso te parece poco?
+    Si a tal furor me provoco
+    con eso sólo que escucho,
+    ciertas serán mis sospechas.
+    Éste se quiere vengar.
+CAPITÁN:
+    Y más precia su lugar
+    y aquellas cabañas hechas
+    de los mal labrados pinos
+    de quien humo espeso da,
+    que los palacios de acá,
+    hechos de diamantes finos.
+CONDE:
+    ¡Ay, Fabio!Nunca te fíes
+    de agravio disimulado,
+    nunca del cielo estrellado
+    en cuarta luna te guíes;
+    nunca de mar en bonanza,
+    ni de un amigo traidor,
+    ni de jüez con amor,
+    ni heredero en confianza.
+    Yo voy hacelle prender
+    y Rugero ha de morir.
+CAPITÁN:
+    No tengo qué te decir
+    ni tengo qué responder.
+    Piénsalo mejor primero.
+[Sale Estela]
+ESTELA:
+    ¿Dónde va mi padre airado,
+    Fabio?
+CAPITÁN:
+    A un caso mal pensado.
+ESTELA:
+    ¿Cómo?
+CAPITÁN:
+    A prender a Rugero.
+ESTELA:
+    ¿Prendelle? ¿Por qué razón?
+    ¿Trata de guerra?
+CAPITÁN:
+    No trata
+    de guerra, que al Conde mata
+    con sola imaginación.
+ESTELA:
+    ¿Qué le mueve?
+CAPITÁN:
+    Puro miedo.
+ESTELA:
+    ¿Podrélo yo remediar?
+CAPITÁN:
+    Podrás.
+ESTELA:
+    Pues voy a probar
+    lo que con mi padre puedo.
+CAPITÁN:
+    Mucho podrás.
+ESTELA:
+    Soy su espejo.
+CAPITÁN:
+    (No le sucediera así
+    a Rugero si de mí
+    tomara el primer consejo).
+[Vanse, y salen los villanos, y Jacinto, y Perote con varas]
+DANTEO:
+    Asiéntense los alcaldes.
+JACINTO:
+    Todos asentarse pueden
+    para tomar colación.
+PEROTE:
+    Dejame que yo me siente,
+    y quien no hallare lugar
+    siéntese donde pudiere.
+JACINTO:
+    ¿Qué nos tenéis?
+PEROTE:
+    Tostón fino
+    que puede quebrar los dientes
+    y linda almendra tostada,
+    con la madre del aceite,
+    que es la que contino brinda
+    al vino famosamente.
+JACINTO:
+    Son pulsos en que el beber
+    suele conocer las veces.
+    Primero que venga el vino.
+    La vara arrimo, tenéme
+    y salgan estas zagalas.
+PEROTE:
+    Si Jacinto bailar quiere,
+    Montano le tañerá.
+JACINTO:
+    Sólo aguardo que comience.
+    ¡Ea, Silvia!
+SILVIA:
+    Ya yo salgo.
+    Mas, ¿no veis que el señor viene?
+[Sale Rugero]
+RUGERO:
+    Todo el mundo se esté quedo
+    Ni el puesto ni el baile dejen.
+MONTANO:
+    Es tanta tu humanidad
+    que no hay cosa que no puedes.
+RUGERO:
+    Hijos, alegres vasallos
+    hacen al señor alegre.
+    No les trata el dueño mal
+    el tiempo en que se entretiene.
+    ¡Vaya de baile, alegraos!
+DANTEO:
+    Yo comienzo desta suerte:
+[Cantan]
+    A las cañas juguemos,
+    señoras damas,
+    que de cañas y de amores
+    lo mejor son las entradas.
+    ¡Afuera, afuera, afuera!
+    ¡Aparta, aparta, aparta!
+    Los celos corren agora.
+    ¡Qué mal corren, qué bien paran!,
+    Azul llevan la librea,
+    por eso celos le llaman.
+    Ya corre la crüeldad
+    con su cuadrilla encarnada.
+    Las banderillas partidas
+    de verde color de nácar;
+    El ausencia va tras ella,
+    cuadrilla desesperada.
+    Bien dice el color que lleva,
+    mil estrellas plateadas.
+    De negro sale el olvido,
+    todo de sueños de plata,
+    que viste el color pajizo
+    con mil lunas de mudanza.
+    A las cañas juguemos,
+    señoras damas,
+    que de cañas y de amor
+    lo mejor son las entradas.
+    Guárdate del toro, niña,
+    que a mí malherido me ha.
+    Niña, guárdate del toro,
+    que a nadie guarda decoro,
+    sino a la lanza de oro
+    con que el interés le da.
+    Guárdate del toro, niña,
+    que a mí malherido me ha.
+[Salen el gobernador y arcabuceros]
+GOBERNADOR:
+    ¡Ténganse todos al Conde!
+RUGERO:
+    ¡Válgame el cielo! ¿Qué gente
+    y qué arcabuces son estos?
+    ¿Si quiere el Conde prenderme?
+GOBERNADOR:
+    ¿Quién es Rugero? ¡Hablad luego!
+RUGERO:
+    Yo soy.
+GOBERNADOR:
+    Date preso.
+RUGERO:
+    ¡Advierte...!
+GOBERNADOR:
+    No hay que advertir.
+PEROTE:
+    ¿Cómo no?
+    ¡Daca mi vara, Lorente!
+GOBERNADOR:
+    ¡Poned fuego!
+SILVIA:
+    ¡Ay, no, por Dios!
+RUGERO:
+    ¡Hola, nadie se inquïete!
+    El Conde me prende. Basta
+    decir que el Conde me prende.
+    ¿En mi casa podré entrar?
+GOBERNADOR:
+    No, sino en un coche.
+RUGERO:
+    Llegue,
+    que el cielo es mayor jüez.
+PEROTE:
+    Jacinto, si esto consientes,
+    ¿para qué somos alcaldes?
+FILENA:
+    ¡Ay, Silvia, vamos a velle,
+    que me quiebra el corazón!
+SILVIA:
+    Cosa que matalle intente.
+JACINTO:
+    Presto verás en qué para
+    el despertar a quien duerme.
+[Vanse]
+
+JORNADA 2 DEL DESPERTAR A QUIEN DUERME
+
+[Salen el conde Anselmo y Estela, su hija]
+CONDE:
+    Después, Estela, que vi
+    cuán gallardo caballero
+    es mi sobrino Rugero,
+    que ya tengo preso aquí,
+    recelo el peligro mío,
+    pues no hay en España un hombre
+    tan galán y gentilhombre,
+    ni de tal despejo y brío.
+    Es un mancebo alentado,
+    fuerte y grave, y de manera
+    que ningún hombre le viera
+    sin quedarle aficionado.
+    ¿Qué hicieran los catalanes
+    si vieran tanto valor
+    en su más propio señor?
+ESTELA:
+    Bien es que este nombre allanes
+    de dificultades tantas,
+    si es hombre tan valeroso.
+CONDE:
+    Y un rostro tan generoso
+    que, si los ojos levantas
+    a mirarle atentamente,
+    dirás que mayor corona
+    es digna de su persona.
+ESTELA:
+    ¿Que es tan gallardo y valiente?
+CONDE:
+    ¡Es tan valiente y gallardo!
+ESTELA:
+    ¿Pues cómo estaba escondido
+    un hombre tan bien nacido
+    entre sayal tosco y pardo?
+CONDE:
+    Porque por dicha aguardaba
+    la ocasión que le quité.
+    Presto remedio pondré;
+    ya tu concierto se acaba,
+    que presto serás mujer
+    del Príncipe de Aragón.
+    Queda en paz.
+[Vase]
+ESTELA:
+    Notables son
+    las sospechas y el poder.
+    ¡Que no piensa el padre mío
+    que soy mujer, y que un hombre
+    noble y rico, y gentilhombre,
+    loado de talle y brío,
+    que no vea que ha de ser
+    abrir a mi amor la puerta,
+    pues la alabanza despierta
+    la más dormida mujer!
+    ¡Pues crea que en este día
+    veré con mucho cuidado
+    un hombre tan alabado!
+    ¡Hola!
+[Sale el alcaide]
+ALCAIDE:
+    Señora.
+ESTELA:
+    Querría
+    daros, alcaide, a entender
+    lo que se acierta a servir
+    al sol que quiere salir,
+    más que al que se va a poner.
+    Yo tengo de ser señora
+    deste condado tan presto
+    cuanto ver en el sol puesto
+    que se va eclipsando agora.
+    Palabra os doy de poneros
+    en el más alto lugar
+    que vos podáis desear
+    y honraros, y engrandeceros
+    si me dejáis en secreto
+    entrar a ver a mi primo.
+ALCAIDE:
+    Tanto el agradarte estimo
+    que, si gustas, te prometo
+    su libertad.
+ESTELA:
+    Eso no.
+    Si quien soy quiere saber,
+    decid que es vuestra mujer,
+    que lo demás diré yo.
+ALCAIDE:
+    Aqueso es engradecerme.
+ESTELA:
+    (¡Presto mi padre verá
+    a cuánto peligro está
+    el despertar a quien duerme!)
+[Vase]
+ALCAIDE:
+    ¡Guardas!
+GUARDA 1:
+    ¿Señor?
+ALCAIDE:
+    Si llegare
+    cierta persona a la puerta,
+    encubierta o descubierta,
+    naide en miralla repare,
+    que pienso que mi mujer
+    tiene que hablar con Rugero.
+GUARDA 2:
+    Tu gusto es ley.
+[Vase, y sale Perote y Jacinto]
+PEROTE:
+    Lo primero,
+    Jacinto, que hemos de hacer
+    es, con alguna invención,
+    darle cordeles y limas.
+JACINTO:
+    ¡Calla, si la vida estimas,
+    que hay guardas en la prisón!
+GUARDA 1:
+    ¿Quién va?
+JACINTO:
+    Tú puedes mejor
+    con estas guardas hablar.
+PEROTE:
+    Los alcaldes del lugar
+    de Rugero, mi señor.
+GUARDA 2:
+    ¡Oh, qué notable visita!
+GUARDA 1:
+    ¿Y qué le traen?
+PEROTE:
+    Un presente.
+GUARDA 1:
+    ¿Y qué es dél?
+PEROTE:
+    No está presente,
+    que es por relación escrita.
+GUARDA 2:
+    Pues bien se pueden volver,
+    que Rugero, su señor,
+    ha menester confesor;
+    regalo no ha menester.
+JACINTO:
+    Luego, ¿quiérenle matar?
+GUARDA 2:
+    No lo sé, pero sospecho.
+PEROTE:
+    ¡Voto al soto que es mal hecho!
+    Apele a mueso lugar,
+    que alcaldes ha puesto en él
+    que miren por su justicia.
+GUARDA 1:
+    (¡Qué hombre tan sin malicia!)
+GUARDA 2:
+    (Burlarme quiero con él.)
+    Bajad, hermano, el pescuezo,
+    que tenéis un abejón.
+PEROTE:
+    De muesas colmenas son;
+    nunca falta un estropiezo.
+    Mátemela su merced.
+GUARDA 2:
+    (¡Lindo pescozón le di!)
+PEROTE:
+    Haci allá volar le vi.
+GUARDA 1:
+    ¿Y téngole yo?
+PEROTE:
+    Sí, a fe,
+    pero baje un poco.
+GUARDA 2:
+    Bajo.
+PEROTE:
+    ¡Lindamente le maté!
+GUARDA 2:
+    (¡Vengose!)
+GUARDA 1:
+    (¡Malicia fue!)
+PEROTE:
+    Ya va por el sayo abajo.
+GUARDA 2:
+    ¿Sabéisme acaso decir
+    de cuántas cosas se hace
+    un gran tonto?
+PEROTE:
+    Que me place,
+    mas no os habéis de reír.
+    De uno que de sí presume
+    y es porfiado y importuno;
+    de un hidalgo, siempre ayuno,
+    todo cambray y perfume;
+    de un sin valor pretendiente,
+    de un discreto bachiller,
+    de quien fía de mujer,
+    de rocín ni de pariente;
+    de un hombre que por fiar
+    ha venido a empobrecer;
+    de quien fue oficial ayer
+    y hoy quiere señor mandar;
+    de quien toma oficio ajeno
+    o va donde no le llaman;
+    de muchos que a otros disfaman,
+    siendo uno sólo el que es bueno;
+    de un hombre que por valiente
+    gusta de morirse en pie,
+    y de quien piensa que hay fe
+    con muerto ni con ausente;
+    de un rico que no lo goza
+    y a la muerte lo reparte;
+    de quien escribe sin arte,
+    y el viejo casa con moza;
+    de un escudero muy puesto,
+    en don Gazmio, mi señor,
+    del cual hombre de valor
+    anda al de mujer compuesto;
+    de un declarado celoso,
+    de un descuidado enemigo,
+    y otros muchos que no digo,
+    haréis un tonto famoso.
+GUARDA 2:
+    ¿Vos sois villano? ¡A la puerta,
+    guarda!
+GUARDA 1:
+    ¡Alerta, Leriano!
+JACINTO:
+    No hablaste como villano.
+PEROTE:
+    Tal vez un rústico acierta.
+    Rugero quieren matar,
+    las guardas tienen cuidado,
+    ¿creerásme que estoy turbado?
+JACINTO:
+    Perote, ver y callar.
+PEROTE:
+    ¿Ver, Jacinto, y callar? ¿Cómo?
+    Yo he de morir hoy con él.
+JACINTO:
+    Eres vasallo fiel.
+PEROTE:
+    Si a pechos la empresa tomo,
+    a lo menos a morir
+    o librar al gran Rugero.
+JACINTO:
+    ¿Pues qué has de hacer?
+PEROTE:
+    Lo primero...
+    Mas vamos a apercibir
+    y las zagalas traigamos;
+    verás mi amor peregrino.
+    Lo demás en el camino
+    te lo diré.
+JACINTO:
+    Vamos.
+PEROTE:
+    Vamos.
+[Vanse, y sale Rugero preso con cadenas]
+RUGERO:
+    Quien busca sólo un punto de firmeza
+    en los estados de la vida humana,
+    costancia puso al mar, cuya grandeza
+    se mueve como cosa muy liviana.
+    Discurre el sol con presta ligereza
+    y sucede a la noche la mañana;
+    todo se altera en su veloz corrida,
+    que no hay seguridad en esta vida.
+    Está contento el rico y empobrece,
+    y el postrado en la tierra se levanta;
+    baja la palma y el almendro crece,
+    corta la muerte una pequeña planta;
+    el pajarillo libre desvanece
+    al aire libre, y en prisiones canta
+    después, la pluma de la liga asida,
+    que no hay seguridad en esta vida.
+    Yo, como libre pájaro en mi nido,
+    mi libertad al mundo publicaba,
+    y del oculto cazador asido,
+    que el blanco en mí por el coral miraba,
+    el campo en que canté dejé teñido;
+    lo que verde me dio cuando cantaba
+    rojo lo vi, mostrando en mi caída
+    que no hay seguridad en esta vida.
+[Sale Estela]
+ESTELA:
+    Con razón de tu fortuna
+    con tanto hierro a los pies
+    te estás quejando.
+RUGERO:
+    ¿Quién es?
+ESTELA:
+    Una mujer importuna
+    que, si se ha movido alguna
+    a piedad de un hombre preso,
+    yo soy, que, por tu suceso,
+    tanto el verte he deseado
+    que a cumplirlo me ha obligado
+    aunque te parezca exceso.
+RUGERO:
+    Conviene con tu hermosura
+    esa condición piadosa,
+    puesto que el diamante es cosa
+    la más hermosa y más dura.
+    Si el oír mi desventura
+    el corazón te movió,
+    no lo quede menos yo,
+    que lo que a ti ver un preso
+    te habrá parecido exceso,
+    consuelo me pareció.
+    Si ha de ser tu calidad
+    conforme con tu persona,
+    mereces de Barcelona
+    la mayor autoridad.
+    Mas, en esta soledad,
+    no debes de ser mujer;
+    mi alma debes de ser,
+    que hablándome me transforma;
+    de las desdichas me informa
+    que me quieren suceder.
+ESTELA:
+    Para ser alma de un hombre
+    de tu talle, soy muy vil,
+    que importara más gentil
+    en cuerpo tan gentilhombre.
+    Es Rosimunda mi nombre,
+    mujer del alcaide soy,
+    y mi palabra te doy
+    que, si me trajo el deseo,
+    que después que tal te veo
+    más apasionada estoy.
+RUGERO:
+    Búrlaste de ver en mí
+    tan extraña diferencia.
+ESTELA:
+    Antes veo en tu presencia
+    más que en la fama creí.
+    No vengo sólo por mí;
+    tu prima me manda verte,
+    que algún bien quisiera hacerte.
+RUGERO:
+    Pues dirasle, Rosimunda,
+    que se engaña, pues se funda
+    toda su vida en mi muerte.
+ESTELA:
+    ¿En tu muerte?
+RUGERO:
+    Si el condado
+    me toca, y soy su señor,
+    y sólo por su temor
+    me prende su padre airado,
+    y cuando tiene tratado
+    en Castilla y Aragón
+    casar a Estela, en prisión
+    me pone y trata matarme,
+    ¿qué bien puede desearme,
+    pues ayuda a su traición?
+    ¿Qué le hice yo a mi tío,
+    en el campo de una aldea,
+    si a Estela casar desea?
+    ¿Qué armas me vio? ¿Qué brío?
+    Que apenas mi humilde río
+    barcas puede sustentar,
+    y galeras por el mar
+    se le antoja un leño roto,
+    de dos árboles de un soto
+    lanzas quiere imaginar,
+    Ejércitos de soldados
+    sus villanos se le antojan;
+    por municiones le enojan
+    carros de trigo cargados;
+    la verde hierba en los prados
+    le han parecido trincheas;
+    las espadañas y eneas,
+    parapetos y bastiones;
+    y las palas y azadones,
+    a las maquinas teseas.
+    Atambores le parecen
+    panderos y tamboriles;
+    por las flautas y añafiles
+    los pífanos le estremecen.
+    Tanto sus sospechas crecen
+    tan poderosas espigas.
+    Por tu vida que le digas
+    que sólo tengo en mis eras
+    campos que forman hileras
+    con ejércitos de hormigas.
+ESTELA:
+    Si él me oyera, o fuera yo
+    de su consejo de guerra,
+    se te dejara en la tierra,
+    donde ya te sepultó
+    el que tu prisión causó.
+    Si tu muerte ha de causar,
+    que te procures librar
+    tengo por mejor consejo.
+RUGERO:
+    Mi vida en tus manos dejo.
+ESTELA:
+    ¡Quién te la pudiera dar!
+RUGERO:
+    Bien podrás con avisarme,
+    cuando otra cosa no puedas.
+ESTELA:
+    Si de mi amor cierto quedas,
+    mucho pienso aventurarme.
+RUGERO:
+    ¿Pues qué te ha movido a amarme?
+ESTELA:
+    Lástima de ver quién eres
+    y piedad propia en mujeres.
+RUGERO:
+    ¿Quieres sacarme de aquí?
+ESTELA:
+    Si puedo, fía de mí.
+RUGERO:
+    Yo sé que podrás, si quieres.
+    Si hacerme prometiera
+    un capitán o señor,
+    temiera aquese favor
+    de poca importancia fuera
+    aunque mi bien pretendiera,
+    mas prometerme mujer
+    el bien que pienso tener
+    mi vida va asegurando,
+    porque mujeres amando
+    tienen el mayor poder.
+    Díganlo tantas historias,
+    tantos famosos ejemplos
+    dignos de estar en los templos
+    de las antiguas memorias.
+    Hoy Rosimunda a sus glorias
+    añade un hecho de fama.
+ESTELA:
+    Quien te ha dicho que te ama
+    y es de un hidalgo mujer,
+    más pretende por ti hacer
+    que no ser sólo tu dama.
+RUGERO:
+    Si quiés que diga verdad,
+    de manera estimo el verte
+    que mi prisión, y aun mi muerte,
+    tendré por felicidad.
+ESTELA:
+    ¿Lisonjas?
+RUGERO:
+    A tu beldad
+    pregunta si es esto amor.
+ESTELA:
+    ¡Afuera siento rumor!
+RUGERO:
+    Vete.
+ESTELA:
+    A Dios.
+RUGERO:
+    ¿Volverás?
+ESTELA:
+    Sí
+RUGERO:
+    Triste quedo.
+ESTELA:
+    Yo, sin ti,
+    voy entre amor y temor.
+[Vanse, y sale el Conde y el capitán]
+CONDE:
+    Con esto se acaba todo.
+CAPITÁN:
+    ¿Que, en fin, le quieres matar?
+CONDE:
+    Ya no importa el replicar,
+    sino prevenir el modo.
+    Yerro es abrir a el efeto
+    puerta que el secreto impida,
+    porque con sangre vertida
+    es imposible el secreto.
+    El veneno es el mejor;
+    esto he de fiar de ti.
+CAPITÁN:
+    Notables cosas leí
+    de los venenos, señor.
+    Algunos hay que dilatan
+    la vida el tiempo que quieren.
+CONDE:
+    No quiero los que así hieren,
+    sino los que luego matan.
+    Parte, y muestra la lealtad
+    que te merece mi amor.
+CAPITÁN:
+    Voy a servirte, señor.
+    (¡Qué temeraria crueldad!
+    Dionisio el siciliano
+    no fue tan bárbaro y fiero.)
+[Vase, y sale Estela]
+ESTELA:
+    ¿Solo estáis?
+CONDE:
+    Y sólo quiero
+    poner, Estela, en tu mano
+    la corona de Aragón.
+    Hoy muere Rugero.
+ESTELA:
+    ¿Cómo?
+CONDE:
+    Si se conficiona un pomo
+    de veneno.
+ESTELA:
+    ¡Qué traición!
+    [……………………………..]
+CONDE:
+    Tu amor tan crüel me ha hecho.
+ESTELA:
+    (¡A buen tiempo dentro el pecho
+    he tomado posesión!
+    ¿Qué haré? ¿Cómo libraré
+    mi vida, que está en la suya?
+    ¿Cómo intentaré que huya?
+    ¿Por dónde le sacaré?)
+[Ruido dentro, y sale una guarda]
+CONDE:
+    ¡Hola! ¿Qué es eso?
+GUARDA 1:
+    Señor,
+    una danza de villanos
+    que en figura de gitanos
+    hacen aqueste rumor
+    por alegrar las prisiones
+    de Rugero de Moncada.
+ESTELA:
+    ¡Oh, qué gentil gente armada
+    de marciales municiones!
+    ¡Buen ejército, señor,
+    para librar a Rugero!
+CONDE:
+    Di que no entre.
+ESTELA:
+    Antes quiero
+    que me hagas un favor.
+CONDE:
+    ¿Cómo?
+ESTELA:
+    Que licencia des
+    que a aquesta reja se asome,
+    porque algún alivio tome.
+CONDE:
+    ¿Es por velle?
+ESTELA:
+    Verdad es.
+CONDE:
+    ¡Hola! Decí que a la reja
+    salga Rugero.
+GUARDA 1:
+    Yo voy.
+[Vase]
+CONDE:
+    Entre esa gente.
+ESTELA:
+    (Yo estoy
+    loca de amor y de queja.)
+[Salen los villanos, de gitanos]
+JACINTO:
+    Ve con tiento y habla bien.
+PEROTE:
+    ¿Es esta la torre?
+JACINTO:
+    Sí.
+    Mira que el Conde está allí.
+PEROTE:
+    ¡Mal fuego le abrase, amén!
+FILENA:
+    Ya muy bien podéis cantar.
+SILVIA:
+    Tañed. ¿De qué estáis turbados?
+[Sale a la reja Rugero]
+RUGERO:
+    ¡Qué buen campo de soldados
+    que me ha salido a librar!
+SILVIA:
+    ¡Hola, Filena! ¿No ves
+    la Conda también allí?
+PEROTE:
+    ¿Es aquel Rugero?
+JACINTO:
+    Sí.
+PEROTE:
+    Calla y danza.
+JACINTO:
+    Toca, pues.
+[Cantan]
+DANTEO:
+    A la lima, a la lima, que es alba,
+    a la lima, que tocan al alba.
+    Estábase el ruiseñor
+    a la sombra de una rama,
+    gorjeando con su pico
+    sus amorosas desgracias.
+    Mal hubiese el cazador
+    que le cautivó las alas
+    y le presentara al rey
+    en la prisión de una jaula.
+    Los pájaros de su aldea,
+    buscando invenciones varias,
+    unas limas le presentan
+    y al pie de la torre cantan,
+    a la lima, a la lima, que es alba.
+CONDE:
+    ¡Quedo villanos, quedo, que parece
+    malicia vuestro baile!
+PEROTE:
+    ¿Qué malicia?
+CONDE:
+    Éntrate allá, Rugero, luego al punto.
+RUGERO:
+    ¡Que sólo aqueste bien no me concedes!
+[Vase]
+ESTELA:
+    (No he querido jamás volver el rostro
+    porque no me conozca.)
+CONDE:
+    Di, villano,
+    ¿quién te dio esta canción?
+PEROTE:
+    En muesa aldea
+    nos la compuso el sacristán Chaparro,
+    que es hombre que ha jurado ser poeta
+    aunque jamás acierte en cosa alguna.
+CONDE:
+    ¿Qué limas y qué pájaro enjaulado
+    es este que cantaban?
+PEROTE:
+    Señor mío,
+    mira que lo que dicen los poetas
+    aun ellos no lo entienden muchas veces.
+CONDE:
+    ¡Mirad ese villano! ¡Guardas, hola!
+FILENA:
+    (¡El diablo, Silvia, a la ciudad nos trujo!)
+SILVIA:
+    (¡Temblando estoy!)
+GUARDA 2:
+    ¡Estáte quedo, bestia!
+PEROTE:
+    No dijo mal quien dijo que tenían
+    los alguaciles algo de parteras,
+    porque miran y atientan cuanto quieren.
+GUARDA 1:
+    Dos limas hay aquí, y aquesta soga.
+JACINTO:
+    (¡Toda nuestra invención se ha descubierto!)
+CONDE:
+    ¿Limas y sogas? Muestra.
+PEROTE:
+    (¡Yo soy muerto!)
+ESTELA:
+    ¿Hay tan grande maldad?
+CONDE:
+    Mas que quería
+    librar al preso el bárbaro villano.
+ESTELA:
+    El silencio lo dice, aunque no hubiera
+    los testigos que ves. ¡Préndanlos todos!
+SILVIA:
+    Señora, ¿qué debemos deste enredo,
+    si a las dos nos trujeron engañadas?
+JACINTO:
+    Y de nosotros, gran señor, se duela.
+ESTELA:
+    Señor, estos vinieron inocentes
+    de la maldad de aqueste ¡Por mi vida,
+    que sólo prendan al que culpa tiene!
+CONDE:
+    ¿Sabían estos a lo que venías?
+PEROTE:
+    No señor, no.
+CONDE:
+    Pues déjenlos ir libres
+    y prended solamente al que es culpado.
+    Veamos si le libran estas limas,
+    como a Rugero en la canción cantaban.
+PEROTE:
+    ¿Pues puedo ser yo preso si en mi aldea
+    soy alcalde?
+GUARDA 2:
+    ¡Que seas, mentecato!
+CONDE:
+    Tirad con él, y ven conmigo, Estela,
+    que te tengo que hablar en lo que sabes.
+PEROTE:
+    El diablo me engañó con estas limas;
+    trújelas dulces y agrias se me han vuelto.
+CONDE:
+    A darle este veneno estoy dispuesto.
+[Vanse, y quedan los villanos]
+SILVIA:
+    ¿Qué os parece?
+JACINTO:
+    Temblando estoy, Filena.
+FILENA:
+    Milagro fue que de la lima el agrio
+    no alcanzase a los dos.
+SILVIA:
+    ¡Pobre Perote!
+    En verdad que os darán gentil garrote.
+DANTEO:
+    No venía mal trazado;
+    la desdicha lo causó.
+FILENA:
+    Bien el ruiseñor pintó,
+    pero quedose enjaulado.
+    Digo que era verderón,
+    y cogiéronle en la liga.
+SILVIA:
+    Pidió a Rugero la liga,
+    y fue la de su prisión.
+    ¡Pobre verderón, Perote!
+JACINTO:
+    Muchas veces que le vía,
+    su rostro me parecía
+    de hombre que le dan garrote.
+    Volvamonos a la aldea,
+    y hagámosle decir misas.
+FILENA:
+    Del mejor remedio avisas,
+    pues ya no hay otro que sea.
+    Ya no queda en el lugar
+    quien haga tonos y cante;
+    antes le será importante,
+    pues al Conde ha de cantar.
+DANTEO:
+    Luego cantará de miedo.
+JACINTO:
+    Y después con tal primor,
+    que naide cante mejor
+    pues ha de cantar el Credo.
+[Vanse, y sale el capitán con un vaso]
+CAPITÁN:
+    A lo que puede llegar
+    un sospechoso cuidado
+    de perder el alto estado,
+    aquí se puede mirar.
+    Cualquiera cosa querida
+    siempre se suele estimar,
+    porque se sigue en amar
+    la paz del alma y la vida.
+[Sale Estela]
+ESTELA:
+    ¡Tente, Fabio! ¿Dónde vas?
+CAPITÁN:
+    A asegurar tu corona.
+ESTELA:
+    ¿De quién?
+CAPITÁN:
+    De aquella persona...
+ESTELA:
+    ¿Presa?
+CAPITÁN:
+    Sí.
+ESTELA:
+    No digas más.
+[Saca una daga]
+CAPITÁN:
+    ¿Daga sacas?
+ESTELA:
+    Y con ella
+    te he de matar...
+CAPITÁN:
+    ¡Tente, paso!
+ESTELA:
+    ...o te has de beber el vaso.
+CAPITÁN:
+    Reporta la mano, bella,
+    que yo le quiero beber.
+ESTELA:
+    ¡Bebe!
+CAPITÁN:
+    Espera y lo verás.
+ESTELA:
+    Morir pensé que era más.
+    Sin duda es fácil de hacer.
+CAPITÁN:
+    Por ver que has entrado aquí
+    te quiero tratar verdad.
+    De tu padre la crueldad
+    justamente aborrecí,
+    y no quise hacer traición
+    a mi señor natural,
+    que es Rugero.
+ESTELA:
+    ¿Hay cosa igual?
+CAPITÁN:
+    Y así aquesta confección
+    no era mas que un blando sueño.
+ESTELA:
+    Llámame a Rugero.
+CAPITÁN:
+    Voy.
+ESTELA:
+    Bien has hecho.
+CAPITÁN:
+    Noble soy;
+    Rugero es mi propio dueño.
+[Vase]
+ESTELA:
+    Pide el amante celos al marido,
+    con que despierta el que durmiendo estaba,
+    y a la que de ofender no se acordaba
+    le deja por sus celos ofendido.
+    Prueba el padre la reja y el vestido
+    a la doncella humilde que no hablaba,
+    y con la privación lo que inoraba
+    sabe, y escribe y mira y deja el nido.
+    Tal vez, a la justicia viendo, un hombre
+    dice el delito que ignoraba hiciese,
+    publicando su culpa en ir huyendo.
+    Quien desafía y pierde no se asombre,
+    que no hay cosa más necia y peligrosa
+    que despertar a los que están durmiendo.
+[Sale Rugero solo]
+RUGERO:
+    Un capitán me ha mandado
+    que saliese aquí.
+ESTELA:
+    Es verdad.
+    Tú sabrás, aunque es crueldad,
+    que a muerte estás condenado.
+    Y aun este mismo traía
+    un veneno que te dar.
+RUGERO:
+    ¿Que, en fin, me quieren matar?
+ESTELA:
+    Ya el sol desampara el día.
+    Yo he prometido librarte;
+    llave y caballo prevengo.
+RUGERO:
+    Con una vida que tengo
+    es imposible pagarte.
+ESTELA:
+    En oyendo un silbo fuera,
+    sal a la puerta; hallarás
+    guarda, caballo y aún más.
+RUGERO:
+    Con ese mismo quisiera
+    más bien, si es el que imagino.
+ESTELA:
+    No me puedo detener,
+    que temo que me han de ver.
+[Vase]
+RUGERO:
+    A Dios, Rafael divino,
+    a Dios, ángel de mi guarda,
+    a Dios, Rosimunda bella.
+[Sale Perote]
+PEROTE:
+    La buena industria es aquella
+    que al hombre la vida guarda.
+    ¡Qué mal lo supe trazar!
+RUGERO:
+    ¿Quién habla en esta prisión?
+PEROTE:
+    Ecos destas peñas son,
+    y de tus suertes azar.
+RUGERO:
+    (¡No hay cosa que no alborote!
+    ¡Cuánto te temo el huir!)
+    ¿No lo acaba de decir?)
+PEROTE:
+    Perote soy.
+RUGERO:
+    ¿Quién?
+PEROTE:
+    Perote.
+    Todos estamos acá.
+RUGERO:
+    ¿Tú preso?
+PEROTE:
+    La historia erré
+    de la lima que canté,
+    que tal dentera me da.
+RUGERO:
+    ¿Pues de qué te da dentera?
+PEROTE:
+    De que me han dicho que es tanta
+    que los pasos de garganta
+    se han de tomar de escalera.
+RUGERO:
+    Todo lo habrá entendido.
+PEROTE:
+    Harto mejor lo entendió
+    el Conde, pues me mandó
+    agarrar por el vestido.
+RUGERO:
+    Mucho me pesa de ti.
+PEROTE:
+    ¿Aquí darán de cenar?
+RUGERO:
+    Si has de morir, ¿con pensar
+    en la muerte oras ansi?
+PEROTE:
+    Señor, mientras que se v[iv]e,
+    pienso que se ha de comer.
+[Silban dentro]
+RUGERO:
+    ¿Es silbo?
+PEROTE:
+    ¿Qué puede ser?
+RUGERO:
+    Mi remedio se apercibe.
+PEROTE:
+    Oí decir que les dan
+    culebra a los presos, y esta
+    con silbos es manifiesta.
+RUGERO:
+    A mi bien los silbos van.
+    Esa cortina, Perote,
+    corre, y échate en mi cama,
+    que voy a ver cierta dama,
+    que no es bien que se alborote
+    la guarda si no me ve,
+    y, echado tú, pensarán
+    que soy yo.
+PEROTE:
+    ¿Cómo podrán?
+RUGERO:
+    Cómo agora te daré
+    esta ropa…
+PEROTE:
+    Encaje presto.
+    ¿Silban?
+RUGERO:
+    Sí.
+PEROTE:
+    Vete con Dios.
+[Vase Rugero]
+    Ya que la suerte a los dos
+    en tanto mal nos ha puesto.
+    ¡Voto al sol que he de probar
+    a lo que sabe dormir
+    en seda!
+[Salen el Conde y el capitán]
+CONDE:
+    A verle morir
+    quise a la torre bajar.
+CAPITÁN:
+    (No sé qué tengo de hacer;
+    todo se va descubriendo.)
+CONDE:
+    A mi Estela hacer pretendo
+    del Rey de Aragón mujer,
+    y no hay remedio seguro
+    si no es que muera Rugero.
+    ¿Es este?
+CAPITÁN:
+    Sí.
+CONDE:
+    Verle quiero;
+    satisfacerme procuro.
+    Ya está de sentido ajeno.
+CAPITÁN:
+    ¿Que harás, que está reposando?
+CONDE:
+    Parece que está soñando.
+CAPITÁN:
+    Debe de obrar el veneno.
+CONDE:
+    Déjenle de aquesta suerte,
+    que me parece acertado.
+CAPITÁN:
+    Él duerme bien descuidado.
+    (¿Qué ha de hacer cuando despierte?)
+CONDE:
+    Huélgome que perderé
+    el temor deste enemigo.
+CAPITÁN:
+    Más vale que un falso amigo,
+    supuesto que vivo esté.
+CONDE:
+    Las señas, si bien se advierte,
+    son de sueño.
+CAPITÁN:
+    Agora sabes
+    que dicen autores graves
+    que es imagen de la muerte.
+CONDE:
+    Muérome por velle muerto.
+    Desvuélvele.
+CAPITÁN:
+    ¿Para qué,
+    hasta que ya muerto esté?
+    (Mejor dijera despierto.)
+CONDE:
+    Yo quiero satisfacerme.
+CAPITÁN:
+    ¿Posible es que se te oculta
+    el daño que se resulta
+    de despertar a quien duerme?
+    Déjale y vamos de aquí,
+    que al alba a velle vendrás,
+    donde muerto le hallarás
+    del veneno que le di.
+CONDE:
+    Quiero tomar tu consejo,
+    pues en esto no hay cautela,
+CAPITÁN:
+    No alborotemos a Estela.
+CONDE:
+    Vamos.
+[Vase]
+CAPITÁN:
+    Durmiendo le dejó,
+    y con un buen defensor,
+    que es su prima, en tanto daño,
+    aunque, si yo no me engaño,
+    debe de tenerle amor.
+    Duerme, Rugero de Moncada,
+    la postrera noche triste,
+    pues despertar no quisiste
+    a la voz de mi embajada.
+    Pero juntamente digo
+    que quien duerme en el agravio
+    suele mil veces, si es sabio,
+    despertar al enemigo.
+[Vase, y sale Rugero con cadena y Estela de hombre]
+ESTELA:
+    Este monte es muy secreto.
+    Aquí la cadena quede.
+RUGERO:
+    ¿Podrásmela tú quitar?
+ESTELA:
+    Todo quien ama lo puede.
+RUGERO:
+    ¡Qué bien lo ha hecho el caballo!
+    Parece que el campo alegre
+    le da la hierba de balde
+    y se la pone en los dientes.
+ESTELA:
+    ¿Qué miras?
+RUGERO:
+    Alguna piedra.
+ESTELA:
+    Este arroyuelo la tiene,
+    tan hijas de sus cristales
+    que perlas grandes parecen.
+RUGERO:
+    Dale con aquesta daga.
+ESTELA:
+    Está el hierro duro y fuerte;
+    la daga no tiene golpe
+    y podrá ser que se quiebre.
+RUGERO:
+    Dale, que a mí ya me toca
+    llamar los diamantes fuertes
+    rocas del mar combatidas,
+    firmes a sus golpes siempre,
+    Dígolo por quien te envía,
+    ¡oh, mancebo!, desta suerte
+    y me ha dado libertad.
+ESTELA:
+    Justamente lo mereces.
+RUGERO:
+    A ti te debo también
+    la vida.
+ESTELA:
+    Nada me debes,
+    porque yo soy un criado.
+RUGERO:
+    Como tu dueño pareces.
+    Pero aventurar tu vida
+    en el peligro presente,
+    y a las ancas de un caballo,
+    servirme de escudo excede
+    a todo encarecimiento,
+    pues, a sentirme la gente
+    del Conde, la primer bala,
+    muerto en el suelo me tiende.
+ESTELA:
+    Ya, Rugero de Moncada,
+    estás sin cadena; vete
+    donde el valor te guiare
+    y, cuando pudieres, vuelve
+    a cobrar tu propio estado,
+    pero una palabra advierte…
+RUGERO:
+    ¿En qué te sirvo? Y perdona,
+    que me es forzoso atreverme.
+    Pues de hierro me la quitas,
+    que de oro la presente,
+    sus eslabones quisiera
+    que fueran diamantes.
+ESTELA:
+    Tente,
+    que no la puedo tomar.
+RUGERO:
+    Notablemente me ofendes.
+ESTELA:
+    Óyeme primero.
+RUGERO:
+    Di.
+ESTELA:
+    Aquella mujer valiente
+    que te sacó de prisión
+    te pide...
+RUGERO:
+    Dímelo en breve,
+    que, si dudare de hacer
+    cosa que de mí te quejes,
+    a manos de mi enemigo
+    me traiga el cielo inclemente;
+    fálteme nave en la mar,
+    si de la mar me valiere;
+    ningún amigo me ayude,
+    deudos, príncipes ni reyes,
+    y véndanme mis vasallos,
+    que es lo más que un hombre siente.
+ESTELA:
+    Pues dice aquella mujer
+    que, aunque en aprieto te vieres,
+    de ningún modo te cases
+    adonde a ampararte fueres
+    hasta que cobres tu estado.
+RUGERO:
+    ¿Pues qué puede haber que intente,
+    si ella es casada y humilde?
+    Aunque es bien que la celebre
+    la fama por todo el orbe
+    entre famosas mujeres.
+ESTELA:
+    De su intento no sé nada.
+    ¿Qué le dire?
+RUGERO:
+    Que si fuere
+    otra Elena y otra Erífile,
+    lacedemonia y argiense,
+    y señora de más reinos
+    que estrellas el cielo tiene,
+    no me casaré primero
+    que ella diga lo que quiere
+    y me dé licencia.
+ESTELA:
+    En fin,
+    sangre de Moncada eres.
+    Voy a tomar el caballo,
+    que ya la noche previene
+    la venida del lucero
+    y allá podrán conocerme.
+RUGERO:
+    Pues llévala aqueste abrazo
+    y esta cadena.
+ESTELA:
+    Que lleve
+    el abrazo está en razón.
+RUGERO:
+    ¡Ay, santo cielo!
+ESTELA:
+    ¿Qué sientes?
+RUGERO:
+    ¡Vive Dios que eres mujer!
+ESTELA:
+    ¡Pues suéltame!
+RUGERO:
+    No te alteres.
+ESTELA:
+    Conociste como ciego
+    por el tacto solamente.
+RUGERO:
+    Tienen aliento y blandura
+    de los hombres diferente,
+    y un olor particular
+    que el alma y sentidos mueve.
+ESTELA:
+    Rosimunda soy, Rugero,
+    que por mejor defenderte
+    tomé este traje.
+RUGERO:
+    Señora,
+    mucho Rugero te debe.
+    ¿Dónde vas? ¡Quédate aquí!
+ESTELA:
+    No es bien que tal me aconsejes,
+    que conocerá el alcaide
+    lo que temió tantas veces.
+    No desdores mi virtud,
+    fundada solo en quererte,
+    que los nobles caballeros
+    saben honrar las mujeres.
+RUGERO:
+    Pues alto, ponte a caballo,
+    parte, que si te detienes
+    hará mi amor desatinos,
+    que eres un ángel de nieve,
+    pues, confesando el amor,
+    el mismo amor nos enciende
+    de noche y sola en un monte.
+ESTELA:
+    ¡A Dios, a Dios!
+RUGERO:
+    Caso fuerte.
+ESTELA:
+    ¡A Dios, Rugero!
+RUGERO:
+    Ya veo
+    que a Dios dices que me quede.
+ESTELA:
+    ¡Dios te guarde! ¡Dios te libre!
+RUGERO:
+    Ya te digo que me dejes
+    y no me des ocasión
+    que la palabra te quiebre.
+ESTELA:
+    Pues cuando tú me la rompas…
+RUGERO:
+    Otra.
+ESTELA:
+    ...yo supiera hacerte
+    conocer que no eras noble.
+RUGERO:
+    ¡Pues, vive Dios, que, si vuelves...!
+    Por una parte me mandas
+    que te honre, y no consientes
+    mi pensamiento, y, por otra,
+    me incitas. Ya sube. Fuese.
+[Vase Estela]
+    ¿Hay más notable mujer?
+ESTELA:
+    ¡Rugero, Rugero, advierte!
+RUGERO:
+    ¿Aún me persigues?
+ESTELA:
+    Escucha.
+RUGERO:
+    ¿Desde el caballo pretendes
+    volverme a quitar el seso?
+ESTELA:
+    Quien la buena ocasion pierde,
+    como engañado se espanta,
+    como necio se arrepiente.
+    Yo soy Estela, tu prima.
+RUGERO:
+    ¿Mi prima?
+ESTELA:
+    Tu prima. Advierte
+    el amor y la piedad,
+    pues te libré de la muerte.
+    Cúmpleme aquella palabra.
+RUGERO:
+    ¡Estela, Estela, detente!
+    ¡Detente, señora mía!
+    El aire corriendo vence.
+    ¡Señora, señora, escucha!
+ESTELA:
+    Cobra tu estado, pues eres
+    hombre mancebo y Moncada.
+RUGERO:
+    ¡Ah, plegue a Dios que tropieces
+    como no te hagas mal!
+    ¡Ay, Dios, que no conociese
+    tantas veces a mi prima…!
+    ¡Detenelda, álamos verdes!
+    ¡Árboles, poneos delante!
+ESTELA:
+    ¡Rugero, Rugero, emprende
+    un reino y una mujer!
+    ¡No me olvides, pues me tienes
+    tan grandes obligaciones!
+RUGERO:
+    Apenas razón se entiende.
+    ¡Ay, cielos! ¿A quién se ha dado
+    tanto cabello como este
+    y no le supiese asir?
+ESTELA:
+    ¡Rugero, Rugero!
+RUGERO:
+    Tenme
+    por hombre vil si a tu gusto
+    agravio en mi vida hiciere.
+    Yo voy a cobrar mi estado
+    y a conquistarte, pues quieres
+    ser mía, que yo soy tuyo
+    agora y eternamente.
+    Mas Barcelona y el Conde
+    y el mundo han de ver en breve
+    lo que puede, aunque te vas,
+    el despertar a quien duerme.
+
+JORNADA 3
+
+[Salen el conde Anselmo y el capitán y Perote y guardas]
+CAPITÁN:
+    ¿Qué castigo se ha de dar
+    a este mísero villano?
+CONDE:
+    Enseñar, Fabio, la mano
+    y comenzar a vengar.
+PEROTE:
+    Si el despertar a quien duerme
+    tan mal se puede sufrir,
+    al despertarme a morir
+    no hay mayor mal que hacerme.
+    Pusístesme en la prisión,
+    eso no podéis negar,
+    busqué a dónde me acostar
+    con villano corazón.
+    Hallé cama y ropa hallé
+    en que me acosté y cubrí.
+    Si era buena y me dormí,
+    ¿en qué, señores, pequé?
+CONDE:
+    Pues, villano, ¿en una cama
+    de seda?
+PEROTE:
+    Ya yo pensé
+    cuando a palacio llegué
+    desta grandeza la fama,
+    que en la casa de los reyes
+    era todo seda y oro;
+    que así se guarda el decoro
+    de los dueños que dan leyes.
+    Y como yo presumí
+    los platos en que comían,
+    las copas en que bebían
+    y algo que no digo aquí,
+    de seda a veces pensé,
+    que eran sus manos y cara.
+    ¿Qué mucho que lo pensara
+    de la cama en que me eché?
+CONDE:
+    ¿Que era del Conde ignorabas?
+PEROTE:
+    Sí, señor, que en eso topa.
+CONDE:
+    ¿Tú te pusiste la ropa
+    también porque imaginabas
+    que a un villano en su prisión
+    el rey se la da de seda?
+PEROTE:
+    No hay cosa que hacer no pueda
+    la ignorancia sin razón.
+CONDE:
+    Concierto, sin duda, fue
+    porque la guarda creyese
+    que era el Conde, y se huyese.
+PEROTE:
+    Yo no le vi ni le hablé.
+    Deseoso de dormir
+    una vez a lo señor,
+    entre seda y sin rumor,
+    como se suele decir,
+    sin cuidado del sustento
+    que hace a un hombre volver loco,
+    ni de las deudas tampoco,
+    que no es pequeño tormento
+    por despertar a las dos,
+    por oír misa a las tres
+    y saber hacer después
+    las maravillas de Dios,
+    me acosté donde me hallaste
+    por hartarme de dormir.
+CONDE:
+    ¡Vive Dios que has de morir,
+    que tú la guarda engañaste!
+[Sale Estela]
+ESTELA:
+    ¿Qué es esto?
+CONDE:
+    ¿No lo has sabido?
+ESTELA:
+    No, que agora me levanto.
+PEROTE:
+    Pues a mí por otro tanto,
+    pues otro tanto he dormido,
+    me manda el Conde matar.
+CONDE:
+    Rugero, Estela, se fue,
+    y aqueste villano hallé
+    con su ropa en su lugar
+ESTELA:
+    ¡Válgame Dios!
+CONDE:
+    Esto pasa.
+ESTELA:
+    ¿Hase visto tal maldad?
+PEROTE:
+    ¡Piedad, señora, piedad,
+    que a tu padre, ni a tu casa,
+    ni a ti no he sido traidor!
+ESTELA:
+    Bajeza es vengarse en ti.
+PEROTE:
+    La muerte temo, ¡ay de mí!
+CONDE:
+    […………………………..]
+    y luego al punto mandar
+    que le quiten dos mil vidas.
+PEROTE:
+    Cuando mi vida le pidas,
+    será, señora, obligar.
+ESTELA:
+    Da libertad al villano,
+    que sin duda fue inocente.
+    Y cuando librar intente
+    a su señor por su mano,
+    bien se ve que fue lealtad.
+PEROTE:
+    ¿Lealtad? ¡Y cómo si fue!
+CONDE:
+    Confiesa.
+PEROTE:
+    ¿Yo? ¿Para qué?
+CONDE:
+    La guarda desta ciudad
+    salga, capitán, al punto.
+    Corran la tierra.
+CAPITÁN:
+    Si haré,
+    y para buscalle haré
+    todo un ejército junto.
+CONDE:
+    A este corten las narices,
+    ya que mi hija le abona,
+    y salga de Barcelona.
+PEROTE:
+    ¿Sin las narices? ¡Qué dices!
+    ¿Tú no miras, por ventura,
+    con tu airado proceder
+    que tengo de parecer
+    obispo de sepultura?
+ESTELA:
+    ¡Señor, señor!
+CONDE:
+    A lo menos,
+    las orejas.
+PEROTE:
+    ¿Las orejas?
+CONDE:
+    ¿De las orejas te quejas?
+PEROTE:
+    ¡Por Dios, que quedamos buenos!
+    ¿Soy yo posta? ¿Hasme corrido?
+    ¿Tan mal te hallabas en mí?
+CONDE:
+    Esto se ha de hacer así.
+[Vase]
+PEROTE:
+    ¡Señor, orejas te pido
+    para poder oír mis quejas,
+    que es el palacio lugar
+    adonde siempre han de andar
+    pidiendo a todos orejas!
+    ¡Orejas, orejas pido!
+ESTELA:
+    Salíos todos allá.
+GUARDA 1:
+    ¿No han de cortárselas ya?
+PEROTE:
+    ¡Oh, qué lindo entremetido
+    con las orejas ajenas!
+ESTELA:
+    ¡Sálganse presto de aquí!
+GUARDA 2:
+    Señora mía, pues di,
+    ¿a qué muerte le condenas?
+PEROTE:
+    Señor desorejador,
+    advierta, que si es hidalgo
+    emplee esa daga en algo
+    de que le resulte honor.
+    Corte una envidiosa lengua,
+    que en casa no faltará.
+GUARDA 1:
+    ¿No he de cortárselas ya?
+GUARDA 2:
+    Con el favor se deslengua.
+GUARDA 1:
+    ¿No se las corto en efeto?
+ESTELA:
+    Mas que os las cortan a vos.
+    Vámonos.
+GUARDA:
+    Señora, a Dios.
+    [……………………………..]
+[Vanse las guardas]
+ESTELA:
+    (¿Qué ha de hacer? En grande aprieto
+    está Rugero. Hoy perece.
+    ¡Mas buena ocasion se ofrece!)
+    ¿Sabrás guardar un secreto?
+PEROTE:
+    Santa remuneradora
+    de mis narices y orejas,
+    ¿en qué te sirvo?
+ESTELA:
+    Las quejas
+    que tendrá Rugero agora
+    te querrá satisfacer.
+PEROTE:
+    Pues que yo no le ofendí.
+ESTELA:
+    Dime, ¿serás hombre...?
+PEROTE:
+    Sí,
+    hasta dejallo de hacer.
+ESTELA:
+    ¿...para llevar una carta
+    a Rugero, tu señor?
+PEROTE:
+    (Sin duda le tiene amor.)
+    No habrá cometa que parta
+    con mayor velocidad.
+ESTELA:
+    ¿Sabes dónde está?
+PEROTE:
+    Yo sé
+    que le hallaré de tu fe,
+    de tu amor, de tu lealtad.
+ESTELA:
+    Ven, sabrás mi pensamiento.
+    Pero advierte, que has de ir
+    como cartero.
+PEROTE:
+    El vivir
+    me importa. Iré con el viento,
+    con aderezos famosos
+    de correo estafetil.
+ESTELA:
+    Industria tienes sutil.
+PEROTE:
+    Dineros serán forzosos,
+    que el pie es de los que caminan.
+ESTELA:
+    Ven por la carta y dinero.
+PEROTE:
+    Mucho te debe Rugero.
+ESTELA:
+    Tus buenas partes me inclinan.
+    ¿Tu nombre?
+PEROTE:
+    Allá en el aldea,
+    Perote.
+ESTELA:
+    ¿Y por acá?
+PEROTE:
+    Pedro,
+    que soy Pedro el que no medro.
+    En tu servicio me emplea.
+ESTELA:
+    ¿Hallaremos a Rugero,
+    Pedro?
+PEROTE:
+    De mi diligencia
+    confía.
+ESTELA:
+    Siento su ausencia.
+PEROTE:
+    ¿Quiéresle bien?
+ESTELA:
+    Bien le quiero.
+    En fin, ¿posible será
+    hallarle?
+PEROTE:
+    ¿Tú desconfías?
+ESTELA:
+    ¿Pues no?
+PEROTE:
+    No, que pues me envías,
+    tú sabes adónde está.
+[Vanse, y salen el Duque de Urgel y Rugero]
+RUGERO:
+    El mar que estamos mirando
+    no tiene tantas tormentas.
+DUQUE:
+    No poco de las que cuentas,
+    Rugero, me estoy admirando.
+RUGERO:
+    Querría, Duque de Urgel,
+    que me dieses tu favor,
+    pues lo debes a mi amor,
+    siempre a tus cosas fiel,
+    que si cobro a Barcelona
+    por ti, más tuya será
+    que mía.
+DUQUE:
+    Bien cierto está
+    el valor de tu persona,
+    pero con sólo un concierto
+    te daré dos mil vasallos
+    con mil ligeros caballos.
+RUGERO:
+    Yo le escucho.
+DUQUE:
+    Yo te advierto.
+    Yo tengo hermana, cual sabes,
+    honrada y bella.
+RUGERO:
+    Es verdad.
+DUQUE:
+    Por nobleza y calidad
+    la piden hombres muy graves;
+    cásate con ella, y yo
+    tu condado cobraré,
+    y con aquesto pondré
+    causa a la guerra.
+RUGERO:
+    Yo, no.
+    ¡Sabe Dios cuán bien me estaba!
+    Mas salir de Barcelona
+    fue porque cierta persona
+    me ayudó porque me amaba,
+    a la cual palabra di
+    de no me casar sin gusto
+    suyo.
+DUQUE:
+    Cumplírselo es justo,
+    porque lo han de hacer así
+    los honrados caballeros
+    y Moncadas como vos.
+    A Dios.
+RUGERO:
+    Él vaya con vos.
+DUQUE:
+    Esto podría ofreceros,
+    pero con causa bastante
+    de ser mi cuñado.
+RUGERO:
+    El cielo
+    os pague, Duque, el buen celo.
+DUQUE:
+    Mi ayuda fuera importante.
+[Vase]
+RUGERO:
+    ¿Qué tengo más que esperar,
+    ¡oh mar!, que miras mi fuego?
+    ¡Sal de tus márgenes luego,
+    llévame a tus aguas, mar!,
+    pues para tan justa guerra
+    no hay en la tierra favor,
+    no me dejes a rigor
+    de tan enemiga tierra.
+    Triste, ¿qué tengo de hacer?
+    Casarme era cosa fea,
+    ni que otra en el mundo sea
+    sino Estela, mi mujer.
+    ¿Pues cómo podré cobrar
+    sin casarme este condado,
+    que me tienen usurpado
+    y en que me quieren matar?
+    ¿Yo no me estaba en mi aldea?
+    ¿Qué le hacía al Conde yo?
+    ¿Para qué me despertó,
+    que no hay necedad que sea
+    más peligrosa en el mundo
+    que despertar a quien duerme?
+    Mas, ¿qué es esto que ofrecerme
+    quiere agora el mar profundo?
+    ¡Oh, qué poderosa armada!,
+    Gente en esquife y a tierra
+    sale, y, en forma de guerra,
+    una mujer con espada
+    y con bastón desembarca.
+    ¡Todos la besan el pie!
+[Sale la Reina de Sicilia, con espada, y soldados]
+REINA:
+    Para cuando vuelva, esté
+    puesto el tendalle en la barca
+    porque me fatiga el sol.
+RUGERO:
+    ¿Quién es aquesta señora,
+    soldado, que llega agora
+    de guerra al mar español?
+SOLDADO:
+    Es la reina siciliana,
+    que contra Mallorca iba,
+    y la mar, fiera y altiva,
+    sedienta de sangre humana,
+    derrotada la arrojó
+    a vista de Barcelona.
+RUGERO:
+    ¿Pues era de su corona
+    Mallorca?
+SOLDADO:
+    Presumo yo
+    que ha sido más por venganza
+    de un hermano que le han muerto.
+RUGERO:
+    (¡Todo mi remedio es cierto!
+    ¡Vuelva mi muerta esperanza!)
+    ¿Qué gente trae?
+SOLDADO:
+    Serán
+    veinte mil hombres de guerra.
+RUGERO:
+    (Podrán allanar la tierra,
+    y más con tal capitán.)
+    ¿Queréisle decir, soldado,
+    que está aquí el embajador
+    de Rugero?
+SOLDADO:
+    ¿Quién, señor?
+RUGERO:
+    (Notable industria he pensado.)
+    De Rugero de Moncada,
+    el Conde de Ruisellón
+    y Barcelona.
+SOLDADO:
+    Es razón
+    que os oiga tal embajada.
+    Aquí, mi señora, está
+    del Conde de Barcelona
+    un embajador que abona.
+REINA:
+    ¿Quién es?
+RUGERO:
+    Yo.
+REINA:
+    Llegaos acá.
+    Alzaos.
+RUGERO:
+    (¡Qué airosa! ¡Qué fiera!)
+REINA:
+    ¿El Conde piensa que yo
+    le vengo a hacer guerra?
+RUGERO:
+    No,
+    aunque de veros se infiera.
+    Pero advierte que Rugero
+    de Moncada, mi señor,
+    aunque es el Conde en rigor
+    y legítimo heredero,
+    no tiene agora el condado,
+    que Anselmo, su tío fiero,
+    se le ha quitado a Rugero.
+REINA:
+    En eso no anda acertado.
+    Y ya sé todo el suceso
+    de boca de un catalán
+    que traigo por capitán
+    de una nave, y os confieso
+    que le he cobrado afición
+    a Rugero desde el día
+    que supe esta tiranía
+    y su talle y discreción
+    que alaba mucho en sus partes.
+RUGERO:
+    Yo no os le quiero alabar
+    porque hoy parte, y el mar
+    le mostró los estandartes
+    de vuestra vistosa armada,
+    y parecióle ocasión
+    a pediros, si es razón,
+    pues tenéis sangre Moncada,
+    le deis favor, pues podéis.
+    Y si este reino ganáis
+    y esta empresa conquistáis
+    –que es cierto le ganaréis–,
+    cada año os prometo en parias
+    cien caballos y cien mil
+    escudos.
+REINA:
+    Si es tan gentil
+    con partes tan necesarias,
+    para la guerra y la paz
+    otro partido es mejor,
+    pues es de mi gran valor
+    por tantas partes capaz.
+RUGERO:
+    ¿Y cual será?
+REINA:
+    Que se case
+    conmigo y los dos cobremos
+    su estado, que bien podremos,
+    que no es bien que se intentase
+    sin juntar a Barcelona
+    con Secilia por valor,
+    pues hay distancia mayor
+    de coronel a corona.
+RUGERO:
+    No traigo tal comisión,
+    pero sé que le está bien
+    y que vos podéis también
+    honralle en toda ocasión.
+    Él es muy agradecido;
+    cobradle agora el condado,
+    que de no quedar casado
+    ni acetar ese partido
+    ni venir en el concierto,
+    quedará en vuestra corona
+    Ruisellón y Barcelona.
+REINA:
+    ¿Será eso cierto?
+RUGERO:
+    Y muy cierto.
+REINA:
+    Pues yo pondré veinte mil
+    soldados sobre la playa,
+    y haré que mi armada vaya
+    en siendo el viento sutil.
+[Sale Perote]
+PEROTE:
+    ¿Está Rugero aqui?
+SOLDADO:
+    ¿Qué es lo que quiere?
+    Porque su embajador solo ha venido,
+    que es ese que está hablando con la Reina.
+PEROTE:
+    Rugero, mi señor, dame mil veces
+    esos pies generosos.
+RUGERO:
+    (¿Estás loco?
+    ¡Detente allá! No digas que me llamo
+    Rugero, que me va la vida agora.
+    Llámame embajador.)
+PEROTE:
+    Tan deslumbrado
+    de parte de Rugero a hablarte vengo
+    que, como ves, te llamo de su nombre.
+    Esta carta me dio, muy afligido
+    de no saber de ti. (Llega el oído.
+    Estela, mi señora, que te adora,
+    esta carta me dio, y que luego al punto
+    respondas con el mismo mensajero.)
+RUGERO:
+    ¿Quedaba bueno mi señor Rugero?
+PEROTE:
+    Quedaba como un ángel, cuidadoso
+    de tu salud. Pudiera con envidia
+    miralle el sol.
+REINA:
+    ¿Que es tan galán Rugero?
+    Óyeme por tu vida, mensajero.
+PEROTE:
+    Señora, si soy digno de acercarme
+    a tus divinos rayos... Mas te juro
+    que estaba al escribir aquesta carta
+    como si fuera un querubín del cielo.
+REINA:
+    Todos me cuentan dél extrañas cosas.
+    ¿Es rubio?
+PEROTE:
+    Muy más blanco que la nieve.
+REINA:
+    ¿Qué barba?
+PEROTE:
+    No le vi cuando escribía
+    el color de la barba que tenía,
+    por no atreverme tanto a su grandeza.
+    Mas yo te juro que es mayor su talle
+    que puede imaginar el pensamiento.
+REINA:
+    Embajador...
+RUGERO:
+    Señora.
+REINA:
+    Mucho gusto
+    me van dando las nuevas de Rugero.
+    En fin, es tan gallardo caballero.
+    Despacha con ese hombre que si puedo
+    sin peligro llegar a Barcelona
+    me hable alguna noche, que yo creo
+    que en viéndome ha de ser tan favorable.
+    Que mañana me vea sin recelo
+    en su playa seguro y junto al muro.
+RUGERO:
+    Debajo de tu mano está seguro.
+REINA:
+    ¡Hola, leva esos ferros! ¡Leva, leva!
+    ¡A proa! ¡A Barcelona!
+SOLDADO:
+    Ya disparan.
+[Vanse la Reina y soldados]
+PEROTE:
+    ¿Qué reina es esta, gran señor? ¿Qué es esto?
+RUGERO:
+    Leer quiero la carta.
+PEROTE:
+    Lee de presto.
+RUGERO:
+    ¡Ay, Dios, qué confusion!
+PEROTE:
+    ¿Pues qué tenemos?
+RUGERO:
+    Respondelle me importa.
+PEROTE:
+    Aunque mil vidas
+    en llevar la respuesta aventurara,
+    tengo de hacer lo que me manda Estela.
+RUGERO:
+    Ven, Pedro, que es discreta la cautela
+    donde la vida y honra importa a un hombre.
+PEROTE:
+    ¿Pues qué reina es aquesta? Dime el nombre.
+RUGERO:
+    Ven, Perote, tras mí. No tengas miedo,
+    que la palabra cumpliré si puedo.
+PEROTE:
+    Volvámonos, señor, a ser pastores,
+    que más valen panderos que atambores.
+[Vanse, y salen el Conde y el capitán y Estela]
+CONDE:
+    No he sabido de Rugero;
+    todos se vuelven sin él.
+ESTELA:
+    Tu cuidado considero.
+CONDE:
+    Ni en la plaza hay nuevas dél
+    ni en el monte ni en sendero.
+    Pues pensar que en la ciudad
+    está escondido es locura.
+ESTELA:
+    Pues le hacían amistad
+    en Castilla, por ventura
+    está en ella.
+CONDE:
+    Así es verdad.
+    Mas pienso que en Aragón
+    tenía satisfación
+    del Duque de Urgel, su deudo.
+ESTELA:
+    Temo que, pagando feudo,
+    se pongan en posesión.
+CONDE:
+    ¿Pues cómo, Estela, podrán?
+ESTELA:
+    ¿Pues tú, qué defensa tienes?
+    ¿Qué gente? ¿Qué capitán?
+    ¿Qué muros de armas previenes,
+    pues sin un soldado están?
+CONDE:
+    Siempre, Estela, presumí
+    que se moviera Rugero;
+    yo mismo ocasión le di.
+    Mas ya es hecho; soldar quiero
+    el yerro que cometí.
+ESTELA:
+    ¿Soldar? ¿Cómo?
+CONDE:
+    Con soldados,
+    a defender prevenidos
+    nuestros muros levantados.
+ESTELA:
+    Por despertar los dormidos,
+    desvelaste sus cuidados.
+    ¡Cuánto mejor se estuviera
+    Rugero en su monte!
+CONDE:
+    Fue
+    una medrosa quimera;
+    sin duda le desperté
+    para que yo no durmiera.
+ESTELA:
+    Ya estarás arrepentido.
+CONDE:
+    Temiendo estoy mayor daño.
+[Sale el Capitán]
+CAPITÁN:
+    ¡Ya tu temor se ha cumplido
+    con el mayor desengaño
+    que puedes haber tenido!
+CONDE:
+    ¿Cómo?
+CAPITÁN:
+    Sobre la alta mar
+    se han descubierto cien velas
+    que están ya para llegar.
+    Sirven los vientos de espuelas
+    con que las hacen volar.
+    Veloces como un delfín,
+    no hay vez que el viento las vuelva
+    que no parezcan, en fin,
+    sus árboles una selva
+    y sus armas un jardín.
+    La Fama, que como ves,
+    en los peligros se corre
+    y a voces dice lo que es,
+    ya sobre las aguas corre
+    sin que se moje los pies,
+    dice que toda esta armada,
+    con la Reina de Sicilia,
+    trae Rugero de Moncada,
+    que se precia su familia
+    de su brazo y de su espada,
+    y aún no sé si oí decir
+    si ya le tenían casado,
+    y, para no te mentir,
+    de casarse concertado,
+    que esto querrán diferir
+    para cuando señor sea
+    de Barcelona.
+ESTELA:
+    ¡Detente,
+    necio, importuno, correo,
+    que tu lengua impertinente
+    habla en su mismo deseo!
+    ¿Que se casa en Barcelona?
+    ¿Así se puede ganar?
+    ¿Que de ser reina blasona
+    porque el muro y aun el mar
+    de agua y perlas se corona?
+    ¡Dadme a mi sola una espada!
+    ¡Dadme una rodela!
+CONDE:
+    Estela,
+    ¿de que estás tan enojada?
+    Deja la espada y rodela,
+    que también soy yo Moncada,
+    y tan anciano en valor
+    de la sangre entre las venas
+    que tenga infame temor
+    ni a sus bordadas entenas
+    de flámulas de color.
+    ¡Ven conmigo, Capitán!
+CAPITÁN:
+    Mal, señora, me has tratado.
+ESTELA:
+    Fabio, no se casarán.
+CAPITÁN:
+    (Sospecho que le ha pesado.)
+ESTELA:
+    Antes mi muerte verán.
+[Vanse]
+ESTELA:
+    ¡La Reina de Sicilia con Rugero!
+    En un instante, ¡oh, fuego, oh, mar, oh, tierra!,
+    cuántos engaños en su pecho encierra.
+    Por darte vida justamente muero.
+    ¡Oh, inconstante, villano caballero,
+    por darte paz me vienes a dar guerra!
+    ¡Amor, que siempre tu experiencia yerra,
+    falso en cumplir, en prometer ligero!
+    ¡Haberte yo librado de la muerte!
+    ¿Esto, ingrato Moncada, merecía?
+    Pagaste mal mi firme y feliz suerte.
+    Truecas en pena triste mi alegría
+    ¡Ah, hombres sin verdad! ¡Falso el más fuerte!
+    ¡Mal haya, amén, quien de vosotros fía!
+[Sale Perote]
+PEROTE:
+    ¡Dame esos reales pies!
+ESTELA:
+    ¡Mas con los pies en la boca!
+PEROTE:
+    Señora, ¿qué te provoca
+    a que con los pies me des?
+ESTELA:
+    ¡Tú seas muy mal venido!
+    ¿Diste mi carta a aquel hombre?
+PEROTE:
+    ¿Cómo merece ese nombre,
+    ni tanta fe, tanto olvido?
+    Tu carta le di, y es esta
+    la respuesta.
+ESTELA:
+    ¿Y ha casado
+    con la Reina, o concertado?
+    ¿Qué puede darme en respuesta?
+PEROTE:
+    ¿Casado? ¡Qué lindo cuento!
+    ¡Vive Dios que tú has de ser
+    su mujer, o no ha de haber
+    fuego en el cuarto elemento!
+    Esa Reina en tierra o mar
+    es malilla deste juego,
+    que, en acabándose luego,
+    la habemos de tripular,
+    que Rugero, en tanto mal,
+    sin armas y sin consejo,
+    la hizo tapa de espejo,
+    pero tú eres su cristal.
+    Lee esa, ¿quieres?, por mí,
+    que ando entre lanzas y espadas.
+ESTELA:
+    Por ti leo. Tú me agradas.
+PEROTE:
+    Habla quedo.
+ESTELA:
+    Dice ansí:
+[Carta]
+PEROTE:
+    ¿Qué te dice el papelito?
+    ¿Es Moncada algún villano?
+ESTELA:
+    Amor, temer no es en vano,
+    si a Rugero le permito
+    hablar con esta mujer.
+PEROTE:
+    Ella por embajador
+    le tiene.
+ESTELA:
+    Tengo temor
+    que lo debe de saber.
+PEROTE:
+    Es imposible, y ansí
+    es bien que algún caballero
+    vaya a fingirse Rugero.
+ESTELA:
+    ¿Quién?
+PEROTE:
+    Yo iré.
+ESTELA:
+    ¡Vete de ahí!
+PEROTE:
+    Pues, ¿pienso que hay diferencia
+    entre los hijos de Adán,
+    mas de que algunos están
+    en cueros por justa herencia
+    y otros de seda vestidos?
+ESTELA:
+    Más valor, más talle quiero
+    para imitar a Rugero,
+    y para que sus sentidos
+    se enamoren dél también.
+PEROTE:
+    ¿Tan mal talle tengo yo?
+    Como el de Rugero no,
+    porque, en fin, le quieres bien,
+    mas ponme unos folladicos
+    y un sombrero marquesote,
+    que en la frente y el cogote
+    se tenga con dos clavitos,
+    pon un rojo apretador
+    de cabestros diamantinos
+    y unos guantes ambarinos
+    y una barba a lo señor,
+    y eso, la voz delicada
+    con pasas o con sangría,
+    verás que por más de un día
+    soy Rugero de Moncada.
+ESTELA:
+    Aguárdame aquí.
+PEROTE:
+    Despacha
+[Vase Estela]
+    con brevedad, que me muero
+    de miedo. Si soy Rugero,
+    yo pesco linda muchacha.
+[Sale el Conde y el capitán]
+CONDE:
+    ¿Tan presto ha tomado puerto?
+CAPITÁN:
+    No se puede defender.
+CONDE:
+    ¡Hoy tengo de perecer!
+    ¿Quién está aquí?
+PEROTE:
+    (¡Yo soy muerto!)
+    ¿No me conoces, señor?
+CONDE:
+    ¿Cómo en este traje estás?
+PEROTE:
+    Por poder servirte más
+    soldado que labrador
+CONDE:
+    ¿No dije que te cortasen
+    las narices?
+PEROTE:
+    Señor, sí.
+CONDE:
+    ¿Cómo las traes?
+PEROTE:
+    Porque fui
+    adonde bien me curasen
+    y habranse vuelto a nacer,
+    que soy húmido de sienes.
+CAPITÁN:
+    ¡Este es un loco! No tienes
+    que culpar sino al temer.
+    Vete, buen hombre, de ahí.
+CONDE:
+    ¡Vuélvanselas a cortar!
+PEROTE:
+    Eso no quiero esperar.
+[Vase]
+CONDE:
+    Dejalde, Fabio. ¡Ay de mí!
+    ¿Qué me aconsejas? ¿Qué haré,
+    que ya resistir no puedo?
+    ¡Qué mayor mal! ¡Tengo miedo!
+    Necio fui; yo desperté
+    al que en un monte vivía
+    de su tierra descuidado.
+    El cielo me ha castigado
+    la pasada tiranía.
+    Pues entregalle a Rugero
+    todo el estado es quedar
+    sin remedio.
+CAPITÁN:
+    Puedes dar
+    un medio.
+CONDE:
+    Consejo espero.
+CAPITÁN:
+    Entrégale a Barcelona
+    y déjate a Ruisellón,
+    donde vivas.
+CONDE:
+    Y es razón,
+    no sólo por mi persona,
+    pero, por ver que me queda
+    una hija sin remedio,
+    no hay tierra ni mar en medio.
+CAPITÁN:
+    Dame licencia que pueda.
+    Hoy trataré lo de paz.
+CONDE:
+    Habernos con ella es bien.
+    Di que licencia me den,
+    si no viene pertinaz
+    en la venganza Rugero.
+CAPITÁN:
+    Ven a escribir.
+CONDE:
+    Sí haré,
+    pues a quien matar pensé
+    hoy ruego soberbio y fiero.
+[Vanse, y sale Rugero, Reina y soldados]
+REINA:
+    Mucho tarda.
+RUGERO:
+    No podrá
+    venir, como está escondido,
+    si el Conde vive advertido
+    del lugar adonde está,
+    porque poniéndole espías
+    le podrán matar.
+REINA:
+    Pues di,
+    ¿qué habemos de hacer aquí
+    esperando tantos días?
+RUGERO:
+    ¡Conquistar esta ciudad!
+    (¿Pues, qué haré si se resiste?)
+    ¡Embiste, señora, embiste,
+    y fía de la lealtad
+    de Rugero, mi señor,
+    que él lo sabrá agradecer!
+REINA:
+    Mientras no soy su mujer,
+    no sé si me tiene amor.
+    No me atrevo a aventurar
+    una pluma de un soldado;
+    para lo que me ha obligado,
+    basta salir de la mar
+    dando al Conde tanto miedo.
+RUGERO:
+    Pues, ¿yo no estoy en resguardo
+    mientras a Rugero aguardo,
+    que satisfacerte puedo
+    yo, la cabeza por él?
+REINA:
+    Si lo pongo en posesión,
+    pagarame con traición,
+    habiéndole sido fiel.
+RUGERO:
+    Pues, dime, ¿quién gana más,
+    o cual casamiento excede
+    al tuyo?
+REINA:
+    Rugero puede,
+    aunque tan seguro estás,
+    querer bien en otra parte.
+[Sale Perote]
+PEROTE:
+    ¿Está aquí el embajador
+    de Rugero, mi señor?
+RUGERO:
+    Aqui está.
+PEROTE:
+    Escúchame aparte.
+REINA:
+    ¡No hay que escuchar! ¡Hable aquí
+    o quitaréte la vida!
+PEROTE:
+    Oye, Reina esclarecida,
+    no te receles de mí.
+    Digo que viene Rugero;
+    esto en secreto advertía.
+REINA:
+    Entre en la presencia mía
+    seguro, que hablarle quiero.
+    ¿Téngole yo de ofender?
+RUGERO:
+    (¡En qué confusion estoy!)
+PEROTE:
+    Señora, a llamarle voy.
+RUGERO:
+    (¡Ay, cielos! ¿Quién puede ser
+    el que mi nombre ha tomado?
+    ¿Bien sabrá imitarme a mí?)
+[Sale Estela]
+ESTELA:
+    ¿Dónde está la Reina?
+PEROTE:
+    Aquí.
+REINA:
+    Seas, Rugero, bien llegado.
+ESTELA:
+    Dame, señora, tus pies.
+RUGERO:
+    (Perote, ¿qué es esto, di?
+    ¿Quién es el que viene aquí?)
+PEROTE:
+    Estela; ella misma es.
+REINA:
+    ¡Hola! ¡Sillas!
+ESTELA:
+    Este día
+    tuve yo tan deseado
+    que no sé cómo ha llegado.
+REINA:
+    Por la buena suerte mía.
+RUGERO:
+    Dame los pies, gran señor,
+    a tu criado.
+ESTELA:
+    Buen criado.
+REINA:
+    (¡Qué príncipe tan gallardo!
+    No en balde le tuve amor.)
+RUGERO:
+    Ya, señor, tengo tratado
+    con la Reina, mi señora,
+    que gane y conquiste agora
+    como suyo aqueste estado,
+    y que tú le cumplirás
+    la palabra que te doy.
+ESTELA:
+    Digo que tu esposo soy
+    y soy el que gano más.
+    Y que no sé qué ventura
+    pudo Rugero esperar
+    como verse en tal lugar.
+RUGERO:
+    (¡Qué discreción, qué hermosura!)
+ESTELA:
+    (¡Ah, traidor! ¿Esto consientes?)
+RUGERO:
+    (Mi bien, fue fuerza en rigor.)
+ESTELA:
+    (¡No hay fuerza! ¡Tú eres traidor!)
+RUGERO:
+    (Estoy por decir que mientes.)
+ESTELA:
+    (Cuando todo sea verdad,
+    ¿por qué me abraso de celos? )
+RUGERO:
+    (Saben, Estela, los cielos
+    que te he guardado lealtad.)
+ESTELA:
+    (¿No habrá un Duque de Urgel
+    con gente de España?)
+RUGERO:
+    (Sí.
+    A pedirle favor fui.)
+ESTELA:
+    (¿Pues qué trataste con él?)
+RUGERO:
+    (Queríame dar favor
+    casándome con su hermana.
+    Mira si es verdad muy llana
+    que te tengo justo amor,
+    porque si no te quisiera
+    aquel partido acetara
+    y la Reina me estimara
+    y mi nombre descubriera.
+    Yo sólo te estimo a ti.
+    Si aquesto te da cuidado,
+    piérdase todo mi estado.)
+ESTELA:
+    (¿Cierto?)
+RUGERO:
+    (Mi señora, sí.)
+ESTELA:
+    (Luego, si aquí lo descubro
+    todo, ¿por bien lo tendrás?)
+RUGERO:
+    (Si tú quieres, mucho más
+    que el reino por quien me encubro.)
+ESTELA:
+    (No te quiero hacer pesar.
+    ¿Qué tengo agora de hacer?)
+RUGERO:
+    (Di que has de ser su mujer.)
+ESTELA:
+    (¿Y aqueso qué es?)
+RUGERO:
+    (Engañar.)
+ESTELA:
+    (¿Y es bien hecho?
+RUGERO:
+    (Amor y guerra
+    aquesta licencia dieron
+    desde que los hombres fueron
+    ambiciosos de la tierra.)
+REINA:
+    ¿Cuándo acabarás de hablar
+    con Rugero, embajador?
+ESTELA:
+    Hablamos de tu valor
+    con que saliste del mar,
+    y que tenemos por cierto
+    que en la ciudad entrarás.
+REINA:
+    Y, di, ¿qué más?
+ESTELA:
+    Fue lo más
+    que asentamos por concierto
+    que yo al fin sea tu esposo.
+REINA:
+    No quiero mayor riqueza,
+    Rugero, que tu belleza.
+ESTELA:
+    En ser tuyo soy dichoso.
+    Pobre caballero soy,
+    más de lo que tú imaginas.
+REINA:
+    Tus partes son perigrinas;
+    contenta contigo estoy,
+    mas que no cuantas coronas
+    de imperios tiene la tierra.
+ESTELA:
+    Comience, mi bien, la guerra.
+REINA:
+    Echaré mil Barcelonas
+    por el suelo en tu servicio.
+ESTELA:
+    (Perdida esta necia está.)
+RUGERO:
+    (A todos nos tiene ya,
+    dulce Estela, sin juicio.)
+REINA:
+    ¡Hola! Ese fuerte escuadrón
+    camine luego a la puerta.
+SOLDADO:
+    Ya Leonardo le concierta.
+ESTELA:
+    ¿Qué lanzas?
+SOLDADO 2:
+    Cuatro mil son.
+ESTELA:
+    ¿Qué infantes?
+SOLDADO:
+    Serán seis mil.
+ESTELA:
+    Toca las cajas.
+REINA:
+    ¡Marchemos!
+[Vanse la Reina y soldados]
+ESTELA:
+    Agora, mi bien, ¿qué haremos?
+RUGERO:
+    Con ánimo varonil
+    esforzaré mi fortuna
+    hasta ver en lo que para.
+ESTELA:
+    Que ha menguado es cosa clara.
+RUGERO:
+    Pues crecerá como luna.
+ESTELA:
+    Ya la gente va marchando.
+RUGERO:
+    Poca defensa hallarán.
+ESTELA:
+    Ven, no te maten.
+RUGERO:
+    No harán.
+    Vaya Perote guardando
+    tu persona, porque pueda
+    darme aviso en Barcelona.
+PEROTE:
+    Haz cuenta, si amor me abona,
+    que con un Hércules queda,
+    que daré, si puede Amor
+    dar fuerza a una flaca mano,
+    cuchillada de villano
+    con ánimo de señor.
+[Vanse, y salen el Duque y soldados]
+DUQUE:
+    Arrepentido estoy de no haber dado
+    a Rugero favor, siendo Moncada.
+    Marchando con mi ejército he llegado
+    a esta ciudad de ejército cercada.
+    ¿Qué gente es esta? Porque no ha pasado
+    por Aragón agora aquesta armada.
+SOLDADO 1:
+    Las banderas se ven muy a la clara,
+    y ellas nos muestran bien si se repara,
+    gran señor, que esta gente es extranjera.
+SOLDADO 2:
+    Esta es, señor, la reina siciliana,
+    que de Mallorca la venganza fiera
+    viene a intentar como piadosa hermana
+    del Príncipe ya muerto en su ribera.
+DUQUE:
+    No [……………………………..]
+    mereció menos noble sepultura;
+    será el amor igual a su hermosura,
+    Pues, aunque tenga su favor Rugero,
+    yo no me excuso de que tenga el mío.
+    Entre los de Sicilia mostrar quiero,
+    como español y aragonés, el brío,
+    y si le cobró su amistad, espero,
+    perdida por un loco desvarío,
+    de casalle por fuerza con mi hermana.
+SOLDADO 1:
+    ¡Gallarda va la gente siciliana!
+DUQUE:
+    ¡Ea, soldados nuestros, a la puerta,
+    que no resisten mal los catalanes!
+SOLDADO 1:
+    Es gente valerosa, mas advierta
+    se la darán los mismos capitanes.
+DUQUE:
+    Rugero es señor o, como es abierta
+    la ciudad, los más fuertes y galanes
+    no han de hacer resistencia.
+SOLDADO 2:
+    Así lo creo.
+DUQUE:
+    ¡Vamos, pues, a mostrar mi buen deseo!
+[Vanse, y sale el Conde y el capitán]
+CONDE:
+    Basta, soldados, no más.
+    Ya, catalanes valientes,
+    confieso que peleáis
+    como quien vencer no quiere.
+    Amor tenéis a Rugero,
+    y como le veis presente,
+    entregáisle la ciudad.
+CAPITÁN:
+    Bien dices, señor, bien temes,
+    mas es gente natural,
+    que no hay temor que se entreguen,
+    aunque los tiranizaba,
+    y perdona, que me mueve
+    la justicia de Rugero
+    y la verdad, mas, si quieres,
+    entraré a morir por ti.
+CONDE:
+    No, capitán Fabio, tente.
+    Yo conozco que estas cosas
+    otro más alto las mueve;
+    yo tengo el justo castigo
+    del que despierta a quien duerme.
+CAPITÁN:
+    Pues, ¿qué haremos, que a palacio,
+    Conde, vitoriosos vienen?
+CONDE:
+    Pedir perdón de las vidas,
+    que esto basta que nos dejen.
+[Vanse, y sale el Duque, Reina y soldados]
+REINA:
+    Tu ayuda fuera importante,
+    si le resistieran.
+DUQUE:
+    Cree
+    que aunque Rugero es mi deudo
+    le negué el favor presente,
+    y que más vine por ti,
+    que a la misma fama ecedes
+    con ese valor heroico.
+REINA:
+    Basta, Duque, que pretendes
+    juntar a Marte y Amor,
+    que es lo flaco con lo fuerte,
+    pues con la espada en la mano
+    veo que así te enterneces.
+DUQUE:
+    Hame enternecido el alma,
+    hermosa Dionisia, verte
+    con más divino valor
+    que romanos y atenienses.
+[Sale el Conde y el capitán]
+CONDE:
+    A tus pies, aunque los hombres
+    el rendirse a las mujeres
+    tienen por grande flaqueza,
+    quiero yo, Dionisia, verme,
+    que la que con tal valor
+    a tantos hombres ecedes
+    bien es que los hombres rindas.
+REINA:
+    ¡Álzate y dime quién eres!
+CONDE:
+    ¡El Conde soy!
+[Sale Estela, y Rugero y Perote]
+RUGERO:
+    Ya rendido
+    la Reina en sus plantas tiene
+    el Conde, tu padre.
+ESTELA:
+    Soy
+    su hija; a llorar me mueve.
+REINA:
+    La justicia de Rugero
+    que tienes, conde, presente
+    movió mis armas, Anselmo,
+    pues contra todas las leyes,
+    tan divinas como humanas,
+    este condado posees.
+    Fuera deso, es ya mi esposo
+    y como su hacienda y bienes
+    lo vengo a cobrar por él.
+CONDE:
+    Por justo derecho puedes.
+REINA:
+    Llega, Rugero de Moncada,
+    llega, esposo mío, y dente
+    la posesión de tu estado,
+    que justamente mereces.
+    Pero hasme de dar la mano
+    presente el Conde.
+CONDE:
+    Si vienes
+    a burlarme, reina bella,
+    aunque soy tu preso, advierte
+    que este mancebo que traes,
+    y por ventura inocente,
+    no es Rugero de Moncada.
+REINA:
+    ¡Ay, cielo santo! ¿Quién eres
+    que engañada me has traido?
+ESTELA:
+    Mujer soy; Rugero es éste,
+    que porque estaba casado
+    conmigo secretamente
+    tomé su nombre.
+REINA:
+    ¡Este engaño,
+    esta traición, este aleve
+    haré yo satisfacer,
+    vil Rugero, con tu muerte!
+    Al Duque de Urgel y al Conde
+    hago en la causa jüeces,
+    y a Rugero desafío.
+RUGERO:
+    Para que de mí te vengues
+    te doy desnuda mi espada.
+    Amor fue causa que fuese
+    embajador de mí mismo,
+    mas no tan villanamente
+    que te engañase, señora,
+    porque Estela, si lo adviertes,
+    te dio palabra de esposa,
+    y della es bien que te quejes,
+    y que con ella te cases
+    te doy licencia
+REINA:
+    ¿De suerte
+    que ella sola me ha engañado?
+DUQUE:
+    Es verdad, pero bien puedes
+    trocar por Rugero al Duque,
+    supuesto que tú mereces
+    no duques de Urgel ni condes
+    de Barcelona, mas reyes.
+ESTELA:
+    Dale, señora, la mano;
+    y tú, padre, pues ya puedes
+    a Rugero como padre.
+CONDE:
+    Yo quiero.
+REINA:
+    Amor, pues no quieres
+    que dos mujeres se casen,
+    que se gocen dos mujeres,
+    al Duque la mano doy.
+DUQUE:
+    España te lo agradece.
+ESTELA:
+    Y a mí, Rugero, los brazos.
+CAPITÁN:
+    ¡Dios, por quien es, os aquiete!
+PEROTE:
+    Y mis narices y orejas,
+    ¿eran barro tantas veces?
+RUGERO:
+    Alcaide de la ciudad
+    te hago.
+PEROTE:
+    ¡Dios te prospere!
+    Ningún discreto señor
+    a su enemigo despierte.
+RUGERO:
+    Y aquí, senado, se acaba
+    El despertar a quien duerme.

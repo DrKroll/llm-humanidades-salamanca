@@ -1,0 +1,1572 @@
+# El erario y monte de la piedad
+Autor: Mira de Amescua
+
+[Salen acuchillándose la Herejía y la Gentilidad, y después de haberse acuchillado un poco dice]
+HEREJÍA:
+    ¿No te rindes?
+GENTILIDAD:
+    No podré.
+HEREJÍA:
+    ¿Quién te ampara?
+GENTILIDAD:
+    Mi valor.
+HEREJÍA:
+    ¿No me temes?
+GENTILIDAD:
+    ¿Qué es temor?
+HEREJÍA:
+    Di, ¿quién eres?
+GENTILIDAD:
+    No lo sé.
+HEREJÍA:
+    ¡Fuerte brazo!
+GENTILIDAD:
+    ¡Brazo fuerte!
+HEREJÍA:
+    ¡Bravo estás!
+GENTILIDAD:
+    ¡Y bravo estás!
+HEREJÍA:
+    Reñiremos más.
+GENTILIDAD:
+    Y más.
+HEREJÍA:
+    ¿Hasta cuándo?
+GENTILIDAD:
+    Hasta la muerte.
+HEREJÍA:
+    ¿Eres católico?
+GENTILIDAD:
+    No.
+HEREJÍA:
+    Pues tu amigo soy; no quiero
+    sacar contra ti el acero.
+GENTILIDAD:
+    Eso mismo digo yo.
+HEREJÍA:
+    Dame esa mano.
+[Sale la Seta de Mahoma, que es África]
+ÁFRICA:
+    ¿Qué es esto?
+    ¿Los dos reñís cuando debe
+    teñir campañas de nieve
+    sangre católica?
+HEREJÍA:
+    Presto
+    será, con nuestra amistad,
+    la vitoria vuestra y mía;
+    porque yo soy la Herejía.
+GENTILIDAD:
+    Y yo la Gentilidad.
+ÁFRICA:
+    Yo la seta de Mahoma.
+HEREJÍA:
+    No te había conocido.
+    Recelos vanos han sido.
+    Amigo, los brazos toma.
+[Abrázanse]
+GENTILIDAD:
+    Con que tu favor nos des,
+    no ha de haber desde este día
+    católica monarquía.
+ÁFRICA:
+    Amigos somos los tres.
+HEREJÍA:
+    Esta católica unión,
+    que con rayos de tres soles
+    en los reinos españoles
+    obstentan más reflexión;
+    este reino que dilata
+    sus términos al poniente,
+    donde alternativamente
+    en tumba y cuna de plata
+    el sol nace, el sol espira;
+    reino católico y santo,
+    que a los reinos del espanto
+    con sus portentos admira;
+    nuestro enemigo ha de ser,
+    y sobre sus sienes bellas
+    no habrá corona de estrellas
+    con inmortal rosicler.
+GENTILIDAD:
+    Un tiempo la perseguí
+    con afecto singular,
+    y con su sangre ese mar
+    se tiñó de carmesí.
+    Tanta, pues, se derramaba
+    que en las campañas fieles
+    sólo nacieron claveles,
+    porque sangre las regaba;
+    mas, como pronosticado
+    estaba por mi tormento
+    que era sangre el fundamento
+    deste edificio sagrado,
+    mientras más la derramé
+    más la fábrica crecía.
+    Hízose al fin monarquía,
+    dueño católico fue
+    de Europa, en toda la tierra
+    sonó su nombre, que ansí
+    David lo dijo, y a mí
+    en las cárceles me encierra.
+    De los montes y los mares,
+    que aun los mapas ignoraron,
+    al poniente se pasaron
+    mis oráculos y altares;
+    allí pretendo asistir
+    para defender la entrada
+    a esa iglesia coronada
+    del estrellado zafir.
+ÁFRICA:
+    Yo en España levanté
+    las lunas de mis banderas.
+HEREJÍA:
+    De sus cristianas esferas
+    te ha arrojado; bien lo sé.
+ÁFRICA:
+    Pues, si tomamos agora
+    armas contra su poder,
+    lágrimas ha de verter,
+    ya que la llaman aurora.
+HEREJÍA:
+    Si nos unimos los tres,
+    ¿qué fuerzas le han de bastar?
+    Los mares pienso infestar
+    de ocidente, porque des
+    cuidados en el levante;
+    que si dos mares le ciñen,
+    y esos en sangre se tiñen,
+    mal blasonará arrogante.
+    Pues soy rey del aquilón,
+    cualquier provincia del norte
+    haré que sus pinos corte,
+    trasladando a la región
+    de los cristales las selvas;
+    que, viviendo yo en el mar,
+    las Indias haré temblar.
+GENTILIDAD:
+    Cuando con los rayos vuelvas
+    de Apolo por el oriente,
+    en ese reino divino
+    harás siempre tu camino;
+    que es tan grande y eminente
+    que no lo perdió de vista
+    jamás el sol.
+HEREJÍA:
+    Dices bien;
+    favor tus playas me den
+    para tan alta conquista.
+GENTILIDAD:
+    En mis reinos orientales
+    asentarás fatorías,
+    para asombrar, herejías,
+    que son las hidras fatales
+    del veneno y de la muerte;
+    y en los mares del ocaso
+    abrirán los golfos paso
+    a tus naves, para verte
+    en mis regiones y climas
+    dilatando tu poder.
+HEREJÍA:
+    Nuevas islas pienso hacer,
+    si tú me alientas y animas;
+    y tú, a quien bárbara seta
+    llaman por la confusión
+    de la torpe religión
+    que ha soñado tu profeta,
+    mis intentos encamina,
+    cristianas costas rodea.
+    África en la lengua hebrea
+    «pul» se llama, que es ruina.
+ÁFRICA:
+    Soylo deste reino, pues;
+    y allá en la corte suprema
+    el rey católico tema
+    la malicia de los tres.
+    Los puertos, calas y senos
+    de sus mares sé muy bien.
+GENTILIDAD:
+    Hagamos que siempre estén
+    de cosarios moros llenos.
+HEREJÍA:
+    Y los que en África tiene
+    sitiar podemos, que ansí
+    temblará su rey de mí.
+GENTILIDAD:
+    Otra cosa nos conviene:
+    dentro de su reino mismo
+    debemos sembrar el daño.
+HEREJÍA:
+    Yo causaré con mi engaño
+    un confuso barbarismo
+    en la moneda, de suerte
+    que, alterándolo yo todo,
+    apenas hallen el modo
+    para su remedio. Advierte:
+    nervio de los reinos fue
+    la moneda; nervios son
+    desta católica unión
+    los artículos de fe,
+    que por esto se han llamado
+    artículos, y, al pagar
+    cierto tributo en el mar,
+    lo que es de César ha dado
+    a César su mismo rey.
+    Ansí que asentado queda
+    que son celestial moneda
+    los preceptos de su ley.
+    Yo, pues, quiero introducir
+    moneda falsa, opiniones
+    erradas que confusiones
+    les causen para estinguir
+    mis errores, y la plata
+    de la verdad sacaré
+    de ese reino cuya fe
+    por el orbe se dilata.
+GENTILIDAD:
+    Ansí harás que suban luego
+    los precios, y deste modo
+    es fuerza alterarse todo,
+    su gobierno y su sosiego;
+    que la moneda abundante,
+    con estrínseco valor,
+    hará su precio menor,
+    y hallarán de aquí adelante
+    subidas todas las cosas,
+    sin saber cómo, de suerte
+    que tú vengas a valerte
+    de tus máquinas famosas,
+    contrahaciendo su moneda
+    y haciendo tu apostasía,
+    que esa insigne monarquía
+    gobernarse bien no pueda.
+HEREJÍA:
+    Bien está ordenado así.
+    Todas las cosas del trato
+    y comercio, sin recato
+    han de subir desde aquí.
+    Sembremos esta cizaña
+    en el reino, sin reparo;
+    que, por el Héspero claro,
+    podremos llamarlo España
+    Vesperia.
+GENTILIDAD:
+    Y di porque al sol
+    compite su claridad
+    la católica verdad
+    y la fe del español.
+HEREJÍA:
+    ¡Al arma, pues!; mar y tierra
+    temblando estén de tres martes.
+ÁFRICA:
+    Embiste por todas partes.
+    ¡Guerra contra España!
+TODOS:
+    ¡Guerra!
+[Tocan alarma y éntranse metiendo mano a las espadas, y luego tocan chirimías y sale la Justicia, con una espada en la mano derecha y un peso en la izquierda, y la Piedad]
+JUSTICIA:
+    Ministros del Rey eterno
+    un profeta nos llamó,
+    y he de preferirte yo
+    en las cosas del gobierno.
+    Divina justicia soy.
+    En aquesta monarquía
+    mano derecha es la mía,
+    que hiero y los golpes doy,
+    y tú, Piedad, los repara;
+    que en batalla tan estrecha
+    yo soy la mano derecha,
+    tú la izquierda.
+PIEDAD:
+    Cosa es clara
+    que en ti los ojos dormidos
+    velan con suma atención.
+JUSTICIA:
+    Piedad, tú tienes razón.
+    Regálame los oídos
+    con tu voz; que al tribunal
+    pasar quiero. El reino espera.
+    Tú has de ser mi camarera.
+    Lleva esa falda inmortal,
+    pues su estrellado valor
+    zafir del impíreo fue.
+    Canta, Piedad.
+PIEDAD:
+    Sí haré,
+    para templar tu rigor.
+[Canta la Piedad, llevando la falda o manto, y la Justicia se va poco a poco al tribunal, que es una silla con un dosel, y siéntase la Justicia]
+PIEDAD:
+    ¡Alerta, que la Justicia
+    va a su santo tribunal!
+    Guárdese quien obra mal;
+    no le engañe su malicia.
+    En el reino de la fe
+    la Justicia ha presidido,
+    y su peso esclarecido
+    el signo de Libra fue.
+    Atenta a su voz esté
+    la fábrica celestial.
+    Guárdese quien obra mal,
+    y no le falte la fe.
+JUSTICIA:
+    Acentos son regalados;
+    mucho gusto de escucharte.
+PIEDAD:
+    El reino pretende hablarte,
+    dividido en dos estados:
+    de los nobles y pecheros.
+JUSTICIA:
+    Entren, pues.
+PIEDAD:
+    Licencia os doy.
+[Entra la Nobleza, de galán, y la Simplicidad, de villano]
+NOBLEZA:
+    No te turbes.
+SIMPLICIDAD:
+    Eso no;
+    monas de los caballeros
+    somos, si nos entonamos,
+    los villanos.
+NOBLEZA:
+    ¡Qué deidad!
+    ¡Qué hermosura y gravedad!
+    ¿Cuándo dio Chipre ni Samos
+    tal belleza?
+SIMPLICIDAD:
+    ¿Cuándo vio
+    chinche pisamos tal cosa?
+    ¡Qué josticia tan hermosa!
+    Si ella me prendiera, yo
+    no me quijera soltar.
+NOBLEZA:
+    Simplicidad.
+SIMPLICIDAD:
+    ¿Qué me quieres?
+NOBLEZA:
+    Haz lo que yo.
+SIMPLICIDAD:
+    ¿Cómo huere?
+NOBLEZA:
+    Tienes de saber hablar.
+SIMPLICIDAD:
+    Gracias a Dios luenga tengo
+    sin pepita. Sé comer,
+    ¿y hablalla no he de saber?
+    ¿Soy yo bestia, o a qué vengo?
+NOBLEZA:
+    Pues yo turbado me siento;
+    que esta divina hermosura,
+    con los rayos de luz pura,
+    deslumbra mi entendimiento.
+    ¡Qué belleza singular!
+    La parda garza en su vuelo,
+    la estrella girando el cielo,
+    la nave surcando el mar,
+    la flor en su ameno prado,
+    la planta en su primavera,
+    cada elemento en su esfera,
+    tal belleza no han mostrado.
+    Suspenso y enmudecido
+    me ha dejado.
+SIMPLICIDAD:
+    Ahí son llegar
+    con buen ánimo y habrar.
+[Llega turbado y vuélvese atrás]
+NOBLEZA:
+    Llega tú, que estoy perdido.
+SIMPLICIDAD:
+    Que me prace; záfil es
+    eso, peroña. Señora,
+    aquí están... Habre él agora;
+    verá cómo habro después.
+NOBLEZA:
+    ¡Cómo la vista arrebata!
+    ¡Cómo eleva el corazón!
+    Ni el alma dita razón
+    ni la lengua se desata.
+    Llega, pues, Simplicidad;
+    dile tú lo que no sé.
+SIMPLICIDAD:
+    Pues eso yo lo diré.
+[Acomete, y vuélvese a él]
+    ¿Yo turbarme? Sí, en verdad.
+    ¿No será mucho mijor
+    que él se lo diga primero?
+NOBLEZA:
+    Mis turbaciones, grosero,
+    son turbaciones de amor.
+SIMPLICIDAD:
+    Dígale él seis necedades,
+    que yo le diré otras tantas.
+NOBLEZA:
+    De su beldad no te espantas,
+    ni te deslumbran deidades;
+    habla sin la voz turbada.
+SIMPLICIDAD:
+[Va a ella]
+    Enamorados venimos
+    della los dos y decimos...
+[Vuelve]
+    Pero no decimos nada.
+    ¡Desta va! Mírenos, ama,
+    nosotros dos somos dos,
+    y Dios es hijo de Dios,
+[Ap]
+    (y ella es una hermosa dama).
+    El cielo es alto; quien quiere
+    su hermosura no hace mal.
+    El hombre es un animal
+    cuando nace y cuando muere.
+    Cuidado traigo conmigo;
+    que jumento no me iguala.
+    ¡Llegue él, mucho enhoramala,
+    que no sé lo que me digo!
+JUSTICIA:
+[Ap.]
+    (Miedo y respeto les doy).
+    ¿Os habéis turbado?
+SIMPLICIDAD:
+[Ap]
+    ¡Agora
+    lo echa de ver!
+NOBLEZA:
+    Sí, señora;
+    pero disculpado estoy.
+    Cualquier objeto estremado
+    nos deja siempre excedidos
+    nuestros humanos sentidos.
+    El cristal precipitado
+    del Nilo al mar sordos deja
+    los vecinos moradores.
+    La miel, que labra de flores
+    con su artificio la abeja,
+    estraga el gusto. El olfato
+    más se relaja y agravia
+    con aromas del Arabia.
+    El sol, que es cifra y ornato
+    de los cielos, enflaquece
+    la vista en medio del día.
+    La nieve, cándida y fría,
+    el tacto nos entorpece.
+    De modo que los sentidos,
+    incapaces e imperfetos,
+    con eminentes objetos
+    antes quedan confundidos.
+    ¿Qué mucho, pues, que despojos
+    fueran sentidos humanos
+    del cristal de vuestras manos,
+    de la luz de vuestros ojos,
+    del olor de vuestro aliento,
+    de esa nevada hermosura,
+    y de la inmensa dulzura
+    de esa voz que admiro y siento?
+JUSTICIA:
+[Mirándole como que no le mira]
+[Ap]
+    (¡Qué discreto y qué galán
+    es el reino que gobierno!
+    Semejante es al eterno
+    que cerró su padre Adán.
+    Dalle quisiera un favor.
+    ¡Oh, cómo le estimo y quiero!
+    Mas soy ministro severo;
+    disimulemos amor).
+[Muy severa]
+    Si la turbación no es mucha,
+    proponed vuestra embajada.
+NOBLEZA:
+[Ap.]
+    (El alma siento alentada).
+    Pues me das licencia, escucha:
+    A ti que eres Justicia soberana,
+    a ti que eres el rey a quien adoro,
+    católica virtud, bella mañana,
+    que administra la luz con rayos de oro,
+    atributo de Dios en forma humana,
+    que pesas en balanzas el tesoro
+    del Padre eterno, como Job decía,
+    con divina y hermosa valentía,
+    a ti vengo afligido y cuidadoso;
+    que el rey del aquilón, el rey del norte,
+    después que decendió, quizá invidioso
+    de las eternas pompas de tu corte,
+    haciendo que ese mar azul y hermoso
+    en los climas antárticos aborte
+    apóstatas bajeles cada día,
+    pretende disipar tu monarquía.
+    Estos contrarios, pues, fieros dragones,
+    con diez diademas sobre siete cuellos,
+    contrahacen con falsas opiniones
+    nuestra moneda, donde están tus sellos.
+    Si ya la planta en su cerviz no pones,
+    rémoras siendo de sus naves; ellos,
+    gigantes de la selva calidonia,
+    fundarán otra vez a Babilonia.
+    Como nuestra moneda han confundido,
+    su estimación en mucho se ha bajado
+    y el precio de las cosas ha subido,
+    de suerte que tendré mísero estado
+    en tanto que no viere consumido,
+    tanto vellón segunda vez sellado,
+    del tao, y con la sangre del cordero
+    figurado en las sombras del primero.
+    ¡Oh, cuántos sin temor heresiarcas
+    su moneda en tus puertos introducen,
+    y en bajeles sin fe, de viles barcas,
+    a tierra ocultamente la conducen!
+    Si dotores y santos patriarcas
+    arbitrios no me dan y la reducen,
+    si esta desdicha por mis culpas crece,
+    la cristiana república perece.
+    ¿No sintieron temor de tus leones
+    ejércitos de bárbaros, y espanto
+    dieron tus celestiales escuadrones,
+    haciendo mar bermejo el de Lepanto?
+    ¿No tremoló la luz de tus pendones
+    el querub que repite «santo, santo» ?
+    Pues, ¿cómo tu vasallo infiel se atreve
+    con fuego a navegar campos de nieve?
+    Tú, pues, ordena, vence, juzga o mata
+    leyes, contrarios, enemigos, fieles;
+    insiste, persevera, da, desata
+    diluvios, rayos, muertes, ondas crueles.
+    Al rey del austro el aquilón abata
+    armas, banderas, rosas y claveles.
+    Tu católico brazo en cualquier clima
+    mares y montes de alquitrán esprima.
+JUSTICIA:
+    Piedad.
+PIEDAD:
+    ¿Señora?
+JUSTICIA:
+    Yo entiendo
+    que me voy enamorando.
+    ¡Qué bien que me está rogando!
+    ¡Qué bien que me está pidiendo!
+    El pecho en amor enciendo:
+    tú la causa desto has sido;
+    que de amores me has herido.
+    Culpas hay que castigar,
+    el peso no he de inclinar;
+    quede el amor reprimido.
+SIMPLICIDAD:
+    Señora, lleno de afrecho
+    el pan en las plazas dan;
+    danos, Justicia, algún pan
+    que nos haga buen provecho.
+    No hay quien vino puro beba
+    ni barato, yo lo juro;
+    haz que nos den vino puro,
+    aunque sangre el vino sea.
+    Pues, seda y paño una vara
+    nos cuesta el sudor de Adán.
+    Todas las cosas nos dan
+    por los ojos de la cara;
+    que sin lágrimas no hay bien.
+    Todo barato valía
+    cuando Dios a Adán quería;
+    ya no hay cosa que nos den
+    si no es por doblado precio:
+    Remédienlo, ¡pesia tal!
+[Ap]
+    (No la voy habrando mal;
+    lugo dirán que so necio).
+    Y si va a decir verdad
+    vueso puebro, algunas ollas
+    de puerros y de cebollas
+    le cuestan la libertad.
+    Mirad si ciertas han sido
+    muesas lágrimas y quejas;
+    que unas pocas de lantejas
+    un mayorazgo han valido.
+JUSTICIA:
+    Yo quedo bien informada;
+    ya la audiencia se acabó.
+[Levántase]
+[Ap]
+    . (Aunque ansí se declaró,
+    no he de respondelle nada).
+PIEDAD:
+[Canta]
+    ¡Alerta, que la Justicia
+    va a su santo tribunal!
+    Guárdese quien obra mal;
+    no le engañe su malicia.
+NOBLEZA:
+    Vuestra majestad atienda
+    a lo que el reino le dice;
+    porque es razón que me escuche,
+    como es bien que le suplique.
+    Advierta que soy el reino
+    que atentamente le sirve,
+    y que soy esclavo suyo,
+    siendo mi albedrío libre.
+    Las cosas que le he propuesto
+    un breve remedio piden;
+    no hay segura dilación.
+    De dos centellas sutiles
+    montañas de fuego nacen,
+    que con los rayos compiten
+    fulminados en las nubes,
+    que son coronas y timbres
+    de aqueste mundo inferior.
+    En los Proverbios nos dice
+    el prudente Salomón
+    que el sabio no se confíe
+    en el día de mañana,
+    y dos veces lo repite.
+    A tu sacra majestad
+    no son cosas imposibles
+    las que pido; con su brazo
+    otro poder no se mide.
+    Con su favor, con su amparo
+    seré el reino más felice.
+    Y sí lo soy, aunque agora
+    con mal semblante me mire;
+    porque, siendo suyo, basta
+    para que todos me invidien,
+    y de verme con tal dueño
+    soberbio estoy, aunque humilde.
+    ¡Ea!, majestad divina,
+    tiempo es ya que se castiguen
+    atrevimientos del cierzo.
+    Si el cielo os llama Filipe,
+    que significa en hebreo
+    «quien vence monstruos y tigres» ,
+    rompa, rompa vuestra mano
+    las fantásticas cervices
+    de las fieras que en el norte
+    la luz del austro compiten.
+    Si los domésticos daños
+    de vuestro reino se estinguen,
+    y al estado antiguo suyo
+    mereciera reducirse,
+    ¿quién duda que en esos mares
+    varios, fanales confinen
+    con las estrellas? ¿Quién duda
+    que árabes reinos conquiste?
+    Direisme que mis descuidos
+    son dignos de corregirse
+    con este mísero estado
+    en que al presente se vive.
+    Direisme que licenciosos
+    a mis contrarios hicistes,
+    para que el azote sean
+    de mis culpas infelices.
+    Castigos son, y piedad,
+    esas balanzas insignes;
+    no siempre el arco se fleche,
+    no siempre el arco se vibre.
+    No puedo negar errores
+    a quien es eterno lince
+    que corazones penetra,
+    que pensé que no supistes.
+    Pero si, pavón hermoso,
+    las ufanas ruedas hice,
+    ostentando los cien ojos
+    de turquesados perfiles
+    con que os estoy contemplando,
+    no atendáis a los horribles
+    pies de mis culpas; mirad
+    verdes y azules matices
+    de mis plumas, mi esperanza
+    en los verdes toronjiles,
+    mi fe en los lirios azules,
+    mi amor en blancos jazmines.
+    ¿Quién habrá, si yo no os amo,
+    que en las aras sacrifique
+    de vuestro honor, y que aromas
+    de oraciones os envíe?
+    No respondéis, no escucháis;
+    así el rigor me despide
+    de vuestros ojos, ansí
+    no queréis que participe
+    de vuestra piedad aquél
+    que bien un tiempo quisistes.
+    ¡Vive Dios! –y vivís vos,
+    que todo es uno, y quien vive
+    es sólo Dios, porque Dios
+    es Él–, que han de cumplirme
+    vuestros ojos la palabra
+    que tantas veces me distes
+    en Jacob, en Abrahán
+    y en David, que fueron firmes
+    amigos vuestros; y el reino,
+    que patrimonio dijistes
+    vuestro por muchos profetas,
+    ha de verse esta vez libre
+    de apóstatas enemigos,
+    tan abundante y felice
+    que de balde se dé todo
+    cuanto en el cielo tuvistes.
+    ¿Qué cosa es que una manzana
+    cueste un alma, y que el origen
+    desta culpa inmortal sea,
+    sin que el remedio se aplique?
+    Un bocado me has de dar,
+    en espléndidos convites,
+    que valga más que los cielos,
+    y de balde; no imaginen
+    mis opuestos que ha de ser
+    por un precio inascesible.
+    Y también: ¿Qué cosa es
+    que el trataros sea difícil,
+    y sólo el llegar la mano
+    al Santa Santorun quite
+    una vida, y que esté un hombre,
+    siendo sacerdote insigne,
+    sin que le venere el mundo,
+    pues los ángeles le sirven?
+    ¡Vive Dios!, digo otra vez;
+    que habéis ya de permitirme
+    trataros sin tanta costa.
+    No sólo ha de ser posible
+    el tocaros, que aun comeros
+    no tenéis de prohibirme.
+    Dadnos, pues, el pan del Cielo
+    que en el maná prometistes,
+    en el cordero legal,
+    en aquel panal terrible
+    de la boca del león,
+    en los eternos abriles
+    con que el árbol de la vida
+    sus doce frutos repite,
+    en las brasas de Isaías,
+    en las espigas sutiles
+    de Rut, en el gran racimo
+    de Caleb, en el sublime
+    vino de Melquisedec,
+    en la paz de Sulamitis,
+    en el pan negro de Elías,
+    y en los hermosos carmines
+    con que, el día del Fasé,
+    paredes blancas se tiñen.
+JUSTICIA:
+    Bien está; yo lo veré.
+[Ap.]
+    (¡Ay, Piedad, amor es esto!)
+PIEDAD:
+    Dale un favor.
+JUSTICIA:
+    No tan presto.
+PIEDAD:
+    Dale esperanzas.
+JUSTICIA:
+    No sé.
+[Vase la Justicia]
+NOBLEZA:
+    ¡Oh, qué terrible dolor!
+    ¡Oh, qué bien tan dilatado!
+PIEDAD:
+    No vivas desconfiado.
+NOBLEZA:
+    Eso no, que tengo amor.
+    Tú sola, amiga Piedad,
+    puedes templar sus enojos,
+    y en los rayos de sus ojos
+    prometer serenidad.
+    Favoréceme.
+PIEDAD:
+    Sí haré.
+[Vase la Piedad]
+SIMPLICIDAD:
+    ¡Bien despachados quedamos!
+NOBLEZA:
+    En los chopos y en los ramos
+    de los sauces colgaré,
+    sobre los corrientes ríos
+    de Babilonia, instrumentos
+    cuyos sonoros acentos
+    quejas son y llantos míos.
+SIMPLICIDAD:
+    Muesa desdicha porfía.
+NOBLEZA:
+    Ten ánimo, ten consuelo;
+    porque quiere bien el Cielo
+    a quien trabajos envía.
+SIMPLICIDAD:
+    Podré decir que me holgara
+    que no me quijera tanto.
+NOBLEZA:
+    Calla, simple, que es el llanto
+    una prodigiosa vara
+    de Moisés.
+SIMPLICIDAD:
+    Cierto jodío
+    a muesa ley se pasó,
+    y lugo se le cayó
+    una casa, y un navío
+    se le perdió en alta mar.
+    Y uno le daba consuelo;
+    que eran amores del Cielo,
+    que ansí suele regalar.
+    Y él respondió: «¡Tanto amor
+    en tan poco tiempo!»
+NOBLEZA:
+    Calla;
+    que en tus palabras se halla
+    poca fe, poco temor.
+[Sale la Piedad]
+PIEDAD:
+    Ya la Justicia ha pedido
+    que algunos arbitrios den
+    para remediarte bien;
+    y, aunque ella los ha sabido,
+    quiere que del hombre sean,
+    porque ayude de su parte.
+NOBLEZA:
+    No conviene descuidarte;
+    tus hermosos ojos vean
+    la pena de dos amantes
+    que han de amar hasta morir.
+SIMPLICIDAD:
+    Para que vuelva a salir,
+    será bien que otra vez cantes.
+[Canta la Piedad]
+PIEDAD:
+    Arroyos, que abril desata,
+    llevad a la mar mis penas,
+    tropezando en azucenas,
+    volando en alas de plata.
+[Sale la Justicia con sus insignias]
+JUSTICIA:
+    ¿Qué me quieres? ¿Qué porfías
+    con esas sonoras voces?
+    Tú, Piedad, pues que conoces
+    las ansias y fuerzas mías,
+    si en las altas jerarquías
+    a tu dulce voz me niego,
+    lloviendo al abismo luego
+    inteligencias hermosas,
+    como blancas mariposas
+    cuando se arrojan al fuego;
+    ¿no me viste allí esgrimir
+    iras, muertes, rayos, penas,
+    más que la mar tiene arenas,
+    más que estrellas el zafir,
+    más que flores el Sanir?
+    Si esto hago, si esto digo,
+    con tus voces no me obligo
+    a que bajen en Sión
+    las balanzas del perdón
+    y suban las del castigo.
+    Y tú, que has desconfiado,
+    viste mi brazo cruel,
+    que en las torres de Babel
+    máquinas ha derribado,
+    y los cielos han tronado
+    al golpe de la caída,
+    y la tierra estremecida
+    trastornó montes creyendo
+    que era un borrón estupendo
+    de la imagen de la vida.
+    Si me viste con pesares
+    de criaturas tan ingratas,
+    rompiendo las cataratas
+    de los cielos, que eran mares,
+    y los soberbios altares
+    de montes idolatrados
+    viste de agua coronados,
+    ¿cómo de mí desconfías
+    que venceré apostasías
+    de espíritus obstinados?
+[Ap.]
+    (¡Ay, Piedad, no son enojos!
+    ¡Ay, hombre, no son agravios!
+    El rigor está en los labios,
+    el amor está en los ojos).
+    Salgan pálidos y rojos
+    arcos de paz, y alegrías
+    den al hombre en estos días.
+PIEDAD:
+    Los arbitrios han traído.
+[Salen Esaías, David y Salomón, cada uno con su papel]
+ESAÍAS:
+    Y el primero que ha venido
+    es el profeta Esaías.
+    Para remediar los daños
+    de la moneda, señora,
+    dos arbitrios traigo agora,
+    luz y bien de nuestros años.
+[Lee la Justicia]
+JUSTICIA:
+    Panen nostrun comedemus,
+    et vestimentis nostris operiemur
+    Bueno es el título, ansí
+    se consiga el fin después.
+DAVID:
+    De David es éste, y es
+    un salmo que yo escribí.
+JUSTICIA:
+[Lee]
+    Qui pecunian suan
+    non dedid ad usuran
+SALOMÓN:
+    Pues que tanta ciencia ha dado
+    vuestra mano a Salomón,
+    estos mis arbitrios son.
+JUSTICIA:
+    Yo los veré con cuidado.
+[Lee]
+    Acipite diciplinan mean
+    ed non pecunian
+    La eterna sabiduría
+    los arbitrios ha de ver
+    y los ha de resolver.
+[Vanse todos; quedan la Nobleza y la Simplicidad]
+SIMPLICIDAD:
+    Yo también dalle querría
+    mis arbitrios.
+NOBLEZA:
+    En las listas
+    de los cuerdos hay muy pocos.
+SIMPLICIDAD:
+    ¿Cuándo los simples y locos
+    no se meten arbitristas?
+[Saca un memorial]
+[Lee]
+    República reformada,
+    y tope donde topare:
+    Todo barbado que hablare
+    en tiple no ciña espada.
+    Hermosa que rica sea
+    de balde se ha de casar,
+    y su dote han de guardar
+    para casar a la fea.
+    Cuando los años contemos,
+    en la cuenta no pongamos
+    los días que nos purgamos,
+    ni los días que perdemos.
+NOBLEZA:
+    Arbitrios tuyos se llamen.
+    Vente ya, Simplicidad,
+    que nos manda la Piedad
+    que lágrimas se derramen.
+SIMPLICIDAD:
+    ¿No fuera mucho más bueno
+    que nos mandara comer
+    y dormir?
+NOBLEZA:
+    ¿Eso ha de hacer
+    hombre de trabajos lleno?
+    Comer y dormir, ¿no ves
+    que es de bestias?
+[Vase la Nobleza]
+SIMPLICIDAD:
+    ¡Buen consuelo!
+    Hágame bestia a mí el Cielo,
+    si eso de las bestias es;
+    aunque no, que yerba y paja
+    malos guisadillos son.
+    En dormir diera a un lirón
+    dos echadas de ventaja.
+[Sale la Herejía]
+HEREJÍA:
+[Ap]
+    (Ya que estos puertos profano,
+    no habrá ninguno que pueda
+    introducir mi moneda
+    tan bien como este villano).
+    ¿Hay quien quiera mi vellón
+    por plata y oro de Ofir?
+    ¿Hay quien se quiera salir
+    desta católica unión?
+SIMPLICIDAD:
+    No hay quien quiera, que es hermosa;
+    porque en ella soldemente
+    el hombre se salva; y miente
+    el que dijiere otra cosa.
+HEREJÍA:
+    Simplicidad.
+SIMPLICIDAD:
+    ¿Quién diremos? ;
+    que no sé cómo se llama.
+HEREJÍA:
+    Soy aquel dragón que brama
+    atronando los estremos
+    de la tierra y de los mares;
+    soy la estrella que cayó,
+    y Juan el águila vio,
+    sobre profanos altares.
+SIMPLICIDAD:
+    ¿Y qué buscáis por aquí?
+HEREJÍA:
+    Moneda te quiero dar.
+SIMPLICIDAD:
+    Sabéis caer y bramar,
+    ¿y tenéis piedad de mí?
+HEREJÍA:
+    ¿No ves ques pan solamente
+    el que te dan a comer,
+    y te obligan a creer
+    que es carne y es sangre?
+SIMPLICIDAD:
+    Él miente,
+    que a decir no se lo envío
+    con nadie, ques pan de vida
+    el que nos dan por comida;
+    quien lo niega es un jodío.
+HEREJÍA:
+    ¿No ves pan? ¿No gustas pan?
+SIMPLICIDAD:
+    Yo no me meto en dibujos;
+    éticos serán y brujos
+    los que lo dicen.
+HEREJÍA:
+    Si están
+    tantas partes divididas,
+    ¿cómo puede estar ansí
+    Dios en todas?
+SIMPLICIDAD:
+    Como sí.
+    Como es señor de las vidas,
+    a pie juntillas lo creo;
+    ansí lo dice mi amo.
+    Iglesia, Iglesia me llamo.
+[Tápese los ojos]
+    Cierro los ojos, no veo;
+    yo no sé bachillerías.
+    Todo lo puede Dios her,
+    pues al barro dio este ser.
+HEREJÍA:
+    Recibe monedas mías.
+SIMPLICIDAD:
+    Son monedas de vellón
+    de un león.
+HEREJÍA:
+    Has dicho bien,
+    porque soy un león también.
+SIMPLICIDAD:
+    Pues guarda, guarda el león,
+    guarda el león.
+HEREJÍA:
+    Para ignorantes
+    no son discursos gentiles;
+    ingenios quieren sutiles,
+    sofísticos y arrogantes.
+SIMPLICIDAD:
+    Guarda el león.
+HEREJÍA:
+    Tú no has de ser
+    rico ya con mi vellón.
+SIMPLICIDAD:
+    ¡Alerta, guarda el león,
+    que el pan nos quiere morder!
+HEREJÍA:
+    La Justicia he visto allí
+    que sus vitorias blasona;
+    sus premáticas pregona
+    para darme muerte a mí.
+[Van saliendo la música, y luego uno que saca una fuente con una manzana y una guirnalda, y el peso de la Justicia y una caja con unas cedulillas dentro; luego la Justicia, la Piedad, Salomón y la Nobleza. Siéntase la Justicia en su trono en dando vuelta al teatro]
+[Cantan los músicos]
+MÚSICOS:
+    Oigan, oigan los mortales
+    de la corona más rica;
+    que la Justicia publica
+    sus ordenanzas reales.
+    Los remedios son y modos
+    del daño que nos convenga;
+    y así se pregona, venga
+    a la noticia de todos.
+JUSTICIA:
+    Habiéndose consultado
+    con el divino consejo,
+    en quien hubo tres personas
+    de una voz y de un acuerdo,
+    los daños y las miserias
+    que ha padecido este reino,
+    porque, subido el vellón,
+    las cosas suben su precio,
+    porque apóstatas herejes,
+    a esta república opuestos,
+    no introduzgan opiniones
+    que encarezcan sus aciertos,
+    ha parecido ordenar
+    que tengan su cumplimiento
+    las premáticas siguientes;
+    oildas, que voy leyendo.
+[Lee]
+    Nos, el católico rey,
+    único absoluto dueño
+    de cuanto el planeta hermoso
+    alumbra en dos hemisferios,
+    ordenamos que se haga
+    un tribunal estupendo,
+    misericordioso y santo,
+    para castigar aquellos
+    que introdujeren moneda
+    de opiniones y de yerros;
+    conozca la Inquisinción
+    del delito que en mis puertos
+    se cometiere en tal causa.
+SIMPLICIDAD:
+    Aquí chitón y silencio.
+NOBLEZA:
+[Lee]
+    Haya un monte de piedad,
+    un erario que esté lleno
+    de tesoros de la Iglesia,
+    deputación en gobierno
+    general, unida y santa,
+    de cuyo divino gremio
+    otras procedan. En Roma
+    ésta ha de tener su asiento;
+    sus diputados serán
+    la basa angular de Pedro,
+    y después sus sucesores,
+    dando su mismo derecho
+    a todos los sacerdotes.
+    La sangre preciosa y cuerpo
+    del mismo Rey aplicamos
+    para el caudal sempiterno
+    del monte de la piedad.
+    Mi principal fundamento
+    es recibir de los fieles
+    obras y merecimientos;
+    de ciento no han de dar dos,
+    darles sí por uno ciento.
+    Que a todos se les conceda
+    indulgencias por el tiempo
+    que nuestra diputación
+    tuviere por bien; y censos
+    no se tomen de otras leyes
+    y religión, pues es cierto
+    que hallan en ésta socorro.
+    Y que se ponga otro sello
+    expurgando y relajando,
+    condenando y consumiendo
+    la moneda que parezca
+    ser de reinos estranjeros.
+[Lee Salomón]
+SALOMÓN:
+    Y porque de aquí adelante
+    bajen las cosas sus precios,
+    este arancel ordenamos
+    para universal remedio.
+    A todos se dé la gracia
+    que se negaba otro tiempo;
+    una lágrima, un suspiro
+    valga solamente el Cielo.
+    Oza murió por tocar
+    al Arca del Testamento;
+    toquen y coman al Rey
+    solamente por el precio
+    de un dolor.
+SIMPLICIDAD:
+    Todo es barato;
+    ¡vive Cristo, que me huelgo!
+[Lee Salomón]
+SALOMÓN:
+    Y, porque dijo Isaías
+    «los que plata no tuvieron,
+    compren de balde» , de balde
+    tiene de darse asimesmo.
+[Lee la Nobleza]
+NOBLEZA:
+    Los intereses y costas
+    para llevar el comercio
+    de mi palabra a otras partes,
+    moneda de siete sellos,
+    son los siguientes: A Roma,
+    cueste la vida de Pedro
+    y de Pablo; a España, cuesten
+    los dicípulos de Diego;
+    para llevarla a Etiopía,
+    la vida cueste a Mateo;
+    a Armenia, Bartolomé;
+    Tomás, a la India. Sus cuellos
+    son intereses y cambios
+    del pasar este dinero.
+JUSTICIA:
+    Échense suertes también,
+    que en el Levítico vemos
+    y en los Números las suertes
+    con que dividí mi reino.
+    Preciosas joyas y rentas
+    por un interés pequeño
+    en las suertes se han de dar,
+    porque en mis manos dijeron
+    que están las suertes del hombre
+    de David los dulces versos.
+    Ansí lo pronuncio y firmo,
+    ansí lo mando y ordeno.
+TODOS:
+    ¡Viva el Rey!
+HEREJÍA:
+    Porque yo muera
+    entre piélagos de fuego.
+JUSTICIA:
+    Yo depongo los rigores
+    de mi católico peso;
+    la Piedad presida aquí:
+    ocupa, ¡oh Piedad!, mi asiento.
+[Levántase]
+    De justicia y de rigor
+    era el Testamento Viejo;
+    pero ya tiene de ser
+    de amor y piedad el Nuevo.
+    Tú has de presidir por mí.
+PIEDAD:
+    El lugar sagrado aceto;
+    que ya, como dice Pablo,
+    es grande mi sacramento.
+JUSTICIA:
+[Toma el peso]
+    Agora quiero pesar
+    si corresponde el efeto
+    destas premáticas bien
+    al daño que al hombre ha hecho
+    la culpa primera. Pongo
+    aquí la manzana, estremo
+    de la humana inobediencia,
+    ofensa del Rey eterno;
+    pon en esotra balanza
+    esos papeles; veremos
+    si está de todo rigor
+    el mismo Rey satisfecho.
+[Ponen en la una balanza la manzana, y en la otra los adbitrios de manera que pesen más los papeles que la manzana]
+NOBLEZA:
+    Por esos hermosos ojos,
+    señora, a jurar me atrevo
+    que en el peso estoy mirando
+    satisfaciones del Cielo.
+    ¿Quién bastara, sino él,
+    a tan soberano exceso?
+SIMPLICIDAD:
+    ¡Oh, si ansí pesaran todos!
+NOBLEZA:
+    Si sangre está interviniendo
+    del mismo Rey, ¿qué me admiro?
+HEREJÍA:
+[Ap]
+    (Aquí rompo mi silencio,
+    entre dudas, entre penas,
+    entre brasas y entre hielos).
+    Con pasión pesas, Justicia;
+    apasionada te veo.
+JUSTICIA:
+    Dices bien, que estoy pesando
+    con la Pasión de mi Dueño.
+NOBLEZA:
+    Bestia, ¿aquí estás?
+HEREJÍA:
+    Y estaré
+    muchos siglos.
+NOBLEZA:
+    Mi remedio
+    tengo yo en esta balanza;
+    tus amenazas no temo.
+JUSTICIA:
+    Esta guirnalda ha de ser
+    de aquél que con más ingenio
+    dijere cuál es mayor,
+    para más vida y remedio,
+    de las premáticas dichas.
+NOBLEZA:
+    Sentaos, pues, y discurriendo
+    vayan todos.
+SIMPLICIDAD:
+    Vayan, vayan.
+HEREJÍA:
+    En mortal golfo me anego.
+[Siéntase la Justicia]
+SALOMÓN:
+    Sentaos, y yo que soy
+    la humana sabiduría,
+    con ingenio y bizarría
+    principio al discurso doy.
+    Y de parecer estoy
+    que la mayor calidad
+    de las leyes y verdad
+    que para el hombre ha salido
+    es haber instituído
+    este monte de piedad.
+    Si es digno de pena fiera
+    por su natural malicia,
+    si todo fuera justicia,
+    ¿qué esperara, qué tuviera
+    cuando en el peso se viera?
+    Temblara de la venganza;
+    pero ya tiene esperanza
+    que en rigor tan soberano
+    meta la Piedad la mano
+    y derribe la balanza.
+NOBLEZA:
+    Haber los precios bajado
+    de las cosas celestiales
+    sus premáticas reales
+    es el bien más estimado.
+    Mi caudal era el pecado;
+    ¿cómo pudiera comprar
+    gracia y gloria singular
+    un mísero pecador
+    si, por su justo valor,
+    las dos se hubieran de dar?
+    Pero si el precio se mide
+    con nuestro caudal humano,
+    el Cielo está en nuestra mano;
+    porque llega el hombre y pide
+    la gracia que en Dios reside
+    por un jarro de agua fría,
+    por una lágrima pía;
+    que a ser el premio eminente
+    la compraran solamente
+    un arcángel o María.
+HEREJÍA:
+    También la guirnalda espero;
+    aunqués corona de paz,
+    y yo soy el pertinaz
+    león que espanta al cordero.
+    Y digo que el bien primero
+    de esa divina sanción,
+    que las premáticas son
+    del Verbo que hombre ha nacido,
+    es haber instituído
+    una Santa Inquisinción;
+    que, si yo a Dios no temí
+    y la tiemblo, claro está
+    que Dios su poder le da,
+    cuando se le niega a sí;
+    y pues temor me da a mí,
+    con ser el mismo rigor
+    atrevido a mi criador,
+    ¿qué prueba más evidente
+    que ese oficio es solamente
+    la premática mayor?
+SIMPLICIDAD:
+    Yo en la danza entro también,
+    escupo y rompo la tos,
+    por esos trigos de Dios
+    pienso que he de echar; con bien
+    Él me saque; amén, amén.
+    La mayor y la más buena
+    premática que se ordena
+    es, a mi simple verdad,
+    que en el monte de piedad
+    haya hecho el Rey una cena,
+    y que nos den a comer
+    pan del Cielo y dulce vino.
+    Remedio ha sido divino.
+    ¿Qué caudal puede tener
+    este monte de más ser
+    que pan y vino del Cielo?
+    Porque estando en blanco velo
+    siempre el Rey, el Rey lo fía;
+    y no estando, quebraría
+    como los bancos del suelo.
+JUSTICIA:
+    De la guirnalda eres dueño.
+    Tu simplicidad responde;
+    Dios sus misterios esconde
+    al grande y los da al pequeño.
+[Pónesela]
+SIMPLICIDAD:
+    ¿Que yo con este pergeño
+    de perro chino acerté?
+NOBLEZA:
+    No es maravilla; hija fue
+    de los simples la verdad.
+TODOS:
+    ¡Víctor, la Simplicidad!
+HEREJÍA:
+    No es simple quien tuvo fe.
+    Oye, Justicia, el caudal
+    de aquesta diputación
+    es un ente de razón
+    hasta agora; un ente real
+    quiero ver.
+JUSTICIA:
+    Piedad, enseña
+    el bien que has instituído,
+    ya que tu símbolo ha sido
+    una cándida cigüeña.
+PIEDAD:
+    Seguidme todos.
+[Vanse todos. Quedan la Justicia, Simplicidad y Herejía]
+HEREJÍA:
+    Verá
+    el uso y la ejecución
+    de esas premáticas tuyas
+    el que es soberbio Nembrot;
+    quizás contra ellos podré
+    en torres de confusión
+    escalar cielos.
+JUSTICIA:
+    No puedes,
+    si amparo de todas soy.
+[Sale la Nobleza con dos libros]
+NOBLEZA:
+    Estos libros de Lutero,
+    que es moneda de vellón,
+    y de otros heresiarcas
+    se han consumido.
+HEREJÍA:
+    ¡Ah, rigor!
+SIMPLICIDAD:
+    ¡Horadallos!
+JUSTICIA:
+    Nuevo sello
+    disminuya su valor.
+NOBLEZA:
+    A trocar vienen moneda
+    Madalena y un ladrón;
+    la vida quieren trocar
+    con el premio.
+JUSTICIA:
+    Yo lo doy.
+NOBLEZA:
+    A depositar riquezas
+    va llegando un escuadrón
+    de mártires y profetas.
+JUSTICIA:
+    Renta ganen desde hoy.
+NOBLEZA:
+    A probar las suertes vienen
+    de un apostolado dos;
+    ambos justos y ambos santos:
+    Josef y Matías son.
+[Entran Josef y Matías como apóstoles]
+JOSEF:
+    Entrar en suertes queremos.
+    Yo daré, pues justo soy,
+    mi virtud.
+MATÍAS:
+    Yo mi humildad
+    doy por la suerte.
+JUSTICIA:
+    Razón
+    será que alguno las saque.
+[Revuelve las cédulas en la caja, y saca una la Simplicidad]
+    Ya mi mano revolvió
+    las cédulas.
+SIMPLICIDAD:
+    Por Josef
+    ésta saco.
+JOSEF:
+    Ella salió
+    en blanco. Paciencia, Cielos;
+    maravillas son de Dios.
+SIMPLICIDAD:
+    Para Matías es ésta.
+[Saca otra]
+MATÍAS:
+    «Apóstol divino soy» ,
+    dice la cédula. Cielos,
+    ¿esto he merecido yo?
+NOBLEZA:
+    A probar dos suertes viene
+    el grande rey Salomón.
+[Sale Salomón]
+SALOMÓN:
+    Suerte de sabiduría
+    quisiera sacar, y doy
+    desprecios de las riquezas;
+    todas vanidades son.
+SIMPLICIDAD:
+    La suerte saco, tomalda.
+[Saca otra]
+SALOMÓN:
+    ¡Qué celestial resplandor!
+    Ciencia divina me cupo;
+    yo os lo agradezco, mi Dios.
+    Otra suerte he de probar.
+JUSTICIA:
+    ¿Cuál quieres?
+SALOMÓN:
+    Mi salvación.
+JUSTICIA:
+    ¿Y qué das?
+SALOMÓN:
+    Mi idolatría,
+    mi decrepitud, mi amor
+    con penitencia dudosa.
+SIMPLICIDAD:
+    Quiero ver lo que salió.
+[Saca otra, borrada]
+    No sé lo que dice aquí.
+NOBLEZA:
+    Parece que algún borrón
+    sobre lo escrito ha caído.
+SALOMÓN:
+    Leerla sabré mejor.
+    No sé, por Dios, lo que dice;
+    cifra escura es un renglón.
+    Ni sé bien si dice sí,
+    ni sé bien si dice no.
+JUSTICIA:
+    A este modo cada día
+    verás la diputación
+    de mi reino, dragón fiero
+    que veneno derramó
+    entre mis flores; agora
+    escucha la dulce voz
+    con que llega la Piedad
+    a mostrarte su valor.
+[Sale la Piedad en un carro y, a los pies, un dragón de siete cabezas; y canta lo que se sigue]
+PIEDAD:
+[Canta]
+    Al monte de mi piedad
+    lleguen los hombres, pues hoy
+    en la fuente de la Gracia
+    beben celestial licor.
+    Mortales, venid a mí;
+    que ricos tesoros doy,
+    en este carro, triunfando
+    de los cuellos del dragón.
+    ¡Albricias, albricias,
+    oh, reino español;
+    que ya la Justicia
+    te muestra tu sol!
+HEREJÍA:
+    ¿Dónde, pues, está el caudal
+    y la dote que el valor
+    aseguran de ese erario?
+NOBLEZA:
+    No he menester verlo yo
+    para creerlo; mi fe
+    obscurece el arrebol
+    de la nube más hermosa
+    que borda la reflexión
+    de la luz.
+JUSTICIA:
+    En esa nube,
+    ques un disfraz del amor,
+    como al principio se dijo,
+    hallarás tu confusión.
+    Nube hermosa, abre tus hojas,
+    que las azucenas son
+    donde, sobre ramos verdes,
+    muestra el cielo su candor.
+[Ábrese una nube, con música, y parece un arca]
+    El Arca del Testamento
+    es aquélla; ya pasó
+    su figura, porque en ella
+    lo figurado se vio.
+    Arca, que sombra y figura
+    eres del maná de Dios:
+    descúbrenos tu tesoro,
+    huya tu sombra veloz.
+    Allí verás pan de vida.
+[Tocan música y ábrese el Arca, y aparece un cáliz y hostia, y dos ángeles a los lados]
+SIMPLICIDAD:
+    Allí comemos los dos.
+NOBLEZA:
+    Allí los dos nos salvamos.
+HEREJÍA:
+    Allí muero y peno yo.
+JUSTICIA:
+    Allí está del Rey la hacienda.
+SIMPLICIDAD:
+    Allí está mi pan de flor.
+    Allí está mi vino eterno;
+    embriagarme quiero en Vos.
+NOBLEZA:
+    Allí está el árbol de vida,
+    allí el panal del león,
+    el sacrificio de Isac,
+    el trono de Salomón,
+    el racimo dulce y grande
+    de tierra de promisión.
+    Y a vos, senado, os suplico
+    que perdonéis al autor.
+[Cúbrese todo, con música, y éntranse; con que se da fin al famoso auto del Erario y monte de la piedad]

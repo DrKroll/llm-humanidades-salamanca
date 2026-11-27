@@ -54,7 +54,7 @@ Tres cuadernos; cada uno tiene dos partes (A y B).
 | 01 | **Preparar y explorar tus textos:** comprobar GPU y configuración · cargar tu corpus, estadísticas, palabras frecuentes, KWIC | ≈ 30 min | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrKroll/llm-humanidades-salamanca/blob/main/notebooks/taller_llm/01_preparar_y_explorar_tus_textos.ipynb) |
 | 02 | **Del texto al GPT diminuto:** tokenizador BPE · GPT diminuto **desde cero** (curva de pérdida, muestras) · laboratorio de muestreo (temperatura, top-k, top-p) | ≈ 50 min | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrKroll/llm-humanidades-salamanca/blob/main/notebooks/taller_llm/02_del_texto_al_gpt_diminuto.ipynb) |
 | 03 | **Ajuste fino con tus textos:** LoRA sobre Qwen2.5-0.5B-Instruct, antes/después | ≈ 25 min | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrKroll/llm-humanidades-salamanca/blob/main/notebooks/taller_llm/03_ajuste_fino_con_tus_textos.ipynb) |
-| 04 | **Calderón:** preguntas sobre 14 obras en TEI — modelo base vs. RAG vs. ajuste fino (SFT) vs. SFT+RAG; ⭐ opcional: grafo de personajes (networkx) | ≈ 30 min (+5–10 opc.) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrKroll/llm-humanidades-salamanca/blob/main/notebooks/taller_llm/04_calderon_preguntas.ipynb) |
+| 04 | **Calderón:** preguntas sobre 166 obras en TEI — modelo base vs. RAG vs. ajuste fino (SFT) vs. SFT+RAG; ⭐ opcional: grafo de personajes (networkx) | ≈ 30 min (+5–10 opc.) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrKroll/llm-humanidades-salamanca/blob/main/notebooks/taller_llm/04_calderon_preguntas.ipynb) |
 
 Las secciones marcadas con ⭐ **Opcional** se pueden saltar si no hay tiempo.
 
@@ -83,7 +83,9 @@ llm-humanidades-salamanca/
 │   ├── gutenberg/           ← Quijote completo tal como lo ofrece Gutenberg (para P3)
 │   ├── mis_textos/          ← aquí van tus textos
 │   ├── qa/                  ← pares pregunta-respuesta para el extra E1
-│   ├── calderon/tei/        ← 14 obras de Calderón en TEI-XML (solo textos libres, ver FUENTES.md)
+│   ├── calderon/tei/        ← 166 obras de Calderón en TEI-XML
+│   ├── teatro/<autor>/      ← 522 obras más del Siglo de Oro (25 autores; Lope, Mira, Moreto, Rojas, Tirso...)
+│   ├── teatro_indice.csv    ← lista de las 688 obras: autor, título, formato, repo y ruta de origen, edición
 │   └── FUENTES.md           ← procedencia y licencias de los textos
 ├── notebooks/
 │   ├── dia1_python/         ← P1–P3: introducción a Python
@@ -144,12 +146,20 @@ cfg = load_config(overrides={"tiny_gpt": {"max_steps": 300}})
 - [**Unsloth**](https://github.com/unslothai/unsloth): cuadernos de Colab para ajuste fino eficiente — recomendado para ir más lejos.
 - [Hugging Face](https://huggingface.co) `transformers`, `tokenizers` y `peft`; modelos
   [SmolLM2](https://huggingface.co/HuggingFaceTB/SmolLM2-135M) y [Qwen2.5](https://huggingface.co/Qwen/Qwen2.5-0.5B).
-- Textos: [Project Gutenberg](https://www.gutenberg.org); teatro de Calderón: [ARTELOPE/EMOTHE](https://emothe.uv.es)
-  (Universitat de València), [DraCor](https://dracor.org)/TESO y las ediciones de Simon Kroll (ver [`data/FUENTES.md`](data/FUENTES.md)).
+- Textos: [Project Gutenberg](https://www.gutenberg.org); teatro del Siglo de Oro de los corpus de Simon Kroll
+  (`Calderon_TEI`, `corpus`), con textos de [ARTELOPE/EMOTHE](https://emothe.uv.es) (Universitat de València),
+  [DraCor](https://dracor.org)/TESO, CANON60 y otras ediciones citadas en [`data/FUENTES.md`](data/FUENTES.md).
 
 ## 📄 Licencia
 
-Código y materiales: [MIT](LICENSE) © 2026 Simon Kroll. Los textos de `data/sample` y `data/gutenberg` son de
-dominio público; los de `data/calderon` tienen las licencias indicadas en [`data/FUENTES.md`](data/FUENTES.md)
-(uso docente, sin ánimo de lucro, citando la procedencia).
+Código y materiales: [MIT](LICENSE) © 2026 Simon Kroll.
+
+| Textos | Origen | Obras | Licencia |
+|---|---|---:|---|
+| `data/sample`, `data/gutenberg` | Project Gutenberg | 2 (+ Quijote completo) | dominio público |
+| `data/calderon/tei` | repos `DrKroll/Calderon_TEI` (150), `DrKroll/corpus` (2) y primera selección del curso (14) | 166 | dominio público (obras del s. XVII, según S. Kroll); *El príncipe constante*: CC BY-NC-ND 4.0 (EMOTHE) |
+| `data/teatro/<autor>` | repos `DrKroll/corpus` (514) y `DrKroll/Calderon_TEI` (8) | 522 | dominio público (obras de los s. XVI–XVII, según S. Kroll) |
+
+Detalle obra por obra (repositorio y ruta de origen, edición): [`data/teatro_indice.csv`](data/teatro_indice.csv);
+procedencia y criterios: [`data/FUENTES.md`](data/FUENTES.md). Citad siempre la edición de la que procede cada texto.
 Los modelos descargados de Hugging Face tienen sus propias licencias (Qwen2.5-0.5B-Instruct y SmolLM2: Apache 2.0).

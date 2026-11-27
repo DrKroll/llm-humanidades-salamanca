@@ -1,0 +1,5116 @@
+# La doncella Teodor
+Autor: Lope de Vega
+
+JORNADA 1
+
+[Don Felis con una sotanilla de estudiante vistiéndose;Padilla, criado, ayudándole]
+FELIS:
+    Dame herreruelo y sombrero
+    con esta media sotana.
+PADILLA:
+    Aunque mi ignorancia es llana,
+    cogerte a las manos quiero.
+    Apostemos que no sabes
+    cuándo o cómo se llamó
+    sotana.
+FELIS:
+    ¿Importa que yo
+    sepa esas cosas?
+PADILLA:
+    Son graves,
+    y para tu profesión
+    no son de poca importancia.
+FELIS:
+    ¡Lindo humor!
+PADILLA:
+    ¡Brava arrogancia!
+FELIS:
+    Pues ¿de qué importancia son?
+PADILLA:
+    Si lo que un hombre se viste,
+    no sabe lo que es, ¿es bien
+    llamarse estudiante?
+FELIS:
+    ¿A quién
+    ese desatino oíste?
+PADILLA:
+    Yo tengo acá mis librillos
+    que tratan curiosidades.
+FELIS:
+    Eres flor de habilidades.
+PADILLA:
+    Piensan estos mozalbillos
+    que la misma ciencia son,
+    y no saben qué es sotana.
+FELIS:
+    ¿Qué es sotana?
+PADILLA:
+    Sota y Ana.
+FELIS:
+    ¡Notable difinición!
+PADILLA:
+    Un ama un cura tenía,
+    a quien dicen que enseñaba
+    los naipes con que jugaba
+    porque no los conocía.
+    Decíale una mañana:
+    «Éste es siete y éste es as».
+    Reparó en la sota más
+    y dijo: «Aquésta es sota, Ana».
+FELIS:
+    A la cuenta ¿llamarían
+    Ana al ama?
+PADILLA:
+    Sí, señor.
+FELIS:
+    ¡Bendiga el cielo tu humor!
+    ¿Desde entonces se dirían
+    sotanas estos vestidos?
+PADILLA:
+    ¿No lo ves adjetivado?
+FELIS:
+    ¡Bravo ingenio!
+PADILLA:
+    Sotanado.
+FELIS:
+    Dame tus locos sentidos
+    para no sentir mi mal,
+    y toma mi entendimiento.
+PADILLA:
+    Esto es saber con cimiento.
+FELIS:
+    No he visto locura igual.
+[Leonelo]
+LEONELO:
+    Aún no estará levantado
+    don Felis.
+FELIS:
+    ¡Mira quién es!
+PADILLA:
+    ¿Para qué? ¿Ya no lo ves?
+FELIS:
+    ¡Oh, Leonelo!
+LEONELO:
+    ¡Oh, primo amado!
+    ¿Adónde tan de mañana?
+FELIS:
+    A la fe, primo, a lición.
+LEONELO:
+    ¿A lición? Brava afición.
+FELIS:
+    Es la lición soberana
+    y merece este cuidado.
+LEONELO:
+    Días ha que le tenéis,
+    y en cuanto decís y hacéis,
+    un espíritu elevado.
+    Si vais a lición no quiero
+    impediros; si es lición
+    de afición, muy cuerdos son
+    los que llevan compañero.
+    Llevadme, que puede ser
+    que allá os sea necesario,
+    que no hay gusto sin contrario,
+    ni, sin peligro, mujer.
+FELIS:
+    Días ha, primo Leonelo,
+    que por círculos os hablo,
+    que por enigmas os digo
+    la ciencia de mis cuidados.
+    Envuelvo mis pensamientos
+    en jeroglíficos altos,
+    juzgándolos por indignos
+    de nuestro lenguaje humano.
+    La razón ha sido estar
+    en lugar tan reservado
+    que pensé que con decirlos
+    se quejaran de mi agravio.
+    Mas, ya que me da licencia
+    el mismo dolor que paso,
+    para declararle a quien
+    puede ayudarme a pasarlo,
+    sabed que esta gran ciudad
+    como en los tiempos pasados
+    tiene encantamientos hoy,
+    tiene portentosos casos.
+    ¿No habéis oído decir
+    de la cueva y los candados
+    que rompió el rey don Rodrigo
+    cuando en alarbes caballos
+    vio tanto bonete rojo,
+    vio tanto turbante blanco,
+    tanta jineta y adarga
+    y tanto alfanje africano?
+    ¿Y de otra cueva también
+    adonde dicen que entraron
+    muchos que en todas las ciencias
+    salieron doctos y sabios?
+    Pues sabed que aquestas cuevas,
+    primo, no se han acabado;
+    una he descubierto yo,
+    no quiera Dios por mi daño.
+LEONELO:
+    ¿Cueva? ¿Qué decís?
+FELIS:
+    No es cueva,
+    mas desta suerte la llamo,
+    porque, cuanto en ella miro,
+    todo me parece espanto.
+    Enseña filosofía
+    a caballeros y hidalgos,
+    griego, latín y otras lenguas,
+    junto a San Miguel el Alto,
+    Leonardo de Bins, maestro
+    pienso que alemán, casado
+    en Toledo con mujer
+    tan docta y que sabe tanto,
+    que de los dos ha nacido
+    un monstro, un Fenis tan raro
+    en discreción y hermosura
+    que pone a la tierra espanto.
+    Es corto encarecimiento
+    decir que es Carmenta o Safo;
+    si hoy vive alguna sibila,
+    es en aqueste milagro.
+    Teodor, Leonelo, es su nombre,
+    cuyo ingenio soberano
+    será presto conocido
+    desde el Aurora al Ocaso.
+    Entré solamente a oír,
+    no entré a ver, pero mirando
+    la hermosura de Teodor
+    vi y oí milagros raros;
+    porque esta hermosa doncella,
+    cuando a la lición entramos,
+    sale también con sus libros
+    a su lugar señalado.
+    Oye, pregunta, responde,
+    arguye y, los ojos bajos,
+    lleva las almas al cielo
+    de su ingenio soberano.
+    Díjele un día, que a solas
+    por ventura nos hallamos,
+    que arguyésemos de amor
+    y con argumentos varios
+    la persuadí que era justo
+    amarme y amarme cuanto
+    mi casto amor merecía,
+    que no es amor si no es casto.
+    Persuadiose conociendo
+    que era el matrimonio sancto
+    fin del blanco deste amor,
+    que yo le tomé por blanco.
+    Mas como no hay sol sin sombra,
+    hombre rico sin cuidados,
+    virtüoso sin envidia
+    y pretensión sin contrarios,
+    así no faltó en mi amor
+    que un mancebo de mis años,
+    de mi facultad y letras,
+    no menos rico e hidalgo,
+    la sirve y pienso que trata
+    de pedírsela a Leonardo,
+    de que estoy…
+LEONELO:
+    No digáis más,
+    que os hacéis notable agravio.
+    ¿Es posible que hombre cuerdo
+    en querer bien haya dado
+    una tan sabia mujer?
+FELIS:
+    ¿Pues es delito?
+LEONELO:
+    Mirando
+    que el ingenio y la doctrina
+    deben estimarse en tanto,
+    justo es amar quien le tiene,
+    pero entre doctos y sabios.
+    Mas que para casamiento,
+    cosa que dura los años
+    que un hombre tiene de vida,
+    tengáis vos por acertado
+    llevar a casa mujer
+    que con ingenio tan alto
+    os desprecie y tenga en poco,
+    y quiera tener el mando
+    que Dios ha puesto en el hombre
+    sin otras cosas que callo
+    ¿no es desatino y locura?
+FELIS:
+    ¿Desatino?
+LEONELO:
+    Y muy pesado.
+    La mujer propia ha de ser
+    de ingenio humilde y mediano,
+    no arrogante ni discreta,
+    que es insufrible trabajo;
+    porque con ingenio humilde
+    sujétase al hombre cuanto
+    es justo que le obedezca
+    y en cualquier dudoso caso
+    veréis que sólo responde:
+    «Mi marido lo ha mandado;
+    esto dijo mi marido».
+    Y aunque la hiciesen pedazos
+    no la sacarán de aquí;
+    mas, si pica en lo delgado,
+    cuanto dijere el marido
+    se ha de hacer por lo contrario.
+    Si la mujer ha de ser
+    para tratar el regalo
+    del hombre, basta que sepa
+    su lenguaje castellano.
+    Griega y latina ¿a qué efeto?
+    Si a sufrirla no acertamos
+    sabiendo sola una lengua,
+    que es la propia ¿no está claro
+    que sabiendo cinco o seis
+    no podrá sufrirla un mármol?
+    Gentil discreción ¡por Dios!,
+    ver un marido en su estrado
+    asentado a Salomón
+    y en la mesa estar hablando
+    con Aristóteles griego,
+    y tener de noche al lado
+    a Licurgo, a Cicerón
+    o a Tito Livio romano.
+    No, primo, que la mujer,
+    no porque boba la alabo,
+    ha de ser como la pinta
+    nuestro refrán castellano.
+FELIS:
+    ¿Cómo?
+LEONELO:
+    En la calle señora,
+    devota en el templo santo,
+    dama en el estrado honesta,
+    cabra ligera en el campo,
+    cuidadosa en su familia,
+    animosa en los trabajos,
+    regocijada en la mesa,
+    muda en enojos y agravios,
+    fregona en casa, en la cama…
+    harto os he dicho, miraldo.
+FELIS:
+    Harto por mi vida, primo,
+    pues que me dejáis tan harto.
+    Vos habéis hecho mujer
+    como si fuera de barro,
+    habiéndola hecho Dios,
+    artífice soberano,
+    de las costillas del hombre.
+LEONELO:
+    En ellas me den mil palos
+    si casare con mujer,
+    por un millón de ducados,
+    que sepa griego… ¿Yo griego,
+    siendo español toledano?
+FELIS:
+    ¿Quereisla ver?
+LEONELO:
+    ¿Podré entrar?
+FELIS:
+    Sí, pero el cuello quitado
+    como estudiante.
+LEONELO:
+    Padilla…
+PADILLA:
+    ¿Señor?
+LEONELO:
+    ¿Hay valona acaso?
+PADILLA:
+    Yo te prestaré una mía
+    que se lavó habrá dos años,
+    como aquel romance dice,
+    y que el celebrado Tajo
+    con llamarle cristalino
+    corrió tinta más de cuatro;
+    y, puesto a secar al sol,
+    tardó en secarse otros tantos,
+    porque el Sol de asco y vergüenza
+    apartaba dél sus rayos.
+FELIS:
+    ¡Bestia, dale alguna mía
+    y a ver aquel ángel vamos!
+PADILLA:
+    Tú verás una mujer,
+    que adora este mentecato,
+    como un turrón de Alicante.
+LEONELO:
+    La difinición aguardo.
+PADILLA:
+    Que sabe y quiebra los dientes,
+    dulce y dura como un canto.
+    ¡Igual es una pobreta
+    que habla en romance claro,
+    pan por pan, vino por vino,
+    garbanzos a los garbanzos,
+    berza a la que fuere berza
+    y nabo al que fuere nabo!
+[Vase. Teodor entre y Fabio estudiante]
+TEODOR:
+    Muy lejos, Fabio, te veo
+    de una honesta voluntad.
+FABIO:
+    Digo, Teodor, que es verdad,
+    que todo amor es deseo;
+    no todo deseo amor,
+    porque en el deleite vemos
+    todo deseo y tenemos
+    sin él deleite en rigor.
+    Con el amor juntamente
+    se halla el deleite, que alguno
+    es fin de amor.
+TEODOR:
+    ¡Qué importuno!
+FABIO:
+    Todos son generalmente
+    los deleites fin, Teodor,
+    del deseo y el deseo
+    común al amor le veo
+    y con lo que no es amor.
+TEODOR:
+    Luego ¿haces que sea especie
+    de amor el deseo?
+FABIO:
+    Sí,
+    como está el ejemplo en mí,
+    aunque el tuyo me desprecie.
+TEODOR:
+    La otra que no es amor
+    ¿qué nombre tiene?
+FABIO:
+    Apetito.
+TEODOR:
+    ¡Qué locuras te permito!
+    Arguyo así…
+FABIO:
+    Di, Teodor.
+TEODOR:
+    A amor y apetito diste
+    un fin que es el deleitar,
+    luego apetecer y amar
+    una misma cosa hiciste.
+    Si una misma cosa son
+    amor y apetito, di
+    ¿cómo de los dos aquí
+    haces también distinción?
+FABIO:
+    Verdad es que de cualquiera
+    dellos el deleite es fin,
+    mas diferéncianse en fin
+    los dos de aquesta manera:
+    el fin de amor es lo hermoso
+    y el del apetito no.
+TEODOR:
+    Pues si lo hermoso no amó
+    el apetito, es forzoso
+    que sea de lo que es feo,
+    y deleitar sin belleza
+    repugna a naturaleza;
+    porque claramente veo
+    que todo lo feo es malo
+    y bueno todo lo hermoso.
+    Querer lo bueno es forzoso,
+    lo bueno a lo hermoso igualo.
+    Lo feo a amor contradice,
+    que eso es bueno lo que ha sido
+    amado y apetecido,
+    como Aristóteles dice.
+FABIO:
+    Todo lo que no es hermoso
+    ser feo niego, que hay cosas
+    que ni son feas ni hermosas
+    y deleitan.
+TEODOR:
+    ¿No es forzoso
+    ser todo lo hermoso bueno?
+FABIO:
+    Sí.
+TEODOR:
+    Luego malo será
+    si no es hermoso, en que ya
+    esos contrarios condeno,
+    que, si puedo desear
+    lo malo y lo deseado
+    es lo que es bueno, ya he dado
+    que el bien y el mal puedo amar,
+    que una misma cosa son
+    y que tienen un deseo.
+FABIO:
+    Todo lo que hermoso veo
+    que es bueno es puesto en razón,
+    mas no por fuerza ha de ser
+    todo lo que es bueno hermoso;
+    que tu ingenio milagroso
+    quiere, Teodor, entender
+    a Aristóteles ansí,
+    que de la difinición
+    ha hecho una conversión
+    con el difinido aquí.
+TEODOR:
+    Yo arguyo, Fabio, a disgusto
+    en estas cosas de amor.
+FABIO:
+    ¿Por qué, divina Teodor?
+TEODOR:
+    Porque no es ciencia a mi gusto.
+FABIO:
+    ¿Tan alta filosofía
+    te cansa en tan tierna edad?
+TEODOR:
+    Conozco tu voluntad
+    y voy temiendo la mía.
+    Muda plática, que viene
+    don Felis.
+[Entre don Felis, Leonelo y Padilla]
+FELIS:
+    Con ella está.
+FABIO:
+    No se mira desde acá
+    por la raridad que tiene,
+    que si el fuego elementar
+    terminativo nos fuese
+    y como aquéste se viese
+    que nos suele calentar,
+    jamás la Tierra vería
+    el Sol y estrellas que ve
+    y así le ordenó que esté
+    de Dios la sabiduría
+    en aquella raridad.
+LEONELO:
+    ¡Oh, ciencia!
+FELIS:
+    ¡Oh, grandes tesoros!
+LEONELO:
+    ¿Qué tratan?
+FELIS:
+    De meteoros.
+TEODOR:
+    Por una dificultad
+    arguyo ansí ¿de qué tiene
+    nutrimento tanto fuego,
+    pues sin combustible luego
+    a cesar su llama viene?
+    El fuego que está en su esfera
+    ¿no tiene necesidad
+    de alimento?
+FELIS:
+    Así es verdad,
+    que de esa misma manera
+    el agua, el aire y la tierra
+    viven.
+TEODOR:
+    Y yo me sujeto
+    a tal maestro.
+FELIS:
+    En efeto,
+    ese argumento se cierra
+    con que Dios le puso allí,
+    mas queda que decir luego
+    que son esos ojos fuego
+    y no se sustenta ansí;
+    que puesto que está en su esfera
+    y como en propio elemento
+    almas tiene por sustento.
+TEODOR:
+    ¿Almas?
+FELIS:
+    Sí.
+TEODOR:
+    ¿De qué manera?
+FELIS:
+    Las almas de los que os ven,
+    pues, como las abrasáis,
+    con lo mismo os sustentáis
+    y Fabio lo sabe bien.
+FABIO:
+    ¡Pluguiera a Dios que la mía
+    diera sustento a tal fuego!
+TEODOR:
+    ¿Cómo me hablas tan ciego?
+FELIS:
+    Porque no pensé que había
+    más que un alma para ti.
+TEODOR:
+    Y aun de esa no estoy segura.
+    Mas ten, don Felis, cordura
+    que es mucha licencia aquí.
+[Patricio y Lidoro, estudiantes, y luego Celio y el maestro]
+PATRICIO:
+    ¿Si habemos llegado tarde?
+LIDORO:
+    No, que juntándose van.
+MAESTRO:
+    ¿Es tiempo?
+CELIO:
+    Juntos están.
+MAESTRO:
+    El cielo, amigos, os guarde.
+PATRICIO:
+    Y a ti, maestro y señor,
+    como habemos menester.
+[Siéntense]
+MAESTRO:
+    Comencemos a leer.
+LIDORO:
+    ¿Quién dirá?
+MAESTRO:
+    Diga Teodor.
+TEODOR:
+    La humana generación
+    pocas cosas comprehende,
+    pues de sí misma no entiende
+    las que tan íntimas son.
+    Y así por dar acertadas
+    al alma difiniciones
+    no hay que traer opiniones
+    filosóficas pasadas.
+    Aristóteles, que aquí
+    en él por mejor me fundo,
+    primo capite, secundo
+    «De anima», dice ansí:
+    ¿Qué es alma?
+FELIS:
+    ¡Qué bien previene!
+TEODOR:
+    Primer acto y natural
+    perfección, potencia igual
+    que tiene vida y que tiene
+    sus partes como instrumentos;
+    esto es, sustancial forma
+    que todo el compuesto informa
+    donde está y sus movimientos.
+    Digo, operación vital
+    en cuerpo físico puede
+    ejercitar porque quede
+    la perfección corporal
+    por sus órganos distinta.
+MAESTRO:
+    Hablas en común de todas,
+    que todas tres acomodas
+    en difinición sucinta,
+    vegetativa, sensible,
+    [...]
+    racional o irracional.
+    Di, Lidoro.
+FELIS:
+    ¡Ay, dulce enigma!
+LIDORO:
+    Anima est perfectio prima
+    y del cuerpo natural
+    primer acto, que también
+    la difine deste modo
+    Aristóteles.
+LEONELO:
+    (En todo
+    es bella.)
+FELIS:
+    (Miralda bien
+    y veréis que la hermosura
+    es con el ingenio igual,
+    y el ingenio celestial
+    con su divina figura.)
+MAESTRO:
+    Di, Celio.
+CELIO:
+    Del cuerpo es
+    físico orgánico…
+MAESTRO:
+    Di.
+CELIO:
+    Acto.
+MAESTRO:
+    ¿Y qué más?
+CELIO:
+    Vida.
+MAESTRO:
+    Ansí,
+    pero añádele después
+    que tiene vida en potencia.
+    Di tú, don Felis.
+FELIS:
+    Sí haré,
+    mas pienso que tomaré
+    licencia con tu licencia.
+    Es alma todo aquello que en mí siento
+    que me lleva a querer un bien que estima
+    la razón, que me enseña a que la imprima
+    por alma de mi propio pensamiento.
+    Es alma este primero movimiento,
+    que está donde ama más que donde anima,
+    y, siendo esta alma en mí perfección prima,
+    yo vengo a ser el físico instrumento.
+    Si le di mis potencias, es notoria
+    la razón de que es alma hermosa y bella
+    sin cuya luz mi cuerpo queda en calma;
+    que, si la voluntad y la memoria
+    y el mismo entendimiento puse en ella,
+    donde están las potencias está el alma.
+MAESTRO:
+    ¿Qué tiene aqueso que ver
+    con nuestra difinición?
+    Di, Fabio.
+FABIO:
+    (Mis celos son.)
+TEODOR:
+    (Mucho se ha dado a entender.)
+FABIO:
+    Si pudiera mirar como en espejo
+    el alma, cosa tan suprema y rara,
+    maestro mío, el alma retratara,
+    aunque por mi pincel fuera en bosquejo.
+    Voy a buscarla, aunque de mí me alejo,
+    adonde fuera justo que la hallara,
+    mas no la hallando la razón se para,
+    pierdo el discurso y los pinceles dejo.
+    En esta confusión, en esta calma,
+    yo mismo a no saber del alma vengo
+    que para dar a amor truje en la palma.
+    Pues ¿qué difinición della prevengo?,
+    que, si he perdido en un desprecio el alma,
+    ¿cómo puedo decir lo que no tengo?
+MAESTRO:
+    Basta, que hacéis de la lición donaire.
+    Ahora bien, atended, que sois mancebos
+    y con ingenios fáciles y dulces
+    hacéis de las verdades invenciones:
+    Licet autem, decir, iuxta Aristotelem,
+    que en buena proporción lo húmido y cálido
+    son causa de la larga vida. Adviértase
+    que entran también las otras calidades:
+    donde estuvieren bien proporcionadas
+    y tuviere el calor lugar primero,
+    la frialdad templare y lo que es húmido
+    por sequedad esté proporcionado,
+    el animal tendrá más larga vida.
+    Pero de aquestas cuatro calidades
+    las dos hace importantes Aristóteles:
+    los hombres ingeniosos viven poco
+    por la gran sequedad y humidad poca,
+    que la mucha humidad ciega el ingenio
+    y así los que tuvieren mucha sangre
+    es imposible que ingeniosos sean.
+PADILLA:
+    Con tu licencia, dómine, querría
+    sacar de ese principio un entimema.
+MAESTRO:
+    Pues, amigo Padilla ¿qué se ofrece?
+PADILLA:
+    Dar mil gracias a Dios que me haya hecho
+    el ingenio más alto y exquisito
+    por aquella sentencia de Aristóteles,
+    porque, si los que tienen poca sangre
+    son de divino ingenio, yo soy único,
+    que habiéndome azotado seis Cuaresmas
+    apenas remojé la disciplina.
+MAESTRO:
+    Daríaste muy quedo.
+PADILLA:
+    Con licencia
+    quiero ponerte una objeción.
+MAESTRO:
+    Prosigue.
+PADILLA:
+    Tú dices que los hombres ingeniosos
+    por la gran sequedad viven muy poco.
+    Tú has vivido, maestro, muchos años,
+    ergo no puede ser que ingenio tengas.
+FELIS:
+    ¡Salte allá fuera, necio!
+CELIO:
+    Aquí está Julio.
+[Julio, de camino]
+MAESTRO:
+    ¡Oh Julio, muchas veces bienvenido!
+JULIO:
+    Dame esos pies y albricias.
+MAESTRO:
+    ¿De qué modo?
+JULIO:
+    De que ya queda concertado todo.
+MAESTRO:
+    Generosos discípulos, hoy cesa
+    la lición comenzada, que estas cartas
+    no me darán lugar a lo que pienso.
+    Dad todos parabién a Teodor luego,
+    que queda de casarse concertada.
+FELIS:
+    ¡Válame Dios! ¿Qué es esto?
+LEONELO:
+    Tristes nuevas.
+LIDORO:
+    ¡Mil años goces tu querido esposo!
+PATRICIO:
+    ¡Goces, Teodor, tu esposo largos años!
+TEODOR:
+    No sé cómo os responda, porque ha sido
+    estando yo tan fuera de pensarlo
+    que aún no tengo primero movimiento.
+FELIS:
+    ¿A Teodor has casado?
+MAESTRO:
+    Sí, don Felis,
+    que soy su padre y en la edad que miras,
+    y no quiero morir con esta pena.
+FELIS:
+    A la cuenta no es dentro de Toledo,
+    pues Julio viene de camino y trae
+    cartas de los conciertos.
+MAESTRO:
+    Yo he casado
+    a mi hija en Valencia.
+FELIS:
+    ¿Por qué causa?
+    ¿No hay en esta ciudad con quién pudieras?
+MAESTRO:
+    El antigua amistad que tengo a un hombre
+    y la afición a su virtud y letras
+    a casarla me obliga.
+FELIS:
+    Y en Toledo
+    ¿no se hallarán mil hombres virtüosos?
+MAESTRO:
+    Yo he casado mi hija por mi gusto
+    con un hombre que es casi de mis años.
+    Las razones que tengo no me toca
+    decírtelas a ti.
+FELIS:
+    ¿Con hombre dices
+    de tus años y fuera de la patria?
+    Perdóname, maestro. ¡Vive el cielo
+    que este inorante que me sirve apenas
+    hubiera hecho tanto desatino!
+MAESTRO:
+    Eres mozo, don Felis.
+FELIS:
+    Cuando yerran
+    los viejos es negocio temerario.
+    Bien dicen que aquel día que un discreto
+    hace una necedad vale por todas
+    cuantas hacen los necios en mil años.
+    Pésame de que seas mi maestro.
+    ¡A Teodor con un viejo!
+MAESTRO:
+    Es catredático,
+    es sabio, es docto, es rico, es cuerdo, es noble
+    y es mi amigo también, y por tu vida
+    que en negocios ajenos no te metas,
+    que en mi casa yo sé lo que me cumple.
+FELIS:
+    Yo hablo con amor, perdón te pido.
+MAESTRO:
+    Entra, Teodor. Adiós, hasta mañana,
+    discípulos.
+FABIO:
+    Contigo iremos todos.
+FELIS:
+    ¡Ay, Teodor!
+TEODOR:
+    ¿Qué me quieres? ¿Estás loco?
+FELIS:
+    ¡Casada, y más ausente!
+TEODOR:
+    Bien quisiera
+    hablarte, mas no puedo. Esta partida,
+    tú lo verás, me quitará la vida.
+[Todos se entren. Queden Leonelo, don Felis y Padilla]
+FELIS:
+    Igual me la quita a mí,
+    que te pierdo desta suerte,
+    que no es vida sino muerte
+    la que me queda sin ti.
+    En triste punto te vi
+    para perderte no más;
+    casada en efeto estás.
+    ¡Teodor casada! ¿Qué es esto?
+LEONELO:
+    No hables tan descompuesto.
+FELIS:
+    Gentil consejo me das.
+    ¿Quién habrá que no se espante
+    de que éste te case ansí?
+    ¡Mal haya cuanto aprendí
+    de un hombre tan inorante!
+    Yo fui de amor estudiante,
+    que en esta casa aprendía
+    de amor la filosofía,
+    pero el maestro crüel
+    me ha muerto, en vez del laurel
+    que a mi esperanza debía.
+    ¡Pues plega al cielo, Teodor,
+    que, si en Toledo quedare,
+    que nunca el cielo me ampare!
+LEONELO:
+    ¿Qué dices?
+FELIS:
+    Que tengo amor.
+[Toquen una caja dentro]
+    ¿Qué toca aquel atambor?
+PADILLA:
+    Soldados de un capitán
+    que pienso que a Italia van.
+FELIS:
+    Adiós, sotana y manteo,
+    que me voy tras mi deseo
+    con la ocasión que me dan.
+LEONELO:
+    Sin duda, primo, te vuelve
+    loco esta pasión. ¿Qué haces?
+PADILLA:
+    Los que aman son pertinaces,
+    a dejallos te resuelve.
+FELIS:
+    Cuantos remedios revuelve
+    mi turbado entendimiento,
+    son para mayor tormento.
+    Yo paso a Italia, no hay más.
+LEONELO:
+    ¿A Italia? Pues ¿a qué vas?
+FELIS:
+    A dejar mi pensamiento.
+LEONELO:
+    Pues ¿no hay en Toledo a quién
+    y en mil lugares de España?
+FELIS:
+    Padilla, tú me acompaña,
+    tú solo conmigo ven.
+PADILLA:
+    Bien haces.
+LEONELO:
+    Míralo bien.
+FELIS:
+    Dame capa, espada y plumas.
+LEONELO:
+    ¡Qué tan presto te resumas
+    a una jornada tan loca!
+FELIS:
+    Tiniendo el mar a la boca
+    ¿te espantas de las espumas?
+LEONELO:
+    Primo, si es resolución,
+    no os quiero yo a vos tan poco
+    que me precie, si estáis loco,
+    de seso ni de razón.
+    Iré en aquesta ocasión
+    con vos a Italia, a la China.
+FELIS:
+    Primo, loco me imagina
+    si me quedase en Toledo.
+    En fin, quedarme no puedo,
+    mi estrella a partir me inclina.
+    Ven conmigo, gastaremos
+    deshaciendo estos engaños
+    por Italia algunos años,
+    toda la Francia veremos.
+    Letras y armas son estremos,
+    del uno al otro me paso.
+    ¡Vive el cielo que me abraso
+    si hoy no me parto de aquí!
+PADILLA:
+    A cierto alférez oí
+    que hoy se va el capitán Laso;
+    podéis en su compañía
+    pasar a Italia los dos.
+LEONELO:
+    Muy bien ha dicho ¡por Dios!
+FELIS:
+    Pues, adiós, sotana mía,
+    cursos de filosofía,
+    libros, patria… ¡Alto! A vestir.
+LEONELO:
+    No me quiero despedir
+    de nadie.
+FELIS:
+    Mejor harás.
+PADILLA:
+    A la heredad di que vas.
+FELIS:
+    Yo voy, Padilla, a morir.
+LEONELO:
+    A ti te lleva el amor
+    de Teodor y el tuyo a mí.
+FELIS:
+    Salgamos, primo, de aquí,
+    que me deshace el furor.
+    Adiós, hermosa Teodor,
+    goza mil años los años
+    de tu marido.
+LEONELO:
+    ¡Qué engaños!
+    Si son muchos, goce pocos.
+PADILLA:
+    ¡Qué linda casa de locos!
+FELIS:
+    No hay amor con desengaños.
+[Éntrense y salgan el rey de Orán, Manzor; Celindo, hermano suyo; moros de acompañamiento]
+MANZOR:
+    Mil veces me vuelve a dar
+    los brazos.
+CELINDO:
+    Tu humilde hechura
+    quieres, rey invicto, honrar.
+MANZOR:
+    Sólo mi amor te asegura
+    que la pretendo aumentar.
+    ¿Cómo en el Asia te ha ido?
+CELINDO:
+    Al Gran Señor he servido,
+    cuya gracia hubiera hallado
+    a no ser de ti llamado.
+MANZOR:
+    Obediente, hermano, has sido.
+    ¡Por los cielos soberanos,
+    que cuando en el Asia veo
+    entre sus reyes tiranos
+    el uso sangriento y feo
+    de dar muerte a sus hermanos,
+    que quisiera haber nacido
+    en el Arabia desierta!
+CELINDO:
+    Tú, rey de Orán, has vivido
+    como de Europa a la puerta,
+    que luz de tu ingenio ha sido.
+    El estar cerca de gente
+    tan política y humana
+    te ha hecho humilde y prudente,
+    porque la nación cristiana
+    es en gobierno excelente.
+    Viven con humanidad
+    sujetos a la razón,
+    aborrecen la crueldad
+    porque tienen por blasón
+    las leyes de la piedad.
+    Tu hermano soy, bien pudiera
+    temer que el llamarme fuera
+    asegurar tu corona
+    de mi bienquista persona,
+    con darme la muerte fiera.
+    Mas, fuera de tu valor,
+    este vivir en Orán
+    asegura mi temor,
+    que sus vecinos te dan
+    piadoso ejemplo, señor.
+    Mas ya que he venido aquí
+    ¿en qué te sirves de mí?
+    ¿Qué guerra intentas? ¿Qué quieres?
+MANZOR:
+    Celindo, mi hermano eres.
+    Oye mis intentos.
+CELINDO:
+    Di.
+MANZOR:
+    Yo no tengo sucesor,
+    quiero en mi lugar dejarte.
+    Quiero mostrarte mi amor;
+    quiero, Celindo, casarte;
+    quiero estimar tu valor.
+    Escoge de dos sobrinas,
+    hijas del Rey, nuestro hermano,
+    si amar tu sangre te inclinas.
+CELINDO:
+    ¡Guárdete, Alá soberano!
+MANZOR:
+    Son en beldad peregrinas.
+    Ve, Zaide, por ellas.
+ZAIDE:
+    Ellas
+    vienen a ver a su tío.
+[Jarifa y Daraja, moras]
+JARIFA:
+    ¡Celindo!
+CELINDO:
+    ¡Sobrinas bellas!
+    ¡Bravos talles, gentil brío!
+    El cielo se cifra en ellas.
+JARIFA:
+    ¿Cómo venís?
+CELINDO:
+    Como quien
+    esperaba tanta gloria.
+DARAJA:
+    ¿Paréceos África bien?
+CELINDO:
+    Aún tengo della memoria,
+    que nací en ella también.
+    Y cuando sólo tuviera
+    vuestra belleza, bastara
+    a que bien me pareciera,
+    pues una cosa tan rara
+    admiración me pusiera.
+DARAJA:
+    Responde, Jarifa.
+JARIFA:
+    ¿Yo?
+    A ti te toca, Daraja.
+MANZOR:
+    ¿Cuál de las dos te agradó?
+CELINDO:
+    Rey y señor, sin ventaja
+    el cielo a las dos formó,
+    no sólo tan de improviso
+    osaré determinarme
+    en su hermosura y aviso,
+    que ha sido rigor forzarme
+    a término tan preciso.
+    Pero por no hacer agravio
+    a ninguna de las dos,
+    no osaré mover el labio.
+MANZOR:
+    Tras ser gallardo ¡por Dios,
+    que eres cortesano y sabio!
+    Pero habiendo de casarte
+    porque tengas sucesión
+    es fuerza determinarte.
+CELINDO:
+    Pues ponme en otra ocasión,
+    ocúpame en otra parte,
+    que yo no pienso agraviar
+    a mis sobrinas, señor.
+DARAJA:
+    (Basta que quiere casar
+    a Celindo, el Rey.)
+JARIFA:
+    (¿Mejor
+    puede a Celindo emplear?)
+DARAJA:
+    (Pienso que le da a escoger
+    a cuál quiere de las dos
+    y él no se atreve a querer.)
+JARIFA:
+    (Es cuerdo.)
+DARAJA:
+    (Es galán.)
+JARIFA:
+    (¡Por Dios,
+    que no debemos de ser
+    de su gusto y con decir
+    que no nos quiere agraviar,
+    hace valor el huir!)
+CELINDO:
+    Habiéndome de casar,
+    mujer se puede elegir
+    con más espacio, señor.
+MANZOR:
+    Quiero tener sucesor
+    que dé espanto a Berbería.
+CELINDO:
+    Basta ser tu sangre mía
+    para que tenga valor.
+MANZOR:
+    Aunque el varón sea excelente,
+    es la mujer importante.
+CELINDO:
+    Buscarla noble y prudente.
+MANZOR:
+    Zaide…
+ZAIDE:
+    Señor…
+MANZOR:
+    No te espante
+    que esto con cuidado intente.
+    Dar un sucesor querría
+    de estraño valor a Orán.
+    Mi hermano, ya es sangre mía;
+    mujeres faltan.
+ZAIDE:
+    No harán,
+    que hay muchas en Berbería.
+    Mas, si tú quieres tener
+    sucesor que pueda hacer
+    cierta tu esperanza sola,
+    busca mujer española
+    y toma mi parecer,
+    que de una española bella
+    y de Celindo se hará
+    sucesión que tiemble della
+    toda el África.
+MANZOR:
+    ¿Y habrá
+    camino de enviar por ella?
+ZAIDE:
+    Correr las costas de España
+    y cautivar veinte o treinta,
+    si el ánimo no me engaña.
+MANZOR:
+    Zaide, por mi amor intenta
+    una tan gloriosa hazaña.
+CELINDO:
+    ¿Qué concertáis?
+MANZOR:
+    He tomado
+    del alcaide parecer.
+CELINDO:
+    ¿Y qué dice?
+MANZOR:
+    Que casado
+    con española ha de ser
+    mi pensamiento acertado.
+CELINDO:
+    Tiene el alcaide razón;
+    que las españolas son,
+    pues todos las apetecen,
+    las que en el mundo merecen
+    que las tengan afición.
+DARAJA:
+    Tu discreción has mostrado,
+    Celindo, en ese buen gusto.
+JARIFA:
+    Si de cuantas he tratado,
+    para lo que fuera justo,
+    de nación tuviera agrado,
+    la española fuera sola.
+DARAJA:
+    Confieso que me da envidia
+    una mujer española.
+JARIFA:
+    Toda nación me fastidia,
+    pero en ésta se acrisola
+    el bien de naturaleza.
+DARAJA:
+    Gentil aire.
+JARIFA:
+    Gran belleza.
+DARAJA:
+    ¡Qué vestido!
+JARIFA:
+    Limpio.
+DARAJA:
+    Justo.
+JARIFA:
+    ¡Qué donaire!
+DARAJA:
+    ¡Qué buen gusto!
+JARIFA:
+    ¡Qué brío!
+DARAJA:
+    ¡Qué gentileza!
+JARIFA:
+    Lindo desdén.
+DARAJA:
+    Estremado.
+JARIFA:
+    Famoso melindre y pico.
+DARAJA:
+    Merece ser adorado.
+MANZOR:
+    Si el ejército más rico,
+    Zaide amigo, que ha pasado
+    de África a Europa jamás
+    importa darte, no dudes
+    que de Orán le llevarás.
+ZAIDE:
+    Aunque a tu grandeza acudes,
+    señor, engañado estás,
+    que no se ha de hacer con gente.
+MANZOR:
+    Pues ¿cómo?
+ZAIDE:
+    Con discreción
+    y silencio conviniente.
+    Cinco o seis fragatas son
+    necesarias solamente.
+MANZOR:
+    Pues parte, que en ese puerto
+    están de esclavos armadas
+    y sea aquéste el concierto:
+    que las esclavas honradas,
+    de valor seguro y cierto
+    te pague con mil cequíes
+    y a ciento las ordinarias,
+    si es razón que de mí fíes.
+ZAIDE:
+    Yo correré en partes varias,
+    aunque a una sola me envíes,
+    toda la costa de España.
+MANZOR:
+    Al partir quiero, y es justo,
+    hallarme.
+CELINDO:
+    ¡Notable hazaña!
+ZAIDE:
+    Por ser cosa de tu gusto,
+    la fortuna me acompaña.
+DARAJA:
+    No son tus intentos vanos,
+    que mil veces los romanos
+    y griegos, si verlo quieres
+    en historias, por mujeres
+    surcaron los mares canos.
+    ¡Plega a Dios que traigas tantas
+    que las africanas todas
+    sirvan de estériles plantas!
+MANZOR:
+    No se tardarán tus bodas.
+DARAJA:
+    Más que me alegras me espantas.
+CELINDO:
+    ¡Qué fresco embate!
+ZAIDE:
+    ¡Qué lindo!
+DARAJA:
+    ¿Qué sientes, Jarifa sola?
+JARIFA:
+    Daraja, a España me rindo.
+DARAJA:
+    ¡Oh Alá, quién fuera española
+    para agradar a Celindo!
+[Váyanse y salgan caja, soldados y el capitán Laso, y dos alcaldes villanos dando boletas]
+CAPITÁN:
+    Pasen con orden y una vez, señores.
+ALCALDE 1º:
+    Señores ¿de qué sirve tomar tantas,
+    si han de faltar después para los otros?
+SOLD. 1º:
+    Francisco Ruiz, barbero, de una boca.
+    ¿De una boca no más? Pues ¡vive Cristo!,
+    que ha de tener de aquí a la noche cuatro
+    y que han de estar las tres en una pierna.
+SOLD. 2º:
+    Rodrigo de Moscoso, de dos bocas.
+    ¿Dos solas a un alférez?
+SOLD. 3º:
+    Juan Gutiérrez,
+    junto a la iglesia es mesonero; bueno,
+    por lo menos ya sabe qué son huéspedes.
+SOLD. 2º:
+    Portillo, el herrador; ya por lo menos
+    la música está cierta.
+CAPITÁN:
+    Honrad mi escuadra.
+ALCALDE 2º:
+    Aquí llevan, señor, estos soldados
+    las casas de los hombres más honrados.
+[Entre don Felis de soldado muy galán y Leonelo y otros guzmanes]
+LEONELO:
+    Vos con el capitán tendréis posada.
+FELIS:
+    Yo no pienso dejar mi camarada.
+GUZMÁN:
+    ¿Jugaremos un poco?
+FELIS:
+    Estos soldados
+    previenen ya la caja.
+LEONELO:
+    Yo aseguro
+    que llego a Cartagena sin un cuarto.
+SOLD. 1º:
+    A ocho.
+FELIS:
+    Digo.
+CAPITÁN:
+    No se aflija mucho,
+    señor alcalde, que le doy palabra
+    que de Toledo aquí no hemos tenido
+    peor alojamiento.
+ALCALDE 2º:
+    Es corto el pueblo,
+    mas ya, para Alicante o Cartagena,
+    pocos pueden hallar mejores que éste.
+FELIS:
+    Reparo.
+GUZMÁN:
+    Digo.
+FELIS:
+    Azar.
+GUZMÁN:
+    Lleven los diablos
+    mis huesos, pues que pongo mi esperanza
+    en huesos de animal que tiene cuernos.
+LEONELO:
+    Comeos los dados.
+GUZMÁN:
+    Si tuvieran carne.
+SOLD. 2º:
+    Esta cadena juego.
+LEONELO:
+    ¿Es noble?
+SOLD. 3º:
+    Tóquela.
+[Entre Padilla de soldado gracioso]
+PADILLA:
+    Oye, señor, pesar del juego.
+FELIS:
+    Déjame,
+    bestia. ¿Qué quies?
+PADILLA:
+    Escucha aparte.
+FELIS:
+    ¡Calla!
+PADILLA:
+    Oye y después no digas que Padilla
+    tuvo la culpa.
+FELIS:
+    ¿Ves que estoy jugando?
+PADILLA:
+    Oye cuarenta y cinco mil palabras.
+FELIS:
+    Quita cuarenta mil y dime cinco.
+PADILLA:
+    Por detrás del lugar, junto a unas güertas,
+    donde la hambre me llevó incitado
+    como tordo a las brevas de unas viñas,
+    pasar vi un coche en que iban tres mujeres,
+    dos hombres a caballo y otro a pata.
+    Yo estoy borracho o es Teodor la una,
+    que debe de ir camino de Origüela
+    al casamiento de su catredático,
+    porque la vi muy bien y ella admirada
+    se cubrió con el velo y el sombrero.
+FELIS:
+    Borracho. ¿Estás en ti? ¡Teodor! ¿Qué dices?
+PADILLA:
+    Que yo la vi, señor.
+FELIS:
+    Primo Leonelo,
+    dejad el juego.
+LEONELO:
+    ¿Qué hay?
+FELIS:
+    ¿No veis qué dice
+    este desatinado? Que en un coche
+    pasa junto al lugar Teodor.
+LEONELO:
+    Padilla,
+    ¿tú la has visto?
+PADILLA:
+    Yo mismo.
+LEONELO:
+    ¿Cierto?
+PADILLA:
+    Cierto.
+FELIS:
+    Hermano de mi alma, éste es el día
+    en que he de conocer que sois mi sangre.
+    Yo he de quitarla a aquellos dos, y a treinta
+    y a mil si fueran.
+LEONELO:
+    ¿Cómo?
+FELIS:
+    Fácilmente:
+    ¿ello no es en camino y tres no somos,
+    libres, soldados y determinados?
+    Tomemos luego nuestros arcabuces,
+    que en estos dos caballos que tenemos
+    en dos horas estamos en el reino
+    de Valencia, seguros de justicia.
+LEONELO:
+    No os quiero replicar, daca las armas.
+PADILLA:
+    Los del cuerpo de guarda se recogen.
+GUZMÁN:
+    En mi vida gané.
+SOLD. 1º:
+    Deme barato,
+    que soy hombre de bien.
+SOLD. 2º:
+    Soldados, tomen.
+SOLD. 1º:
+    ¡Vivas mil años!
+FELIS:
+    Ve por los caballos.
+LEONELO:
+    Terrible cosa emprendes.
+FELIS:
+    Amo, adoro.
+LEONELO:
+    ¿Hay pólvora?
+PADILLA:
+    La bota tengo llena.
+FELIS:
+    Hoy seré Paris desta nueva Elena.
+[Foresto, catredático viejo, algunos discípulos: Riselo, Lidio, Irano]
+FORESTO:
+    ¿Vengo galán?
+RISELO:
+    Estremado,
+    pareces un Cicerón.
+FORESTO:
+    ¡Qué gentil comparación!
+RISELO:
+    Es para un galán letrado.
+FORESTO:
+    ¿No estoy lindo?
+LIDIO:
+    Da una vuelta.
+FORESTO:
+    Daré mil.
+RISELO:
+    Detente un poco.
+IRANO:
+    El viejo se vuelve loco.
+LIDIO:
+    La escuela queda revuelta
+    con nuevas de la venida
+    de la señora Teodor.
+RISELO:
+    Por mi fe, señor dotor,
+    que se ha de dar linda vida,
+    mas mire que es toledana,
+    moza discreta y brïosa,
+    y una persona estudiosa
+    y que ya toca en anciana
+    tiene más débiles fuerzas.
+FORESTO:
+    ¡Mala Pascua te dé Dios!
+    No sois más mozos los dos.
+LIDIO:
+    Bien dice.
+IRANO:
+    Harto bien le esfuerzas,
+    que si entre los dos tenemos
+    setenta años, claro está,
+    que algo más mozo será
+    mas poco le llevaremos.
+LIDIO:
+    Conserva de satiriones,
+    dicen que es cosa estremada.
+RISELO:
+    Basta pisto y almendrada,
+    que hay peligro en confacciones.
+FORESTO:
+    Discípulos, poco a poco,
+    que soy un cisne.
+IRANO:
+    En lo blanco.
+LIDIO:
+    Hoy es justo que andes franco.
+IRANO:
+    El viejo se vuelve loco.
+RISELO:
+    Mándanos dar colación.
+FORESTO:
+    Andáis de pava ruana.
+    ¿No basta que hoy y mañana
+    no venga nadie a lición?
+RISELO:
+    ¿No vendremos a besar
+    la mano a tu esposa?
+FORESTO:
+    No,
+    basta que la bese yo.
+RISELO:
+    ¡Mas que nos ha de culpar
+    de inorantes cortesanos!
+FORESTO:
+    Eso a Francia, porque acá
+    hay hombre que se andará
+    desde la boca a las manos.
+    Todo lo que toca a gala,
+    yo sé bien cómo ha de ser.
+IRANO:
+    ¿Dónde piensas esconder
+    de noche la martingala?
+FORESTO:
+    Discípulos, pues ¿conmigo
+    picarizáis?
+[Vasco, estudiante, entre]
+VASCO:
+    Ya ha llegado.
+FORESTO:
+    ¿Teodor?
+VASCO:
+    No, sino un crïado.
+FORESTO:
+    Seré Alejandro contigo;
+    toma este real de a dos.
+VASCO:
+    Guárdale para papel.
+FORESTO:
+    ¿Tengo que escribir en él?
+VASCO:
+    Mil epigramas, por Dios.
+FORESTO:
+    ¿Cómo?
+VASCO:
+    A la prisión estraña
+    que han hecho cien bandoleros
+    a Teodor.
+FORESTO:
+    ¿Burlas?
+VASCO:
+    Tan fieros
+    que han sido asombro en España.
+FORESTO:
+    ¿Bandoleros a mi esposa?
+VASCO:
+    Y aun dicen que catalanes
+    y que de los más galanes
+    es ya huéspeda amorosa.
+FORESTO:
+    ¿A quién sino sólo a mí
+    esto pudo suceder?
+    Afuera vano placer,
+    pues todo mi bien perdí.
+    Cubra negro y triste luto
+    lo que de vida me queda,
+    pues no es posible que pueda
+    dar mi esperanza otro fruto.
+    Vistan luto mis crïados,
+    mis estudiantes y amigos;
+    tenga mi dolor testigos,
+    tengan color mis cuidados.
+    Mi cátreda he de vestir
+    de luto en pena tan fiera;
+    hasta mis libros quisiera
+    poderlos dar a teñir.
+    ¿Qué haré, presa mi Teodor?
+VASCO:
+    Leer a Séneca.
+FORESTO:
+    ¡Ah, cielos!,
+    siempre me dieron recelos
+    deste suceso.
+IRANO:
+    ¡Ah, señor!
+FORESTO:
+    Dejadme. ¡Ay, triste suceso!
+    Por darme la muerte estoy.
+RISELO:
+    ¿Tú eres sabio?
+FORESTO:
+    Piedra soy,
+    pues que tengo vida y seso.
+[Zaide, Alí y moros]
+ALÍ:
+    No tiene el reino de Valencia parte
+    más peligrosa que este valle y playa.
+ZAIDE:
+    Ya sé de la manera que reparte
+    el jinete veloz y la atalaya,
+    pero bien sabes que la industria y arte
+    donde más fuerzas y defensas haya
+    sale con lo que intenta.
+ALÍ:
+    En esta costa
+    no hay recodo ni cala más angosta.
+    Conténtate ¡por Dios! con lo robado.
+ZAIDE:
+    No me agrada mujer de las cautivas.
+MORO:
+    Gente desciende del camino al prado.
+[Don Felis, Leonelo y Padilla, y Teodor con capotillo y sombrero]
+FELIS:
+    No llores más, ansí en descanso vivas.
+TEODOR:
+    Llorar, don Felis, por haberte hallado
+    no era justa razón, pues no me privas
+    del honor ni me fuerzas, aunque puedes.
+    Lloro de ver que en tal peligro quedes.
+FELIS:
+    ¿Qué peligro, si yo quiero casarme?
+TEODOR:
+    ¿El de mi padre y la justicia es poco?
+FELIS:
+    En este reino yo sabré guardarme.
+TEODOR:
+    Hazaña ha sido de un amante loco.
+    ¿Y dónde piensas desde aquí llevarme?
+FELIS:
+    De suerte con tu llanto me provoco
+    Que, si fuera posible, te dejara.
+LEONELO:
+    Aquí, don Felis, un momento para,
+    que ¡vive Dios! que vengo fatigado.
+PADILLA:
+    Orilla de la mar será seguro.
+FELIS:
+    Este peñasco excelso y elevado
+    para toda ocasión sirve de muro.
+    ¿Dónde dejaste mi caballo atado?
+PADILLA:
+    A un olmo cerca de ese arroyo puro.
+    Yerba y agua le sobra.
+FELIS:
+    Aquí te asienta
+    y al mar mi amor y tus desdichas cuenta.
+[Siéntense]
+PADILLA:
+    Mejor será contar desta pobreza
+    los bocados, que alivian los cuidados.
+FELIS:
+    ¡Come, por Dios, y deja la tristeza!
+TEODOR:
+    Sí hiciera, a estar, don Felis, desposados.
+FELIS:
+    Prometo a Dios de no mostrar flaqueza,
+    ciego de amor, hasta quedar casados.
+TEODOR:
+    Agora comeré contenta.
+FELIS:
+    Mira
+    que te adoro, mi bien.
+ZAIDE:
+    ¡Dispara!
+ALÍ:
+    ¡Tira!
+ZAIDE:
+    Daos a prisión.
+FELIS:
+    ¡Ay, cielo! ¿Así me tratas?
+LEONELO:
+    Cautivos somos.
+TEODOR:
+    Con razón temía.
+PADILLA:
+    ¡Ay, mísero Padilla!
+ZAIDE:
+    ¡A las fragatas!
+ALÍ:
+    ¡Al mar, echa la plancha! ¡Boga, cía!
+ZAIDE:
+    Bella mujer ¡por Dios!
+FELIS:
+    ¿A un ángel atas?
+ZAIDE:
+    ¡Camina, perra!
+TEODOR:
+    ¡Ay, dura estrella mía!
+PADILLA:
+    ¿Que voy donde no hay vino ni tocino?
+    ¡Trágueme el mar!
+ALÍ:
+    ¡Camina!
+PADILLA:
+    Ya camino.
+
+JORNADA 2
+
+[Don Felis de esclavo, Leonelo y Padilla, y Alí dándolos de palos]
+ALÍ:
+    Camina sin replicar.
+FELIS:
+    Advierte…
+ALÍ:
+    ¡Oh, canalla perra!
+FELIS:
+    Si así nos piensas tratar
+    cuando salimos a tierra,
+    déjanos, moro, en la mar.
+LEONELO:
+    Aun piedad de hombre no tienes.
+PADILLA:
+    Si la mano no detienes,
+    ¡vive Dios…!
+ALÍ:
+    Perro ¿tú a mí,
+    siendo el más ruin?
+PADILLA:
+    ¿Quién, yo?
+ALÍ:
+    Sí.
+PADILLA:
+    Pues, moro, engañado vienes,
+    que de los cuatro que ves
+    tú eres el más ruin.
+ALÍ:
+    No digo
+    sino de vosotros tres.
+FELIS:
+    Alí, escucha; escucha, amigo,
+    oye y mátame después.
+    ¿A qué nos sacan del mar?
+    Dime, ¿quiérennos vender?
+ALÍ:
+    No, que el Rey os quiere hablar.
+FELIS:
+    ¿Qué nos puede el Rey querer?
+ALÍ:
+    El Rey se quiere informar
+    de la cautiva que halló
+    Zaide con vosotros.
+FELIS:
+    Yo
+    le diré mejor quién es.
+ALÍ:
+    Hablaros quiere a los tres.
+    Esto, perros, me mandó:
+    no hay sino andar adelante.
+PADILLA:
+    No me ha dejado costilla.
+    ¿Hay desdicha semejante?
+    ¿Quién te trujo a ser, Padilla,
+    en Orán disciplinante?
+ALÍ:
+    El Rey sale: echaos en tierra.
+[El rey Manzor y Celindo, Jarifa y Daraja]
+CELINDO:
+    Ya siento la dulce guerra
+    de sus ojos soberanos.
+ALÍ:
+    Aquí están ya los cristianos.
+PADILLA:
+    (Aquí nos pringa o nos yerra.)
+MANZOR:
+    ¡Buenos talles!
+CELINDO:
+    De españoles.
+DARAJA:
+    Lástima me dan, Jarifa.
+    ¡Qué mozos!
+JARIFA:
+    Como dos soles.
+PADILLA:
+    (Esta vez entro en la rifa
+    y cuelgo de dos penoles.
+    ¡No estuviera yo en Toledo
+    o vendimiando en Burguillos!
+    Ya no sólo tengo miedo
+    de cepo, cadena y grillos,
+    sino de cantar el Credo.)
+MANZOR:
+    ¿Cuál es, decidme, cristianos,
+    de vosotros el más noble?
+FELIS:
+    Hermanos somos los dos.
+MANZOR:
+    ¿Y tú quién eres?
+PADILLA:
+    Un hombre,
+    como ves, deshermanado
+    y que, en fin, vengo de nones.
+MANZOR:
+    ¿Eres su crïado destos?
+PADILLA:
+    Ese, señor, es mi nombre.
+MANZOR:
+    ¿Cómo es el tuyo?
+FELIS:
+    Don Felis.
+MANZOR:
+    Español, don Felis, oye:
+    mi hermano quiero casar
+    y, porque mis sucesores
+    sean la mitad alarbes
+    y la mitad españoles,
+    quise que Zaide, mi alcaide,
+    hombre que la costa corre
+    de Europa, desde Alicante
+    a Barcelona mil noches,
+    por mucho que los jinetes
+    con el pendón de San Jorge
+    y del mar las atalayas
+    con sus fuegos se lo estorben,
+    trujese algunas cautivas,
+    de las cuales, aunque pobre,
+    la más hermosa y discreta
+    fuese su mujer.
+FELIS:
+    Conoces
+    como vecino de España
+    el valor que en ellos pones.
+MANZOR:
+    Trújome veinte cautivas
+    con tal dicha que las once
+    tienen nobleza y ingenio
+    y son en la edad conformes,
+    mas la que hallaron contigo
+    sobre todas levantose,
+    como entre yerbas humildes
+    el mirto con blancas flores.
+    Agradó luego a Celindo
+    y por estremo agradome,
+    y a mis sobrinas, don Felis,
+    las dejó locas de amores.
+    Mas luego que supo el caso
+    y que entre todas la escogen
+    para mujer de mi hermano
+    por tan raras perfecciones,
+    sorda y necia se ha fingido,
+    con tales gestos y voces
+    que no hay hermosura en ella
+    que no deshaga y desdore.
+    Dime la verdad, cristiano,
+    y guárdate no me informes
+    de cosa que incierta sea,
+    porque ¡vive Alá! que asombre
+    el castigo con que aquí
+    la justa venganza tome.
+FELIS:
+    (¡Ay, divina discreción
+    que con tales invenciones
+    defiendes tu castidad!
+    ¿Qué diré? ¿Qué haré?)
+MANZOR:
+    Disponte
+    a decir verdad, cristiano.
+    Guárdate que no me enojes.
+    ¿Quién es aquesta cautiva?
+FELIS:
+    Mi esposa y mujer.
+MANZOR:
+    ¿Adónde
+    nació?
+FELIS:
+    En Toledo, señor.
+MANZOR:
+    ¿Padres nobles?
+FELIS:
+    Regidores,
+    que quien enseña a vivir,
+    así es razón que se nombre.
+MANZOR:
+    ¿Dónde ibas?
+FELIS:
+    Iba a Italia
+    con un oficio a la corte
+    de Nápoles, porque soy
+    letrado.
+MANZOR:
+    Y bien, gentilhombre,
+    ¿ha parido tu mujer?
+FELIS:
+    Señor, diez veces o doce.
+MANZOR:
+    Pues ¿cómo en tan pocos años?
+FELIS:
+    Porque casó de catorce.
+MANZOR:
+    No es mala para mi intento.
+FELIS:
+    Entiende bien mis razones,
+    que su madre es la que digo.
+MANZOR:
+    ¿Su madre dices?
+FELIS:
+    Turbome
+    el resplandor de tu cara,
+    porque tienen resplandores
+    como el sol todos los reyes,
+    que yo la quisiera el doble
+    si pariera porque, en fin,
+    tengo un mayorazgo pobre,
+    pero es de manera estéril;
+    que es pedir hijos a un bronce.
+MANZOR:
+    Eso ha sido culpa tuya.
+FELIS:
+    ¿Mi culpa?
+MANZOR:
+    Celindo es hombre
+    que tendrá della cien hijos,
+    si fuera tu esposa un monte.
+    Dime desto de ser sorda
+    y di verdad.
+FELIS:
+    Teodor oye
+    algunas veces muy bien,
+    habla y discurre con orden,
+    mas si le dan pesadumbre,
+    aunque trompetas le toquen
+    al oído, no hay remedio
+    ni para que el seso cobre;
+    y como este cautiverio
+    le ha dado tantos dolores,
+    no es mucho que ya en su vida
+    a ser lo que ha sido torne.
+MANZOR:
+    Retírate allí.
+FELIS:
+    ¡Ay de mí!
+MANZOR:
+    Oye tú, cristiano.
+LEONELO:
+    El cielo
+    te guarde.
+MANZOR:
+    ¿El nombre?
+LEONELO:
+    Leonelo.
+MANZOR:
+    ¿Eres noble?
+LEONELO:
+    Señor, sí.
+MANZOR:
+    ¿Qué eres deste?
+LEONELO:
+    Primo hermano.
+MANZOR:
+    ¿Quién es Teodor?
+LEONELO:
+    Es su esposa.
+MANZOR:
+    ¿Es de sangre generosa?
+LEONELO:
+    De un maestro toledano
+    de griego y filosofía
+    es hija.
+MANZOR:
+    ¿Y es su mujer
+    sin duda?
+LEONELO:
+    Viniera a ser,
+    porque ya Teodor quería,
+    pero hasta agora es doncella.
+MANZOR:
+    ¿Pues adónde la llevaba?
+LEONELO:
+    Su padre la desposaba,
+    mas contra su gusto della,
+    y don Felis la robó
+    en el camino a su gente
+    y, junto al mar, tu valiente
+    alcaide nos cautivó.
+MANZOR:
+    ¿Qué enfermedades son estas
+    que tiene?
+LEONELO:
+    Yo no lo sé,
+    que no es cosa que se ve
+    en mujeres tan honestas.
+MANZOR:
+    Retírate allí.
+FELIS:
+    ¿Qué has dicho?
+LEONELO:
+    La verdad.
+FELIS:
+    ¡Perdido soy!
+PADILLA:
+    Mas que agora hablarle voy,
+    esfuerce Dios mi capricho.
+MANZOR:
+    ¡Hola, tú!
+PADILLA:
+    ¿Qué es lo que mandas?
+MANZOR:
+    ¿En efeto a aquestos sirves?
+PADILLA:
+    Son nobles, soy su crïado,
+    uno es Laso, otro Manrique,
+    linajes que allá en España
+    son como acá los Zegríes,
+    Muzas, Celindos o Zaides.
+MANZOR:
+    Cuando a servirlos veniste
+    ¿era ya Felis casado
+    con Teodor?
+PADILLA:
+    Sí, señor.
+MANZOR:
+    Dime
+    ¿cúya hija es esta dama?
+PADILLA:
+    Señor, en Toledo dicen
+    que es de la piedra.
+MANZOR:
+    ¿Qué piedra?
+PADILLA:
+    En su Santa Iglesia admiten,
+    en una cuna de mármol,
+    para que en ella se críen
+    los espósitos muchachos,
+    que, porque nadie adivine,
+    la color, son como medias,
+    que los echan en el tinte.
+MANZOR:
+    ¿Cuánto habrá que se casaron?
+PADILLA:
+    Pienso que este Corpus Christe
+    hará dos años o tres.
+MANZOR:
+    ¿Hay hijos?
+PADILLA:
+    Catorce o quince.
+MANZOR:
+    ¿Quince hijos en dos años?
+PADILLA:
+    ¿Y eso es razón que te admire?
+    Es coneja y a tres meses
+    pare y vuelve a prevenirse.
+MANZOR:
+    ¿Qué gracias tiene?
+PADILLA:
+    Notables,
+    porque nada como un cisne,
+    juega bien a la pelota,
+    danza, canta, tañe, esgrime,
+    borda, pinta, cose, lava,
+    remienda, almidona, escribe,
+    zurce, sabe hacer conservas,
+    almíbar, cande, alfeñique,
+    perejil, huevos mejidos,
+    almendradas y papines.
+    Sabe andar por la maroma,
+    echa soletas insignes,
+    cuenta, resta, multiplica,
+    hace randas y escarpines
+    que le vendrán a un poeta,
+    aunque de apóstol se pique.
+MANZOR:
+    Dícenme que es sorda.
+PADILLA:
+    ¿Quién?
+    ¡Oh, qué lindo! ¿Sorda dices?
+    Más oye que treinta ciervos.
+MANZOR:
+    ¿Buena vista?
+PADILLA:
+    Como un lince.
+MANZOR:
+    ¿Dónde Felis la llevaba
+    cuando fue presa?
+PADILLA:
+    A decirte
+    la verdad, a ver el mundo,
+    porque ella con sus latines
+    piensa llegar a ser reina.
+MANZOR:
+    ¿Alí?
+ALÍ:
+    Señor…
+MANZOR:
+    No desvíes
+    aquestos tres del palacio
+    ni vuelvan al mar.
+JARIFA:
+    Permite
+    que anden con yerro en Orán.
+MANZOR:
+    Pues, Jarifa, tú lo pides…
+JARIFA:
+    Tengo lástima a cristianos.
+MANZOR:
+    Por ti mando que anden libres.
+FELIS:
+    ¿Qué dijiste de Teodor?
+PADILLA:
+    Cosas tan notables dije
+    que tengo por cosa cierta
+    que en Túnez u Orán obispe.
+[Llévenlos. Entren Zaide y Teodor]
+ZAIDE:
+    Aquí te traigo a Teodor.
+MANZOR:
+    De aquí se van sus cristianos.
+ZAIDE:
+    Al Rey le besa las manos.
+TEODOR:
+    ¡Beso tus manos, señor!
+MANZOR:
+    Habla más bajo, que yo
+    bien te entiendo.
+TEODOR:
+    ¿Si estoy buena?
+    Buena, porque esta cadena
+    es oro, que yerro no.
+MANZOR:
+    ¡Alá me valga, Celindo!
+    ¡Qué notable confusión!
+CELINDO:
+    ¡Qué tenga aquesta pasión
+    sujeto y talle tan lindo!
+MANZOR:
+    Hablé con los tres cristianos
+    y todos tres han mentido.
+CELINDO:
+    Miedo a la muerte ha sido.
+    Dame, cristiana, tus manos.
+TEODOR:
+    ¿Si se usan en mi tierra
+    guantes? Sí; muchos, señor.
+CELINDO:
+    Cuanto obliga el verla a amor,
+    tanto al mismo amor destierra
+    solamente oírla hablar.
+MANZOR:
+    ¿Es posible que es de veras?
+DARAJA:
+    Si como verte pudieras
+    te pudieras escuchar,
+    cristiana, huyeras de ti.
+TEODOR:
+    No pienso mudar el traje,
+    que no es justo hacer ultraje
+    a la ley en que nací.
+CELINDO:
+    Consulta un médico tuyo
+    que diga, pues doctos son,
+    si importa a la sucesión
+    aqueste defeto suyo.
+MANZOR:
+    Lo sordo poco importara,
+    mas si es loca ¿no ha de ser
+    el fruto que ha de nacer
+    loco?
+DARAJA:
+    Eso es cosa muy clara.
+    Teodor, mucho tu hermosura
+    con esa locura afeas.
+TEODOR:
+    ¿Si hay por allá chimeneas?
+DARAJA:
+    ¡Qué estraña descompostura!
+TEODOR:
+    Claro está que donde hay frío,
+    sus reparos ha de haber.
+CELINDO:
+    ¿Quiéresme, Teodor, querer
+    en premio del amor mío
+    que al mayor del mundo excede?
+TEODOR:
+    Cuando allá mi padre trate
+    de querer daros rescate,
+    es tan pobre que no puede.
+CELINDO:
+    No se trata de eso, no;
+    de que me quieras se trata.
+TEODOR:
+    Si algún fraile me rescata,
+    después pagarele yo,
+    o por corto o largo plazo.
+CELINDO:
+    ¡Triste cosa! Oye por señas.
+    Veamos si me desdeñas
+    ¿quiéresme dar un abrazo?
+TEODOR:
+    ¿Medida a mí de vestido?
+    No hay que tratar, no os canséis.
+    Yo he de traer el que veis
+    como en mi ley le he traído.
+CELINDO:
+    Defetos notables son,
+    ella es un mármol.
+TEODOR:
+    Allá
+    pretendí ser monja y, ya
+    que entraba en la religión,
+    llevándome de camino
+    lo que veis me sucedió.
+CELINDO:
+    No me canso más.
+MANZOR:
+    Ni yo.
+CELINDO:
+    ¡Bello mármol!
+MANZOR:
+    ¡Peregrino!
+CELINDO:
+    Ven tú, Daraja, conmigo.
+    Hablaremos las demás.
+DARAJA:
+    Yo sé que alguna hallarás
+    y sin envidia lo digo
+    que a Teodor hace ventaja.
+[Váyanse Celindo y Daraja]
+JARIFA:
+    Haz que salga fuera Alí,
+    que quiero hablarte.
+MANZOR:
+    ¿Tú?
+JARIFA:
+    Sí,
+    sin Celindo y sin Daraja.
+MANZOR:
+    Alí, ponte en esa puerta.
+JARIFA:
+    ¿Qué razón hay, Gran Señor,
+    que trates con tanto error
+    una cosa tan incierta?
+    Das en tener sucesión
+    de tu hermano y ¿ésta quieres
+    que por estrañas mujeres
+    salga a tu imaginación?
+    ¿Y no miras que tu hermano
+    que ayer guerra te movía
+    y que contra ti tenía
+    la fiera espada en la mano,
+    en tiniendo sucesor
+    podrá quitarte la vida?
+MANZOR:
+    ¡Buena paga y merecida,
+    Jarifa, de tanto amor!
+    Pero no dices muy mal,
+    que este mozo es belicoso
+    y no querrá poderoso
+    sufrir en el reino igual.
+    Mas ¿cómo, ya que ha venido,
+    podré volverle a enviar?
+JARIFA:
+    Di que le envía a llamar
+    Selín, a quien ha servido,
+    y en saliendo no le den,
+    pues bien guardados están,
+    jamás entrada en Orán,
+    en Túnez y en Tremecén.
+MANZOR:
+    Bien dices.
+JARIFA:
+    Por lo que toca
+    a sucesión, oye.
+MANZOR:
+    Di.
+JARIFA:
+    Cásame a mí, pues de ti
+    no menos sangre me toca,
+    y pues querías tener
+    de españoles sucesión,
+    sea español el varón,
+    no lo sea la mujer.
+    El remedio está en la mano:
+    este Felis es galán,
+    hazle príncipe de Orán,
+    que de mí y deste cristiano
+    no te queda qué temer.
+TEODOR:
+    (Triste de mí, yo soy muerta.)
+MANZOR:
+    Más presumo que se acierta
+    por varón que por mujer.
+    Bien holgara de casarte
+    porque a mí me está más bien,
+    porque aseguro también
+    mi vida con obligarte.
+    Gallardo es este cristiano,
+    mas no sé si ha de querer.
+JARIFA:
+    Por tal reino y tal mujer
+    no será tan loco y vano.
+MANZOR:
+    Miedo me has puesto en decir
+    que Celindo ha de matarme.
+JARIFA:
+    La cristiana da en mirarme,
+    ¿si nos ha podido oír?
+MANZOR:
+    Necedad ha sido hablar,
+    mas pienso que es sorda y loca.
+TEODOR:
+    (Loca sí, que me provoca
+    a enloquecer tal pesar.
+    Sorda no, que al fin oí
+    la sentencia de mi muerte.)
+MANZOR:
+    Pues trázalo desa suerte
+    y habla al cristiano por mí.
+JARIFA:
+    Envíale tú a llamar.
+MANZOR:
+    Vamos y traerale Alí.
+JARIFA:
+    Esto que has oído aquí,
+    Teodor, procura callar,
+    que te costará la vida.
+TEODOR:
+    Labor sé hacer estremada
+    de oro y seda matizada.
+JARIFA:
+    ¡Qué sorda!
+MANZOR:
+    Es cosa perdida.
+[Váyanse. Teodor sola]
+TEODOR:
+    ¿Qué más perdida cosa
+    que quien por la mudanza de fortuna,
+    tan fiera y rigurosa,
+    se ve morir sin esperanza alguna?
+    ¡Pluguiera a Dios que fuera
+    tan sorda ya, que tanto mal no oyera!
+    Para poder librarme
+    de tan fiero y injusto casamiento,
+    propuse remediarme
+    con arte de mi raro entendimiento.
+    Fingime sorda y loca,
+    mas, cuando excede el mal, la industria es poca.
+    Terrible cosa ha sido
+    mi cautiverio, pero mayor fuera
+    si en el de aquel marido
+    para mayores penas estuviera,
+    porque no hay Berbería
+    como una aborrecida compañía.
+    Aunque he disimulado
+    porque mi honestidad no se perdiese
+    y un hombre enamorado
+    alguna fuerza a mi defensa hiciese,
+    contento he recibido
+    de trocar por don Felis tal marido.
+    Mas cuando agora veo
+    que esta loca mujer enamorada,
+    por cumplir su deseo,
+    a un viejo temeroso de la espada
+    de cualquiera pariente
+    quiere obligar que un desatino intente,
+    y que interés podría
+    de un reino hacer que Felis se olvidase
+    de su ley y la mía
+    y que con esta mora se casase,
+    pierdo el entendimiento.
+    Mas ¿cómo cupo en mi tal pensamiento?
+    ¿Soy yo la que en Toledo
+    en las escuelas fui tan celebrada,
+    que puse a tantos miedo
+    de borla blanca, azul, verde y dorada,
+    cuando en mil conclusiones
+    vencí sus argumentos y razones?
+    ¿Qué es de lo que he leído
+    en lengua latina, hebrea y griega?
+    ¿Qué fortuna ha vencido
+    quien a las letras y virtud se llega?
+    ¿Dónde está mi agudeza?
+    ¿Qué es de mi raro ingenio y sutileza?
+    ¿Soy yo la que llamaban
+    monstruo español, y a verme mil naciones
+    tierras peregrinaban
+    mares, golfos, provincias y regiones?
+    ¡Fuera, cobarde miedo!
+    Vencer con arte mi fortuna puedo.
+[Entre don Felis]
+FELIS:
+    El Rey a llamarme envía
+    ¡ay, cielos! ¿qué me querrá?
+    Mas ¡ay, amor! aquí está
+    la divina prenda mía.
+    ¡Teodor!
+TEODOR:
+    ¡Felis!
+FELIS:
+    ¿Sola aquí?
+TEODOR:
+    ¡Ay, mi bien! ¿Adónde vas?
+FELIS:
+    A ti voy, que donde estás
+    ése es centro para mí.
+TEODOR:
+    Muchas cosas te dijera
+    si diera el tiempo lugar.
+FELIS:
+    Y yo te quisiera hablar
+    si el tiempo lugar me diera.
+    ¡Qué buena loca fingiste!
+    ¡Qué buena sorda, mi bien!
+TEODOR:
+    La vida me dio también
+    luego que de aquí te fuiste,
+    que pensando que lo era,
+    el viejo Rey temeroso,
+    tan mudable y sospechoso
+    que le han de dar muerte fiera,
+    con su sobrina ha tratado
+    a Celindo echar de aquí,
+    y, como con él a mí,
+    que con ella estés casado;
+    que de español y africana
+    gran rey esperando están
+    y tú has de serlo de Orán,
+    dejando la ley cristiana.
+    Éste su concierto ha sido,
+    mira a lo que llega un viejo,
+    pues a cualquiera consejo
+    tiene dispuesto el oído.
+    Hoy te han de hablar.
+FELIS:
+    ¡Ay de mí!
+TEODOR:
+    No te aflijas.
+FELIS:
+    ¿Cómo no?
+TEODOR:
+    ¿No vivo yo?
+FELIS:
+    Sí, mas yo
+    ¿cómo viviré sin ti?
+TEODOR:
+    Tú has de decir que serás
+    su marido…
+FELIS:
+    ¿Cómo?
+TEODOR:
+    Espera,
+    pero que en tu ley primera
+    todo el tiempo vivirás
+    que sin hijos estuvieres
+    pero que en su traje moro
+    guardarás aquel decoro
+    de rey.
+FELIS:
+    Si probar me quieres,
+    no sea con desatinos.
+TEODOR:
+    No estamos a tiempo ya
+    de perder tiempo, oye acá.
+FELIS:
+    Plega a los cielos divinos…
+TEODOR:
+    No jures, que yo te creo.
+    Escucha lo que has de hacer.
+FELIS:
+    ¿Pues ha de ser mi mujer
+    este demonio que veo?
+TEODOR:
+    Yo quiero fïar de ti
+    que entretenerla sabrás
+    fingiendo que enfermo estás.
+FELIS:
+    El fin de todo me di.
+TEODOR:
+    Fingiéndote rey de Orán,
+    echará luego a su hermano
+    el Rey, con que está muy llano
+    que libre me dejarán.
+    Tú en forma de Rey ¿quién duda
+    que me darás libertad?
+FELIS:
+    Dicen que en la adversidad
+    todo el ingenio se muda.
+    El tuyo va en esto errado.
+TEODOR:
+    En la próspera fortuna
+    suele haber mudanza alguna,
+    que es condición de su estado
+    que el ingenio antes se afila
+    en las adversas.
+FELIS:
+    No sé
+    si te crea.
+TEODOR:
+    Pensaré
+    que tu valor se aniquila.
+FELIS:
+    Pensarás mal, mas si soy
+    Rey y te doy libertad,
+    ¿qué importa la majestad,
+    quedándome donde estoy?
+TEODOR:
+    Tú eres hombre y bien podrás
+    saliendo al mar algún día
+    irte a España.
+FELIS:
+    Prenda mía,
+    ya no puedo hablarte más.
+    Vete, que el Rey viene aquí.
+TEODOR:
+    Adiós, mi Felis.
+FELIS:
+    Adiós.
+[Váyase Teodor. Entre el Rey, Jarifa, y Celindo y Alí]
+MANZOR:
+    ¿Juntos estaban los dos?
+JARIFA:
+    ¿Tú no los viste?
+CELINDO:
+    Yo sí.
+MANZOR:
+    Tiénense amor, no me espanto.
+    Celindo…
+CELINDO:
+    Señor.
+MANZOR:
+    Es justo
+    para no darle disgusto
+    a Selín, que estimo tanto,
+    que le vayas a pedir
+    licencia para casarte.
+    Dile como quiero darte
+    mi reino y en paz vivir
+    lo que de vida me queda.
+    No le demos ocasión,
+    que estos reinos suyos son,
+    a que quitártelos pueda.
+    Yo tengo escrito y es bien
+    que esta lisonja le hagas;
+    con ésta el amor le pagas
+    y das ocasión también
+    a que el reino te confirme.
+CELINDO:
+    Gran cordura me parece,
+    que a quien por suyo le ofrece
+    no dudo que le confirme.
+    Besaré, señor, las manos
+    de parte tuya a Selín.
+MANZOR:
+    Gozarás con esto en fin
+    todos estos reinos llanos.
+    Dame esos brazos y parte,
+    que las cartas éstas son.
+    Vuelve a tomar posesión
+    del reino que quiero darte,
+    y guárdete Alá mil años.
+CELINDO:
+    Y a ti conforme a tu celo;
+    guárdete, Jarifa, el cielo.
+JARIFA:
+    De los peligros y daños
+    de la tierra y de la mar
+    te libre en este camino.
+CELINDO:
+    (No voy contento; imagino
+    que se debe de mudar
+    deste caduco el intento.
+    Temor y amor le combate.
+    ¿Cosa que mudable trate
+    de Jarifa el casamiento?
+    Mas no, que es puesto en razón
+    besar la mano a Selín.
+    Yo voy que no pierdo en fin
+    más que alguna dilación.)
+[Váyase Celindo]
+MANZOR:
+    Alí…
+ALÍ:
+    Señor…
+MANZOR:
+    En saliendo
+    de Orán mi hermano, haz de modo
+    que se avise al reino todo.
+ALÍ:
+    Luego ¿no entrará volviendo?
+MANZOR:
+    Si él llega allá, bien seguro
+    estoy que no vuelva acá,
+    que antes de llegar allá
+    no se volviese procuro.
+    Y para aquesto te aviso
+    que en Túnez, ni en Tremecén
+    ni en Orán, puerta le den.
+ALÍ:
+    (¡Qué mudanzas de improviso!
+    Ayer a llamarle envía
+    para dejarle esta tierra,
+    y hoy le aborrece y destierra.
+    No es hombre quien de hombres fía.)
+[Váyase Alí]
+MANZOR:
+    ¡Don Felis!
+FELIS:
+    ¡Gran Señor!
+MANZOR:
+    Yo te he llamado
+    para saber de ti, si la fortuna
+    te quisiese subir a un alto estado
+    y colocarte encima de la luna
+    ¿tendrías tú valor de hidalgo honrado
+    con que mostrar sin resistencia alguna
+    que en la prosperidad el hombre sabio
+    se tiempla más que en su mayor agravio?
+    Si te vieses de humilde caballero
+    ser sucesor y príncipe jurado
+    de Túnez, Tremecén y Orán, primero
+    que aun por sueños te fuese imaginado
+    ¿sabrías, o pacífico o severo,
+    gobernar la grandeza de tu estado?
+    ¿Sabrías ser agradecido amigo
+    a quien te diese aqueste bien que digo?
+    ¿Sabrías tú ser rey?
+FELIS:
+    Señor supremo,
+    muchos pobres soldados Roma tuvo
+    que su imperio rigieron con estremo,
+    en cuyos hombros felizmente estuvo.
+    Lo que de mi valor y ingenio temo,
+    que en letras solamente se entretuvo,
+    es la espiriencia. Pero, en fin, la ciencia
+    alcanza más que el tiempo y la espiriencia.
+    Si yo me viese rey, sin duda creo
+    que fuese un Numa, un César, un Trajano.
+    Y a quien hiciese de su reino empleo
+    en mi valor con generosa mano,
+    daríale la vida que poseo,
+    y a no haber sido, como soy, cristiano,
+    le labrara mil templos en que hiciera
+    que su memoria idolatrada fuera.
+    Mas ¿por qué lo preguntas?
+MANZOR:
+    Yo no tengo
+    sucesor ni le espero en estos años.
+    A Celindo llamé para casarle,
+    que mezclado con sangre de españoles
+    imaginé gallardo el heredero.
+    Propósito mudé viendo a Celindo,
+    que ya Celindo de mi muerte trata.
+    Él es ido con cartas engañosas
+    al Gran Señor Selín; daranle muerte.
+    Los ojos puse luego en mi sobrina,
+    hija mayor de mi mayor hermano,
+    ella los puso en ti; de su consejo
+    te quiero hacer de Orán y Túnez príncipe
+    y casarte con ella.
+FELIS:
+    No prosiga
+    tu Majestad, señor, que aunque he leído
+    mil historias como éstas en que puso
+    mil cautivos y presos la fortuna
+    en reinos, en imperios alemanes,
+    griegos y persas, y en la misma muerte
+    les dio laureles, ceptros y coronas,
+    no creo que de mí se escriban tales
+    ni que mi estrella en tanta desventura
+    me tuviese guardado bien tan grande.
+JARIFA:
+    Felis, si el Rey, de Alá inspirado, quiere
+    hacerte sucesor de sus estados,
+    no vuelvas las espaldas a tu dicha,
+    pues eres español y caballero.
+    Ten ánimo y valor, serás mi esposo
+    y el rey de Orán y Túnez.
+FELIS:
+    Yo, Jarifa,
+    valor tengo que puede a toda el África
+    y aun al imperio de Alejandro Magno
+    suceder en gobierno; lo que temo
+    es que tratéis conmigo, por burlaros,
+    una cosa tan fuera de mi dicha.
+MANZOR:
+    Felis, esto es verdad, por tantos reinos
+    deja tu ley, tu traje y tus costu[mbres].
+    Cásate luego.
+FELIS:
+    ¿Qué diré, Jar[ifa]?
+JARIFA:
+    Que obedeces al Rey y que agradeces
+    al cielo tanto bien.
+FELIS:
+    Pues, señor, digo
+    que aquí me tienes.
+MANZOR:
+    Resta que sepamos
+    si dejarás tu ley.
+FELIS:
+    Tomaré luego
+    el hábito de moro, la ley mía
+    dejaré el día que tuviere hijos,
+    que no es justo dejarla hasta tenerlos.
+MANZOR:
+    Agrádame el concierto.
+FELIS:
+    Pero advierte
+    que me has de hacer un bien.
+MANZOR:
+    Don Felis, pide.
+FELIS:
+    Fácil será, señor, a tu grandeza.
+MANZOR:
+    ¿Cómo?
+FELIS:
+    Que envíes al momento a España
+    esta cautiva.
+MANZOR:
+    ¿Quién? ¿Teodor?
+FELIS:
+    La misma.
+MANZOR:
+    Eso a nosotros nos importa: digo
+    que a Cartagena haré que acompañada
+    la lleven mis alcaides con mil joyas.
+    De los demás ¿que harán?
+FELIS:
+    Que aquí se queden,
+    porque, hablándolos yo, se vuelvan moros.
+MANZOR:
+    Pues parte a hablarlos y ese talle ilustre
+    viste de telas de oro, seda y grana.
+    Ponte un gran dulipán en tu cabeza,
+    ciñe un dorado alfanje damasquino,
+    en tanto que de casa y de crïados
+    adorno tu persona.
+FELIS:
+    Guarde el cielo
+    tus años.
+MANZOR:
+    Hijo, mira que agradezcas
+    aqueste amor.
+FELIS:
+    Aquese nombre basta
+    para que mis entrañas te obedezcan.
+MANZOR:
+    Los cielos te den vida y te engrandezcan.
+[Váyase don Felis]
+    ¿Qué te parece?
+JARIFA:
+    Que si aquéste sabe
+    que su esposa Teodor está en España
+    ha de intentar de tanto amor forzado
+    irse cuando le tengas más seguro,
+    a tu palabra y a mi fe perjuro.
+MANZOR:
+    Pues buen remedio: hacer que parta luego
+    Zaide con ella al Asia y que la venda
+    si no en Constantinopla, en otra parte
+    y podremos decir que fue cautiva
+    al tiempo que pasaba a Cartagena.
+[Zaide, entre]
+JARIFA:
+    Zaide viene a buen tiempo.
+MANZOR:
+    Escucha, Zaide.
+ZAIDE:
+    A decirte venía lo que mandas
+    hacer destos cautivos que andan libres.
+MANZOR:
+    Los tres ya tienen orden, porque creo
+    que han de ser moros; la cautiva al punto
+    lleva a Constantinopla y en su plaza
+    haz que se venda.
+ZAIDE:
+    Haré en la mar y tierra
+    falta a las cosas del servicio tuyo,
+    basta que vaya mi sobrino Hamete.
+MANZOR:
+    Basta, aunque aquesto es cosa de importancia.
+ZAIDE:
+    De todo dará Hamete buena cuenta.
+MANZOR:
+    Pues vamos, porque quiero despacharte.
+ZAIDE:
+    Ya sabes que te sirvo con cuidado.
+JARIFA:
+    ¡Cielos, ya tengo a Felis! Yo no os pido
+    a Orán ni a Túnez sino buen marido.
+[Éntrense y salgan Leonardo, padre de Teodor, en Valencia, y Foresto, catredático, el que había de ser su marido]
+FORESTO:
+    Sabe el cielo si quisiera
+    de otra suerte recibiros.
+LEONARDO:
+    ¡Oh, cobarde a mis suspiros
+    y lágrimas, muerte fiera!
+    No me pude persuadir
+    que no estaba aquí Teodor,
+    pues me ha forzado el dolor
+    a venir más que a morir.
+    Es verdad que me dijeron
+    su robo y que recibí
+    vuestras cartas, mas creí
+    que hasta las firmas mintieron.
+    ¿Qué nuevas tenéis acá
+    del traidor que la robó?
+FORESTO:
+    Mal don Felis la gozó,
+    vengado mi honor está.
+    Camino de Barcelona,
+    y quiriendo descansar
+    en las orillas del mar
+    que nuestro reino corona,
+    fue preso de seis fragatas
+    de moros de Tremecén.
+LEONARDO:
+    ¿Y Teodor también?
+FORESTO:
+    También.
+LEONARDO:
+    ¿Así, fortuna, me tratas?
+FORESTO:
+    A quien, cual vos, ha leído
+    tantos filósofos graves,
+    a quien ha visto las naves
+    que la fortuna ha rompido,
+    a quien sabe como vos
+    la moral filosofía,
+    a quien lee cada día
+    estos castigos de Dios,
+    no tengo que consolar;
+    siento vuestro mal y el mío,
+    pero ni sé, ni confío
+    que se pueda remediar.
+LEONARDO:
+    Yo, Foresto, muchos años
+    las cátredas he leído,
+    que sabéis en que he tenido
+    del tiempo mil desengaños,
+    mas ninguno me ha llegado
+    donde aquéste me llegó,
+    porque imaginaba yo
+    que era lugar reservado.
+    Pero, pues fortuna ordena
+    que me falte tanto bien,
+    no digo yo a Tremecén
+    por Valencia o Cartagena,
+    pero a Trapisonda iré,
+    a la China, a las dos Javas,
+    que ni a las tormentas bravas
+    de la mar temor tendré;
+    ni a los peligros mayores
+    que en la tierra puede haber.
+FORESTO:
+    Si vos pensáis emprender
+    y no con fuerzas mejores,
+    años y salud, camino
+    tan notable, iré con vos.
+LEONARDO:
+    ¿Cierto?
+FORESTO:
+    Y no tengo, por Dios,
+    el buscarla a desatino:
+    llevemos para el rescate
+    dineros, pero primero,
+    como hidalgo y caballero,
+    para que verdad os trate
+    palabra me habéis de dar
+    de que ha de ser mi mujer.
+LEONARDO:
+    ¿Quien os la dio en el placer,
+    no os la dará en el pesar?
+FORESTO:
+    Pues, alto en nombre de Dios;
+    embarquémonos a Orán.
+LEONARDO:
+    Mil pasajes nos darán,
+    porque habemos de ir los dos
+    en forma de mercaderes
+    y llevar sedas y granas.
+FORESTO:
+    Mar, si tus aguas allanas
+    y piadoso huésped eres
+    deste amante, yo te ofrezco
+    un epigrama latino
+    en que te llame divino.
+LEONARDO:
+    Pues, dulce mar, si merezco
+    que allá me dejes pasar,
+    yo te haré versos que excedan
+    al gran Virgilio y que puedan
+    tus claras aguas honrar.
+[Váyanse. Entren Felis de moro muy galán y Leonelo, y Padilla de moro gracioso]
+FELIS:
+    Esto nos conviene ansí.
+LEONELO:
+    Yo sólo el peligro temo.
+PADILLA:
+    De aquesta vez vuelvo al remo.
+FELIS:
+    Fïaros podéis de mí
+    y del ingenio divino
+    de Teodor, cuya es la traza.
+PADILLA:
+    Grande mal nos amenaza.
+LEONELO:
+    Todo ha de ser desatino.
+    ¿Tú, rey de Orán?
+FELIS:
+    Ya soy rey,
+    no tenéis que preguntar.
+LEONELO:
+    ¿Cuándo o cómo has de reinar
+    sin agravio de tu ley?
+FELIS:
+    Yo hice llevar a España
+    a Teodor.
+LEONELO:
+    Moros decían
+    que ya de vuelta serían.
+PADILLA:
+    La misma Teodor te engaña.
+FELIS:
+    ¿Por qué, necio?
+PADILLA:
+    Porque quiso
+    salir de cautividad
+    y, en tiniendo libertad,
+    con una carta de aviso
+    decir que queda en Toledo
+    en Zocodover comprando
+    membrillos o vendimiando
+    en Burguillos…
+FELIS:
+    Habla quedo.
+PADILLA:
+    Y que te escapes si puedes.
+FELIS:
+    Yo sé que sabré librarme.
+PADILLA:
+    Teodor pudiera llevarme
+    y hiciérame mil mercedes,
+    pero ella debe de estar
+    en la Vega o las Ventillas,
+    en la Güerta o las Vistillas,
+    tratando de merendar
+    entre seis estudiantones
+    de los que su padre enseña,
+    que de la más dura peña
+    harán turrón de piñones;
+    y tú, vestido en Orán
+    como moro de comedia
+    y aun, si Dios no lo remedia,
+    creyendo en el Alcorán.
+FELIS:
+    Eso no, porque primero
+    mil muertes pienso sufrir.
+LEONELO:
+    El Rey…
+[El Rey, Daraja y Jarifa]
+MANZOR:
+    No hay más que decir
+    de que por hijo le quiero.
+JARIFA:
+    Gallardamente le están
+    el turbante y la marlota.
+DARAJA:
+    Ya Leonelo me alborota.
+MANZOR:
+    ¡Guárdete Alá, rey de Orán!
+FELIS:
+    Tu hechura dirás, señor.
+MANZOR:
+    ¡Hola! Dadnos almohadas;
+    notablemente me agradas.
+FELIS:
+    Soy de tu sol resplandor.
+[Siéntense]
+MANZOR:
+    Sentaos, sobrinas.
+DARAJA:
+    ¿Con quién
+    me mandas a mí sentar?
+MANZOR:
+    Leonelo te hará lugar,
+    alcaide de Tremecén.
+LEONELO:
+    Beso, Gran Señor, tus manos.
+    ¿Tanto honor, cosa tan baja?
+MANZOR:
+    Porque las des a Daraja
+    y estéis dos primos hermanos
+    casados con mis sobrinas.
+DARAJA:
+    ¡Dichosa mi suerte ha sido!
+LEONELO:
+    ¿Posible es que he merecido
+    tocar tus manos divinas?
+MANZOR:
+    ¡Hola! Una zambra danzad;
+    celébrense aquestas bodas.
+DARAJA:
+    Presto me desacomodas.
+MANZOR:
+    No importa. ¡Vaya, cantad!
+[Canten los músicos y ellas bailen esta zambra:]
+MÚSICOS:
+    Quien tiene sus esperanzas
+    en amor,
+    tenga siempre a sus mudanzas
+    más temor.
+    Quien tuviere dama hermosa
+    en competencia,
+    si no fuere muy forzosa
+    no haga ausencia.
+    Entre las penas de amor
+    y sus desvelos,
+    el desdén es la menor,
+    mayor los celos.
+    Quien se alaba de su dama
+    en ocasión,
+    eso quita de su fama
+    y opinión.
+    Querer y hacer dar suspiros
+    es rigor,
+    que el amor no hace tiros
+    siendo amor.
+    La ley de la voluntad
+    es la firmeza,
+    porque no guardar lealtad
+    es gran bajeza.
+[Zaide]
+ZAIDE:
+    ¿Puedo interrumpir tus fiestas?
+MANZOR:
+    ¡Oh, Zaide, bien seas venido!
+ZAIDE:
+    A Teodor dejo en España.
+MANZOR:
+    Dale a Felis ese aviso.
+ZAIDE:
+    Con el parabién de rey.
+FELIS:
+    Alcaide, deste servicio
+    no me olvidaré jamás.
+    ¿Holgose Teodor? ¿Qué dijo?
+ZAIDE:
+    Puesto que sintió dejarte
+    y de sus ojos divinos
+    tuvo el mar más blancas perlas
+    que del celestial rocío,
+    al fin, viéndose en la patria,
+    con alegre regocijo
+    besó la tierra y, trocando
+    en dos coches el navío,
+    con seis esclavas que el Rey
+    le dio libres, el camino
+    tomó de la gran Toledo.
+FELIS:
+    (Mucho puedo, pues resisto
+    el placer de tanto bien.)
+    Rey de Orán…
+MANZOR:
+    ¡Querido hijo!
+FELIS:
+    Hoy es día de mercedes.
+    Hoy que de tu mano he sido
+    puesto en tan alto lugar.
+MANZOR:
+    Que las hagas te permito.
+FELIS:
+    Los reyes en nuestra tierra,
+    cuando el cetro de oro rico
+    toman en la mano y ciñen
+    el laurel de que hoy me ciño,
+    hacen a todos mercedes.
+MANZOR:
+    Pide y haz mercedes.
+FELIS:
+    Pido
+    sólo quinientos cristianos:
+    viejos, mujeres y niños
+    para darles libertad
+    de los que tienes cautivos.
+MANZOR:
+    Digo que hoy pasen a España
+    en esos mismos navíos.
+FELIS:
+    Mayor merced me has de hacer,
+    que has de embarcarlos tú mismo.
+MANZOR:
+    Por darte contento voy.
+FELIS:
+    Zaide…
+ZAIDE:
+    Señor…
+FELIS:
+    Este anillo
+    te doy por ser de mi esposa.
+ZAIDE:
+    Y yo por tu amor le estimo.
+FELIS:
+    Ve, Padilla, y mira bien
+    si ejecutan lo que digo.
+PADILLA:
+    Tu Majestad esté cierto
+    que de mí será servido.
+[Váyanse Rey, Zaide y Padilla]
+JARIFA:
+    ¿Cuándo, Felis, estos brazos
+    te han de merecer?
+FELIS:
+    Señora,
+    con Leonelo traté agora
+    que estos amorosos lazos
+    a un tiempo tengan efeto.
+DARAJA:
+    En los que casados son,
+    no hay honesta dilación
+    ni es necesario el secreto.
+FELIS:
+    Eso en vuestra tierra es,
+    pero habemos de guardar
+    la ley nuestra hasta llegar
+    a ser moros, que después
+    viviremos por la vuestra.
+JARIFA:
+    Pues ¿qué ley tenéis allá
+    cuando os casáis?
+FELIS:
+    Claro está
+    que es distinta de la vuestra.
+JARIFA:
+    ¿Cómo?
+FELIS:
+    No hay mujer tan rara
+    que no tenga algún defeto
+    en su persona secreto
+    y que a nadie le declara.
+    Encubrirlos al marido
+    se tiene por gran pecado
+    y así, aunque se hayan casado,
+    no puede ser consumido
+    el matrimonio hasta ver
+    el marido estos defetos.
+JARIFA:
+    ¿Defetos si son secretos
+    y en una honesta mujer?
+FELIS:
+    Oye.
+DARAJA:
+    ¡Estraña confusión!
+FELIS:
+    Que los hombres no los ven
+    porque hay remedio también.
+JARIFA:
+    ¿Cómo?
+FELIS:
+    Cuando es conjunción,
+    muestra cualquiera mujer
+    sus defetos a la luna
+    y ella con vergüenza alguna,
+    porque no los puedan ver,
+    ciega al marido los ojos
+    y cúmplese con la ley.
+JARIFA:
+    ¿Dirémosle aquesto al Rey?
+DARAJA:
+    No te dé, Jarifa, enojos,
+    que de aquí a la conjunción
+    no hay mucho.
+FELIS:
+    (¿Qué te parece
+    de la invención?)
+LEONELO:
+    (Que merece
+    mil premios esta invención.
+    Con estraño desatino
+    el matrimonio dilatas.)
+[Entre Padilla dando de palos a Alí]
+ALÍ:
+    ¡Tente y mira que me matas!
+PADILLA:
+    ¡Camine, pues!
+ALÍ:
+    Ya camino.
+FELIS:
+    ¿Qué es esto, Padilla?
+PADILLA:
+    Risa,
+    contento, placer, venganza
+    deste perro.
+ALÍ:
+    ¡Tal mudanza!
+PADILLA:
+    Díjele que fuese aprisa
+    juntando ciertos cautivos
+    y escóndelos el perrazo.
+FELIS:
+    ¡Bien por Dios! Córtale un brazo.
+ALÍ:
+    ¡Oh, españoles vengativos!
+    ¡Señor, yo los sacaré!
+FELIS:
+    Ve luego o ponle en un palo.
+PADILLA:
+    Agora la espalda igualo,
+    de aquí a un poco le daré
+    en la barriga otros tantos.
+ALÍ:
+    ¿No vive piedad en ti?
+PADILLA:
+    ¿Tuvístela tú de mí?
+FELIS:
+    ¿Juntan muchos?
+PADILLA:
+    Muchos.
+FELIS:
+    ¿Cuántos?
+PADILLA:
+    Más de ducientos están
+    en la playa.
+FELIS:
+    Alegre estoy.
+PADILLA:
+    Camine el perro.
+ALÍ:
+    Ya voy.
+LEONELO:
+    No queda esclavo en Orán.
+FELIS:
+    Señoras, a verlo vamos.
+LEONELO:
+    Licencia a los dos nos dad.
+FELIS:
+    La conjunción esperad
+    y adiós.
+DARAJA:
+    Muy buenas quedamos.
+JARIFA:
+    ¿Tienes, Daraja, defetos
+    de gran consideración?
+DARAJA:
+    Apenas sé si lo son
+    respeto de estar secretos,
+    pero ¡qué tengo de hacer!
+    Y tú, ¿que sientes de ti?
+JARIFA:
+    Que, como mujer nací,
+    seré como otra mujer.
+    Hagamos una oración.
+DARAJA:
+    La luna es bien que se ruegue.
+JARIFA:
+    ¡Oh, plega a Dios que los ciegue!
+    ¿Hay tal boda en conjunción?
+[Celindo en Constantinopla con Alimo, turco]
+CELINDO:
+    Vengo a besar al Gran Señor la mano
+    para que en estos reinos me confirme,
+    Alimo, con las cartas de mi hermano.
+ALIMO:
+    Será tener, Celindo, el reino firme.
+CELINDO:
+    Famosa está la corte.
+ALIMO:
+    El Otomano
+    quiere que en esta gran ciudad se afirme,
+    porque es Constantinopla la cabeza.
+CELINDO:
+    Admira su hermosura y su riqueza.
+ALIMO:
+    ¿Casástete?
+CELINDO:
+    Ya queda concertado,
+    aunque de la mujer no estoy contento,
+    porque este viejo temeroso ha dado
+    en que ha de ser espúreo el casamiento.
+[Entren Hamete, Teodor y un pregonero vendiéndola]
+PREG.:
+    ¿Quién compra la cautiva que es traslado
+    de un ángel? ¿Quién la compra?
+CELINDO:
+    Escucha atento.
+ALIMO:
+    ¡Bella esclava, por Dios!
+CELINDO:
+    ¡Y cómo bella!
+PREG.:
+    Cuatrocientos cequíes dan por ella.
+CELINDO:
+    Alimo, yo conozco esta cristiana.
+    ¿Teodor, eres Teodor?
+TEODOR:
+    ¿Pues quien pudiera
+    en fortuna vivir tan inhumana,
+    Celindo amigo, que Teodor no fuera?
+CELINDO:
+    Pues ¿tú en Constantinopla?
+TEODOR:
+    La tirana
+    Jarifa, para ti sangre tan fiera,
+    me ha puesto en tal estado.
+CELINDO:
+    ¿De qué suerte?
+TEODOR:
+    Amando a Felis intentó mi muerte.
+    Díjole al Rey que tú le matarías
+    por serlo, si conmigo te casaba,
+    y que para gozar felices días,
+    si sucesión pacífica esperaba,
+    se aprovechase de las prendas mías,
+    pues, si a Felis por príncipe juraba,
+    tendría más sujeto el heredero,
+    haciendo rey un pobre caballero.
+    Los hijos españoles y africanos,
+    o pretender asegurar su vida,
+    o los agüeros que tenéis tan vanos
+    desa supersticiosa ley fingida
+    hicieron que, estimando a los tiranos
+    por quien estoy adonde ves perdida,
+    te desterrase con engaño injusto
+    y los dos se casaron a su gusto.
+    Luego, fingiendo que me enviaba a España,
+    hasta Constantinopla me han traído,
+    donde me venden por infame hazaña
+    de un engañado rey y un vil marido.
+    Hasta salir del África te engaña
+    tu hermano, que, si vuelves atrevido,
+    te ha de matar su gente o el cristiano
+    que tiene el cetro en la traidora mano.
+    Este pago me dio Felis mi esposo,
+    español, caballero y de Toledo;
+    y a ti Manzor, tu hermano cauteloso.
+    Tú sin el reino y yo sin honra quedo.
+CELINDO:
+    ¡Por Alá soberano y poderoso!,
+    que no se cómo con aliento puedo
+    escuchar tal maldad.
+ALIMO:
+    ¡Bravo suceso!
+CELINDO:
+    ¿Quién tendrá vida o por lo menos seso?
+TEODOR:
+    Hazme placer, Celindo, que la nema
+    rompas a la vil carta de tu hermano.
+CELINDO:
+    Es para el Gran Señor.
+TEODOR:
+    ¿No es bien que tema
+    que le trate traición tan gran tirano?
+ALIMO:
+    Bien dice, abre la carta.
+CELINDO:
+    La Suprema
+    Grandeza me perdone.
+TEODOR:
+    Fuera vano
+    todo respeto, ha de intentar tu muerte.
+CELINDO:
+    Abrí la carta y dice desta suerte:
+[Lea]
+    No me mandéis proseguir
+    ¡por Alá! que si la doy,
+    que a estas horas muerto estoy
+    y es imposible vivir.
+    ¡Oh, fiero hermano crüel!
+    ¡Vive Dios de hacerte guerra
+    y de destruir tu tierra
+    desde Tremecén a Argel!
+    Dame esos brazos, Teodor,
+    y dame, Teodor, los pies.
+    Hamete…
+HAMETE:
+    Señor…
+CELINDO:
+    Pues es
+    infame el Rey, tu señor,
+    dile que su carta vi
+    con mi engañosa esperanza
+    y que tomaré venganza,
+    si Selín me ayuda aquí,
+    del agravio que me ha hecho
+    de Jarifa y del cristiano,
+    y porque entienda el villano
+    que no le fue de provecho
+    hacer vender a su esposa,
+    ven conmigo y te daré
+    más que ninguno te dé
+    a quien más parezca hermosa.
+HAMETE:
+    ¿Pues tú para que la quieres?
+CELINDO:
+    Para darla libertad
+    por ejemplo de lealtad
+    entre españolas mujeres,
+    que por no ofender su esposo
+    sorda y loca se fingió,
+    cuando le ofrecía yo
+    un reino tan poderoso;
+    y el villano mal nacido
+    que no imitó su valor,
+    pagando tan mal su amor,
+    la ha desterrado y vendido.
+    Teodor, ve donde quisieres,
+    ya eres libre.
+TEODOR:
+    En esos pies
+    pondré la boca.
+CELINDO:
+    Aunque estés
+    donde tan estraña eres,
+    yo sé que tienes valor
+    para saberte valer.
+    Si algo hubieres menester
+    en casa del Gran Señor
+    cada día me hallarás.
+    No hayas miedo que tu esposo
+    goce con mucho reposo
+    reino y mujer, que verás
+    tan presto ejército armado
+    contra Orán, con el favor
+    del Gran Señor, que el traidor
+    no viva un mes coronado.
+[Váyanse]
+TEODOR:
+    El cielo tu vida aumente
+    y tus pensamientos guíe,
+    y te dé justa venganza
+    de los tres que te persiguen:
+    del rey de Orán, que mudable
+    te quita el reino y admite
+    un estraño caballero
+    por una mujer que finge;
+    de don Felis, porque siendo
+    cristiano su ley olvide;
+    y de Jarifa, que piensa
+    conservar un imposible.
+    ¡Buena quedo, pues, pensando
+    cómo los conciertos hice:
+    que Felis me enviara a España
+    y que intentara seguirme!
+    ¡Del África vengo al Asia,
+    y de Orán tan presto vine
+    a Constantinopla, adonde
+    no hay mal como verme libre!
+    Suspiros de mis entrañas,
+    puesto que fuego suspire,
+    pues bien podéis por el aire
+    como cometas seguirle,
+    id a Felis, decilde
+    que fue traidor y yo mujer y firme.
+    ¿Qué haré, miserable yo,
+    entre peñascos y sirtes,
+    entre la vida y la muerte,
+    entre Cilas y Caribdes?
+    ¡Oh, miserable Teodor!
+    ¿Por dónde podrás huirte
+    cuatro mil leguas de España,
+    tan desamparada y triste?
+    ¿A quién diré que me ampare,
+    que al instante no me quite
+    este honor, que, aunque entre propios,
+    no hay cosa que más peligre?
+    ¿A qué casa llegaré?
+    Vergüenza y temor me impiden.
+    ¡Ay, lágrimas! Pues que veis
+    las desdichas que me oprimen,
+    id a Felis, decilde
+    que fue traidor y yo mujer y firme.
+    No quiero entrar en la tierra.
+    Al mar, honor, quiero irme;
+    que en una bárbara corte
+    no ha de faltar quien os pise.
+    Mas quiero que vuestras aguas
+    mis pensamientos mitiguen,
+    que no que algún turco fiero
+    esta desventura incite.
+    Ya Felis, cuando en Toledo
+    tantas veces me dijiste
+    que contra toda mudanza
+    era tu amor invencible,
+    y cuando, junto a Valencia,
+    como salteador saliste
+    dando al arcabuz amor,
+    fuego que en las almas vive
+    ¿quién dijera que me habías
+    de dejar porque te dije
+    que ser rey de Orán fingieses,
+    porque nos viesemos libres?
+    Yo me mataré, don Felis.
+    ¡Mar en tus ondas recibe
+    esta mujer desdichada!
+    Entre tanto, quejas tristes
+    id a Felis, decilde
+    que fue traidor y yo mujer y firme.
+
+JORNADA 3
+
+[Una caja de guerra dentro, algunos moros, don Felis y el rey Manzor]
+FELIS:
+    Pierde el temor que vuelva a dar cuidado
+    a tus reinos Celindo.
+MANZOR:
+    Él parte huyendo
+    y dos veces por ti desbaratado.
+FELIS:
+    Bien pensó que su ejército pudiendo
+    llegar a Túnez fuera recibido
+    por amor o temor.
+MANZOR:
+    Llegué temiendo
+    que entraba nuestro ejército vendido,
+    pero el quererte tanto ha sido parte
+    que mi hermano crüel fuese vencido.
+    Selín le dio mil hombres en el arte
+    de la milicia diestros, Berbería
+    los demás que en su ejército reparte,
+    mas, ya que conoció tu valentía,
+    no hayas miedo que vuelva.
+FELIS:
+    Y si volviere
+    será para su infamia y honra mía.
+MANZOR:
+    ¡Felis, que Alá como a Selín prospere!
+    ¿Cuándo Jarifa ha de tocar tu mano,
+    que con tanta razón te adora y quiere?
+    Mira que como en fin eres cristiano,
+    no te tengo seguro.
+FELIS:
+    Estoy medroso
+    de vuestro estilo bárbaro africano,
+    que habiéndote pedido como esposo
+    de Teodor que a su tierra la enviases,
+    estoy de lo contrario temeroso.
+    No he visto carta suya.
+MANZOR:
+    ¡Qué pagases
+    mi amor con tan ingrato pensamiento
+    y que de un rey engaño sospechases!
+    Pues si envïé, por sólo tu contento,
+    quinientos hombres de una vez a España
+    ¿tendré de una mujer avaro intento?
+FELIS:
+    Manzor, yo estoy con esta pena estraña
+    en tanto que no sepa de mi esposa,
+    que no me he de casar te desengaña.
+MANZOR:
+    ¿Sus cartas bastarán?
+FELIS:
+    Será forzosa
+    una carta de España y de su mano.
+MANZOR:
+    Pues ésa no será dificultosa.
+[Entren en hábito de mercaderes Leonardo y Foresto con Alí]
+ALÍ:
+    El que veis es el Príncipe africano.
+LEONARDO:
+    ¿Éste es el que ha vencido tantas guerras?
+ALÍ:
+    Éste es don Felis, español cristiano.
+FORESTO:
+    ¿Qué éste es don Felis?
+LEONARDO:
+    Ya se van.
+FELIS:
+    No yerras,
+    Gran Señor, en querer asegurarme,
+    pues es para tu bien y de tus tierras,
+    y aun importa a tu honor desengañarme.
+MANZOR:
+    (Confuso estoy, que mal consejo tuve.
+    Vendí a Teodor, mas yo sabré librarme.)
+[Váyanse el Rey, don Felis y los moros]
+LEONARDO:
+    Mirando a Felis con dolor estuve.
+    ¿Que éste fue mi discípulo? ¿Que a este hombre
+    crié, enseñé? No sé cómo detuve
+    las lágrimas.
+FORESTO:
+    Permite que me asombre,
+    Leonardo, de suceso tan estraño.
+ALÍ:
+    ¿Conoceisle en España?
+LEONARDO:
+    Por el nombre;
+    mas dime, moro amigo, o yo me engaño
+    o trujo una doncella a Orán cautiva.
+    ¿Quién los prendió para mi eterno daño?
+ALÍ:
+    Decís muy bien.
+LEONARDO:
+    ¿Y es por ventura viva?
+ALÍ:
+    No se puede decir lo que fue della,
+    todo este reino en su secreto estriba.
+LEONARDO:
+    Yo daré por saber de esa doncella
+    veinte varas de grana y de brocado
+    seis y aun diez de labor hermosa y bella.
+ALÍ:
+    Cristiano mercader, si con cuidado
+    vienes porque te importa, por la grana
+    tela bien fueras hoy de mí avisado,
+    pero importa el secreto a la africana
+    Corona y a los tres la misma vida.
+LEONARDO:
+    Sólo quiero saber desta cristiana.
+ALÍ:
+    Yo te diré por lo que fue vendida
+    y dónde la hallarás.
+LEONARDO:
+    Pues ven conmigo,
+    donde las varas de la grana mida.
+ALÍ:
+    Seguidme.
+LEONARDO:
+    Con mil lágrimas te sigo.
+[Vanse. Finardo, griego, medio desnudo y mojado, que trae en brazos a Teodor, casi del mismo modo, después de haber fingido una tormenta dentro]
+FINARDO:
+    En tanto mal, en tanta desventura,
+    sólo este barco puede ser remedio.
+PILOTO:
+    Ya se rompe la nave.
+TEODOR:
+    ¡Oh, Virgen pura!
+OTRO:
+    Mejor fuera alargarse al mar, que en medio
+    no corriera peligro.
+PILOTO:
+    Ya se rompe.
+OTRO:
+    Ya no hay para vivir seguro medio.
+[Salgan]
+    Las lágrimas y quejas interrompe,
+    Teodor, pues como ves estás en tierra.
+TEODOR:
+    Si ya de tanta guerra,
+    de mar, viento y desdichas
+    la tierra me da puerto, juntamente
+    le pido sepultura.
+FINARDO:
+    Tener en las fortunas tales dichas
+    es una venturosa desventura.
+    ¿Qué es del ingenio y ánimo prudente,
+    Teodor, de que los cielos te dotaron?
+TEODOR:
+    No siento que a tal punto me trujeron,
+    pues poco me quitaron.
+    Respeto que la vida me dejaron,
+    el daño siento que por mí te hicieron.
+FINARDO:
+    Y yo, por ser por ti, tengo por gloria
+    la hacienda que he perdido.
+TEODOR:
+    Pues que por mí tan desdichado has sido,
+    oye el principio de una nueva historia,
+    que, aunque muchos se pierden por mujeres,
+    yo quiero que tu daño recuperes.
+    Cuando por hallarme sola,
+    mujer y desamparada,
+    de Constantinopla fui
+    al mar y te hallé en su playa,
+    donde con tantos crïados
+    en cuatro naves persianas
+    tan ricas mercaderías
+    cargando, Finardo, estabas
+    y, sólo por ser mujer,
+    doliéndote de mis ansias,
+    y por ser cristiano griego
+    y yo española y cristiana,
+    en tu nave me acogiste
+    y por dejarme en Italia,
+    porque desde allí pudiese
+    venir más segura a España,
+    torciendo el camino tuyo
+    de Persia o Grecia, tu patria,
+    corriste tantas fortunas,
+    pasaste tantas desgracias
+    que, últimamente volviendo
+    a Persia, ha triunfado el agua
+    de tus naves, pues ya quedan
+    por su salada campaña
+    rendidas, como se ven
+    después de una gran batalla
+    las banderas enemigas,
+    las reliquias de las armas.
+    Confieso al cielo que tuve,
+    no porque en mí se acabaran
+    las desdichas con la muerte,
+    viéndome en medio de tantas,
+    gusto en morir, mas por ver
+    que había sido la causa
+    de que perdieses tu hacienda,
+    siendo, aunque sin culpa, ingrata;
+    mas, ya que tengo esta vida
+    que tanto me aflige y cansa,
+    quiero pagarte con ella,
+    pues de la nave a la barca
+    y de la barca a la tierra,
+    Finardo, en hombros me sacas,
+    pudiendo sacar mi peso
+    de diamantes y esmeraldas.
+    La paga será que en Persia,
+    pues gusta el Soldán de esclavas,
+    me vendas, que bien sospecho
+    que suplas lo que te falta.
+FINARDO:
+    Teodor, si esta gran tormenta,
+    de que tan turbada escapas,
+    eclipsa tu raro ingenio,
+    que delires no me espanta.
+    Son cincuenta mil ducados
+    los que el fiero mar me traga,
+    con aquella hambrienta boca,
+    en piedras, telas y granas.
+    ¿Y quieres que con venderte
+    repare lo que me falta?
+TEODOR:
+    ¿Pues no, si pides por mí
+    eso mismo?
+FINARDO:
+    Aunque tú valgas,
+    Teodor, mucho por ti misma,
+    advierte que es arrogancia
+    no vista en mujer decir
+    que han de dar por una esclava
+    tanto precio.
+TEODOR:
+    Si te digo
+    razones que persüadan
+    al Soldán y él gusta dello
+    ¿serán obras o palabras?
+FINARDO:
+    ¿Qué puedes decir?
+TEODOR:
+    Que soy
+    una doncella tan sabia
+    que a todos los de su reino
+    haré notable ventaja;
+    que para ver la espiriencia
+    los junte y verá que es tanta
+    mi ciencia, que es corto el precio.
+FINARDO:
+    ¿Qué dices?
+TEODOR:
+    Verdades claras.
+FINARDO:
+    El Soldán es hombre sabio
+    y que en Egipto y Arabia
+    aprendió todas las ciencias
+    y, si tú fueses tan rara,
+    no dudo de que por ti
+    diese una nave de plata,
+    pero ¿tu ciencia es infusa?
+TEODOR:
+    Fuera de que soy dotada
+    de un ingenio peregrino,
+    he estudiado ciencias varias.
+    No ha nacido quien me venza,
+    Finardo, en letras humanas.
+FINARDO:
+    Ahora bien quiero creerte
+    y en fortuna tan estraña
+    valerme de lo que dices,
+    no tanto por mi ganancia,
+    cuanto por ver una cosa
+    tan peregrina y estraña.
+TEODOR:
+    Pues vamos donde me vistas
+    de ricas telas bordadas,
+    con mil joyas y cadenas,
+    que aquí tu crédito basta;
+    y porque me estime el Rey,
+    que una mujer adornada
+    obliga a mayor respeto,
+    que pobre es moneda falsa,
+    y falsa y pobre y desnuda,
+    si no es de noche, no pasa.
+[Éntrese y salgan el Gran Turco Selín, Celindo y turcos]
+SELÍN:
+    ¿A mí guerra hombre que ayer
+    me vino a besar la mano?
+ZARO:
+    Ha crecido su poder
+    por tu culpa.
+SELÍN:
+    ¡Que el persiano
+    guerra me procure hacer!
+    ¿Él osa entrar por mi tierra?
+CELINDO:
+    Puesto que tu campo encierra
+    gente de tanto valor,
+    el capitán, Gran Señor,
+    es el que vence la guerra.
+    Faltas tú, falta persona
+    que gobierne.
+ZARO:
+    El capitán
+    mucho vence y mucho abona;
+    por lo mismo, el rey de Orán
+    te ha vencido en Melïona.
+CELINDO:
+    Zaro, no hablo de ti,
+    aunque gobiernas la gente
+    del Gran Señor.
+ZARO:
+    Si de mí
+    osas hablar libremente,
+    también yo respondo ansí;
+    que tú contra el rey de Orán
+    llevaste ejército, y eres
+    tan valiente capitán,
+    y como viles mujeres
+    vuelven y sin honra están.
+CELINDO:
+    Zaro, si en Orán había
+    mejor capitán que yo,
+    no ha sido la culpa mía.
+SELÍN:
+    ¿Mejor?
+CELINDO:
+    Tal que me venció
+    cuatro veces en un día.
+SELÍN:
+    ¿Pues quién es?
+CELINDO:
+    No es africano
+    sino un español cristiano,
+    caballero de Toledo,
+    hombre a quien tuviera miedo
+    de sólo verle el persiano.
+    ¡Pluguiera Alá que tuvieras
+    tal capitán contra él,
+    que yo sé si le vencieras!
+SELÍN:
+    De Túnez, Orán y Argel
+    y esas bárbaras riberas,
+    Celindo, yo soy señor,
+    mis alcaides y virreyes
+    sus dueños, que mi valor
+    tiene esos vasallos reyes
+    por supremo emperador.
+    Si es tal ese renegado,
+    yo enviaré a Zaro por él.
+CELINDO:
+    Es tan gallardo soldado
+    que puedes sólo con él
+    tener seguro tu estado.
+SELÍN:
+    Zaro, con cartas irás
+    al rey de Orán luego al punto,
+    y este español me traerás.
+CELINDO:
+    Haz cuenta que el mundo junto
+    viene en su valor y aun más.
+ZARO:
+    ¿Es porque a ti te ha vencido?
+    ¿Es eso para estimarte?
+CELINDO:
+    Zaro, no es porque lo he sido
+    de aqueste cristiano Marte,
+    ni por verle preferido
+    a tu gobierno y valor;
+    mas porque servir deseo
+    cuando puedo al Gran Señor.
+ZARO:
+    ¿Hablas de envidia?
+CELINDO:
+    No creo
+    que te hace tanto favor.
+ZARO:
+    Quiéresme descomponer
+    y poner en mi lugar
+    un hombre cristiano ayer,
+    pensando que es gobernar
+    lo que es saberte vencer...
+    ¡Vive Alá…!
+CELINDO:
+    Yo te he sufrido,
+    Zaro, el ser tan atrevido
+    por el señor que respeto.
+    ¿Qué has hecho tú, que en efeto
+    vuelves del Soldán vencido?
+ZARO:
+    Yo soy…
+SELÍN:
+    ¿Delante de mí?
+ZARO:
+    Si no estuvieras aquí…
+SELÍN:
+    ¿Quieres que te corten luego
+    la cabeza?
+ZARO:
+    Envia te ruego
+    por quien dice.
+SELÍN:
+    Harelo ansí,
+    daos las manos y los brazos.
+ZARO:
+    Yo te obedezco.
+CELINDO:
+    Y yo.
+ZARO:
+    (Hacellos
+    quisiera en tu cuello lazos.)
+SELÍN:
+    Venid conmigo.
+CELINDO:
+    (Con ellos
+    afuera te haré pedazos.)
+[Vanse. El soldán de Persia, Finardo, Teodor y quien acompañe]
+SOLDÁN:
+    Que la doncella es hermosa
+    no lo niego ni desprecio
+    lo que compro, mas el precio
+    me parece injusta cosa,
+    porque decir que es muy sabia
+    basta en lo que puede ser
+    el límite de mujer,
+    porque en lo demás se agravia
+    el ser perfecto del hombre,
+    ni se ha visto que haya sido
+    de mujer encarecido
+    más que por honor del nombre.
+TEODOR:
+    Por tocarme responder,
+    invictísimo Soldán,
+    por el honor que otros dan
+    a este nombre de mujer,
+    que no porque yo lo soy,
+    a mi dueño impido hablar:
+    dadme licencia y lugar.
+SOLDÁN:
+    Licencia y lugar te doy.
+TEODOR:
+    Puesto que al hombre concedo
+    como es razón la ventaja,
+    porque desde su principio
+    nuestra cabeza se llama,
+    no es razón, pues que salimos
+    de su carne, que nos haga
+    desprecios y tenga en poco,
+    porque en las letras humanas
+    y divinas hay ejemplos
+    de mujeres celebradas
+    por únicas, por insignes
+    en las letras y las armas.
+    De las armas no me toca
+    decirte ejemplos de tantos
+    como admiraron el mundo
+    en Grecia, España e Italia.
+    De las letras ¿quién no sabe
+    que Corinea Tebana
+    venció a Píndaro, poeta
+    que tanto la Grecia alaba,
+    cinco veces y escribió
+    siete libros de epigramas?
+    Tespia igualó con Ovidio;
+    Erina a Homero se iguala,
+    que con años decinueve
+    tuvo mayor elegancia;
+    Safo fue del verso autora
+    que ahora sáfico se llama;
+    los versos de su marido
+    Lucano enmendó Argentaria;
+    enseñó filosofía
+    al gran Pericles, Aspasia;
+    Damófila escribió versos
+    dulces a honor de Dïana;
+    epístolas sentenciosas
+    Cornelia con Anastasia;
+    Astrología leyó
+    en Alejandría Hipatia;
+    Femonia halló el verso heroico
+    y el lírico halló Teana;
+    escribió contra Teofrastro
+    Leoncia materias raras,
+    y por deidad fue tenida
+    por sus ciencias Sosipatra;
+    Cenobia escribió la historia
+    de Oriente; Delbora sacra
+    fue profeta de Israel
+    y en Troya la gran Casandra;
+    fue divina en Teología
+    en Roma la inglesa Joana,
+    y Sócrates, de Diotima
+    aprendió cosas tan altas;
+    leyó Areta, muerto Arístipo,
+    y al filósofo Pitágoras
+    declaró Dama y a Estacio
+    igualó su esposa Claudia;
+    Plutarco alaba a Targelia
+    y a Telesila Pausanias,
+    Heródoto alaba a Istrina
+    y San Jerónimo a Fabia;
+    a Eustoquia llaman prodigio,
+    monstro del mundo a Constancia;
+    Nicóstrata halló las letras;
+    venció Caterina santa
+    los sabios en conclusiones.
+    Todas las sibilas sacras
+    fueron mujeres, las artes
+    pintadas en forma humana
+    merecen las de mujeres;
+    por ciencia y industria raras
+    muchas llegaron a reinos
+    y alguna emprendió ser Papa,
+    y vemos por espiriencia
+    que las más necias engañan
+    a los más discretos hombres,
+    y que sus industrias bastan
+    a sacarlos de peligros,
+    como fingiendo su estatua
+    Micol al santo David.
+    Sin esto, es cosa muy llana
+    que no saber las mujeres
+    más letras que el hombre es causa
+    no enviarlas como al hombre
+    a las escuelas muchachas;
+    que si en universidades
+    entrar mujeres se usara
+    las cátredas fueran suyas,
+    pero ellos temen su infamia.
+    Esto basta que te diga
+    y que haré, pues que te espanta
+    el precio de mi valor,
+    honrando el ser y la patria,
+    que en públicas conclusiones
+    rendidas sus fuertes armas
+    todos los sabios de Persia
+    me confiesen su inorancia.
+SOLDÁN:
+    Doncella, el haberte oído
+    revolviendo tanta historia
+    me admira y de tu memoria
+    no pequeño ejemplo ha sido.
+    Yo quiero de hoy más tener
+    en gran lugar las mujeres,
+    que pues tú, Teodor, lo eres
+    ¿quién no ha de honrar la mujer?
+    ¿Los sabios de Persia dices
+    que vencerás?
+TEODOR:
+    Sí, señor.
+FINARDO:
+    Míralo mejor, Teodor.
+TEODOR:
+    Señor, no te escandalices,
+    que lo que digo has de ver.
+FINARDO:
+    Temo tu vergüenza y mía.
+SOLDÁN:
+    ¡Que tanta sabiduria
+    se encierre en una mujer!
+    ¿Qué sabes para argüir
+    con mis sabios, cuya fama
+    por el mundo se derrama?
+TEODOR:
+    Presto lo sabré decir:
+    las siete artes liberales.
+SOLDÁN:
+    ¿Todas?
+TEODOR:
+    Todas.
+SOLDÁN:
+    Pues yo digo
+    que mis tesoros contigo
+    serán, Teodor, desiguales;
+    pero éste el concierto sea
+    y mañana se ejecute,
+    que en público se dispute
+    donde tu ingenio se vea.
+    Y que si a cuatro vencieres
+    de mis sabios, no el laurel
+    sólo, aunque te adornes dél
+    por honra de las mujeres,
+    pero que te dé también
+    cien mil ducados.
+TEODOR:
+    Avisa
+    tus sabios.
+FINARDO:
+    Teodor…
+TEODOR:
+    Es risa
+    pensar que conmigo estén
+    un hora sin confesar
+    mi valor y su inorancia.
+SOLDÁN:
+    ¡Qué temeraria arrogancia!
+    Váyanlos luego avisar.
+FINARDO:
+    El Soldán se fue corrido.
+    ¿Qué has hecho?
+TEODOR:
+    Allá lo verás.
+FINARDO:
+    Mucho has dicho.
+TEODOR:
+    Yo haré más.
+FINARDO:
+    Pésame de haber venido.
+TEODOR:
+    Yo eternizaré mi nombre.
+FINARDO:
+    ¿Cómo en materia tan grave?
+TEODOR:
+    Porque la mujer que sabe
+    hace gran ventaja al hombre.
+[Váyanse y salgan Selín turco, Celindo, don Felis, Leonelo y Padilla]
+SELÍN:
+    Basta solamente el verte.
+FELIS:
+    Dame mil veces tus pies.
+SELÍN:
+    Felis, no estés desa suerte,
+    que no quiero yo que estés
+    a mis pies, español fuerte.
+FELIS:
+    ¿Adónde mejor, señor,
+    que a los pies de tu valor?
+SELÍN:
+    Prendas de tal capitán
+    yo pienso Felis que están
+    sobre los brazos mejor.
+    Tengo tan cierta espiriencia
+    de lo que en servicio mío
+    por la mar y en mi presencia
+    ha hecho de España el brío,
+    la espada y la diligencia,
+    que nunca de español tuve
+    menos que honor y vitoria;
+    siempre bien servido estuve.
+FELIS:
+    El alto sol de tu gloria
+    dora la más baja nube,
+    pero ya podría ser
+    que te acertase a servir.
+SELÍN:
+    No quererme obedecer
+    para dejarte venir,
+    conociendo mi poder,
+    le perdono al rey de Orán
+    después, Felis, que te vi,
+    pues pierde tal capitán.
+FELIS:
+    Casarme pensaba allí,
+    mas ya, señor, quedarán
+    del todo desengañados,
+    que allá no pienso volver
+    porque están más obligados
+    los reyes a no romper
+    su fe y más con sus crïados;
+    y él me la ha quebrado a mí.
+SELÍN:
+    ¿Cómo?
+FELIS:
+    Mi esposa le di
+    para que la enviase a España
+    y él ¡oh, qué bárbara hazaña!
+    que la vendan hizo aquí.
+SELÍN:
+    ¿Aquí tu esposa vendieron?
+CELINDO:
+    Señor, aquí la trujeron
+    y yo por cierta amistad
+    la compré y di libertad.
+FELIS:
+    Mis desdichas lo quisieron,
+    porque mejor me estuviera
+    que aquí vendida quedara,
+    pues vendida pareciera.
+SELÍN:
+    ¡Que a prenda en tu honor tan cara
+    trataron de esa manera!
+    ¡Oh, bárbaro vil, sin ley!
+    Mañana nombro un virrey.
+FELIS:
+    Pues suplícote que sea
+    Celindo, porque se vea
+    que pago en hacerle rey
+    la libertad que le dio.
+SELÍN:
+    Pues por ti le nombro.
+CELINDO:
+    Y yo
+    a tus pies prometo ser
+    tierra humilde.
+SELÍN:
+    Quiero hacer
+    que sepan dónde quedó,
+    en tanto que a Persia vas
+    donde el ejército mío,
+    español, gobernarás
+    y a ti, Celindo, te envío
+    para que no reine más
+    aquel cobarde Manzor.
+FELIS:
+    Los dos iremos, señor:
+    yo a la Persia y él a Orán.
+CELINDO:
+    Si como tú capitán,
+    fuera yo gobernador,
+    los cargos fueran iguales.
+FELIS:
+    Honrar a Jarifa puedes
+    como a tu sangre.
+CELINDO:
+    Son tales
+    las virtudes con que excedes
+    a los que son tus iguales,
+    que de tu valor lo creo.
+FELIS:
+    Nunca por el Dios que adoro
+    la ofendí, ni aun el deseo
+    llegó a su honesto decoro
+    más que al alma que no veo.
+    Casarte puedes con ella,
+    hazme este favor a mí.
+CELINDO:
+    Ella es mi sangre y tan bella
+    que más que te sirvo a ti,
+    ganaré en honrarme della.
+SELÍN:
+    Felis…
+FELIS:
+    Señor…
+SELÍN:
+    Sin temor
+    parte a Persia que tu esposa
+    yo la buscaré.
+FELIS:
+    El amor
+    y la deuda más forzosa
+    al hombre, que es el honor,
+    me obligan a sentimiento.
+SELÍN:
+    Pierde el cuidado.
+FELIS:
+    Esto siento.
+SELÍN:
+    ¿Quién son los que van contigo?
+FELIS:
+    Leonelo es primo y amigo.
+SELÍN:
+    Recibo en verle contento.
+LEONELO:
+    Soy, señor, un peregrino
+    que su desdicha acompaño.
+SELÍN:
+    Sois de ser su sangre digno.
+LEONELO:
+    Por propio Rey, aunque estraño,
+    señor, a tus pies me inclino.
+SELÍN:
+    Mi bajá te nombra allá,
+    que aqueste cargo te doy.
+LEONELO:
+    Tu hechura levantas ya.
+SELÍN:
+    ¿Y tú quién eres?
+PADILLA:
+    ¿Quién soy?
+SELÍN:
+    Hombre que con Felis va
+    por fuerza tendrá valor.
+PADILLA:
+    Yo soy, invicto señor,
+    hombre en España, en Castilla
+    bestia de albarda y de silla,
+    quiero decir servidor;
+    en Toledo soy pasante,
+    que del caballo en efeto
+    siempre pasaba adelante.
+    Soy hidalgo en campo prieto
+    que es lo mismo que estudiante;
+    en Orán, moro alquilado
+    y aquí seré lo que fuere
+    tu gusto.
+SELÍN:
+    Gusto me ha dado.
+CELINDO:
+    Hacerle mercedes quiere.
+LEONELO:
+    Bien puede, que es gran soldado.
+SELÍN:
+    Yo le hago capugí
+    de mi cortina y serallo
+    después que volváis aquí.
+PADILLA:
+    ¿Capugí?
+CELINDO:
+    No hay más que honrallo.
+PADILLA:
+    ¿Es bueno?
+LEONELO:
+    Pienso que sí.
+PADILLA:
+    Aunque yo no sé lo qué es,
+    beso, Gran Señor, tus pies.
+    ¡Capugí! Turbado estoy.
+    ¿Sabes tú acaso quién soy?
+CELINDO:
+    ¿No lo sabes?
+PADILLA:
+    ¿No lo ves?
+CELINDO:
+    Es capugí el gran portero
+    de la cámara y cortina
+    del Señor.
+PADILLA:
+    Gran bien espero.
+SELÍN:
+    Ahora bien, Felis, camina.
+FELIS:
+    Partir a servirte quiero.
+SELÍN:
+    Eso confío de ti.
+FELIS:
+    Vamos de aquí.
+PADILLA:
+    Señor, di
+    ¿qué eres tú?
+FELIS:
+    General ya.
+PADILLA:
+    ¿Y Leonelo?
+LEONELO:
+    Gran bajá.
+PADILLA:
+    ¡Lindo!
+FELIS:
+    ¿Y tú?
+PADILLA:
+    ¿Yo? ¡Capugí!
+[Vanse. Foresto y Leonardo]
+FORESTO:
+    Venturoso viaje hemos traído
+    desde Constantinopla.
+LEONARDO:
+    Más lo fuera
+    si de Teodor hubiéramos sabido.
+FORESTO:
+    Aquí en la Persia alguna nueva espera.
+LEONARDO:
+    Dicen que vino aquí, mas he creído
+    que debieron de darla muerte fiera.
+FORESTO:
+    Es propio del amor en su desvelo
+    el temor, la sospecha y el recelo.
+    Pero dejando aparte nuestra pena
+    ¿qué os parece el pregón que en esta corte
+    por todas partes se divulga y suena?
+LEONELO:
+    No poco ha hecho que mi mal reporte.
+FORESTO:
+    Dicen que el gran Soldán manda y ordena,
+    y basta que al honor de Persia importe,
+    que hoy se junten sus sabios y letrados
+    en varias facultades celebrados.
+    Lo que añade la gente es que esta junta
+    es no más de argüir a una doncella,
+    tan sabia que en su ingenio el cielo junta
+    todas las artes que ha cifrado en ella.
+    Esta respuesta han dado a mi pregunta
+    y soy de parecer que argüir con ella
+    nos será de provecho, pues podremos
+    mostrar al Rey lo mucho que sabemos.
+    Con esto aficionado hará de suerte
+    que en buscar a Teodor nos dé su ayuda.
+LEONARDO:
+    Decís muy bien.
+FORESTO:
+    Éste es palacio.
+[Entre un mayordomo y criados]
+MAYORD.:
+    Advierte
+    que no se ha de aguardar que el Rey acuda.
+CRIADO:
+    ¿No está bueno el teatro desta suerte?
+MAYORD.:
+    Pienso que viene, esos asientos muda
+    tras el bufete; pon a la doncella
+    la silla y los asientos cerca della.
+[Haya un dosel con gradas, unas sillas arriba, un bufete abajo y otra silla y dos bancos a los lados. Salgan acompañamiento y Finardo, Beliano filósofo y dos hijas suyas, Demetria y Fenicia, Tibaldo otro sabio, Teodor con laurel en la cabeza y el Soldán; él se asiente arriba, ella detrás del bufete y los sabios en sus bancos]
+SOLDÁN:
+    Tomad asientos y daréis principio
+    a la cosa más nueva que en el mundo
+    debe de haberse visto ni pensado.
+BELIANO:
+    Yo, Gran Señor, primero que os ofrezca
+    mi ingenio, pues mujer nos desafía,
+    los de mis hijas presentaros quiero:
+    Demetria es docta en todas facultades,
+    Fenecia es rara en lenguas y en historias.
+    Las dos arguyan y después nosotros.
+TIBALDO:
+    Yo pudiera ofrecerte prendas mías,
+    mas las que te presenta Belïano
+    pienso que bastarán, que yo he venido
+    si va a decir verdad, señor, corrido.
+LEONARDO:
+    Foresto, si los ojos y el deseo
+    no engañan, la que miras es mi hija.
+FORESTO:
+    ¿Teodor es ésta?
+LEONARDO:
+    Sí, Teodor es ésta.
+FORESTO:
+    ¡Oh, belleza divina, no pudiéramos
+    hallarla en ocasión de tanta gloria!
+    ¿Qué haremos?
+LEONARDO:
+    Suspender este contento,
+    hasta saber su fin y pensamiento.
+FORESTO:
+    Invictísimo Rey, si das licencia
+    en tales actos a estranjeros doctos,
+    los dos a esta doncella generosa
+    queremos argüir.
+SOLDÁN:
+    Sentaos, amigos,
+    que antes estimo yo que vengan sabios
+    de tierras estranjeras a la mía,
+    mayormente en el acto deste día.
+FINARDO:
+    El general del Turco, tu enemigo,
+    recién venido de Constantinopla
+    a tu corte ha llegado disfrazado
+    y, oyendo los pregones desta junta,
+    la hermosura y ingenio desta dama,
+    picado de filósofo y hallándose
+    con otros dos de lo mejor de Europa,
+    pide licencia para verte y vella.
+SOLDÁN:
+    Irele a recibir.
+FINARDO:
+    Señor, ya viene.
+[Entre don Felis y Leonelo y Padilla de sabio con una ropa y guantes y una gorraza colorada]
+FELIS:
+    Guárdete el cielo, gran soldán de Persia.
+SOLDÁN:
+    ¿Valiente capitán desta manera?
+FELIS:
+    El Gran Señor en el lugar de Zaro
+    me dio el bastón; yo vine y con deseo
+    de ver tu corte entré secreto en ella,
+    oí lo que se dice desta dama
+    y por lo mucho que a las letras debo
+    quise de paz venir a verte y verla.
+    Fuera de que conmigo viene un hombre
+    de los insignes que conoce el mundo.
+SOLDÁN:
+    Siéntate, general, aquí a mi lado
+    y él tome entre los sabios digno asiento.
+FELIS:
+    Deseo hacerte de Selín amigo.
+SOLDÁN:
+    Y yo solicitar la paz contigo.
+BELIANO:
+    Puesto que el argüir como en escuelas
+    en forma era razón, señor invicto,
+    yo soy de parecer que porque entiendan
+    todos generalmente qué se trata,
+    dejemos argumentos y sus términos
+    y esto a sólo preguntas se reduzga.
+SOLDÁN:
+    Paréceme muy bien, que si arguyérades,
+    fuérades de muy pocos entendidos.
+BELIANO:
+    Levántate, Demetria.
+DEMETRIA:
+    Aunque quisiera
+    con debida oración decir tus loores,
+    invicto Rey, si el tiempo lugar diera,
+    y los desta doncella, que a mayores
+    ingenios fuera empresa temeraria,
+    enfrenaran mi lengua sus temores
+    y así con la debida y necesaria
+    licencia le pregunto de qué modo
+    crió Dios esta máquina tan varia
+    para que por sus partes diga el todo.
+TEODOR:
+    Crió Dios, hermosa dama,
+    como el Génesis lo muestra,
+    al principio el cielo y luego
+    la tierra, cosas son estas
+    que allí se ven por su orden
+    hasta el día que de hacellas
+    descansó Dios; repetillas
+    pienso que será molestia.
+    Divídese en dos regiones
+    del universo la esfera:
+    celeste y elementar;
+    no seguiremos en ella
+    a Platón, porque no estuvo
+    muy cierto en su conveniencia.
+    La tierra pesada y grave
+    ocupó el centro y tras ella
+    el agua, a quien sigue el aire
+    con notable ligereza,
+    luego el fuego.
+DEMETRIA:
+    ¿Pues hay fuego?
+TEODOR:
+    Supuesto que no se vea
+    por su grande raridad,
+    ésta es la opinión más cierta.
+DEMETRIA:
+    ¿Qué grandeza tiene el mundo?
+TEODOR:
+    Tiene de ámbito la tierra
+    por la autoridad de Ambrosio,
+    por lo que Macrobio cuenta,
+    Teodosio, Arístenes y otros,
+    ducientos mil y cincuenta
+    y dos estadios, si bien
+    Tolomeo diferencia
+    mucho dellos, pues los hace
+    de solos ciento y ochenta.
+DEMETRIA:
+    ¿Con qué movimiento di
+    se mueven agua, aire, tierra
+    y fuego?
+TEODOR:
+    Recto.
+DEMETRIA:
+    ¿Pues cómo?
+TEODOR:
+    Según su naturaleza,
+    el fuego y aire hacia arriba,
+    y abajo, el agua y la tierra.
+DEMETRIA:
+    ¿Y el cielo?
+TEODOR:
+    Ése no es posible
+    que rectamente se mueva
+    ni a lo alto ni a lo bajo,
+    ni a mano diestra o siniestra.
+    Sólo alrededor se mueve
+    y de moverse no cesa,
+    porque las generaciones
+    desta manera conserva.
+DEMETRIA:
+    ¿Cuánto tiempo ha de moverse?
+TEODOR:
+    El que necesario sea
+    para el hombre y duración
+    del siglo. Esta diferencia
+    de lo elementar y etéreo
+    hizo a muchos que le dieran
+    al cielo, como ya sabes,
+    el nombre de quinta esencia.
+DEMETRIA:
+    Cómo los cuerpos celestes
+    circularmente se muevan,
+    no has dicho.
+TEODOR:
+    Efectivamente;
+    los mueven inteligencias
+    que los filósofos llaman
+    motores y nuestra Iglesia
+    ángeles.
+DEMETRIA:
+    ¿Son animados
+    los cielos?
+TEODOR:
+    Falsa sentencia.
+    No se entiende que son almas
+    aquellas inteligencias
+    porque no se puede unir
+    la naturaleza angélica,
+    como el alma con el cuerpo,
+    a ninguna otra materia.
+DEMETRIA:
+    ¿Qué sigue a los elementos?
+TEODOR:
+    Siete cielos de planetas,
+    el firmamento o la octava,
+    el cristalino y la décima,
+    que llaman el primer móvil,
+    sobre las cuales esferas,
+    móviles por movimiento
+    local, la fe nos enseña
+    que está el claro cielo empíreo
+    con luz y quietud eterna,
+    para hablar del cual no tengo
+    licencia ni suficiencia.
+DEMETRIA:
+    Yo me rindo a tu ingenio soberano.
+BELIANO:
+    Levántate, Fenicia.
+SOLDÁN:
+    ¡Rara cosa!
+FENICIA:
+    Tiemblo y sospecho que la arguyo en vano.
+    Oye, honesta doncella, sabia, hermosa.
+TEODOR:
+    Hija del sabio y docto Belïano,
+    Fenicia generosa y ingeniosa,
+    ya espero que me arguyas.
+FENICIA:
+    Mi argumento
+    será con más humilde fundamento.
+FELIS:
+    ¡Cielos! ¿No es ésta, Teodor?
+    Sí, sin duda. ¡Engaño claro!
+    Mas no, que lo dice amor.
+FENICIA:
+    Oye, aunque tu ingenio raro
+    ponga a mi lengua temor.
+    ¿Qué partes ha de tener
+    una perfecta mujer?
+TEODOR:
+    Si son esteriores partes
+    y en deciocho las repartes,
+    desta manera han de ser:
+    corta en tres y larga en tres,
+    en tres blanca y en tres roja,
+    en tres gruesa y flaca en tres.
+FENICIA:
+    Si el decirlas no te enoja,
+    decláralas.
+TEODOR:
+    Oye pues.
+    De boca, pies y narices
+    será corta; en cuerpo, cuello
+    y dedos larga.
+FENICIA:
+    ¿En qué dices
+    que sea roja?
+TEODOR:
+    En aquel bello
+    color de los dos matices
+    que las mejillas hermosas
+    junta como nieve y rosas,
+    los labios y las encías.
+FENICIA:
+    ¿Y en qué parte la querrías
+    blanca?
+TEODOR:
+    En tres partes forzosas.
+FENICIA:
+    ¿Cuáles?
+TEODOR:
+    Dientes, rostro y manos.
+FENICIA:
+    ¿Y en qué partes la quisieras
+    ancha y gruesa?
+TEODOR:
+    En los dos llanos
+    hombros, muñeca y caderas,
+    y porque son más lozanos,
+    más vivos, más atractivos,
+    negra de ojos con pestañas
+    y cejas.
+FENICIA:
+    Aunque son vivos,
+    mucho en los negros te engañas,
+    verdes son nobles y altivos,
+    y azules, color de cielo,
+    son bellos en blanco velo.
+TEODOR:
+    No hay cosa determinada
+    en la hermosura, pintada
+    del cielo sin ley del suelo.
+    Es hermosura, armonía
+    de partes y dulce unión,
+    y así vemos cada día
+    hermosura y perfección
+    sin las partes que decía;
+    que de cualquiera color,
+    ojos y rostro, en rigor,
+    concertadas las facciones
+    hacen raras perfecciones
+    y pueden matar de amor.
+FENICIA:
+    ¿En qué cosas ha de ser
+    estrecha?
+TEODOR:
+    A mí no me toca
+    decillas, mas si saber
+    quieres en distancia poca
+    cuál ha de ser la mujer
+    por las partes interiores,
+    oye: ha de ser generosa
+    y en las virtudes mayores,
+    que es ser casta y vergonzosa,
+    merecer eternos loores;
+    discreta y bien entendida,
+    esto sin ser bachillera;
+    laboriosa, recogida,
+    muy humilde y verdadera;
+    limpia en el cuerpo y la vida.
+    Callada, mansa, quïeta,
+    caritativa, apacible.
+FENICIA:
+    Mucho será, si es discreta,
+    el dejar de ser terrible.
+TEODOR:
+    No será entonces perfeta.
+FENICIA:
+    Digo que me rindo a ti.
+BELIANO:
+    ¿Qué mis hijas se han rendido?
+    Mas oye, doncella.
+TEODOR:
+    Di.
+BELIANO:
+    Que, aunque mi sangre has vencido,
+    aún no me has vencido a mí.
+    ¿Cuál es la cosa más fuerte?
+TEODOR:
+    La verdad.
+BELIANO:
+    ¿Y la más fiera?
+TEODOR:
+    La muerte.
+BELIANO:
+    ¿Cuál buena y mala?
+TEODOR:
+    La lengua es mala y es buena.
+BELIANO:
+    ¿Y ligera?
+TEODOR:
+    El pensamiento
+    que sobre los cielos vuela.
+BELIANO:
+    ¿Cuál la joya más preciosa
+    en la mujer?
+TEODOR:
+    La vergüenza.
+BELIANO:
+    ¿Cuál es el sueño mejor?
+TEODOR:
+    El de la buena conciencia.
+BELIANO:
+    ¿Cuál es rico?
+TEODOR:
+    Aquel que está
+    contento y nada desea.
+BELIANO:
+    ¿Cuál es pobre?
+TEODOR:
+    El que de aquello
+    que alcanza no se contenta
+    y siempre pretende más.
+BELIANO:
+    ¿Cuál es la mayor soberbia?
+TEODOR:
+    El querer un mal nacido
+    que por sola su riqueza
+    o los oficios que tiene,
+    por príncipe y rey le tengan.
+BELIANO:
+    ¿Cuál es el mejor oficio?
+TEODOR:
+    El que su casa gobierna
+    sin meterse en los que tocan
+    a gobernar las ajenas.
+BELIANO:
+    ¿Cuál es el buen ciudadano?
+TEODOR:
+    El que en la paz y la guerra
+    sirve a su rey y a su patria
+    con las armas y las letras.
+BELIANO:
+    ¿Cómo ha de ser un buen rey?
+TEODOR:
+    Como él a Dios se parezca,
+    no habrá más que desear.
+BELIANO:
+    ¿Cómo ha de ser una reina?
+TEODOR:
+    Santa, piadosa y que para
+    hermosos varones y hembras.
+BELIANO:
+    ¿Cómo ha de ser un gran sabio?
+TEODOR:
+    Humilde.
+BELIANO:
+    ¿Y un gran poeta?
+TEODOR:
+    Envidiado de los otros.
+BELIANO:
+    ¿Cuál es la cosa más cierta?
+TEODOR:
+    La muerte.
+BELIANO:
+    ¿Y la más dudosa?
+TEODOR:
+    La vida.
+BELIANO:
+    ¿Y cuál la más fea?
+TEODOR:
+    La necedad.
+BELIANO:
+    ¿Y cuál es
+    la que más presto se llega?
+TEODOR:
+    Al parecer de los hombres,
+    es el plazo de una deuda.
+BELIANO:
+    ¿Qué es cielo?
+TEODOR:
+    Centro del alma.
+BELIANO:
+    ¿Qué es estrella?
+TEODOR:
+    Parte densa
+    de su orbe.
+BELIANO:
+    ¿Qué es el Sol?
+TEODOR:
+    Lámpara del cielo excelsa
+    y padre que con el hombre
+    todas las cosas engendra.
+BELIANO:
+    ¿Qué deleite es el de un hora?
+TEODOR:
+    No conviene a las doncellas
+    y más en públicos actos
+    hablar en esa materia.
+BELIANO:
+    Rendido estoy.
+TIBALDO:
+    Yo no pienso
+    rendirme de esa manera.
+    Oye, doncella, a Tibaldo.
+FELIS:
+    ¡Qué ingenio!
+SOLDÁN:
+    El alma me eleva.
+TIBALDO:
+    ¿Cuál es el miserable caminante
+    que en cuatro pies comienza su camino
+    y luego en dos le pone su destino,
+    porque con menos va más adelante?
+    Es en todas sus cosas inconstante
+    y en todas sus posadas peregrino,
+    y cuando a la postrera está vecino
+    anda en tres pies y no es en un instante.
+    Lleva una imagen dentro de su pecho
+    con tres guardas y fuera cinco puertas,
+    y es de dos cosas muy distintas hecho.
+    Es un breve reloj de horas inciertas,
+    torcido siempre al bien, al mal derecho.
+    Dime lo qué es y triunfa dél si aciertas.
+TEODOR:
+    El hombre es ese triste peregrino
+    que siendo niño en cuatro pies camina,
+    luego con dos la juventud le inclina
+    a proseguir la vida y el camino.
+    Ya cuando a la vejez está vecino
+    y al báculo arrimado peregrina,
+    camina en tres y tiene por vecina
+    la muerte, último fin de su destino.
+    La imagen es el alma a semejanza
+    hecha de Dios, las guardas las potencias,
+    el reloj es el tiempo y su mudanza.
+    El alma y cuerpo son las diferencias;
+    el cuerpo tierra, el alma cielo alcanza
+    y las virtudes son las diligencias.
+TIBALDO:
+    No tengo más que decir.
+SOLDÁN:
+    Vencerlos tiene.
+FELIS:
+    (¿Qué espero?)
+FORESTO:
+    Ahora bien quiero argüir
+    contigo por forastero.
+FELIS:
+    (¿Cómo lo puedo sufrir?)
+FORESTO:
+    Yo que desdichado he sido,
+    doncella, en el casamiento,
+    te querría preguntar
+    ¿cuál fue en el mundo el primero?
+    Dirás que el de Eva y Adán,
+    dirás bien, que es claro y cierto,
+    pero ¿cuándo se casaron?
+TEODOR:
+    Después que a Dios ofendieron.
+    Vírgines eran los dos
+    en el paraíso bello
+    y en pecando se casaron.
+FORESTO:
+    Los antiguos ¿qué sintieron?
+TEODOR:
+    Que Cécrope, rey de Atenas,
+    fue inventor del casamiento.
+    Númidas, mauros y egipcios,
+    persas, indianos y hebreos
+    tenían tantas mujeres
+    como hacienda, o más o menos.
+    Los scitas y los britanos
+    siempre en común las tuvieron,
+    los de Arabia eran notables
+    pues de sus costumbres leo
+    que toda una parentela,
+    aunque fuese de ducientos,
+    sola una mujer tenían
+    y en entrando alguno dellos
+    ponía un palo a la puerta
+    con que nadie entraba dentro.
+    Los babilonios y asirios
+    las compraban y esto mesmo
+    usáis los turcos y moros.
+    Los etíopes ¡qué incesto!
+    se casaban con sus madres
+    y por costumbre tuvieron
+    los de Libia que la novia,
+    la noche del casamiento,
+    con todos los convidados
+    contrayese parentesco.
+    Todas las doncellas daban
+    al Rey los penos primero;
+    los lidios públicamente
+    hacían que con sus cuerpos
+    ganasen ellas sus dotes.
+FORESTO:
+    ¿Cuál es el más triste siervo?
+TEODOR:
+    El que lo es de su mujer.
+FORESTO:
+    ¿Cuál el más forzado preso?
+TEODOR:
+    El hombre que es mal casado.
+FORESTO:
+    ¿Cuál es infamia entre buenos?
+TEODOR:
+    Aquel que en el matrimonio
+    la sufre por ningún precio.
+FORESTO:
+    ¿Cuál es el placer de un mes?
+TEODOR:
+    El de dos casados llenos
+    de amor.
+FORESTO:
+    ¿Cuál noche mejor?
+TEODOR:
+    La que con paz se durmieron.
+FORESTO:
+    No sé qué diga.
+PADILLA:
+    ¿Esto sufres
+    gran rey del persiano Imperio?
+SOLDÁN:
+    ¿Arguye con inorantes?
+PADILLA:
+    ¿Pues no lo son todos estos?
+    Doncella, arguye conmigo,
+    pero hagamos un concierto.
+    Que yo te dé alguna joya
+    o me la des si te venzo.
+TEODOR:
+    Eso no.
+PADILLA:
+    ¿Pues qué?
+TEODOR:
+    Si tú
+    me vences, dotor, yo quiero
+    en público desnudarme
+    si en el argumento pierdo,
+    o que, si yo te ganare,
+    tú te quedes…
+PADILLA:
+    ¿Cómo?
+TEODOR:
+    En cueros.
+PADILLA:
+    Soy contento. Haz escritura.
+SOLDÁN:
+    ¿Para qué? Basta el concierto
+    delante del Rey.
+TEODOR:
+    ¿Qué dices?
+PADILLA:
+    Que lo aceto.
+TEODOR:
+    Y yo lo aceto.
+PADILLA:
+    Vaya de argumento.
+TEODOR:
+    Vaya.
+PADILLA:
+    Desta manera argumento.
+    ¿Cuál es la sala en que caben
+    seis mil hombres por lo menos?
+TEODOR:
+    Salamanca, allá en España.
+PADILLA:
+    ¡Acertola, por san Pedro!
+    ¿Cuál es la puente en que pace
+    ganado blanco y moreno,
+    espacio de siete leguas?
+TEODOR:
+    Aquel prado en cuyo centro
+    pasa el río Guadïana.
+PADILLA:
+    ¡Oste puto, yo me pierdo!
+    ¿Cuál es aquel animal
+    en cuyo famoso pecho
+    caben más de diez mil hombres?
+    (Aquí la cojo y la venzo).
+TEODOR:
+    El León, ciudad de España.
+PADILLA:
+    ¡Acertola, malo es esto!
+    ¿Cuál es la villa fundada
+    sobre centellas de fuego?
+TEODOR:
+    Madrid, sobre pedernales
+    en el reino de Toledo.
+PADILLA:
+    ¡Papósela, por San Blas!
+    ¿Cuál es (aquí la derriengo)
+    una puerta que cerrada
+    entran y salen sin cuento
+    cuantos quieren cada día?
+TEODOR:
+    La misma que en ese pueblo
+    llaman la Puerta Cerrada.
+PADILLA:
+    ¡Mal año, malo va esto!
+    ¿Cuál es aquel pasadizo
+    entre dos ciudades puesto?
+TEODOR:
+    Es la puente de los barcos
+    que tiene los dos estremos
+    en Sevilla y en Triana.
+PADILLA:
+    ¡Vive Cristo que me yelo!
+    ¿Cuál es la fruta española
+    en cuya cáscara vemos
+    un millón de hombres?
+TEODOR:
+    Granada.
+PADILLA:
+    ¡Aderézame esos bledos!
+TEODOR:
+    ¿Tienes más que preguntar?
+PADILLA:
+    No.
+TEODOR:
+    Desnúdate.
+LEONARDO:
+    Si un viejo
+    basta con su autoridad
+    a ponerse de por medio,
+    solas dos cosas, doncella,
+    quiero decirte.
+TEODOR:
+    Y yo quiero
+    que éste agora se desnude.
+PADILLA:
+    Señor…
+SOLDÁN:
+    Ése fue el concierto.
+PADILLA:
+    ¿No bastará la ropilla,
+    camisa y jubón?
+TEODOR:
+    No pienso
+    que tú a mí me perdonaras.
+    Desnúdate.
+PADILLA:
+    ¿Y los grieguiescos?
+LEONARDO:
+    Oye, doncella, no huyas
+    con achaques mi argumento.
+TEODOR:
+    ¿Qué me quieres preguntar?
+LEONARDO:
+    Si con tan divino ingenio
+    sabes de tu padre agora
+    y de tu esposo.
+TEODOR:
+    No tengo
+    esposo, porque es traidor,
+    ni padre, porque está lejos.
+FORESTO:
+    Esposo y traidor, señora,
+    eso no, yo soy Foresto,
+    catredático en Valencia;
+    de España a buscarte vengo.
+FELIS:
+    ¿Cómo esposo? ¿Dónde estoy?
+    ¡Fuera, villanos! ¿Qué es esto?
+    Don Felis Manrique soy,
+    caballero de Toledo,
+    a quien ella dio la mano.
+SOLDÁN:
+    ¿Hay más notable suceso?
+LEONELO:
+    Tiene don Felis razón.
+    Yo soy su primo Leonelo
+    que fui con ellos cautivo
+    y viví en Orán con ellos.
+PADILLA:
+    Y yo ¿soy barro o Padilla?
+    ¿No fui en Orán mahometo,
+    capugí en Constantinopla
+    y aquí dotor chichimeco?
+SOLDÁN:
+    Cristianos, dadme a entender,
+    si es posible, lo que es esto.
+LEONARDO:
+    Que yo soy padre, señor,
+    desta doncella que ha puesto
+    tantos sabios a sus pies,
+    y que este ilustre mancebo
+    no es turco, sino su esposo,
+    que por notables sucesos
+    han venido a donde ves.
+SOLDÁN:
+    Nombradme por juez dellos
+    que, aunque todos seáis tan sabios,
+    mil letras y estudios tengo.
+FELIS:
+    Señor, a lo que ordenares
+    todos estamos sujetos.
+SOLDÁN:
+    A Demetria, aquesta dama,
+    quiero casar con Leonelo,
+    a Padilla con Fenicia,
+    su padre es cristiano y griego.
+    Felis case con Teodor
+    y, pues obligado quedo
+    a cincuenta mil ducados,
+    en dote se los prometo,
+    con que el campo de Selín
+    levante de Persia luego
+    y con él me haga amigo.
+FELIS:
+    Eso, Príncipe, es lo menos.
+SOLDÁN:
+    Pues dense todos las manos
+    y con joyas y dineros
+    en mis navíos a España
+    vuelvan con mucho contento.
+FELIS:
+    Aquí se acaban, senado,
+    con la historia, los sucesos
+    de La doncella Teodor.
+    Perdonad el corto ingenio.

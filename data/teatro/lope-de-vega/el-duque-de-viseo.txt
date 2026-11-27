@@ -1,0 +1,4439 @@
+# El duque de Viseo
+Autor: Lope de Vega
+
+JORNADA 1
+
+[Salen el condestable de Portugal y el duque de Viseo]
+CONDESTABLE:
+    De que se haya el Rey casado
+    con vuestra hermana, señor,
+    pienso que me está mejor
+    el parabién que me han dado.
+    Recibo tanto contento
+    que no a vos, que vos a mí
+    me le habéis de dar. Y ansí
+    os doy su agradecimiento.
+    Si en África no me hallara,
+    gran demonstración hiciera.
+VISEO:
+    Por lo menos, cierto fuera
+    que Vueselencia honrara,
+    como tan grande señor
+    y en Portugal Condestable,
+    sus bodas.
+CONDESTABLE:
+    Eso no hable,
+    aunque es hacerme favor,
+    señor, Vuestra Señoría;
+    que donde hay personas tales
+    son méritos desiguales
+    como con la noche el día.
+    Quise y no pude venir
+    ni hasta ahora hubo lugar;
+    que le da la guerra a entrar,
+    pero no le da a salir.
+    Y las cosas africanas
+    están ahora en estado
+    que han menester más cuidado,
+    valor, esperiencia y canas.
+    Del vuestro no hay que saber,
+    pues se escusa el preguntar:
+    cuanto a Su Alteza, privar;
+    cuanto a su amor, pretender;
+    cuanto a las damas, favor;
+    cuanto a galas, alabanza;
+    cuanto a casar, esperanza;
+    y para todo, valor.
+    A los que de allá venimos,
+    Duque, no hay que preguntar,
+    pues que podimos tornar,
+    si bien o mal anduvimos.
+    Lanzadas y cuchilladas,
+    heridas todos los días,
+    desafíos, valentías,
+    limpiar los jacos y espadas:
+    cosas, realmente, en que ha dado
+    la nobleza portuguesa
+    muestra de quién es.
+VISEO:
+    ¿Qué empresa
+    más digna de un pecho honrado?
+    Por buen camino corréis
+    a los que estamos acá.
+CONDESTABLE:
+    ¿Cómo con Su Alteza os va?
+VISEO:
+    Ya su condición sabéis.
+    No dicen que se parece
+    a don Alonso su padre:
+    más tiene el Rey de su madre.
+CONDESTABLE:
+    ¡Cómo esa plática crece!
+    Aunque no es malo que sea
+    grave un Rey.
+VISEO:
+    En la humildad
+    luce más la majestad
+    que la corona hermosea.
+CONDESTABLE:
+    Nunca la mucha blandura
+    fue al imperio provechosa.
+VISEO:
+    Al ser amado es forzosa
+    si es con prudencia y cordura.
+CONDESTABLE:
+    Los reyes son como nieve:
+    que, tratados, se deshacen.
+    Para ser mirados nacen,
+    nadie a tocarlos se atreve.
+    Conservar esta blancura
+    conviene a la majestad.
+VISEO:
+    Sí, pero tanta frialdad
+    conservada en tanta altura
+    helará los corazones
+    y el amor de sus vasallos.
+    Bueno me parece honrallos
+    con obras y con razones.
+CONDESTABLE:
+    No hablemos desto yo y vos,
+    y esta máxima se crea:
+    que cualquiera que el Rey sea,
+    al fin representa a Dios.
+    Y pues el de Portugal
+    es vuestro primo y cuñado,
+    vos merecéis ser honrado
+    y él os hará honor igual.
+[Sale el rey don Juan de Portugal, el duque de Guimaráns, el conde de Faro y don Álvaro de Portugal]
+GUIMARÁNS:
+    El Condestable está aquí.
+CONDESTABLE:
+    Deme los pies Vuestra Alteza.
+REY:
+    Bien vengáis.
+CONDESTABLE:
+    (¡Con qué aspereza!)
+GUIMARÁNS:
+    (Pues ¿a quién no trata ansí?)
+REY:
+    ¿Cómo venís?
+CONDESTABLE:
+    Con salud
+    para serviros, señor.
+REY:
+    ¿Qué hay del África?
+CONDESTABLE:
+    El valor,
+    la fortaleza y virtud
+    y siempre para ofrecer
+    la vida y sangre en servicio
+    vuestro, que éste es el oficio
+    que los nobles han de hacer.
+    Podrá algunas relaciones
+    ver despacio Vuestra Alteza.
+REY:
+    Holgareme.
+CONDESTABLE:
+    (¡Qué aspereza!)
+VISEO:
+    (Aun no os dirá dos razones.)
+CONDESTABLE:
+    Mucho me había olvidado
+    de daros el parabién;
+    aunque deste bien el bien,
+    y con razón, nos le han dado
+    a los que amaros debemos
+    y a los que tanto os amamos.
+    Pero, en efeto, os le damos
+    del que recebido habemos.
+    Mil años gocéis, señor,
+    de Su Alteza.
+REY:
+    Dios os guarde.
+[Vanse el Rey y los demás y quedan los cuatro hermanos: duque de Guimaráns, Condestable, Conde de Faro y don Álvaro]
+GUIMARÁNS:
+    ¿Qué os parece?
+CONDESTABLE:
+    Llegar tarde,
+    pero negociar peor.
+DON ÁLVARO:
+    Poco todos merecemos:
+    quien sirve y quien es igual.
+FARO:
+    Los que estando en Portugal
+    galas y fiestas hacemos
+    y vos, que vertiendo estáis
+    vuestra sangre, hoy alcanzamos
+    un premio igual.
+CONDESTABLE:
+    Lejos vamos
+    del que a mis servicios dais,
+    que ya puede ser que sea
+    su natural condición
+    y que en la satisfación
+    su heroico pecho se vea.
+GUIMARÁNS:
+    ¿Fuese el de Viseo?
+FARO:
+    Sí,
+    hablando se fue con él.
+DON ÁLVARO:
+    No estuviera mal en él...
+GUIMARÁNS:
+    ¡No prosigáis!
+DON ÁLVARO:
+    ¿Cómo ansí?
+GUIMARÁNS:
+    Si el reino decís, no es cosa
+    que aun se debe imaginar.
+DON ÁLVARO:
+    Dejadme acabar de hablar,
+    que esta fue razón piadosa.
+    Yo le ruego a Dios que viva
+    dos mil años. Decir quiero
+    que Viseo es caballero
+    muy digno de que reciba
+    premio igual a su virtud,
+    como es un reino.
+GUIMARÁNS:
+    Está bien.
+    Todos pedimos también
+    a Dios su vida y salud.
+    Viva el Rey; que, en fin, señores,
+    es el natural señor.
+    Si ahora tiene rigor
+    y nos niega sus favores,
+    ya mudará con los años
+    la condición.
+CONDESTABLE:
+    Tantos vivas
+    que el premio, Duque, recibas
+    en obras, no en desengaños.
+GUIMARÁNS:
+    Si los cuatro que nacimos
+    de un padre y somos hermanos,
+    aunque piadosos y humanos
+    otros reyes conocimos,
+    nos juntamos a tratar
+    de la aspereza del Rey,
+    ya damos contra la ley
+    de nuestra lealtad lugar
+    a que diga quien lo oyere
+    que tratamos mal de quien
+    le queremos todos bien
+    y que Dios guarde y prospere.
+    No, hermanos, no sea ansí.
+    Áspero o tierno, sea ley
+    en todo servir al Rey.
+CONDESTABLE:
+    ¿Mírasme, por Dios, a mí?
+GUIMARÁNS:
+    Aunque pudiera llamarte
+    el portugués africano,
+    como a Escipión el romano,
+    viendo a tu señor pagarte
+    como su patria y senado
+    pagó al otro, es mi intención
+    ponerte en el corazón
+    desta paciencia el cuidado.
+    Y esta misma le aconsejo
+    al conde de Faro.
+FARO:
+    Yo
+    ¿qué he dicho?
+GUIMARÁNS:
+    Ejemplo nos dio
+    buen padre; sirva de espejo:
+    al Rey, serville y no más.
+    Álvaro, como a menor
+    te quiero hablar con rigor.
+    Si acaso enojado estás,
+    mira...
+DON ÁLVARO:
+    No me diga nada
+    Vuestra Señoría aquí,
+    que es dar a entender que en mí
+    no hay satisfación honrada.
+    Pensar que el Rey no es humano
+    no es delito; ni prudencia
+    hablar mal hombre en ausencia
+    de tales hombres, hermano.
+    Sabe Dios cómo le adoro.
+GUIMARÁNS:
+    Tú y cualquiera noble igual
+    al que es su Rey natural
+    debe este justo decoro.
+    Quede entre los cuatro aquí,
+    hermanos, determinado
+    que el Rey ha de ser amado
+    y servido. ¿Queda ansí?
+TODOS:
+    Sí.
+GUIMARÁNS:
+    Pues con aqueste sí falta
+    premio al Condestable ahora.
+    Vendrá tiempo -que mejora
+    un tiempo lo que otro falta-
+    en que tenga el que merece.
+    Vámosle a servir los tres
+    y él puede acudir después.
+CONDESTABLE:
+    Buen consejo el Duque ofrece.
+[Vanse los tres y queda el Condestable]
+CONDESTABLE:
+    Influya el cielo, influyan los planetas
+    -que nacen con los hombres las fortunas-
+    las condiciones y, tal vez, algunas
+    en sujetos perfetos imperfetas.
+    Las causas a nosotros tan secretas,
+    siendo disculpas, no les den ningunas;
+    que, en viendo condiciones importunas,
+    huyen las voluntades más sujetas.
+    Aunque desde este polo al de Calisto
+    gobierne un rey, de serlo no se alabe
+    si rey de voluntades no se ha visto.
+    Dichoso aquel que con prudencia sabe
+    vencer su condición y ser bien quisto,
+    que es de la voluntad la mejor llave.
+[Sale doña Inés, dama de la Reina]
+DOÑA INÉS:
+    Después de mil parabienes
+    que dar a vuestra venida,
+    como quien en la partida
+    os deseó tantos bienes;
+    después de haberme informado
+    de que venís con salud
+    -no del valor y virtud
+    que en África habéis mostrado,
+    que ése todos lo sabían
+    antes de veros allá,
+    y el mar y la fama acá
+    tantas nuevas nos envían-,
+    vengo, señor Condestable,
+    a daros cuenta de mí.
+CONDESTABLE:
+    Pues si vos me habláis ansí,
+    ¿cómo queréis que yo os hable?
+    Mas diré que aquí y allá,
+    el que fui y el que volví
+    soy tan vuestro como fui
+    y allá fui el mismo que acá.
+    Dos casamientos o tres
+    en África oí tratar:
+    el uno pudo engañar,
+    pero el otro verdad es.
+    El de Su Alteza y su hermana
+    del de Viseo fue cierto;
+    el vuestro no sé.
+DOÑA INÉS:
+    El concierto
+    fue verdad, que hoy o mañana
+    firmaremos escrituras;
+    mas no las pienso firmar
+    sin vuestro consejo.
+CONDESTABLE:
+    Hallar
+    un hombre tantas venturas
+    como se juntan en vos
+    viene de los mismos cielos.
+    Parabién os doy con celos.
+DOÑA INÉS:
+    ¿Celos de mí?
+CONDESTABLE:
+    Sí, por Dios,
+    que toca a todo galán
+    sentir que os caséis. Mas quiero
+    conocer al caballero
+    a quien sus dichas os dan,
+    que allá no llegó su nombre,
+    que de miedo de la mar
+    aún no se atrevió a pasar
+    la ventura de tal hombre.
+DOÑA INÉS:
+    ¿Pues anegarase en ella?
+CONDESTABLE:
+    Eso debió de temer,
+    que si envidia puede haber,
+    será de cosa tan bella.
+DOÑA INÉS:
+    Don Egas es con quien trato
+    casarme. Y de vos querría,
+    como quien es sangre mía
+    y de su padre un retrato,
+    que me digáis si voy bien,
+    porque oigo murmurar
+    cosa a que no doy lugar.
+CONDESTABLE:
+    Vos me obligastes tan bien
+    que os dijera el voto mío
+    si no fuérades mujer,
+    que yo sé que suele hacer
+    la más cuerda un desvarío.
+    Id, mi señora, con Dios;
+    bien acertáis.
+DOÑA INÉS:
+    Si ha de ser
+    que de mí se ha de saber
+    lo que tratare con vos,
+    por vuestra vida y la mía,
+    por quien soy, por el respeto
+    que os debo, que ese secreto...
+CONDESTABLE:
+    No es prudente el que se fía.
+DOÑA INÉS:
+    Mucho disfavor me hacéis;
+    corrida quedo.
+CONDESTABLE:
+    No es justo,
+    pero preferiendo el gusto
+    al daño que me oponéis,
+    os diré lo que es razón
+    que calléis. Y que tengáis
+    prudencia en lo que tratáis;
+    y en dejarlo, discreción,
+    que otras causas podéis dar
+    para no os casar con él.
+DOÑA INÉS:
+    ¿No es noble?
+CONDESTABLE:
+    Hay nobleza en él
+    que a todos nos puede honrar.
+    Por la parte de su agüelo,
+    su padre no os está bien;
+    harto os he dicho.
+DOÑA INÉS:
+    Si en quien
+    pongo mi honor, con recelo
+    de que me caso engañada,
+    no me da mejor razón,
+    mucho agravia mi afición.
+CONDESTABLE:
+    ¡Ay, doña Inés, no hay espada
+    como lengua de mujer!
+DOÑA INÉS:
+    No lo son las nobles, Conde,
+    que la mujer corresponde
+    a su sangre y no a su ser.
+CONDESTABLE:
+    Mucho me apretáis.
+DOÑA INÉS:
+    Merezca
+    de vos saber lo que intento.
+CONDESTABLE:
+    Con no hacer el casamiento
+    no hay peligro que os ofrezca.
+DOÑA INÉS:
+    Estraño estáis. Por mujer
+    os pido aqueste favor.
+CONDESTABLE:
+    Ya es ése mucho rigor.
+DOÑA INÉS:
+    Yo lo tengo de saber
+    o a esos pies he de morir.
+CONDESTABLE:
+    Digo, señora, que sea.
+DOÑA INÉS:
+    La mujer, cuando desea,
+    no se sabe resistir.
+CONDESTABLE:
+    Egas, de don Egas padre,
+    fue hijo de un caballero
+    cuyo origen fue estranjero
+    por la parte de su madre.
+    Pasó al África y diez años
+    fue en Tánger gobernador.
+    Cautivole un Almanzor
+    de Fez y llevó a sus baños,
+    donde en una hermana suya
+    tuvo este hijo, que fue
+    llevado de Fez a fe,
+    digo, a quien le restituya
+    a la fe santa en que el padre
+    vivió y murió, que yo adoro.
+    Así que tu esposo es moro
+    no por su padre y su madre,
+    sino por aquesta agüela;
+    que después Egas fue un hombre
+    de grande valor y nombre
+    y que casó con Estela,
+    una mujer principal,
+    hija del gobernador
+    de Ceuta. Y por su valor
+    le honró el rey de Portugal
+    don Alonso, que Dios tiene,
+    padre de nuestro don Juan.
+    Este marido te dan;
+    tú verás si te conviene.
+    Y guárdete Dios, que voy
+    a la comida del Rey.
+    Guarda el secreto a la ley
+    de quien eres y quien soy.
+    Pero si me has engañado
+    y estás casada con él,
+    en lo que te he dicho dél
+    por tu culpa soy culpado.
+    Ya no puede ser desdicho;
+    pero si, como sospecho,
+    piensas decir: "ya está hecho",
+    responderé: "ya está dicho".
+[Vase]
+DOÑA INÉS:
+    ¡Casada! No lo permita
+    el cielo ni que yo venga
+    a casarme con quien tenga
+    tal nota de infamia escrita.
+    ¡Afuera, vil pensamiento!
+    Amor, si hubo amor alguno,
+    no me seas importuno
+    con tan bajo casamiento.
+    Aquí cesó la esperanza
+    y murió la pretensión;
+    que con tan justa razón,
+    honra será la mudanza.
+[Entra don Egas]
+DON EGAS:
+    Pues que me han dado licencia
+    y nuestras cosas están
+    de suerte que de galán
+    paso a tanta diferencia
+    como es ser vuestro marido,
+    no me la neguéis de hablaros
+    para querer suplicaros
+    -si mi amor lo ha merecido-
+    señales, señora, el día.
+    Mas ¿cómo con tal tristeza
+    me recibe esa belleza
+    que es de la tierra alegría?
+    ¿Quién ha eclipsado esos ojos
+    que dan al alma desmayos?
+    ¿Qué tierra opuesta a sus rayos
+    causa a su hermosura enojos?
+    ¿Quién, señora, os ha ofendido
+    o por qué de mí lo estáis?
+    ¿Qué os han dicho, que mostráis
+    a mi memoria ese olvido?
+DOÑA INÉS:
+    Ninguna cosa, don Egas;
+    que si llego triste a veros,
+    sólo nace de perderos.
+DON EGAS:
+    ¡Perderme! ¿Cómo?
+DOÑA INÉS:
+    (¡Qué ciegas
+    somos en cualquiera cosa
+    que nos ofenda!)
+DON EGAS:
+    Esperad,
+    que en tanta desigualdad
+    está el alma temerosa.
+    Ayer fui vuestro y vos, mía;
+    ¿y hoy me decís que ya os pierdo?
+DOÑA INÉS:
+    De que lo juré me acuerdo,
+    pero el flaco ser porfía
+    con ánimo de vencerme.
+    No puedo más advertiros,
+    que no es posible admitiros
+    sin arrojarme a perderme.
+[Hace que se va]
+DON EGAS:
+    ¿Pues desa manera os vais?
+    ¡Teneos, que vive Dios
+    que habemos de ver los dos
+    cómo y por quién me dejáis
+    si el palacio se alborota!
+DOÑA INÉS:
+    Por vos mismo.
+DON EGAS:
+    ¿A mí por mí?
+DOÑA INÉS:
+    A vos por vos.
+DON EGAS:
+    Si es ansí,
+    alguna lengua me nota
+    de indigno, de desigual
+    a vuestro valor.
+DOÑA INÉS:
+    No es bien
+    que a mí por vos me la den.
+DON EGAS:
+    ¿Pues hay hombre en Portugal
+    de sangre tan conocida?
+DOÑA INÉS:
+    Si no estuviera manchada
+    por la parte más honrada...,
+    pero está muy ofendida.
+    Y dar a mi padre nietos
+    que desciendan de Almanzor
+    desdicen mucho al valor
+    que es causa destos efetos.
+DON EGAS:
+    Tened la lengua atrevida;
+    que si de mujer no fuera,
+    ¡vive Dios que no dijera
+    otra palabra en su vida!
+    ¿Quién es el infame a quien
+    tales palabras oístes?
+    Que pues que vos las creístes,
+    nunca me quisistes bien.
+    Decildo presto y veréis
+    cómo a vuestros pies confiesa
+    que miente.
+DOÑA INÉS:
+    A muy alta empresa
+    vuestra persona ofrecéis.
+    No tratéis deso, que es hombre
+    que no le osaréis mirar.
+DON EGAS:
+    Osándome él afrentar
+    ¿habrá temor que me asombre?
+    ¡Cuán bien se ha echado de ver
+    que sois mujer sin valor,
+    pues que ya era vuestro honor,
+    que os he llamado mujer!
+    No sólo por mí volvistes,
+    pero hablando me afrentastes;
+    pues sin vergüenza me hablastes
+    de la que a mi rostro hicistes.
+    Decid quién es, doña Inés,
+    o ¡vive el cielo...!
+DOÑA INÉS:
+    ¿Qué es esto?
+    ¿Vos tan loco y descompuesto?
+DON EGAS:
+    Por su honor ¿quién no lo es?
+    Del Rey abajo no hay hombre
+    que no desmienta y le mate.
+DOÑA INÉS:
+    ¡Disparate!
+DON EGAS:
+    ¿Disparate?
+    Decidme de presto el nombre.
+DOÑA INÉS:
+    Hacéis un error notable;
+    pero pues sois tan prolijo,
+    cuanto os he dicho me dijo
+    no menos que el Condestable.
+    ¿Estáis contento?
+DON EGAS:
+    Id con Dios.
+DOÑA INÉS:
+    Él os guarde.
+[Vase]
+DON EGAS:
+    ¡Estraña suerte
+    ser el contrario tan fuerte
+    que no haya medio en los dos!
+    Mas pues fui tan desdichado
+    y he sido tan venturoso
+    en que me mire amoroso
+    un Rey con todos airado
+    -pues sus secretos me fía,
+    pues hallé gracia en sus ojos,
+    pues que soy quien sus enojos
+    templa, dehace y desvía,
+    pues no hay hombre con quien hable
+    de la suerte que conmigo-,
+    hoy tendrá justo castigo
+    la crueldad del Condestable.
+    Con la lengua me ofendió,
+    con la lengua he de matalle;
+    porque puedan castigalle
+    las armas con que me hirió.
+    En él, con sus tres hermanos,
+    una venganza he de hacer
+    que pudiera ejemplo ser
+    a los pasados tiranos.
+[Sale el Rey y la Reina y el duque de Viseo]
+VISEO:
+    Desde aquí podrán ver Vuestras Altezas
+    el presente que envía el Condestable,
+    que el África no tiene más riquezas.
+REINA:
+    En estremo me dicen que es notable.
+VISEO:
+    Alejandro no hiciera más grandezas
+    ni fuera por más hechos admirable
+    si tuviera el poder como el deseo.
+REINA:
+    ¿No le veremos?
+REY:
+    Desde aquí le veo.
+REINA:
+    Favoreced al Condestable en esto:
+    poneos a ese balcón siquiera un rato.
+REY:
+    No quiero parecer tan descompuesto.
+REINA:
+    ¿Y no es mejor que parecer ingrato?
+REY:
+    A los reyes no es lícito ni honesto
+    pasar el justo límite. A recato
+    lo que pudiere entrar aquí veremos;
+    de lo demás, la relación tendremos.
+REINA:
+    (¡Qué gravedad tan áspera y estraña!)
+VISEO:
+    Si quiere Vuestra Alteza que lo cuente,
+    yo lo diré.
+REY:
+    Decid.
+VISEO:
+    Aunque en España
+    todo caballo es fuerte y excelente,
+    y más los que los céspedes que baña
+    del caudaloso Betis la corriente
+    pacen en las dehesas gamenosas
+    que son cerca de Córdoba famosas,
+    veinte caballos bárbaros envía
+    que si con otros tantos caminara
+    el sol que ilustra y clarifica el día,
+    cualquiera gran pintor los retratara:
+    tres castaños, tres bayos y una pía
+    que si naturaleza la sacara
+    de un paño de su estudio, no era indicio
+    que en remendalle estuvo el artificio;
+    dos morcillos que beben blanca nieve,
+    estrellados de frentes, a quien tapa
+    rico copete que a cubrir se atreve
+    el medio cuello, de color de zapa;
+    un melado feroz tras estos nueve
+    cuyo pellejo, a imitación de un mapa,
+    parece que en pedazos desiguales
+    muestra del agua y tierra las señales;
+    seis blancos para un coche que, saliendo
+    del mar en barcos, cisnes parecían
+    que los remos, las aguas dividiendo,
+    de las alas entonces les servían,
+    tan blancos que si el agua resurtiendo
+    daba en ellos o en su crin, competían
+    de tal suerte ensartando las espumas
+    que para crines les sirvió de plumas;
+    tras éstos, dos tostados alazanes,
+    arábigos en casta como en nombres,
+    tan pisadores, fuertes y galanes,
+    que harán un corto enano gentilhombre.
+    Sonando los bañados alacranes,
+    para que más su inquieta fuerza asombre,
+    vienen sembrados dos gallardos rucios
+    de moscas blancas los pellejos lucios.
+    Todos traen sus sillas y jaeces
+    de diversas colores y matices;
+    ellos sienten la gala: muchas veces
+    vierten soberbia roja sus narices.
+    Los bayos, porque tú los encareces,
+    traen de tela blanca dos tellices;
+    señal que para ti su talle y gala
+    la cubierta riquísima señala.
+    Esto que ver no quieres te he contado;
+    lo demás, como alfombras, plata y oro,
+    paños de aljófar en cendal labrado
+    y tafilete de artificio moro
+    aquí lo puedes ver. Sólo he guardado
+    -por guardar a los hombres el decoro-
+    para la postre veinte esclavos, tales
+    que no los tiene rey del mundo iguales.
+    Sobre aljubas de bárbaros tahalíes
+    traen sus alquiceles y bonetes,
+    coronados de plumas carmesíes
+    de Orán con negros y altos martinetes;
+    todos con argentados borceguíes,
+    de oro y plata botones y corchetes
+    que labra en filigrana el africano
+    con la imaginación más que la mano.
+    Vienen veinte cautivas que en labores
+    pueden vencer las telas de Minerva
+    imitando los árboles y flores,
+    las blancas aguas en la verde yerba.
+    Ésta, para la Reina, de colores
+    varias adorna; las demás reserva
+    a vuestra vista el corto ingenio mío,
+    que parece en su mar humilde río.
+REY:
+    La relación parece tan notable
+    que hará después pequeño su presente.
+REINA:
+    Haced merced, señor, al Condestable;
+    que le tenéis obligación.
+VISEO:
+    La gente
+    llega a la plaza ya. Cosa admirable
+    es ver lo que parece.
+DON EGAS:
+    El vulgo siente
+    con baja condición las novedades.
+    Artificios engañan voluntades.
+REINA:
+    Yo quiero verlo, con licencia vuestra.
+REY:
+    Id en buen hora vos.
+REINA:
+    Vamos, hermano.
+VISEO:
+    (¡Qué airado rostro a los servicios muestra!
+REINA:
+    Pienso que el Condestable sirve en vano.)
+[Vanse los dos]
+DON EGAS:
+    Si no me han hecho información siniestra
+    por mala voluntad, Rey soberano,
+    que alguno tiene al Condestable noble,
+    todo esto se dirige a un trato doble.
+REY:
+    ¿Qué dices, Diego?
+DON EGAS:
+    Como soy testigo
+    de las mormuraciones de los cuatro
+    hermanos portugueses, que mil veces
+    en corrillos de algunos caballeros
+    los he reprehendido libertades
+    que dicen contra ti, tengo creído
+    que viene el Condestable a lo que dice
+    alguno que lo sabe de su boca.
+REY:
+    ¿A qué puede venir el Condestable?
+    ¿Y qué es lo que de mí públicamente
+    o en secreto mormuran sus hermanos?
+DON EGAS:
+    Quéjanse de tus grandes asperezas;
+    dicen que eres muy grave y arrogante
+    y que el Rey don Alonso, que Dios tiene,
+    no los trataba ansí. Y el otro día
+    dijo el de Guimaráns que los Estados
+    no duraban gran tiempo entre los príncipes
+    que despreciaban los vasallos nobles;
+    y respondió el de Faro que no había
+    príncipe tan ingrato en todo el mundo;
+    y que con ser coléricos, adustos
+    los franceses, violentos y marciales,
+    tenían en costumbre la blandura
+    y afable trato de su Rey. Y a esto
+    don Álvaro, el menor hermano, dijo
+    que algún día, señor, conocerías
+    cuánto mejor te fuera, con prudencia,
+    disimular tu condición esquiva.
+    Esto y mil cosas que no es bien decirte,
+    porque no te parezca que las trato
+    con ánimo de hallar gracia en tus ojos.
+    De donde arguyo que verdad sería
+    haberme dicho que éstos han llamado
+    al Condestable con tirano intento
+    de quitarte la vida y la corona
+    poner en la cabeza de tu primo
+    y tu cuñado el duque de Viseo,
+    mozo gallardo, cuerdo y generoso
+    y lleno de excelencias y virtudes
+    y, sobre todo, a quien el vulgo y plebe
+    idolatra y celebra de tal modo
+    que, si corre un caballo, no hay aplauso
+    que no le dé con vitoriosas voces;
+    si hace alguna suerte, "¡Dios te guarde!"
+    dicen con ansia que penetra el cielo;
+    y, en fin, le muestran en todas sus acciones
+    inmenso amor en obras y razones.
+REY:
+    El ánimo, don Egas, de los reyes
+    ha de tener en todo igual templanza.
+    Bamba salió de entre el arado y bueyes
+    y luego vio lo que el gobierno alcanza.
+    Divinamente ejecutó las leyes
+    en sus tiranos sin hacer mudanza
+    del semblante real que vez ninguna
+    venció la adversa y próspera fortuna.
+    Ten secreto a las cosas que me cuentas;
+    que yo, sin alterarme, estos hermanos
+    castigaré de suerte que no sientas
+    por dónde a la venganza van las manos.
+    Altérese la mar con sus tormentas,
+    levante a las estrellas montes canos,
+    que ha de ser río un príncipe discreto
+    que va donde más hondo muy más quieto.
+    Mas dime: ya que yo les dé castigo
+    al Condestable, a Guimaráns, a Faro
+    y al hermano menor -que yo me obligo
+    que a todos cuatro ha de costar bien caro-,
+    mi primo, el de Viseo, ¿es mi enemigo?
+    ¿Sabe esto mi cuñado? Que reparo
+    con justa causa en que culpado sea.
+DON EGAS:
+    ¡Jesús, Señor! Tu Alteza no lo crea.
+    Yo pienso que si acaso los hermanos
+    que contra tu corona se conjuran
+    se la ofrecieran, que él con propias manos
+    hubiera en ellos lo que en ti procuran:
+    de todo está inocente.
+REY:
+    Los tiranos
+    que a tal atrevimiento se aventuran
+    querrán saber primero su deseo:
+    sospechas me da el duque de Viseo.
+    ¡Y vive Dios que si el amor que tengo
+    a la Reina su hermana no me atara
+    las manos, que el castigo que prevengo
+    en mi primo primero ejecutara!
+    Que si por él, por sus virtudes vengo
+    a darles ocasión, que la quitara
+    fuera razón de Estado y que no hubiera
+    quién mejor para rey les pareciera.
+DON EGAS:
+    No quiera Dios que por razón de Estado,
+    que muchas veces el demonio inventa,
+    el inculpable Duque tu cuñado
+    pierda la vida o dalle alguna afrenta.
+    Castigar la justicia al que es culpado
+    es imitar a Dios, no cuando intenta,
+    por las razones de futuros daños,
+    verter la sangre en propios y en estraños.
+REY:
+    ¿No debe conservar el rey su vida?
+DON EGAS:
+    Debe, mas no quitarla al inocente.
+REY:
+    ¿Y éste, pues da la causa? Que, atrevida,
+    se opone al cetro la plebea gente.
+DON EGAS:
+    Si su virtud la tiene tan rendida,
+    ¿es bien, señor, que un rey cristiano intente
+    matar al virtüoso porque es bueno
+    y está de gracias y virtudes lleno?
+REY:
+    Este punto es sutil.
+DON EGAS:
+    No hay sutileza
+    contra la ley de Dios.
+REY:
+    En esto veo,
+    don Egas, tu verdad y tu nobleza,
+    y que condenas justamente al reo;
+    pues, viendo que amenaza tu cabeza,
+    abogas por el duque de Viseo
+    y a los hermanos, que culpados miras,
+    flechas de culpas y venganza tiras.
+    Disimula, don Egas, como digo,
+    en tanto que procuro de secreto
+    dar a los cuatro hermanos el castigo
+    de que verás tan presto el justo efecto.
+DON EGAS:
+    Fuera de mí no hay que buscar testigo.
+    Procede como príncipe discreto.
+REY:
+    Tú verás mi prudencia.
+DON EGAS:
+    Estoy seguro
+    que conoces el bien que te procuro.
+[Vase el Rey. Sale el Condestable]
+CONDESTABLE:
+    ¿Hay rigor como no haber
+    vuelto los ojos siquiera
+    a un presente que pudiera
+    Alejandro agradecer?
+    ¿Hay tan brava condición?
+    ¡Cómo! ¿Egas está aquí?
+    Viome y aun vio que le vi
+    y vase. ¡Estraña ambición!
+    ¡Ah, don Egas! ¡ah, don Egas!
+    ¡Detente!
+DON EGAS:
+    ¿Qué es lo que quiere
+    Vuestra Excelencia que espere?
+CONDESTABLE:
+    ¿El día que a verme llegas,
+    después de ausencia tan larga,
+    huyes de mí y no haces caso
+    cuando por tus ojos paso?
+    Mucho la soberbia alarga
+    en cerviz, pues no te deja
+    alzarlos a ver un hombre
+    de mis prendas.
+DON EGAS:
+    Que me asombre
+    vuestra virtud me aconseja.
+    Pero no ha sido arrogancia
+    ni es bien que a mis ojos venza
+    su peso, sino vergüenza,
+    en mi valor de importancia,
+    de mirar a quien debía
+    por noble, por portugués,
+    por soldado, por quien es
+    y por justa cortesía,
+    informar una mujer
+    que me tuvo algún amor
+    de otra suerte de mi honor.
+    Mas, pues me queréis hacer
+    moro, yo os haré tal guerra
+    que no os la dieron las manos
+    de todos los africanos
+    como yo en la propia tierra.
+    Yo satisfaré la injuria
+    que habéis hecho a mi opinión;
+    que la ofensa sin razón
+    las piedras obliga a furia.
+[Vase]
+CONDESTABLE:
+    Quien fía de mujer algún secreto
+    dice bien, como necio, lo que jura
+    su honor; su vida pone en aventura
+    y pierde la opinión de ser discreto.
+    ¡Oh, siempre flaco y tímido sujeto
+    que en tal muerte destruición procura!
+    ¡Naturaleza bárbara y perjura,
+    de nuestra confianza falso objeto!
+    No en vano los primeros que la guerra
+    vuestra temieron y que el mundo asombre,
+    llamaron, para ejemplo de la tierra,
+    “lengua” la habla, que es de más renombre,
+    y “labio” aquello que la boca cierra
+    para mostrarnos que el silencio es hombre.
+[Sale el duque de Guimaráns]
+GUIMARÁNS:
+    En soledad os tendrá,
+    hermano, el desabrimiento
+    de ver el poco contento
+    que el Rey al presente da.
+    Tan poco gusto le ha dado,
+    que en todo de verlo siente:
+    ya no parece presente,
+    que más parece pasado.
+    Tened, hermano, consuelo
+    que él sea el Rey: es razón
+    cumplir con la obligación
+    que pone al vasallo el cielo.
+    Que ésta en mí fue tan estrecha,
+    que con ver que os hace agravio
+    ni muevo en su ofensa el labio
+    ni pienso lo que es sospecha.
+    Que claro está que él entiende
+    que su grave condición
+    no ha de engendrar afición,
+    que nadie con yelo enciende.
+CONDESTABLE:
+    No es, hermano, mi tristeza
+    de la condición del Rey;
+    pues en mí el amor le es ley
+    y ella en él, naturaleza.
+    Cual es le estimo y le adoro,
+    la boca pongo a sus pies.
+    De otra causa, y justa, es
+    contra mi honor y decoro.
+GUIMARÁNS:
+    ¿Contra vuestro honor, hermano?
+    ¿Qué decís?
+CONDESTABLE:
+    El parabién
+    me dio doña Inés, de quien
+    fui un tiempo galán en vano,
+    de mi venida y tras él,
+    me dijo que se casaba,
+    pero que sólo aguardaba
+    para firmar un papel
+    saber la cierta nobleza
+    de su esposo de mi boca.
+    Yo con discreción tan poca
+    como ella después flaqueza,
+    debajo de juramento
+    le dije lo que sabía
+    del África y que entendía
+    que era injusto el casamiento.
+    Apenas salía de aquí
+    cuando al novio le contó
+    que aquí sin mí me dejó
+    y aquí se quejó de mí.
+GUIMARÁNS:
+    Bien fuera justo culparos.
+    Ya sé que don Egas es
+    quien pretende a doña Inés,
+    pero no es justo aumentaros
+    la pena que habéis tenido.
+    Dejadme aquí, que ella viene.
+[Sale doña Inés]
+GUIMARÁNS:
+    Veré, si remedio tiene,
+    que se desdiga.
+CONDESTABLE:
+    Eso os pido;
+    que si no le desagravio,
+    yo quedaré con mal nombre
+    de haber ofendido a un hombre
+    [............................]
+[Vase]
+DOÑA INÉS:
+    Bien parece el Condestable,
+    señor Duque, ser quien es.
+    No ha nacido portugués
+    tan valeroso y amable.
+    A vos, por todas las damas,
+    os doy las gracias. ¿Qué es esto?
+    ¿Conmigo estáis tan compuesto?
+GUIMARÁNS:
+    Reprimiendo estoy las llamas
+    que de vuestro agravio están
+    abrasando el corazón.
+DOÑA INÉS:
+    ¿Los del Condestable son
+    del duque de Guimaráns?
+    ¿Algo del amor pasado
+    lo llamáis agravio agora
+    porque me caso?
+GUIMARÁNS:
+    Señora,
+    no está de amor agraviado
+    ni que os caséis ha sentido;
+    que los moros de Azamor
+    le han quitado vuestro amor
+    a lanzadas que ha sufrido.
+    No habéis procedido bien
+    en descubrir el secreto;
+    pues jurastes, en efecto,
+    de no le decir también.
+    Mas ya que vuestra flaqueza
+    o la suya le han quitado
+    el amor a un hombre honrado
+    de tal virtud y nobleza
+    y de quien el Rey se fía
+    con mucha causa y razón
+    -porque de su discreción
+    seguramente confía-,
+    dos cosas habéis de hacer:
+    la primera, desdeciros
+    -que no importará advertiros
+    el cómo, pues sois mujer-;
+    y la segunda, casaros;
+    con que se remedia todo,
+    pues no podéis de otro modo
+    del Condestable guardaros,
+    a quien habéis ofendido
+    quebrándole el juramento.
+    Don Egas, sin fingimiento,
+    es hombre tan bien nacido
+    que nuestro padre decía
+    que era su deudo su agüelo.
+    Y no es bien que os dé recelo
+    la agüela, que es niñería
+    si el hombre es tan principal
+    como veis; que si en Castilla
+    lleva el caballo la silla,
+    lo mismo es en Portugal.
+DOÑA INÉS:
+    Con gran furia habéis venido,
+    señor Duque, a revolver
+    lo que sólo puede ser
+    remediado con olvido.
+    Don Egas lo hizo mal
+    si yo no lo hice bien:
+    a los dos culpa nos den,
+    pues la tenemos igual.
+    Y al Condestable no asombre
+    verme el secreto romper
+    si disculpa a una mujer
+    ver que no la tuvo un hombre.
+    No tratéis de desdecirme
+    ni habléis de lo que es casarme,
+    que es imposible mudarme
+    y locura persuadirme.
+    Yo soy noble y mis pasados
+    lo han sido. Busque don Egas
+    noblezas que estén más ciegas
+    y ojos que estén más vendados.
+    Yo con valor español
+    pretendo, aunque soy mujer,
+    mi nobleza defender
+    de los átomos del sol.
+    Id en buen hora y decilde
+    al Condestable lo que es
+    mi intento.
+GUIMARÁNS:
+    Señora Inés,
+    ¡menos brava, más humilde!
+    Mirad que soy yo el tercero
+    y mi hermano, el agraviado.
+DOÑA INÉS:
+    Dejadme, que sois cansado.
+    ¡Qué enfadoso caballero!
+GUIMARÁNS:
+    Palabra me habéis de dar
+    de casaros, aunque estéis
+    tan brava.
+DOÑA INÉS:
+    ¿Vos no sabéis
+    que no se dejan forzar
+    las mujeres como yo?
+    ¡No me asgáis, que sois un necio!
+GUIMARÁNS:
+    ¡Ya para tanto desprecio
+    la paciencia me faltó!
+[Dale un bofetón]
+    Aprended con esto a hablar
+    y a guardar secreto.
+DOÑA INÉS:
+    ¡Ah, cielos!
+    ¡A mí bofetón!
+GUIMARÁNS:
+    Son celos
+    de que os habéis de casar.
+[A las voces que dio doña Inés por el bofetón, sale el Rey, [don Egas] y el duque de Viseo, el Condestable, el conde de Faro y don Álvaro de Portugal. Y a tres versos, se arriman al de Guimaráns los tres hermanos]
+REY:
+    ¿Qué es esto?
+GUIMARÁNS:
+    (¡Perdido soy!)
+DOÑA INÉS:
+    ¿Ya no lo veis en mi cara,
+    que de la mano del Duque
+    está pidiendo venganza?
+    ¡A esto llegan los soberbios,
+    los tiranos de tu casa,
+    los que murmuran de ti,
+    los que en corrillos te infaman,
+    los que tu muerte desean,
+    los que dan en tus espaldas,
+    por no poder en el pecho,
+    mil heridas de palabra!
+    Tú tienes, señor, la culpa;
+    que yo soy mujer y basta
+    decirte que soy mujer.
+DON EGAS:
+    ¡Tente!
+[Vase doña Inés]
+REY:
+    ¿Hay maldad tan estraña?
+    Déjala, no la detengas.
+    ¡Cómo los cielos declaran
+    lo que los pechos encubren!
+DON EGAS:
+    ¿Así la palabra guardas?
+    Aunque es justo que el castigo
+    en una pública plaza
+    vengue a doña Inés y al Rey
+    junte la espada en la vara,
+    a mí, como a quien tenía
+    nombre de su esposo...
+REY:
+    ¡Calla!
+DON EGAS:
+    ... me toca, señor invicto,
+    meter al Duque en campaña.
+FARO:
+    No hables donde está el Rey,
+    don Egas.
+CONDESTABLE:
+    La confïanza
+    [............................]
+    tu lengua libre desata;
+    que si no estuviera aquí...
+DON ÁLVARO:
+    Pues si no estuviera, ¿hablara?
+GUIMARÁNS:
+    No hablara, porque no puede
+    hablar el que no me iguala.
+REY:
+    ¡Bien, por Dios! ¿Qué te parece,
+    primo, destas arrogancias?
+    ¡Mira qué cuatro colunas,
+    que mi reino y vida amparan,
+    tengo a mi lado! Mas creo
+    que si una vez las abraza
+    mi justicia, caerá en tierra
+    el templo de su esperanza.
+    ¡Mira con qué atrevimiento
+    hoy todos cuatro en mi cara
+    defienden su desvergüenza!
+VISEO:
+    Señor, la sangre los llama
+    a la defensa del Duque.
+    Muestra ahora la templanza
+    divina de tu valor.
+REY:
+    ¡Guimaráns!
+GUIMARÁNS:
+    ¿Señor?
+REY:
+    Las armas
+    dad al duque de Viseo.
+GUIMARÁNS:
+    Lo que Vuestra Alteza manda
+    hoy mi lealtad obedece.
+    Ésta, señor, es mi espada.
+REY:
+    Llevalde vos a una torre
+    y allí le poned mi guarda;
+    y el Condestable y el conde
+    de Faro tengan su casa
+    por prisión.
+DON EGAS:
+    ¿Cómo te olvidas
+    de don Álvaro?
+REY:
+    No estaba
+    de don Álvaro advertido;
+    que son tantos, que me cansan
+    hasta el alma.
+CONDESTABLE:
+    ¿Tantos buenos
+    cansan, señor, hasta el alma?
+REY:
+    Vente conmigo, don Egas.
+[Vanse]
+VISEO:
+    Vueseñorías se vayan
+    a sus casas, porque el Duque
+    va conmigo y con la guarda.
+FARO:
+    ¿Aquí puede haber paciencia?
+GUIMARÁNS:
+    Conde de Faro, no hagas
+    menos que tu obligación.
+    El Rey quiere, el Rey lo manda:
+    al Rey obediencia, hermanos.
+VISEO:
+    Como valeroso hablas.
+    Prenderte ha sido justicia;
+    si es justicia, no te agravia;
+    si no te agravia, no puedes
+    quejarte; si quejas hallas,
+    sea sólo de tus dichas,
+    que las dichas en las casas
+    de los reyes sirven más
+    que las letras y las armas.
+
+JORNADA 2
+
+[Salen el Duque y doña Elvira]
+VISEO:
+    Esto me han encomendado,
+    prima y mi señora: haced
+    al de Guimaráns merced,
+    aunque en delicto culpado
+    que por ser contra mujer
+    tenga ya desmerecido
+    ser de mujer socorrido;
+    mas vos no lo habéis de ser.
+    Por ángel os tengo yo:
+    de su guarda lo seréis.
+DOÑA ELVIRA:
+    Donaire, primo, tenéis.
+    ¿Yo hablar por él?
+VISEO:
+    ¿Por qué no?
+DOÑA ELVIRA:
+    Pues siendo vos del Rey primo
+    y no menos que su hermano
+    de la Reina, ¿no es en vano
+    rogarme a mí?
+VISEO:
+    No me animo
+    a pedirle nada al Rey
+    porque ha días, doña Elvira,
+    que con mal gusto me mira
+    y no tiene el gusto ley.
+    Pues pedir nada a mi hermana
+    si es por quien él hace menos,
+    ¿para qué?
+DOÑA ELVIRA:
+    ¿No hay muchos buenos
+    en la corte lusitana?
+VISEO:
+    Ya todos se lo han rogado
+    y el Condestable escribió
+    al Rey de Castilla y yo
+    tengo también obligado
+    al de Aragón y al de Francia;
+    pero de ninguna suerte
+    de su enojo se divierte
+    ni es el favor de importancia.
+DOÑA ELVIRA:
+    Pues donde escriben tres reyes,
+    de Aragón, Francia y Castilla,
+    ¿qué haré yo?
+VISEO:
+    Todo se humilla
+    -armas, libros, cetros, leyes-
+    al poder de una mujer.
+DOÑA ELVIRA:
+    ¿Celos, duque de Viseo?
+VISEO:
+    ¡No, por Dios! Sino deseo
+    del bien que le habéis de hacer.
+    Mal sabéis vos lo que tira
+    un cabello de una dama.
+    ¿Qué pluma o vara de fama
+    no se tuerce o se retira?
+    Hablad al Rey, pues os tiene
+    tanto amor, siendo tan grave,
+    que tierno, blando y süave,
+    prima, a requebraros viene.
+    Y pues sola en Portugal
+    miráis su rostro apacible,
+    haced lo que es imposible,
+    que esto es poder celestial.
+DOÑA ELVIRA:
+    El Rey, discreto y preciado
+    de galán, como lo es,
+    tiene gusto portugués:
+    finge amor, finge cuidado,
+    que la gala y discreción
+    no empleadas en servir
+    las damas suelen decir
+    que no tienen perfección.
+    Con esto habré merecido
+    que se entretenga Su Alteza
+    conmigo y que su aspereza
+    temple su acero en mi olvido.
+    Que bien echaréis de ver
+    que bien os admite a vos
+    para lo que espero en Dios
+    de mi dicha merecer.
+    No tengo correspondencia
+    con vuestro primo que pase
+    de ser gala.
+VISEO:
+    Aunque me abrase
+    con celos su competencia,
+    que habléis al Rey me conviene.
+    Y haced cuenta que aquí están
+    del duque de Guimaráns
+    los tres hermanos que tiene,
+    que todos lo mismo os piden.
+[Sale el Rey y don Egas y hablan aparte]
+REY:
+    (¿Sola no dices que estaba?
+DON EGAS:
+    Sola entonces la dejaba.
+REY:
+    Nunca los dos se dividen.
+    Enfadosa cosa es ver
+    este mi primo, don Egas.
+DON EGAS:
+    Mucho a imaginar te entregas
+    cosa que no puede ser
+    y en que el Duque no es culpado,
+    porque no es culpa en un hombre
+    tener méritos y nombre
+    para ser del mundo amado.
+REY:
+    Mientras no tengo heredero,
+    culpa es en éste pensar
+    el vulgo que ha de heredar.
+    Y en él también considero
+    los deseos, las quimeras
+    y el fingirse virtüoso,
+    apacible y amoroso
+    en las burlas y en las veras:
+    todo para conquistar
+    al vulgo.
+DON EGAS:
+    Este amor te engaña.
+    No hay caballero en España
+    más para amar y estimar
+    por su sencilla inocencia.
+REY:
+    Lo que dice quiero oír.)
+DOÑA ELVIRA:
+    Digo que le iré a pedir,
+    pues que vos me dais licencia,
+    la vida del Duque.
+VISEO:
+    El cielo
+    de un rey os haga mujer.
+REY:
+    (¿Y puedes tú defender
+    desta palabra el recelo?
+    Si él la sirve y la desea
+    por mujer, ¿no es justa ley,
+    pues dice que sea de un rey,
+    que pide a Dios que lo sea?)
+DOÑA ELVIRA:
+    Mujer de rey puede hacerme
+    si yo soy tan venturosa
+    que llego a ser vuestra esposa.
+REY:
+    (¿Y esto no debe ofenderme?
+    Mirad si tienen tratado
+    lo que temo. Pues los dos
+    me han de decir, vive Dios,
+    de que el Duque no es culpado.)
+DON EGAS:
+    (No, señor; que aquéllas son
+    palabras tan generales
+    que no muestran las señales
+    de estar falso el corazón.
+    Común encarecimiento
+    es de quien ama, y aun ley,
+    decir "Dios os haga rey".)
+DOÑA ELVIRA:
+    (El Rey os miraba atento.)
+VISEO:
+    (Si celos le habemos dado,
+    mal se alcanzará el perdón;
+    que celos venganzas son
+    entre el amante y lo amado.
+    Quiero hacer que no lo veo,
+    pues él se guarda de mí.
+    Dile a lo que vine aquí.)
+DOÑA ELVIRA:
+    Adiós, duque de Viseo.
+VISEO:
+    Él os guarde y dé ventura
+    en lo que vais a pedir.
+[Vase]
+REY:
+    (¿Vase?)
+DON EGAS:
+    (¿Pues no le veis ir?)
+REY:
+    (Más mi recelo asegura
+    el fingir que no me ha visto.)
+[Llégase a doña Elvira diciendo:]
+REY:
+    ¡Doña Elvira!
+DOÑA ELVIRA:
+    ¡Oh, gran señor!
+    Y cuán a tiempo mi amor,
+    si vuestra gracia conquisto,
+    os trujo aquí, donde ahora
+    vuestro primo el de Viseo,
+    con aquel noble deseo
+    que su pecho ilustre dora
+    de hacer bien, me importunaba
+    que el perdón os suplicase
+    del Guimaráns y templase
+    el enojo que mostraba
+    Vuestra Alteza contra él,
+    dando un medio vuestra mano
+    como señor soberano
+    y no como juez crüel.
+REY:
+    Elvira, aunque hacemos leyes
+    los reyes, está advertida
+    que donde hay parte que pida
+    no tienen poder los reyes.
+    Y espántome que mujer
+    que debe ofendida estar
+    me aconseje el perdonar
+    lo que puede ejemplo ser
+    de que no haya hombre, en rigor,
+    que no se atreva a la cara
+    de la hermosura más rara
+    y de más noble valor.
+DOÑA ELVIRA:
+    No pido que Vuestra Alteza
+    perdone agravio con parte,
+    mas que de la suya aparte
+    la rigurosa aspereza;
+    que bien puede, con pedir
+    a la parte que se aparte,
+    ser como el todo la parte
+    y la culpa remitir.
+REY:
+    Confieso que bien podré
+    dar un medio pïadoso
+    como jüez poderoso
+    y éste por ti le daré.
+DOÑA ELVIRA:
+    Beso tus pies tantas veces
+    cuantas mercedes nos haces,
+    que de las partes las paces
+    son gloria de los jüeces.
+    ¿Qué medio tienes pensado?
+REY:
+    Justo, santo, conveniente
+    y por cuyo honor presente
+    cese el deshonor pasado.
+    Cásese con doña Inés
+    el duque de Guimaráns
+    y con esto quedarán
+    iguales.
+DOÑA ELVIRA:
+    Buen medio es
+    si lo toma bien don Egas.
+DON EGAS:
+    ¿Pues yo obedezco otra ley
+    fuera del gusto del Rey?
+DOÑA ELVIRA:
+    Mucho a la razón te allegas.
+    (Mejor dijera al favor.)
+DON EGAS:
+    (¡Sabe Dios cuánto lo siento!)
+DOÑA ELVIRA:
+    Sin duda, este casamiento
+    cubre y remedia su honor.
+    ¿Quién mandas que vaya allá,
+    que de tu parte le hable?
+REY:
+    Ya está libre el Condestable
+    y decírselo podrá.
+DON EGAS:
+    No se lo diga su hermano.
+    Vaya el duque de Viseo,
+    pues tiene tanto deseo
+    de su bien.
+REY:
+    Hoy en su mano
+    dejo su muerte o su vida.
+    Id, don Egas, a avisar
+    al Duque le vaya a hablar.
+DON EGAS:
+    Voy.
+REY:
+    Si tú fueras servida
+    que atropellara el poder
+    a la razón, yo lo hiciera
+    y, habiendo parte, le diera
+    libertad.
+DOÑA ELVIRA:
+    No soy mujer
+    que pidiera a Vuestra Alteza
+    lo que no fuera muy justo:
+    que me obligara a lo injusto
+    contra mi honor y nobleza.
+    Mujer que pide por preso
+    lo injusto, obligada queda
+    a que pedírsele pueda
+    contra su honor todo exceso.
+    Tú has dado un medio real
+    digno de tu entendimiento.
+REY:
+    Que sea sin voto siento
+    de la Reina trato igual.
+DOÑA ELVIRA:
+    No será.
+REY:
+    ¿Cómo?
+DOÑA ELVIRA:
+    Yo iré
+    y se lo diré a Su Alteza,
+    de cuya justa grandeza
+    piadoso voto traeré.
+REY:
+    Parte.
+DOÑA ELVIRA:
+    Iré con tu licencia.
+[Vase]
+REY:
+    Pensar que estoy engañado
+    en lo que éstos han tratado
+    me mueve el pecho a clemencia.
+    Pero ¿cómo puede ser
+    que si don Egas le vio,
+    me engañe? Y sabiendo yo
+    que hay en el Duque poder
+    -y en sus tres hermanos graves-
+    para derribar mi imperio;
+    que no tienen sin misterio
+    el mar cubierto de naves,
+    grande amistad con Castilla,
+    con Francia y con Aragón,
+    que todos indicios son
+    que han de derribar mi silla.
+    ¡Válgame el cielo! Si hiciese
+    un hombre un fuerte en mi tierra
+    de donde si hubiese guerra
+    contra mí se defendiese,
+    ¿no sería gran error
+    consentir que le acabase?
+    Pues ¿cómo sufro que pase
+    otra defensa mayor?
+    Estos cuatro hermanos son
+    cuatro fuertes en mi tierra
+    que para tiempo de guerra
+    han de ser la defensión
+    deste duque de Viseo
+    que aspira al reino sin falta,
+    porque de empresa tan alta
+    bastantes indicios veo.
+    Mas pues no deja entenderse
+    este nudo y remediarse,
+    si no puede desatarse,
+    yo sé que podrá romperse:
+    Alejandro dio el ejemplo.
+    Desterrar y dividir
+    quiero estos cuatro y huir
+    deste peligro a este templo.
+    Desterraré de la corte
+    al de Viseo también,
+    que para mi paz no hay bien
+    que más ahora me importe.
+    Y con pequeña ocasión
+    le haré dar la muerte a alguno
+    destos hermanos, que en uno
+    verán los demás quién son.
+    Porque si tienen intento
+    de matarme con su mano,
+    la sangre del muerto hermano
+    le borre del pensamiento.
+[Vase.]
+[Salen el duque de Guimaráns, el Condestable, el conde de Faro y don Álvaro]
+CONDESTABLE:
+    Libertad nos ha dado, hermano, a todos
+    y a la ciudad por cárcel hasta ahora.
+    Pero no es libertad con tantos modos
+    de sinrazones.
+GUIMARÁNS:
+    ¿Tanto el Rey adora
+    el gusto de don Egas?
+FARO:
+    De los godos,
+    gente bárbara entonces, Duque, ignora
+    la historia antigua cosas tan estrañas
+    mientras reinaron en las dos Españas.
+GUIMARÁNS:
+    Conde de Faro y noble hermano mío,
+    mi amor no os lleve a tal desenvoltura.
+    El Rey acierta en todo. Es desvarío
+    pensar que por don Egas aventura
+    la justicia y razón; que su albedrío,
+    en cuanto intenta y acertar procura,
+    camina con dos ángeles de guarda.
+FARO:
+    No sé qué vano miedo te acobarda.
+    No digo que no sientas que esto es justo,
+    mas que te quejes donde el mal te duele.
+DON ÁLVARO:
+    Con tu humildad aumentas mi disgusto.
+    ¿No quieres que un suspiro al cielo vuele?
+GUIMARÁNS:
+    Don Álvaro, no sé; todo es injusto
+    cuanto es murmuración. Deja que apele
+    a Dios de mis agravios, que las leyes
+    sólo aqueste Jüez dan a los reyes.
+[Sale el duque de Viseo]
+VISEO:
+    Sin licencia me entré, porque esta casa,
+    como es propia, escusa la licencia.
+GUIMARÁNS:
+    Seáis mil veces, Duque, bienvenido.
+VISEO:
+    ¿Todos estáis acá?
+CONDESTABLE:
+    ¿No le parece
+    a Vuestra Señoría justa cosa
+    que estemos presos, aunque estemos libres,
+    donde lo está el Duque?
+VISEO:
+    Es tan piadosa
+    que a mí también a esta prisión me obliga
+    la ley de la amistad; pero no quiero
+    que el Duque me agradezca esta visita,
+    porque vengo del Rey con un recado.
+GUIMARÁNS:
+    ¿Destierro o libertad?
+VISEO:
+    Oídme atento,
+    porque no es libertad de casamiento.
+GUIMARÁNS:
+    ¡Casamiento! ¿Qué es esto?
+VISEO:
+    El Rey me manda
+    que os diga -y no ha pensado que hace poco-,
+    duque de Guimaráns, que luego al punto
+    con doña Inés os desposéis; que quiere
+    que el honor que ha perdido recupere.
+GUIMARÁNS:
+    ¿Que me case manda el Rey
+    con doña Inés?
+VISEO:
+    Esto os digo,
+    so pena de su castigo
+    y de incurrir en la ley
+    de la lesa majestad,
+    pues fue la ofensa en su casa.
+GUIMARÁNS:
+    ¿Que por eso el Rey me casa
+    con doña Inés?
+VISEO:
+    Perdonad
+    si esto os ha dado disgusto.
+GUIMARÁNS:
+    Hermanos, todos estáis
+    aquí: ¿qué me aconsejáis?
+CONDESTABLE:
+    Que no es justo.
+FARO:
+    Que no es justo.
+DON ÁLVARO:
+    Yo, como menor, no tengo
+    qué decir ni es bien que hable
+    donde habla el Condestable
+    y el Conde.
+GUIMARÁNS:
+    ¡A qué punto vengo!
+    ¿Y vos, duque de Viseo,
+    qué decís?
+VISEO:
+    No me pidáis
+    consejo, pues ya lo estáis
+    de los que tan cerca veo
+    de vuestra sangre y honor.
+GUIMARÁNS:
+    Decid al Rey que no es justo
+    casarme contra mi gusto
+    por el gusto de un traidor.
+    Y que es bajo el casamiento
+    que por bofetón nos vino,
+    pues es abrir el camino
+    para todo atrevimiento;
+    que la cara que ofendí
+    también la supiera honrar
+    -bien se me puede fiar-,
+    como ella me honrara a mí.
+    A todos ha parecido,
+    para que nadie me note
+    el no me casar con dote,
+    que ha hecho tanto ruïdo.
+    En la cara que escribí
+    "Aquí hay vergüenza tan poca"
+    no es cédula que provoca
+    a entrar a vivir allí
+    ni es bien que en otras naciones
+    se diga -que esto me esfuerza-,
+    que me he casado por fuerza
+    si me caso a bofetones.
+    No porque no puede ser
+    mi igual doña Inés, mas sólo
+    porque deste al otro polo
+    mi historia se ha de saber;
+    que cuando fuera ganancia
+    de mi noble nacimiento,
+    no quiero yo casamiento
+    con tan fea circunstancia.
+CONDESTABLE:
+    Mis brazos te quiero dar,
+    porque hasta ahora no has sido
+    mi hermano.
+FARO:
+    Yo he conocido
+    lo que te debo estimar.
+DON ÁLVARO:
+    Mis brazos le doy también,
+    señor, a Vueseñoría.
+VISEO:
+    Yo volveré a quien me envía,
+    mas no despachado bien.
+    Y suplico cuanto puedo,
+    aunque parezcan errores
+    -siendo tan grandes señores-
+    los recelos deste miedo,
+    que se trate bien del Rey,
+    que es nuestro dueño absoluto.
+GUIMARÁNS:
+    Viseo, ese honrado fruto
+    nace de vivir en ley
+    que nos muestra, como a vos,
+    que al Rey, en la paz o guerra,
+    respetamos en la tierra
+    porque está en lugar de Dios.
+    Los príncipes en el suelo
+    somos en toda ocasión
+    lo que los ángeles son
+    delante del Rey del cielo;
+    porque de aquel propio modo
+    se debe, por excelencia,
+    a cuanto hiciere obediencia
+    y darle gracias por todo.
+VISEO:
+    Si esta inferior jerarquía
+    es imitación, señor,
+    de la esfera superior,
+    alto pensamiento os guía.
+    Yo voy y le contaré
+    vuestra humildad.
+CONDESTABLE:
+    Id con Dios.
+GUIMARÁNS:
+    Yo hice lo que los dos
+    me aconsejastes.
+CONDESTABLE:
+    Bien fue,
+    que no os habéis de casar
+    dando al mundo qué decir,
+    que bien sabéis vos sufrir
+    un destierro en tierra o mar.
+GUIMARÁNS:
+    Mas ¿que al África me envía?
+CONDESTABLE:
+    Como a mí, no lo dudéis.
+    Gracias a Dios que tenéis
+    para entonces compañía.
+DON ÁLVARO:
+    Miren Vuestras Excelencias
+    que juntos estamos mal.
+FARO:
+    Bien dices, que en tanto mal
+    no faltarán diligencias
+    para saber lo que hablamos.
+    Un rato al Duque dejemos.
+GUIMARÁNS:
+    Aquí estoy.
+CONDESTABLE:
+    Presto os veremos.
+FARO:
+    Vamos al palacio.
+DON ÁLVARO:
+    Vamos.
+[Vanse.]
+[Salen el Rey, don Egas, doña Elvira y doña Inés]
+DOÑA ELVIRA:
+    Ya te doy el parabién,
+    que bien te lo puedo dar.
+DOÑA INÉS:
+    ¿Que me tengo de casar?
+DOÑA ELVIRA:
+    ¿Yo no te he dicho con quién?
+    Ya [a] la Reina mi señora,
+    para que su voto diese
+    y sin ella no se hiciese,
+    acabo de hablar ahora.
+    En ello está bien y muestra
+    contento.
+DOÑA INÉS:
+    La fuerza es ley
+    siendo voluntad del Rey,
+    pues esta sola es la nuestra.
+REY:
+    Yo tengo, Inés, gusto desto:
+    casada estaréis mejor.
+DOÑA INÉS:
+    Pienso que será, señor,
+    pensamiento poco honesto.
+    ¿Cómo le daré la mano
+    a quien la puso en mi rostro?
+    Humilde a esos pies me postro,
+    como a señor soberano,
+    para que miréis mejor
+    a cuál hombre me entregáis;
+    que más honor me quitáis
+    adonde me dais honor.
+    Yo perdono al Duque sólo
+    con que a Guimaráns se vaya,
+    a Castilla o a su raya;
+    aunque es poco el otro polo
+    para apartarle de mí,
+    para no sentir mi afrenta.
+REY:
+    Corra tu honor por mi cuenta,
+    Elvira lo quiere ansí.
+    Haz mi gusto, pues yo hago
+    el de Elvira.
+DOÑA INÉS:
+    Obedecer
+    es justo, que soy mujer.
+DON EGAS:
+    (Yo tengo mi justo pago.
+    Esta falsa arquitectura
+    del edificio que alcé
+    contra el Duque hoy la tiré
+    sobre mi propia ventura:
+    perdí a Inés, perdí a mi bien,
+    por el mismo filo he sido
+    de mis contrarios herido
+    y muerto diré también.)
+[Sale el duque de Viseo]
+VISEO:
+    Yo fui, señor, a la prisión adonde
+    de Guimaráns el duque preso queda.
+    Dije vuestro recado.
+REY:
+    ¿Y qué responde?
+VISEO:
+    Que no es posible que casarse pueda
+    por ser violencia, no porque en tal dama
+    no haya valor que al de su sangre exceda.
+    En efecto, no quiere que la fama
+    diga que se casó por tal suceso.
+REY:
+    Hoy mi poder a la venganza llama.
+    ¿Escuchóse jamás tan loco exceso
+    de vasallo a señor? ¡Don Egas, parte!
+    ¡Que estoy perdiendo de furor el seso!
+    ¡Al Condestable di, sin que se aparte
+    de ti, que luego salga desterrado
+    al África, a Castilla o a otra parte!
+    ¡Al de Faro, también!
+DON EGAS:
+    Estás airado.
+REY:
+    ¡Don Álvaro travieso también salga!
+DON EGAS:
+    ¿Y el Duque?
+REY:
+    Ya lo tengo imaginado:
+    yo haré este día una venganza hidalga
+    en hombre con mujer tan atrevido,
+    sin que Castilla ni Aragón le valga.
+DON EGAS:
+    Yo voy a obedecerte.
+VISEO:
+    No he querido
+    pedirte, gran señor, piedad mirando
+    que cada cual lo tiene merecido.
+    También crece en los reyes, castigando,
+    su opinión y respecto: bien has hecho.
+    Salga la inobediencia mormurando,
+    que este castigo es digno de tu pecho.
+REY:
+    Todos los que a su rey le cansan, primo,
+    como éste y otros muchos que sospecho,
+    no es bien echarlos luego.
+VISEO:
+    Pues animo
+    vuestro valor real contra los hombres
+    que más ahora en Portugal estimo;
+    bien veréis si es razón.
+REY:
+    Pues no te asombres
+    de que también te aleje de mis ojos,
+    porque estás en la vista de sus nombres.
+    Y pues me das, cuñado, más enojos
+    que todos juntos, ¡vete luego al punto!
+VISEO:
+    ¿Hablas por pesadumbre o por antojos?
+REY:
+    Primo, no repliquéis: ¡por todo junto!
+[Vase el Rey [y don Egas]]
+VISEO:
+    ¿Qué os parece?
+DOÑA ELVIRA:
+    Que no sé
+    cómo os diga mi dolor.
+    Celos son de vuestro amor.
+VISEO:
+    ¡En qué mal punto le hablé!
+    Pensé, con lisonjas viles,
+    ganar, Elvira, su gracia
+    y he caído en su desgracia.
+DOÑA INÉS:
+    Son como telas sutiles
+    las condiciones reales:
+    cualquiera cosa las rompe.
+VISEO:
+    Porque mi gusto interrompe
+    en ocasiones iguales,
+    muestro, Elvira, sentimiento;
+    que por la corte no hubiera
+    cosa en que yo recibiera
+    más gusto y mayor contento.
+    Y pues sé que celos son
+    -que otra causa no le he dado,
+    si no es el ser su cuñado,
+    que no es pequeña ocasión;
+    que un cuñado es imposible
+    que no enfade, porque tiene
+    algo de suegro-, conviene
+    volver al rigor terrible
+    de su violencia y crueldad
+    la espalda y obedecer,
+    que en los reyes suelen ser
+    los enojos tempestad.
+    Parece que todo el suelo
+    han de acabar truenos y agua,
+    pero luego que desagua
+    la furia y serena el cielo,
+    el sol se muestra y declara:
+    tal son los reyes airados;
+    mas los enojos pasados,
+    vemos el sol de su cara.
+    Quedaos, Elvira, en buen hora;
+    yo me voy.
+DOÑA ELVIRA:
+    Si vez alguna
+    se ha mostrado la fortuna
+    de mis desdichas autora,
+    es en aquesta ocasión.
+    ¿Pensáis verme?
+VISEO:
+    Yo os veré,
+    que de secreto vendré;
+    pues pocas las leguas son
+    desde la primera aldea
+    de mi tierra, en que he de estar,
+    a Lisboa si hay lugar
+    para que de noche os vea.
+DOÑA ELVIRA:
+    Ayudando a mi remedio
+    doña Inés no faltará.
+DOÑA INÉS:
+    Lugar, señor Duque, habrá;
+    que no hay mar ni tierra en medio
+    de dos que se quieren bien.
+VISEO:
+    Pues voyme, que si en el vuestro
+    hallare el amor que os muestro
+    memoria y el rey desdén,
+    mientras más piensa y procura
+    que en el mundo no le habrá,
+    más presto amor buscará
+    tiempo, lugar y ventura.
+[Vase]
+DOÑA INÉS:
+    Triste quedas, es razón:
+    gran caballero es Viseo.
+DOÑA ELVIRA:
+    Tan justamente me empleo
+    que mis esperanzas son
+    para dar invidia al mundo.
+    Merece ser rey.
+DOÑA INÉS:
+    De suerte
+    que he sospechado su muerte
+    y en este temor lo fundo.
+DOÑA ELVIRA:
+    ¡Líbrele el cielo!
+DOÑA INÉS:
+    Aquí vienen
+    mis enemigos, ¡adiós!
+[Vase doña Inés.]
+[Salen el Condestable, el conde de Faro y don Álvaro]
+CONDESTABLE:
+    Juntas estaban las dos.
+FARO:
+    Amistad pienso que tienen.
+CONDESTABLE:
+    Doña Elvira...
+DOÑA ELVIRA:
+    ¿A qué venís?
+DON ÁLVARO:
+    Pues ¿qué ha dicho el Condestable?
+DOÑA ELVIRA:
+    ¡Qué peligro más notable,
+    pues en desgracia vivís
+    de Su Alteza y confirmada
+    con lo que al Duque responde!
+CONDESTABLE:
+    Si el Rey su gracia me esconde,
+    mi voluntad no es culpada.
+    Las estrellas determinan
+    la ventura con los reyes;
+    ellas ordenan las leyes
+    a que los llevan y inclinan.
+    Yo le serví, doña Elvira.
+DOÑA ELVIRA:
+    Don Egas os viene a hablar.
+    Tenga en vos mayor lugar
+    la obediencia que la ira.
+    Haced como caballero
+    en callar y obedecer,
+    que consejo de mujer
+    nunca fue malo el primero.
+[Sale don Egas]
+DON EGAS:
+    Aunque yo no quisiera, Condestable
+    de Portugal, venir con tales nuevas,
+    siendo forzoso obedecer al Príncipe,
+    cumplo, como vasallo, lo que manda.
+    Y manda el Rey que de su corte y reino
+    salgáis eternamente desterrado.
+    Ansí os lo notifico.
+CONDESTABLE:
+    Eternamente
+    sólo destierra Dios; que aunque Su Alteza
+    piense que eternamente nos veremos,
+    ya vendrá día en que los dos estemos
+    en tribunal adonde su sentencia
+    escuchen el rigor y la inocencia.
+FARO:
+    Bien fuera que Su Alteza diera causa.
+CONDESTABLE:
+    Quedo, conde de Faro; que del modo
+    que al cielo no podemos preguntarle
+    por qué nace uno pobre y otro rico,
+    ansí a los reyes: en decretos suyos,
+    el superior es Dios. Ya tienen día
+    en que darán a Dios su residencia.
+DON EGAS:
+    El Rey tendrá ocasión.
+CONDESTABLE:
+    Y yo, paciencia.
+DON ÁLVARO:
+    ¿Cuál ocasión el Condestable ha dado?
+DON EGAS:
+    Don Álvaro, si aquí viniera escrita,
+    yo lo dijera, a fe; pero no viene.
+    Y, ansí, callar y obedecer conviene.
+FARO:
+    Si no hubiera traidores en el mundo,
+    Troya estuviera en pie; Grecia, en su fuerza.
+DON EGAS:
+    Señor Conde, lo mismo os notifico.
+DON ÁLVARO:
+    ¡A mi hermano! ¿Por qué?
+DON EGAS:
+    Y a vos y todo.
+FARO:
+    ¿A don Álvaro?
+DON ÁLVARO:
+    ¿A mí?
+DON EGAS:
+    Yo cumplo en esto
+    mi obligación. Salí del reino presto.
+[Vase don Egas]
+CONDESTABLE:
+    "Salí del reino presto": ¿hay tal desdicha?
+FARO:
+    ¿Esto sufriste a un bárbaro villano?
+DON ÁLVARO:
+    ¿Queréis aventurarme a mí, señores,
+    que soy vuestro menor y más inútil?
+CONDESTABLE:
+    Don Álvaro, no intentes nuestra afrenta
+    ni des causa a los daños que nos hacen.
+    Más vale que, inocentes, padezcamos.
+[Asómase el Rey y don Egas]
+DON EGAS:
+    (Desde aquí puede verlos Vuestra Alteza.)
+[Al paño]
+REY:
+    (¿Podrán verme?)
+DON EGAS:
+    (No le verán, sospecho,
+    si con esta cortina cubre el rostro.)
+REY:
+    (Desde aquí quiero ver lo que mormuran.)
+CONDESTABLE:
+    ¡Cuán diferente de su padre ha sido
+    el Rey don Juan! ¡Oh, santo don Alfonso!
+    ¿Es posible que aquéste es hijo tuyo?
+FARO:
+    No es posible que ansí el Rey nos trate,
+    aunque su condición tan fuerte sea.
+    De alguna aljaba aquestas flechas salen.
+DON ÁLVARO:
+    ¿Esa no conocéis que es de don Egas?
+DON EGAS:
+    (Por mí comienzan ya. Mire Su Alteza
+    si saben que me han dicho sus traiciones,
+    pues temen que yo he sido el que las dijo.)
+CONDESTABLE:
+    De todo tiene doña Inés la culpa.
+DON ÁLVARO:
+    ¡Que él se fíe de hombre que ha tenido
+    sus principios en África!
+DON EGAS:
+    (¿No escuchas
+    las insolencias destos desterrados?
+    ¿Cuál honra puedo yo tener más grande
+    que haberme dado en África principio
+    mi generoso agüelo?)
+REY:
+    Pues ¿qué quieren
+    decir éstos en eso?)
+DON EGAS:
+    (Que mi padre
+    sirvió a los tuyos contra el moro en África
+    y que por eso me dejó esta hacienda,
+    como si la que da la guerra a un hombre
+    no fuese la mejor.)
+REY:
+    (Pues ¿quién lo duda?
+    Los reyes por las armas lo ganaron,
+    que la primera vez no lo heredaron.)
+CONDESTABLE:
+    Espero en Dios que sucesión no tenga.
+FARO:
+    Y yo, de ver al duque de Viseo
+    en el lugar que su virtud merece.
+REY:
+    (¿Ves como tienen trato con el Duque?)
+DON EGAS:
+    (Dicen éstos aquí lo que desean,
+    mas no que sepa el Duque sus deseos.)
+REY:
+    (¿Cómo defiendes tanto al Duque?)
+DON EGAS:
+    (Estimo
+    la virtud de un mancebo generoso
+    a quien hombres, muchachos y mujeres
+    bendicen por las calles en Lisboa.)
+REY:
+    (¡Calla, don Egas, que estás necio!)
+[Vase el Rey]
+DON EGAS:
+    (Fuese.
+    No traigo muy segura la cabeza...)
+[Vase]
+CONDESTABLE:
+    Paréceme que siento en aquel paño
+    gente escondida.
+FARO:
+    Creo, Condestable,
+    que si en las casas tienen las paredes
+    oídos, en palacio, oídos y ojos.
+DON ÁLVARO:
+    Y aun lengua, que su voz oí.
+CONDESTABLE:
+    Pues vamos
+    antes que mayor daño nos resulte.
+DON ÁLVARO:
+    ¡Adiós, Lisboa!
+FARO:
+    ¡Adiós, querida patria!
+DON ÁLVARO:
+    Entre los ojos tu desdicha llevo.
+CONDESTABLE:
+    ¡Oh, mal aconsejado Rey mancebo!
+[Vanse todos.]
+[Salen Felipa y Brito, villanos, riñendo; y Colombo, viejo, poniéndolos en paz con un palo en la mano]
+COLOMBO:
+    ¡Deteneos en mal hora!
+BRITO:
+    Cuando hay gente, bien habláis.
+FELIPA:
+    ¿Desta suerte me tratáis?
+BRITO:
+    Verá, pues, de lo que llora...
+COLOMBO:
+    ¡Dejalda ya si queréis!
+BRITO:
+    Avaos, Colombo.
+COLOMBO:
+    ¡No quiero!
+BRITO:
+    Apercebir el mortero
+    y el albayalde podéis;
+    majad rábanos, que os tengo
+    de hacer cardenales tales
+    que no haya más cardenales
+    en Roma.
+FELIPA:
+    ¿A este punto vengo?
+    Sois un ruin.
+BRITO:
+    ¿Quién?
+FELIPA:
+    Vos.
+BRITO:
+    ¿Yo?
+FELIPA:
+    Sí
+BRITO:
+    No es posible.
+FELIPA:
+    Yo lo sé.
+BRITO:
+    ¡Avaos, Colombo!
+COLOMBO:
+    No haré
+    mientras que no os vais de aquí.
+BRITO:
+    ¿Yo soy ruin?
+FELIPA:
+    ¿Pues qué sois vos?
+BRITO:
+    Habrad con más tiento, Helipa,
+    que os estrujaré la tripa.
+FELIPA:
+    Por eso hay jüez.
+BRITO:
+    ¿Quién?
+FELIPA:
+    Dios.
+BRITO:
+    Mas ¿que me quiere acusar
+    a la santa Inquisición?
+COLOMBO:
+    ¿Sobre qué fue la cuistión?
+BRITO:
+    Ahí fue sobre el habrar.
+FELIPA:
+    ¡Miente, que no tal!
+BRITO:
+    ¿Pues qué?
+FELIPA:
+    Sobre sus bellaquerías.
+BRITO:
+    ¡Avaos, Colombo!
+COLOMBO:
+    En porfías
+    de vuesa madre me hallé,
+    que fue por quien el refrán
+    quedó de las tijeretas:
+    ni gruñían dos carretas
+    lo que ella y el sacristán.
+    Mas luego me respleutaba,
+    que por medio me ponía.
+FELIPA:
+    Mi madre menos sufría:
+    menos ocasión le daba.
+BRITO:
+    ¿Era pequeña ocasión
+    dar los bodigos a Juana?
+    ¿Yo no lo vi una mañana
+    que la tiró un mojicón?
+FELIPA:
+    ¡Mentís!
+BRITO:
+    ¡Ay! ¿Mentís a mí?
+    ¡Avaos, Colombo!
+COLOMBO:
+    ¿Qué es esto?
+FELIPA:
+    ¡Yo os lo diré!
+COLOMBO:
+    Decid presto.
+BRITO:
+    ¡No sino yo, que lo vi!
+FELIPA:
+    ¡No lo diré sino yo!
+BRITO:
+    ¡Avaos, Colombo!
+FELIPA:
+    Llegad,
+    que ha de hacer verdad
+    lo que de mi madre habló.
+BRITO:
+    ¡Que me casase mi dicha
+    con hija de un sacristán!
+FELIPA:
+    ¡Oh, que os dé Dios mal San Juan!
+    ¿Y eso no fue mi desdicha?
+    ¿No érades vos un lacayo
+    del Duque nuestro señor
+    que, para ser labrador,
+    os puso mi agüela el sayo?
+BRITO:
+    En verdad que fue blasón
+    que quien caballos de reyes
+    trataba, trate con bueyes.
+COLOMBO:
+    ¿Sobre qué fue la cuistión?
+BRITO:
+    En verdad, Colombo hermano,
+    celos.
+COLOMBO:
+    ¡Acabara yo
+    para mañana!
+FELIPA:
+    Hoy habló
+    con Inés la de Montano
+    y la pellizcó al pasar
+    y aun la requebró también.
+BRITO:
+    ¿Yo?
+FELIPA:
+    Vos, lacayo.
+BRITO:
+    Hablad bien:
+    que la llegué a saludar.
+FELIPA:
+    ¡Tal salud tengáis!
+BRITO:
+    Amén.
+FELIPA:
+    Haced de la zorra muerta.
+BRITO:
+    Pues un requiebro ¿qué impuerta?
+FELIPA:
+    ¿No importa quererla bien?
+[Sale el duque de Viseo, vestido de camino, y Castro y Meneses, sus criados]
+VISEO:
+    Aquí podemos parar.
+CASTRO:
+    No hay casa en aquesta aldea
+    que tenga estancia ni sea
+    para que puedas pasar.
+VISEO:
+    No reparemos en eso,
+    que en ser de Lisboa cerca
+    con ningún precio se merca.
+    Ya os he dicho mi suceso.
+MENESES:
+    Aquí está Brito Casado,
+    el que tu lacayo fue.
+VISEO:
+    En su casa posaré,
+    que es secreto y hombre honrado.
+BRITO:
+    ¿Es aquel nuestro señor?
+COLOMBO:
+    El Duque parece.
+FELIPA:
+    Él es.
+BRITO:
+    Dadnos, señor, vuestros pies.
+VISEO:
+    Todos me tienen amor.
+    ¿Es Brito?
+BRITO:
+    ¿No me conoce?
+    ¿Dónde desta suerte?
+VISEO:
+    Aquí.
+    ¡Huélgome de verte así!
+BRITO:
+    Por su vida,
+VISEO:
+    ¡así me goce!
+BRITO:
+    Si vais, señor, adelante,
+    quedaos aquí sólo un día.
+VISEO:
+    Y aun muchos estar podría,
+    que es por ahora importante.
+BRITO:
+    Cuando albricias me pidiera
+    Su Excelencia, voto al sol
+    que con ánimo español
+    mi macho, el rucio, le diera.
+    Id, Colombo, a prevenir
+    la casa del cura.
+VISEO:
+    Amigo,
+    aquí no ha de haber testigo:
+    secreto pienso vivir.
+    En la humildad de tu casa,
+    Brito, pasaré mejor.
+BRITO:
+    Tan alta merced, señor,
+    de humanos méritos pasa.
+VISEO:
+    Haced, Meneses, que luego
+    que la ropa llegue aquí,
+    se aderece.
+MENESES:
+    Harélo ansí.
+VISEO:
+    ¡Qué cansado y triste llego!
+    Dadme una silla; y tú, Castro,
+    saca tu instrumento un poco.
+BRITO:
+    Estoy, de contento, loco.
+    ¡Quién tuviera de alabastro,
+    de mármol, de jaspe aquí
+    un palacio suntüoso!
+VISEO:
+    Conmigo el Rey sospechoso:
+    ¡qué desdichado nací!
+[Sale don Carlos]
+DON CARLOS:
+    ¿Está aquí el Duque, amigos?
+VISEO:
+    (¿Qué es aquesto?
+    ¿Es don Carlos?) ¡Don Carlos! ¿Dónde bueno?
+DON CARLOS:
+    El Rey os manda que volváis.
+VISEO:
+    ¿Tan presto?
+DON CARLOS:
+    Debió de arrepentirse.
+VISEO:
+    No condeno
+    el arrepentimiento en los enojos.
+DON CARLOS:
+    Vamos.
+VISEO:
+    (Yo iré, mas de sospechas lleno;
+    que llevo mis desdichas en los ojos.)
+BRITO:
+    ¡Mas qué poco dura el bien!
+FELIPA:
+    ¡No pasa tan presto el mal!
+BRITO:
+    Un güésped tan principal
+    vínome grande también.
+COLOMBO:
+    Yo pienso que ha de volver:
+    la ropa dejan aquí.
+BRITO:
+    Pues, Helipa, siendo ansí,
+    amistades quiero hacer.
+    Venid a limpiar la casa.
+    Haya en todo tanto aseo
+    como si fuera en Viseo.
+FELIPA:
+    Presto veréis lo que pasa.
+BRITO:
+    Ser vuestro amigo deseo.
+FELIPA:
+    Y yo, darte mil abrazos.
+COLOMBO:
+    Confirme el cielo esos lazos.
+FELIPA:
+    ¡Que mal haya yo si creo
+    de Juana ni de Locía,
+    aunque sean como un oro,
+    que no me queréis!
+BRITO:
+    ¡Te adoro,
+    borrega del alma mía!
+FELIPA:
+    Dame un abrazo en señal.
+BRITO:
+    ¡Avaos, Colombo!
+COLOMBO:
+    Ahora sí.
+FELIPA:
+    ¿Quiéresme bien?
+BRITO:
+    Como a mí.
+FELIPA:
+    Pues vaya el mal para mal.
+[Vanse.]
+[Sale con una cadena el duque de Guimaráns y un Alcaide]
+GUIMARÁNS:
+    ¿Que no quiere escuchar el Rey mis quejas?
+ALCAIDE:
+    Dicen que no hay orejas, hombres sabios,
+    en tanto que hay agravios.
+GUIMARÁNS:
+    ¿De su tierra
+    mis hermanos destierra?
+ALCAIDE:
+    Ansí parece.
+GUIMARÁNS:
+    Si en el Rey resplandece la justicia
+    y hubo en ellos malicia, bien ha hecho
+    estando satisfecho de su culpa.
+    Pero si los disculpa todo el mundo,
+    ciego está su profundo entendimiento.
+[Sale don Egas]
+DON EGAS:
+    En aqueste aposento el Rey os manda
+    que entréis.
+GUIMARÁNS:
+    (¿Qué es esto que anda en mis oídos
+    diciendo a mis sentidos lo que niega
+    la razón -que no llega a ver mi daño,
+    cierta del desengaño de mi culpa-?)
+    Don Egas, mucho os culpa quien os mira
+    mover al Rey a ira.
+DON EGAS:
+    ¿Yo le muevo?
+    ¡Qué buena paga llevo del servicio
+    que he hecho al rey! Mi oficio es la obediencia.
+GUIMARÁNS:
+    Y el mío, la inocencia que he tenido.
+    (¡Ay, cortesano fementido y ciego!)
+    Mirad que hay Dios, don Egas.
+DON EGAS:
+    ¡Entrad presto!
+GUIMARÁNS:
+    Humilde estoy y puesto en vuestras manos.
+    ¡Ah, qué poco duráis, bienes humanos!
+    ¡Dichoso aquel que vive en este suelo
+    como que sabe que es su centro el cielo!
+[Vase el Duque]
+ALCAIDE:
+    ¿A qué llaman al Duque?
+DON EGAS:
+    El Rey lo sabe.
+ALCAIDE:
+    No pensé que tan grave era su culpa.
+DON EGAS:
+    Mas al Duque le culpa la sospecha
+    de conjuración hecha por las manos
+    de todos cuatro hermanos.
+ALCAIDE:
+    ¿Eso es cierto?
+DON EGAS:
+    Como es tan encubierto, no se alcanza.
+[Sale el Rey]
+REY:
+    (Hoy tendré confianza de mi vida.
+    Pensamiento homicida, hoy desde el cielo
+    bajarás hasta el suelo la cabeza.)
+    ¡Don Egas!
+DON EGAS:
+    (Gran tristeza en todos veo.)
+    ¿Qué tienes, señor?
+REY:
+    Deseo de venganza,
+    aunque este nombre alcanza la malicia;
+    porque lo que es justicia es virtud santa.
+[Sale el duque de Viseo y don Carlos]
+VISEO:
+    Dame tus pies.
+REY:
+    Levanta, amado primo.
+    Notablemente estimo tu obediencia.
+VISEO:
+    Venir a tu presencia no rehusara
+    si a morir me llamara Vuesta Alteza.
+REY:
+    La obediencia es nobleza en el vasallo
+    que puede asegurallo de sospecha
+    y en amistad estrecha el odio vuelve.
+VISEO:
+    Quien ama presto asuelve cualquier duda.
+    Una verdad desnuda de artificio
+    luego muestra el indicio de su fuerza
+    contra quien más se esfuerza a derriballa.
+    Bien suele adelgazalla la mentira
+    si del estremo tira por rompella,
+    pero no deshacella, que no puede.
+REY:
+    Un rey, que a todo excede -pues los reyes
+    deshacen y hacen leyes-, mucho obliga
+    a respeto.
+VISEO:
+    Eso diga el que te tengo,
+    pues a servirte vengo con tal furia.
+REY:
+    El que a reyes injuria y en su ausencia
+    habla sin diferencia de su estado
+    debe ser castigado gravemente.
+VISEO:
+    Cuando el rey es prudente, no se informa
+    de alguno que trasforma las verdades
+    en otras calidades diferentes;
+    que hay muchos pretendientes desa gracia
+    que estriba en la desgracia de los otros.
+REY:
+    No juzgamos nosotros lo secreto.
+VISEO:
+    Todo jüez discreto guarda oído
+    al ausente ofendido.
+REY:
+    Lo que sabe
+    el Rey y es caso grave ¿está obligado
+    a ser más informado? ¿Más qué espero?
+VISEO:
+    Alejandro Severo, cuyo imperio
+    fue tenido a misterio, no juzgaba
+    si no se acompañaba de veinte hombres
+    de más famosos nombres de letrados
+    que estaban celebrados en el mundo.
+REY:
+    En más razón me fundo que imaginas.
+    Álzale esas cortinas, porque estimo
+    que este ejemplo mi primo mire atento
+    por que también le sirva de escarmiento.
+[Tirada la cortina, vese en una mesa de luto negro el duque de Guimaráns degollado]
+VISEO:
+    ¿Para qué, invito señor,
+    que a Catón, que a Augusto excedes
+    en justicia y equidad,
+    quieres que esto mire?
+REY:
+    Advierte
+    que te he envïado a llamar,
+    cuñado, para que temples
+    los deseos y esperanzas
+    si de mi cetro la[s] tienes.
+    ¿Conoces esta cabeza?
+VISEO:
+    No, señor; porque no puede
+    hallar mi memoria un hombre
+    que a tu valor se atreviese.
+REY:
+    El duque de Guimaráns
+    es el que tienes presente.
+    Mírale bien.
+VISEO:
+    ¿Pues el Duque
+    fue a Vuestra Alteza rebelde?
+REY:
+    No digo que lo examines,
+    mas sólo que lo contemples;
+    porque de cosas tan graves
+    no se examinan los reyes.
+    Cuando sea necesario
+    que a los príncipes parientes
+    y a mi reino satisfaga,
+    mis cartas lo harán en breve.
+    Vete a tu tierra, cuñado,
+    y vive tan rectamente
+    que no te engañe la sangre;
+    que tal vez la sangre suele,
+    aunque sustenta la vida,
+    en las venas corromperse
+    y, por guardar la cabeza,
+    la de los brazos se vierte.
+    Yo soy el Rey, vivo estoy.
+[Vase el Rey, don Egas y el Alcaide]
+VISEO:
+    Y dos mil años aumente
+    el cielo, señor, tu vida.
+    Don Carlos, ¿qué te parece?
+DON CARLOS:
+    Que el Rey os quiere mostrar,
+    en el ejemplo presente,
+    que no os engañe el aplauso
+    de la humana, humilde plebe;
+    que no os desvanezca el vulgo
+    que os adora y encarece;
+    que el Rey vive y es casado
+    y esperanzas de hijos tiene.
+VISEO:
+    ¿Pues cuándo no he sido yo
+    el deudo más obediente
+    que tiene Su Alteza? ¡Ay, Carlos,
+    qué poco la envidia duerme!
+    Despertóla mi virtud
+    en algún pecho insolente;
+    que no la afición del vulgo,
+    que estima a quien lo merece.
+    Dios sabe mi corazón
+    y que al señor Rey, ausente,
+    he guardado aquel respeto
+    que un hombre noble le debe.
+    Dadme licencia, que voy
+    donde un monte y cuatro fuentes
+    hablen conmigo. Y aun creo
+    que a las fuentes no me llegue,
+    porque dicen que mormuran.
+DON CARLOS:
+    A lo mejor te resuelve.
+    Vuestro entendimiento dure.
+VISEO:
+    ¡Adiós, corte! ¡Adiós, jüeces
+    del albedrío del hombre!
+    ¡Dichoso el que vive y muere
+    en su casa, que en su casa
+    hasta los pobres son reyes!
+
+JORNADA 3
+
+[Salen la Reina y doña Elvira.]
+REINA:
+    Dime toda la verdad.
+    Fíate de mí, bien puedes.
+DOÑA ELVIRA:
+    Por tu mucha autoridad
+    nace que obligada quedes,
+    fuera de tu voluntad
+    la sangre que tienes dél,
+    a conservar a los dos.
+REINA:
+    Yo seré hermana fiel,
+    aunque me dio esposo Dios
+    tan severo y tan crüel.
+DOÑA ELVIRA:
+    ¿Por qué causa le aborrece?
+REINA:
+    Porque Portugal le adora
+    y él sabe que lo merece.
+DOÑA ELVIRA:
+    Por mi desdicha, señora,
+    sus méritos encarece.
+    ¡Pluguiera a Dios que no fuera
+    de Vuestra Alteza el hermano,
+    tal que sospechas le diera!
+REINA:
+    Si de ser al Rey tirano
+    el Duque intención tuviera,
+    yo, Elvira, diera la espada
+    con que su cuello cortara.
+    Pero que, estando inocente,
+    acabar al Duque intente,
+    su injusto pecho declara.
+DOÑA ELVIRA:
+    Yo presumo que, casado,
+    estará dél más seguro.
+    Esto habemos concertado.
+    Esto, señora, procuro
+    y es de los dos deseado.
+    Verdad te quiero decir:
+    de noche suele venir
+    de la aldea donde está,
+    que estima el hablarme ya
+    mil veces más que el morir.
+REINA:
+    ¡Qué notable atrevimiento!
+    ¿Y cómo viene mi hermano?
+DOÑA ELVIRA:
+    Amor le dio el fingimiento,
+    que con hábito villano
+    disfraza su pensamiento.
+    Embárcase con un hombre
+    fiel y de humilde nombre,
+    háblame de noche un rato
+    y vuélvese con recato
+    antes que el alba le asombre.
+    Tres noches ha que no viene;
+    que estar el mar alterado
+    con tormenta le detiene,
+    aunque en mis ojos le he dado
+    el mar que en bonanza tiene.
+    Esta noche viene aquí.
+    Si hablarle quieres, yo haré
+    cómo puedas.
+REINA:
+    ¡Ay de mí!
+    Que apenas me atreveré
+    habiendo tantas en mí,
+    pues hablar al Rey es cosa
+    difícil y peligrosa.
+    No sé qué habemos de hacer.
+DOÑA ELVIRA:
+    Bien lo puedes emprender,
+    pues ya viene a ser forzosa.
+REINA:
+    La mano y la sangre están
+    tan presentes a mis ojos,
+    del duque de Guimaráns,
+    cuyos llorosos despojos
+    voces a los cielos dan,
+    que me tiembla el corazón.
+DOÑA ELVIRA:
+    No temas, que en la ocasión
+    serás Ester a sus pies
+    deste Jerjes portugués
+    y deste español león.
+REINA:
+    Yo voy; tú, Elvira, entre tanto,
+    ruega el buen suceso al cielo.
+DOÑA ELVIRA:
+    Yo confío en su Autor santo
+    que, conociendo mi celo,
+    se dolerá de mi llanto.
+[Vanse.]
+[Sale el Duque con un gabán de villano y Brito con él]
+BRITO:
+    Mientras el mar está ansí,
+    no hay tratar de ir a Lisboa.
+VISEO:
+    En una débil canoa
+    me fuera yo, cuanto a mí;
+    que si es César alabado
+    por el ánimo que tuvo
+    cuando en la barquilla estuvo
+    al rigor del mar airado,
+    no lo fuera menos yo
+    entre amantes y galanes
+    que él lo fue entre capitanes
+    cuyo valor enseñó
+    a no temer la fortuna.
+BRITO:
+    Siempre soldados y amantes
+    fueron, señor, semejantes;
+    que todo es guerra importuna,
+    todo es conquista y porfía.
+    Pero no permita amor
+    que te pongas al rigor
+    del mar, cual César lo hacía;
+    que él fue bienaventurado
+    hasta alcanzar su corona
+    y a ti te tengo, perdona,
+    por príncipe desdichado.
+    Si amor te fuerza a la guerra
+    que conquista a doña Elvira,
+    hasta que temple su ira
+    el mar, vamos por la tierra.
+VISEO:
+    Hay grande peligro, Brito,
+    de ser conocido ansí.
+BRITO:
+    Pues pasa en fiestas aquí
+    o corre el verde distrito
+    destos campos, entre tanto
+    que se abonanza la mar.
+VISEO:
+    Quiero obedecerte y dar
+    por gloria a mis ojos llanto.
+[Sale un Estudiante]
+ESTUDIANTE:
+    Si el camino suele ser,
+    llevando lo que es forzoso,
+    tan cansado y enojoso
+    y tanto al solo ofender,
+    ¿qué gusto podrá tener
+    a pie y con tal soledad
+    y mucha necesidad
+    y más, llegando a una aldea
+    sin consuelo de que sea
+    rica y famosa ciudad?
+    Que, en efeto, un hombre allí
+    halla comida y sustento.
+    ¡Oh, letras, cuánto tormento
+    por vosotras pasa en mí!
+    Tratadme, letras, ansí;
+    que no he de volver atrás.
+    ¡Qué pobre y desnuda vas,
+    mísera filosofía,
+    como el Petrarca decía
+    y en mí se contempla más!
+    Allí hay dos hombres. Señores,
+    ¿habrá limosna que darme,
+    por Dios, para repararme
+    un rato destos calores?
+VISEO:
+    Somos pobres labradores.
+ESTUDIANTE:
+    Y yo, tan pobre estudiante
+    que en no me dando al instante
+    algo palpable y visible,
+    tengo por cosa imposible
+    poder pasar adelante.
+    Pues si yo me muero aquí,
+    mucho más que en sustentarme
+    gastaréis en enterrarme.
+BRITO:
+    Quedo, no os muráis ansí;
+    que os parecéis, voto a mí,
+    a cierta mujer que había,
+    que dondequiera paría
+    si lo que se le antojaba
+    al momento no lo daba
+    el hombre que lo tenía.
+VISEO:
+    ¿Dónde vais?
+ESTUDIANTE:
+    Voy a estudiar
+    a Coimbra, donde he estado
+    todo este curso pasado;
+    que éste me he de graduar.
+VISEO:
+    ¿Pobre sois?
+ESTUDIANTE:
+    Merezco estar
+    más pobre, porque dejé
+    mis cánones y estudié
+    astrología, de modo
+    que me ocupó el tiempo todo
+    y necio y pobre quedé.
+VISEO:
+    ¿Astrólogo sois?
+ESTUDIANTE:
+    Señor,
+    que la sé bien imagino.
+BRITO:
+    Pues si vos sois adivino,
+    adivinad, pecador,
+    algún vestido mejor
+    y otro pueblo en qué comer;
+    que aquí no habéis de tener
+    sino pulgas y calor.
+VISEO:
+    Calla, Brito, que ha venido
+    todo el bien que he deseado.
+BRITO:
+    ¿Que por esto eres tentado?
+    Por cuerdo te había tenido.
+VISEO:
+    Comida os daré y vestido
+    y dineros que llevéis
+    si una figura me hacéis.
+ESTUDIANTE:
+    ¿Queréis interrogación
+    o nacimiento?
+BRITO:
+    Intención
+    de comer hacer podéis.
+    ¡Ved lo que la hambre muestra!
+ESTUDIANTE:
+    Calla, necio.
+BRITO:
+    Pues, discreto,
+    yo os probaré con efeto
+    que es falsa la ciencia vuestra.
+ESTUDIANTE:
+    No es para bestias la nuestra.
+BRITO:
+    ¿Queréis ver por qué no os creo?
+    Porque ha rato que aquí os veo
+    y no decís ni sabéis
+    que este labrador que veis
+    es el duque de Viseo.
+ESTUDIANTE:
+    ¡El Duque! Dadme, señor,
+    los pies.
+BRITO:
+    ¡De aquesa manera
+    también yo me lo dijera!
+ESTUDIANTE:
+    Fuera descubrirlo error
+    si él se encubre por temor.
+VISEO:
+    Hazme, amigo, una figura
+    de mi desdicha o ventura.
+BRITO:
+    Hijo, si la habéis de hacer,
+    sea después de comer.
+    Allí arriba vive el cura.
+[Sale Meneses]
+VISEO:
+    Meneses...
+MENESES:
+    ¿Señor?
+VISEO:
+    A este hombre
+    dad de comer y recado
+    de escribir.
+ESTUDIANTE:
+    Voy con cuidado,
+    para gloria de tu nombre,
+    para que este necio asombre,
+    de acertar.
+BRITO:
+    Será a comer,
+    que vos ¿qué podéis hacer?
+MENESES:
+    Venid por aquí, señor.
+ESTUDIANTE:
+    Págueos el cielo el favor.
+VISEO:
+    Tú me la puedes traer.
+[Vanse Meneses y el Estudiante]
+VISEO:
+    En estremo estoy contento.
+BRITO:
+    Por más cuerdo te tenía.
+VISEO:
+    No es, Brito, la astrología
+    para un rudo entendimiento.
+BRITO:
+    Diome aqueste pensamiento
+    un librillo que tenía
+    de Diógenes. Y decía
+    que del hombre se admiraba
+    si el gobierno contemplaba
+    con que en su ciudad vivía.
+    Viendo para cada cual
+    jüez, pena, premio y ley;
+    para la obediencia, el rey
+    y el médico para el mal,
+    decía que era animal
+    sabio. Pero cuando vía
+    que al astrólogo creía,
+    rudo animal le llamaba.
+VISEO:
+    Dïógenes acertaba,
+    mas no amaba ni temía.
+    Dame un hombre con amor
+    y consultará el Infierno
+    por ambición, por gobierno
+    o por temor del mayor.
+    Yo tengo amor y temor:
+    ¿qué no quieres que consulte,
+    aunque más me dificulte
+    el ser verdad o mentira?
+BRITO:
+    Ruega al cielo, al cielo mira
+    para que bien te resulte.
+[Salen Felipa y Dorena, labradoras]
+FELIPA:
+    Solo está, nadie ha venido.
+DORENA:
+    Guarde Dios a Vuecelencia.
+FELIPA:
+    ¿No tiene linda presencia?
+DORENA:
+    ¡Tal su dicha hubiera sido!
+VISEO:
+    Sabiendo mi soledad,
+    tarde me venís a ver.
+DORENA:
+    Hemos tenido que hacer
+    y yo estuve en la ciudad.
+VISEO:
+    Pues, Dorena, ¿qué decían
+    de mis cosas por allá?
+DORENA:
+    Que falta a la corte ya
+    los que más la ennoblecían.
+    Todos tienen gran tristeza.
+[Salen Colombo, Turindo, Serrano y los músicos]
+COLOMBO:
+    Bien podéis todos llegar.
+TURINDO:
+    ¡Pardiez que viene a alegrar
+    todo el puebro a Vuesa Alteza!
+VISEO:
+    Quedo, Turindo. No es bien
+    darme ese título a mí.
+TURINDO:
+    Vos lo merecéis y aquí
+    todos quieren que os le den.
+    A entreteneros venimos,
+    gran señor, pues no queréis
+    ir hoy a caza.
+COLOMBO:
+    Hoy veréis
+    con el amor que os servimos.
+    Letras les dio el sacristán
+    a Melampo y a Fileno.
+VISEO:
+    ¿Hay algún romance bueno?
+COLOMBO:
+    Sí, señor: de don Roldán.
+    Mas éste sacole Brito
+    de su cholla.
+BRITO:
+    Yo, a la fe.
+VISEO:
+    ¿Sois poeta?
+BRITO:
+    ¿No se ve?
+VISEO:
+    ¿Adónde?
+BRITO:
+    En el sobrescrito.
+VISEO:
+    Pues ¿tienen fisonomía
+    particular los poetas?
+BRITO:
+    ¿Luego no?
+VISEO:
+    ¡Cosas secretas!
+BRITO:
+    ¿No se conoce en la mía?
+    Lo primero, ha de tener
+    un poeta la cabeza
+    sobre el hombro, porque es pieza
+    en que consiste el saber;
+    junto al cabello, la frente;
+    la nariz, en la mitad
+    de la cara.
+VISEO:
+    Eso es verdad.
+BRITO:
+    ¡Y cómo! Verdad patente.
+    La boca es de grande efeto
+    que esté...
+VISEO:
+    Mira lo que dices.
+BRITO:
+    ...debajo de las narices
+    para que sea discreto
+    y para comer también.
+VISEO:
+    ¡Lindas señas!
+COLOMBO:
+    ¡Estremadas!
+VISEO:
+    Sentaos.
+DORENA:
+    Aquí hay almohadas
+    para que vos estéis bien.
+VISEO:
+    Vaya un juego.
+SERRANO:
+    ¿Cuál será?
+DORENA:
+    Hágase el del rey.
+FELIPA:
+    Famoso
+    puesto que será forzoso
+    mirar a quién se le da,
+    porque ha de ser muy discreto.
+BRITO:
+    Si es por discreto, yo soy
+    el más discreto.
+COLOMBO:
+    ¿Y yo estoy
+    por bestia?
+SERRANO:
+    ¡Tened respeto!
+BRITO:
+    Colombo, ya os tengo dicho
+    que conmigo no os metáis.
+TURINDO:
+    Muy necios todos estáis.
+BRITO:
+    ¡Puesto se me ha en el capricho
+    que os he de descalabrar,
+    Colombo!
+VISEO:
+    Bueno está, Brito.
+BRITO:
+    Yo callaré.
+DORENA:
+    Yo los quito
+    a los dos de porfiar
+    dando al Duque mi señor
+    la corona.
+SERRANO:
+    Dices bien.
+    Hazla, pues, de presto.
+TURINDO:
+    ¿Y quién
+    lo merece ser mejor?
+DORENA:
+    Aquí, de un verde laurel
+    y las flores que abril pinta,
+    la haré; mas fáltame cinta.
+FELIPA:
+    Toma este listón.
+DORENA:
+    Con él
+    la tejeré en dos momentos.
+[Vase Dorena. Sale don Carlos]
+DON CARLOS:
+    (Aunque con priesa he venido,
+    viendo al Duque divertido
+    de sus altos pensamientos,
+    no le quiero interromper
+    el gusto con que en su aldea
+    vive. ¿Quién habrá que crea
+    que en esto se venga a ver?
+    ¡Cuánto mejor vivirían
+    aquí muchos cortesanos!)
+[Vuelve a salir Dorena con la guirnalda de flores]
+DORENA:
+    Basta, que a las propias manos
+    las flores se me venían.
+    Como imaginaba el prado
+    que eran para su señor...
+FELIPA:
+    Pónsela.
+DORENA:
+    Y fuera mejor
+    de Portugal.
+VISEO:
+    En cuidado
+    me habéis puesto. ¿Qué he de hacer?
+FELIPA:
+    Dar oficios, porque luego
+    dellos se comience el juego.
+DON CARLOS:
+    (¿Puede más contento haber?
+    ¡Dichoso el que vive aquí
+    sin envidia y ambición!)
+VISEO:
+    ¡Ya soy rey!
+BRITO:
+    Y era razón.
+VISEO:
+    Ni aun de burla habléis ansí.
+    Hago a Brito camarero
+    y a Colombo, mayordomo.
+    ¿Maestresala?
+TURINDO:
+    Yo lo tomo.
+VISEO:
+    Y a Serrano, tesorero;
+    caballerizo a Melampo.
+[Llega don Carlos]
+DON CARLOS:
+    Y a mí, señor, ¿qué me hacéis?
+VISEO:
+    Rey con el laurel que veis,
+    aunque de flores del campo.
+    ¿Qué es esto, Carlos? ¿Adónde...?
+DON CARLOS:
+    Cartas os traigo.
+VISEO:
+    ¿De quién?
+DON CARLOS:
+    De la Reina.
+VISEO:
+    ¡Tanto bien!
+    De albricias os hago conde.
+DON CARLOS:
+    Recibo como de veras
+    la merced. Leed aparte.
+VISEO:
+    Si fuera a dárosle parte,
+    todas fueran verdaderas.
+[Carta]
+VISEO:
+    Yo he leído.
+DON CARLOS:
+    Y yo querría
+    volverme.
+VISEO:
+    Quedaos aquí
+    esta noche.
+DON CARLOS:
+    No salí
+    con más plazo que este día.
+    Grande merced recibiera,
+    mas daré sospecha allá.
+VISEO:
+    No os merecemos acá.
+DON CARLOS:
+    Adiós, que la Reina espera.
+[Vase don Carlos. Sale Meneses]
+MENESES:
+    El estudiante se fue
+    y este papel me dejó.
+[Levántase]
+VISEO:
+    Amigos, ya se acabó
+    el juego. Ya no podré
+    ser rey por hoy, mas volved
+    mañana. Ocupado estoy.
+    ¡Guárdeos Dios!
+COLOMBO:
+    Contento voy.
+VISEO:
+    A todos haré merced.
+    Y tú, entretanto, Meneses,
+    reparte entre todos luego
+    mil ducados.
+TURINDO:
+    ¡Qué buen juego!
+MENESES:
+    ¿Qué harías más si rey fueses?
+VISEO:
+    ¿Qué le diste al estudiante?
+MENESES:
+    Un doblón.
+VISEO:
+    Pues ve tras él
+    y dale veinte.
+MENESES:
+    Para él
+    fue la figura importante.
+VISEO:
+    Castro...
+CASTRO:
+    ¿Señor?
+VISEO:
+    Parte luego
+    a Lisboa y a don Carlos,
+    que sabrá mejor honrarlos,
+    lleva el turco y el gallego;
+    y si es poco, lleva el bayo
+    y el andaluz con los dos.
+CASTRO:
+    Yo parto.
+BRITO:
+    Guárdete Dios
+    para ser del mundo rayo
+    como Alejandro lo fue.
+VISEO:
+    No me olvidaré de ti.
+    Cuando me vaya de aquí,
+    Brito, yo te dejaré
+    cuanto a tu casa he traído:
+    camas y tapicerías
+    y plata.
+BRITO:
+    Vivas más días
+    que el mismo tiempo ha vivido.
+    No vean jamás las gentes
+    tu vejez: llegues igual
+    hasta el Jüicio Final
+    con tus muelas y tus dientes.
+VISEO:
+    Brito, el tiempo se abonanza:
+    apresta el barco.
+BRITO:
+    Hasta el mar
+    sabrás ablandar con dar,
+    que el dar lo imposible alcanza.
+VISEO:
+    Vamos a Lisboa luego,
+    que todo me siento arder
+    y no puede el agua hacer
+    resistencia a tanto fuego.
+[Vanse.]
+[Salen el Rey, don Leonardo, don Luis y don Diego]
+REY:
+    Para que entienda el miedo que le tengo
+    de que en Castilla de mis cosas hable,
+    no porque así de su rigor me vengo,
+    os hago, don Leonardo, Condestable.
+    También el premio a don Luis prevengo,
+    que ha sido su servicio inestimable:
+    duque de Guimaráns se llame y luego
+    conde de Faro, el capitán don Diego.
+DON LEONARDO:
+    Todos, señor, a vuestros pies postrados
+    estamos, como es justo, agradecidos.
+DON LUIS:
+    Nuestros servicios fueron limitados;
+    sin límite, los premios recebidos.
+DON DIEGO:
+    De que fueron en vos bien empleados
+    no sólo lo mostraron admitidos,
+    pero con premio tal que hará animosos
+    a los que la virtud hace envidiosos.
+DON LUIS:
+    La Reina mi señora viene a verte.
+[Sale la Reina sola]
+REINA:
+    Hablar quisiera a solas a Tu Alteza.
+REY:
+    Despejad, caballeros.
+[Vanse los caballeros]
+REINA:
+    Si mi suerte
+    halló gracia, señor, en tu grandeza,
+    hazme un favor.
+REY:
+    De tu intención me advierte.
+REINA:
+    Mi hermano y doña Elvira...
+REY:
+    Ya no empieza
+    de manera el favor que sea posible.
+REINA:
+    ¡Oh, cómo tienes condición terrible!
+REY:
+    ¿No es casarse los dos?
+REINA:
+    ¿Y eso no es justo?
+REY:
+    Ni aun razonable. No tratemos desto.
+REINA:
+    Pésame que por mí tengáis disgusto.
+REY:
+    ¿Querías otra cosa?
+REINA:
+    Sólo aquesto.
+REY:
+    Un justo amor no ha de pedir lo injusto.
+REINA:
+    ¡Guárdete Dios!
+REY:
+    ¿Por qué te vas tan presto?
+[Vase la Reina]
+REY:
+    No respondió. No es mucho, que es su hermano.
+    Las lágrimas me encubre con la mano.
+[Sale don Carlos]
+REY:
+    ¿Adónde vas, don Carlos?
+DON CARLOS:
+    A Su Alteza
+    de la Reina buscaba.
+REY:
+    ¿Qué querías?
+    Di la verdad.
+DON CARLOS:
+    No es cosa de importancia
+    ni la buscara yo cuando lo fuera:
+    llevé una carta al duque de Viseo
+    y véngola a decir que la he llevado.
+REY:
+    ¿Diote respuesta?
+DON CARLOS:
+    No, señor.
+REY:
+    ¿Qué dices?
+DON CARLOS:
+    Que no me dio respuesta.
+REY:
+    ¿Qué hace el Duque?
+DON CARLOS:
+    Cierto que vive el pobre caballero
+    entre unos labradores, harto rico,
+    como tuviera un poco de filósofo.
+    Halléle entreteniéndose en mil juegos,
+    representando un rey con sus vasallos,
+    coronada de flores la cabeza.
+    Allí les repartía los oficios:
+    a cuál dellos hacía mayordomo;
+    a cuál, su tesorero; a cuál, le daba
+    cargo de secretario. Y desta suerte
+    pasa la ausencia tuya y de la corte,
+    que bien ha menester tanta paciencia
+    quien vive en tu desgracia y en tu ausencia.
+REY:
+    Ve, don Carlos, y habla con la Reina.
+DON CARLOS:
+    Beso tus pies.
+[Vase don Carlos]
+REY:
+    ¿Por qué de varios modos,
+    caminos y discursos me da el cielo
+    avisos del intento deste mozo?
+[Sale don Egas]
+DON EGAS:
+    A darte gracias de mi parte vengo
+    de la merced que has hecho a don Leonardo,
+    a don Luis y al capitán don Diego.
+REY:
+    No me olvido de ti si, por ventura,
+    me reprehendes el no haberte dado
+    el premio del aviso que me diste.
+    Los bienes de don Álvaro -su hermano
+    del Condestable-, o muebles o vasallos,
+    te doy, don Egas.
+DON EGAS:
+    Yo no lo decía
+    para que se acordase Vuestra Alteza
+    de mis servicios.
+REY:
+    ¡Ah, don Diego! Deja,
+    deja de hablar en cosas que no importan.
+    Tratemos de las mías, porque veas
+    que en abonarme al duque de Viseo
+    has hecho un grande error.
+DON EGAS:
+    ¿De qué manera?
+REY:
+    Carlos, que viene ahora de su aldea,
+    me dice que le ha visto coronado
+    de más flores que pintan a Amaltea
+    y entre su gente, como Rey, sentado.
+    Ahora podrás ver si lo desea
+    y está de sus amigos engañado.
+    Oficios daba, ya reparte oficios
+    que todos son de su esperanza indicios.
+    Según esto, ¿qué quieres que presuma?
+DON EGAS:
+    Que en esa burla y juego se entretiene.
+REY:
+    Burlando estaba; pero pues, en suma,
+    por él la Reina a que le case viene
+    con doña Elvira, la atrevida pluma
+    con que ha llegado al sol perderle tiene.
+    Yo te la quiero dar por darle enojos.
+DON EGAS:
+    Abres los míos por quebrar sus ojos.
+    En ella los he puesto de secreto,
+    pero jamás, señor, me declarara.
+REY:
+    Vente conmigo, que hoy tendrán efeto
+    tus pensamientos.
+DON EGAS:
+    En su amor repara.
+REY:
+    Cásate tú una vez, que el que es discreto
+    -que en esto más que en todo se declara-
+    sirviendo, amando y regalando adquiere
+    que le venga a querer quien no le quiere.
+[Vase el Rey y don Egas. Salen el Duque de Viseo y Brito, de villanos]
+VISEO:
+    A buen tiempo tomé tierra.
+BRITO:
+    Mucho fue no zozobrar
+    el barco, porque la mar
+    le daba notable guerra
+    con la mareta mayor
+    que he visto en estos confines.
+    Pues el mirar los delfines
+    no era de menos temor:
+    cuando en el agua dan vueltas
+    y el lomo cerúleo asoman,
+    los marineros los toman
+    por las señas más resueltas
+    de que el mar se ha de alterar
+    y correr tormenta fiera.
+VISEO:
+    Mayor el alma la espera
+    en la tierra que en la mar.
+    ¡Ay de mi corta ventura,
+    Brito, si el Rey me halla aquí!
+    Y ¡ay, Brito, triste de mí,
+    si el Rey quitarme procura
+    todo mi bien! Que la adora
+    y de su loca afición
+    nace la persecución
+    que estoy padeciendo ahora.
+BRITO:
+    ¡Ay de ti y aun ay de Brito!
+    Pues de Viseo el Ducado
+    será entonces Vizcornado
+    y el Brito será cabrito.
+    Mas en empresa tan alta
+    ten esperanza, de modo
+    que vivas. Que al faltar todo,
+    nunca la esperanza falta.
+    Necio soy en dar consejo
+    a un príncipe, pero amor
+    me fuerza.
+VISEO:
+    Cierto rumor
+    oigo, Brito, en el espejo
+    de los cristales del marco.
+    ¡Ay si fuese el sol que adoro!
+    Que con ver sus rayos de oro
+    volveré contento al barco.
+[Doña Elvira en lo alto del tablado]
+VISEO:
+    No me engañó el pensamiento.
+DOÑA ELVIRA:
+    ¿Es el Duque?
+VISEO:
+    Mi bien, sí.
+DOÑA ELVIRA:
+    El alma me dio de ti
+    con divino movimiento.
+    ¿Cómo estás?
+VISEO:
+    Sin ti, perdido.
+    ¿Y tú sin mí?
+DOÑA ELVIRA:
+    Muerta estoy,
+    porque tras mis males hoy
+    el mayor me ha sucedido.
+    Ahí va en ese listón,
+    atado en ese papel,
+    todo el suceso crüel;
+    porque no es esta ocasión
+    para decírtelo a voces.
+    Ata tu papel y ¡adiós!
+VISEO:
+    ¿Qué? ¿Aún no hablaremos los dos
+    un instante?
+DOÑA ELVIRA:
+    Ya conoces,
+    mi señor, lo que te adora
+    el alma. ¡No puede ser!
+VISEO:
+    Lo que puedo responder
+    todo lo escribo, señora,
+    en ese papel. ¡Adiós!
+[Pónense el Rey y don Egas detrás de doña Elvira y están escuchando lo que dice]
+DOÑA ELVIRA:
+    Ya le subo, ¡A Dios te queda!
+REY:
+    Suelta el papel.
+DOÑA ELVIRA:
+    (¡Que esto pueda
+    mi desdicha!)
+VISEO:
+    ¡Ay de los dos,
+    Brito, que la voz del Rey
+    he conocido.
+REY:
+    ¡Hola, guarda!
+BRITO:
+    ¿Pues qué temor te acobarda
+    contra la nobleza y ley
+    que de caballero tienes?
+    Echa por aquí.
+VISEO:
+    ¡Ay, mi bien,
+    no te dejo, que también
+    conmigo en el alma vienes!
+[Vanse]
+DOÑA ELVIRA:
+    Señor, pues ya Vuestra Alteza
+    que me casaba sabía,
+    no juzgue a libertad mía
+    esta amorosa flaqueza.
+    Lo mismo le respondí
+    hoy que don Egas me habló.
+    Eso el Duque me escribió
+    para saberlo de mí
+    con esos dos labradores
+    que estaban en el terrero.
+REY:
+    Mal pagas lo que te quiero,
+    mal estimas mis favores.
+    Quieres bien lo que aborrezco
+    y aborreces lo que estimo.
+DOÑA ELVIRA:
+    Señor, si el Duque es tu primo,
+    si a tu cuñado me ofrezco,
+    ¿puedo yo mejor casar?
+    ¿No casaste con su hermana?
+REY:
+    Elvira, si el ser liviana
+    no te pudiera culpar,
+    no fuera mala elección.
+    Casamientos por amores
+    con pensamientos traidores
+    llenos de sospechas son.
+    Casa con don Egas. Mira
+    que te puedo hacer más bien
+    que el Duque.
+DON EGAS:
+    ¿Tanto desdén
+    con quien os adora, Elvira?
+    Mirad que soy yo tan bueno
+    como el Duque.
+DOÑA ELVIRA:
+    ¿Esto consiente
+    Vuestra Alteza?
+REY:
+    Si no miente...
+DOÑA ELVIRA:
+    Sí miente, de infamias lleno.
+    Que decir que puede ser
+    tanto como el Duque honrado...
+    Quien afrenta a su cuñado,
+    ¿en qué tiene a su mujer?
+REY:
+    Elvira, menos rigor.
+DON EGAS:
+    Déjela estar Vuestra Alteza
+DOÑA ELVIRA:
+    ¡Tan bueno tú! ¿Qué nobleza
+    puede tener un traidor?
+DON EGAS:
+    Si presente no estuviera
+    el Rey...
+DOÑA ELVIRA:
+    Ves aquí mi cara,
+    que en lo que el Rey no repara,
+    ningún testigo te espera.
+DON EGAS:
+    ¿No tengo cabeza yo?
+DOÑA ELVIRA:
+    Tales cabezas están
+    seguras, que a Guimaráns
+    nunca el Rey se la cortó
+    por el bofetón de Inés,
+    sino por traiciones tuyas.
+DON EGAS:
+    ¿Que a mí, Elvira, me atribuyas
+    lo que culpa de otros es?
+REY:
+    ¡No más! Quítate de aquí,
+    que ya tus engaños veo.
+DOÑA ELVIRA:
+    Si aborreces a Viseo,
+    mátale, señor, en mí.
+[Vanse todos.]
+[Salen el duque de Viseo y Brito]
+BRITO:
+    No hay casa ni tienda abierta
+    con que le puedas leer.
+VISEO:
+    Brito, ¿qué luz puede arder
+    a una esperanza tan muerta?
+    Pues irme al mar sin que vea
+    lo que escribe doña Elvira
+    es mover el cielo a ira
+    que mi remedio desea.
+    Ve corriendo hasta la plaza
+    del Rocío, que por ventura
+    hallarás lumbre.
+BRITO:
+    Procura,
+    pues ves que el Rey te amenaza,
+    huir la ronda.
+VISEO:
+    Sí haré.
+[Vase Brito]
+VISEO:
+    ¡Ay, noche, nunca te vi
+    tan negra! Mas para mí,
+    ¿cuándo tu luz no lo fue?
+    Luna, si escondes tu cara
+    para que el Rey no me vea,
+    sal por que este papel lea
+    y máteme tu luz clara.
+[Aquí ha de haber una cruz con una lámpara encendida delante]
+VISEO:
+    Una cruz pienso que está
+    en aquella esquina y creo
+    que tiene lumbre. Deseo,
+    vamos caminando allá.
+    No me engañé, ya se ven
+    los rayos trémulos della.
+    Lámpara más clara y bella
+    que el sol, albricias os den
+    con alabanzas ahora
+    mis ya despiertos sentidos,
+    como suelen en sus nidos
+    los pájaros al Aurora.
+    Leer quiero, oh luz, con vos
+    el papel. Divina Cruz,
+    no se ofenda vuestra luz,
+    que esto es servicio de Dios.
+    Casarme quiero, Cruz santa,
+    y a vos os hago testigo
+    que algún traidor, falso amigo,
+    que yo lo soy me levanta.
+    Por el divino Señor
+    que en vos sus espaldas puso,
+    que adoro al Rey.
+[Suena dentro ruido de cadenas y una trompeta ronca y espántase el Duque]
+    ¡Qué confuso,
+    qué ronco y triste rumor!
+    No acierto a leer... ¿Qué haré?
+    Temblando estoy. Cruz que adoro,
+    yo os ofrezco cubrir de oro
+    si pediros la luz fue
+    ofender vuestro valor.
+    Allí cantan, ¡ay de mí!
+    ¿Si es mujer? Pienso que sí,
+    que está haciendo su labor.
+[Cantan dentro tristemente]
+VOZ:
+    Don Juan, Rey de Portugal,
+    ese que llaman el Bravo,
+    quejoso vive en Lisboa
+    de sus deudos y vasallos.
+    Con su fuerte condición,
+    piensa que quieren matarlo
+    los portugueses famosos,
+    cuatro inocentes hermanos.
+    Al Condestable destierra,
+    también al conde de Faro
+    y a don Álvaro, el menor,
+    que la envidia puede tanto.
+VISEO:
+    ¡Y cómo, si envidias pueden
+    hacer un hombre pedazos
+    desde los cercos del sol
+    hasta el mar de sus agravios!
+VOZ:
+    Al duque de Guimaráns
+    mandó en público teatro
+    cortar la honrada cabeza,
+    digna de roble y de lauro.
+VISEO:
+    Temblando estoy y esta cruz
+    me pone mayor espanto.
+    Irme quisiera y no puedo,
+    su luz me parece un rayo.
+VOZ:
+    Del buen duque de Viseo,
+    mancebo fuerte y gallardo,
+    tiene mil quejas el Rey
+    con ser su primo y cuñado.
+    Guárdate, duque inocente;
+    guárdate, Abel desdichado;
+    que malas informaciones
+    ensangrientan nobles manos.
+VISEO:
+    ¿Que me guarde yo? ¿Por qué?
+    ¿Por qué he de guardarme estando
+    inocente como estoy?
+[Sale el duque de Guimaráns, difunto, con el manto blanco y cruz de Cristo, y pasa por delante del duque de Viseo]
+GUIMARÁNS:
+    ¡Duque!
+VISEO:
+    ¡Ay, cielos soberanos!
+GUIMARÁNS:
+    ¡Duque!
+VISEO:
+    ¿Qué es esto que veo?
+GUIMARÁNS:
+    ¡Duque!
+VISEO:
+    Todo estoy temblando.
+GUIMARÁNS:
+    ¡Guárdate del Rey!
+VISEO:
+    ¿Qué dices?
+GUIMARÁNS:
+    ¡Que te guardes!
+[Desaparécese]
+VISEO:
+    ¡Cielo santo,
+    dad favor a un inocente!
+[Cae, puesta la mano en la espada, la media de fuera. Sale Brito]
+BRITO:
+    ¡Con qué temerosos pasos
+    busqué la luz que más presto
+    dará el día hermoso y claro,
+    porque ya por el Oriente
+    se miran celajes blancos!
+    Aquí está el Duque. ¡Ay de mí!
+    Señor, ¿estás desmayado?
+    ¿Qué tienes, señor? Responde,
+    vuelve en ti, mira tu daño,
+    mira que se acerca el día.
+    ¿Has caído?
+VISEO:
+    ¡Ay, Brito! Vamos,
+    vamos a la mar.
+BRITO:
+    ¿Qué tienes?
+VISEO:
+    Allá lo sabrás despacio.
+BRITO:
+    Por esta calle se ve,
+    señor, la orilla del mar.
+VISEO:
+    ¡Ay, Brito, no puedo andar!
+BRITO:
+    ¿Cómo caíste?
+VISEO:
+    No sé;
+    pero si ocasión no fue
+    el ver lo que entonces vi
+    para estar fuera de mí,
+    en mi vida tendré pena.
+BRITO:
+    Noche de tinieblas llena,
+    ¿qué peligros no hay en ti?
+    ¡Qué bien de tus confusiones
+    los escarmientos dijeron
+    que tus tinieblas se hicieron
+    para amantes y ladrones!
+    ¡Oh, luz divina que pones
+    gobierno y paz en el suelo!
+    ¡Oh, luz divina, consuelo!
+    Tú dices tu valor mismo:
+    noche eterna es el abismo
+    y luz inmortal el cielo.
+    Si la luz no te faltara
+    por la escuridad crüel
+    para leer el papel,
+    nunca de ti me apartara.
+    Fui por luz hermosa y clara
+    y cuando sin luz volví,
+    tan desmayado te vi
+    que aun ahora estás sin seso.
+VISEO:
+    ¿A quién tan triste suceso
+    no le sacará de sí?
+    En aquella encrucijada
+    donde me dejaste, Brito,
+    tiene todo aquel distrito
+    una lámpara colgada
+    a la imagen venerada
+    de la santísima Cruz.
+    Quise leer en su luz
+    el papel y cuando llego,
+    sale della un trueno y fuego,
+    como si fuera arcabuz.
+    Luego -que apenas resisto
+    las lágrimas y al espanto-,
+    veo con el blanco manto
+    y la roja cruz de Cristo
+    el que de mis ojos visto
+    fue en palacio degollado:
+    aquel duque desdichado
+    de Guimaráns. Mas al punto
+    él fue el vivo, yo el difunto,
+    todo el cabello erizado.
+    Pálido el rostro y sangriento,
+    "¡Ay!", dijo no más, turbada
+    la voz. Yo, entonces, la espada
+    con manos de yelo tiento.
+    Y aunque con atrevimiento
+    tal vez el cuello ha cortado
+    del toro en Duero criado
+    o del africano moro,
+    allí cayó mi decoro
+    por la tierra desmayado.
+BRITO:
+    Todo el cabello me erizas
+    y como un alambre pones,
+    pero son estas visiones
+    quimeras antojadizas.
+    Como tanto sutilizas,
+    tu pensamiento del viento
+    hace visiones.
+VISEO:
+    Yo siento
+    que no es sin gran ocasión,
+    aunque las visiones son
+    sombra que hace el pensamiento.
+BRITO:
+    Todo su rigor crüel
+    cesará con la alegría
+    -pues ya se declara el día-
+    de lo que dice el papel.
+    Sácale y verás en él
+    de todo tu mal consuelo.
+VISEO:
+    Dices bien. ¡Ay santo cielo,
+    que el papel que le escrebí
+    es este que tengo aquí!
+    ¡Ay de mi corta ventura!
+BRITO:
+    ¿Qué le has dado?
+VISEO:
+    La figura
+    del astrólogo le di.
+BRITO:
+    ¿Pues adónde la tenías?
+VISEO:
+    Aquí, con otros papeles.
+BRITO:
+    Déjale y no te desveles.
+    ¡De buena mano le fías!
+VISEO:
+    No puede pasar dos días
+    sin que a Lisboa volvamos.
+BRITO:
+    El suyo, señor, leamos.
+VISEO:
+    ¡Que la figura le di!
+BRITO:
+    Lee el papel.
+VISEO:
+    Dice ansí:
+    "La Reina al Rey me pidió
+    para ti, mi bien; que yo
+    sólo nací para ti.
+    Negose, aunque le ha costado
+    lágrimas -¡ah, envidias ciegas!-,
+    y hoy dice que con don Egas
+    me case -¡ay, fiero cuñado!-.
+    Tuve fuerte y él, airado,
+    porfía. Si más porfía,
+    tú verás la muerte mía
+    primero que el Rey crüel."
+BRITO:
+    Cierra, señor, el papel,
+    que viene gente a la mar.
+VISEO:
+    Haz el barco desatar
+    y entremos de presto en él.
+    ¡Mísero yo, qué de cosas
+    una tras otra persiguen
+    mi vida, sin que mitiguen
+    tantas ansias amorosas!
+    ¡Qué tragedias lastimosas
+    Portugal pienso que mira
+    en mí por una mentira!
+    ¡Cielos, anégueme el mar
+    si a don Egas ha de dar
+    la mano mi hermosa Elvira!
+[Vanse.]
+[Salen el Rey, con un papel en la mano, y don Egas y don Carlos]
+REY:
+    Ahora, ¿qué dirás del Duque fiero?
+DON EGAS:
+    Admirado me tiene la figura.
+REY:
+    Todo ha sido, en mi daño, verdadero.
+DON EGAS:
+    Conozco ahora que reinar procura.
+REY:
+    Mira las doce casas, mira entero
+    todo este cuadro.
+DON EGAS:
+    En él su sepoltura
+    trazó la astrología de su dueño;
+    que venir a ser Rey el Duque es sueño.
+REY:
+    Carlos...
+DON CARLOS:
+    ¿Señor?
+REY:
+    ¿Qué te parece desto?
+DON CARLOS:
+    Que no será verdad la astrología.
+REY:
+    Rey dice que ha de ser el Duque presto
+    y aquí lo funda en el que alumbra el día.
+    No tiene estrella ni planeta opuesto,
+    Saturno de su daño le desvía.
+    En la parte mejor de su fortuna
+    le mira bien el sol, mejor la luna.
+    No tiene aspecto menos que de trino
+    en todas las figuras de importancia.
+DON CARLOS:
+    ¿No pudo errar, señor, ese adivino
+    o escribir por lisonja o por ganancia?
+    Mas ¿cómo a tu poder el papel vino?
+REY:
+    Porque lo quiso el cielo.
+DON EGAS:
+    Si de Francia,
+    Castilla o Aragón le viene ayuda,
+    dirá verdad esta figura muda.
+REY:
+    Ve, Carlos, a llamarle. Di que al punto
+    contigo venga y por que presto vayas,
+    ve por el mar.
+DON CARLOS:
+    Yo voy.
+REY:
+    Estoy difunto.
+DON EGAS:
+    ¿De cosas tan humildes te desmayas?
+REY:
+    Don Egas, el remedio te pregunto.
+DON EGAS:
+    Si ha de pasar las africanas playas
+    y con favor del moro hacerte guerra,
+    más yerras en echarle de tu tierra;
+    pues si se va a Castilla o si se pasa
+    a Francia o Alemania, todo es daño.
+REY:
+    ¿Matarele?
+DON EGAS:
+    En secreto y no en tu casa,
+    con que te libras de cualquier engaño.
+REY:
+    ¿Y la Reina?
+DON EGAS:
+    ¿Qué importa si se abrasa
+    todo un reino?
+REY:
+    Es mi esposa.
+DON EGAS:
+    El desengaño
+    de la maldad del Duque -pues es cuerda-
+    hará, señor, que el sentimiento pierda.
+REY:
+    Es su hermana, don Egas, y es mi prima.
+DON EGAS:
+    Pues déjale que reine y que te mate.
+REY:
+    Mucho su sentimiento me lastima.
+DON EGAS:
+    No hayas miedo que yo deso te trate.
+REY:
+    ¿Desa manera tu valor me anima?
+DON EGAS:
+    ¿Pues qué te he de animar si te combate
+    tanto temor y amor?
+REY:
+    Bien dices. ¡Muera!
+    ¿Soy yo don Juan el Bravo?
+DON EGAS:
+    Un poco espera.
+[Salen don Leonardo, don Luis y don Diego]
+DON LEONARDO:
+    El Condestable, gran señor, me ha escrito
+    dándome el parabién con gran prudencia
+    de la merced que me haces con su título.
+DON LUIS:
+    Y a mí el de Faro, con igual cordura.
+DON DIEGO:
+    Pues no menos don Álvaro me escribe
+    y me encomienda sus vasallos.
+REY:
+    Todos
+    fingen que no lo sienten.
+DON LEONARDO:
+    Por Dios, ruego
+    a Vuestra Alteza vuelva al Condestable,
+    que es un gran caballero, aqueste oficio.
+DON LUIS:
+    Y yo lo mismo por el Conde ruego.
+DON DIEGO:
+    Lo mismo por don Álvaro te pido.
+REY:
+    ¡Qué presto su piedad os ha movido!
+    Mas pues rogáis por ellos, yo sospecho
+    que debéis de seguir sus intenciones:
+    de su parcialidad os habéis hecho.
+DON LEONARDO:
+    ¡Nunca Dios quiera tal!
+DON LUIS:
+    Si es que ellos tratan
+    lo que sospechas, Dios lo sabe sólo.
+DON DIEGO:
+    Mucho nuestra lealtad se agravia en esto.
+[Sale don Carlos solo]
+DON CARLOS:
+    Notable dicha tengo en tu servicio.
+    Al entrar en la mar, el de Viseo
+    topé con un criado que llevaba
+    un barco. Y ya el arráez, levantado
+    el resón, de la proa y la mesana
+    daba el arráez en la parda vela.
+    Díjele que por él venía y luego
+    el barco a tierra acostan. Y tomándola,
+    dejó el gabán y con espada y capa
+    me sigue sin hablarme.
+REY:
+    ¿Dónde queda?
+DON CARLOS:
+    Queda en el antecámara.
+REY:
+    Pues entre.
+DON LEONARDO:
+    ¿Aquí quieres hablarle?
+REY:
+    ¿Pues qué importa?
+[Sale el duque de Viseo, en hábito muy galán, y Brito de escudero]
+BRITO:
+    Ten prudencia y la cólera reporta.
+VISEO:
+    Deme los pies Vuestra Alteza.
+REY:
+    Detente, que no es razón
+    dar los pies a la traición
+    que sube hasta la cabeza.
+VISEO:
+    Mire Vuestra Alteza bien
+    cómo me debe tratar.
+REY:
+    ¿Qué tengo ya que mirar?
+    Porque en ti no miro a quién.
+VISEO:
+    Soy su primo y no es mejor
+    ninguno de los presentes.
+REY:
+    ¿Tú mi sangre? ¡Mientes, mientes!
+    ¡Que en mi sangre no hay traidor!
+VISEO:
+    ¡Yo traidor! ¿De qué manera?
+    Si al duque de Guimaráns,
+    por traidor, muerte le dan,
+    todo Portugal lo fuera.
+    Que si cualquiera inocente
+    que a Vuestra Alteza le dé
+    sospecha es traidor, no sé
+    qué vasallo ni pariente
+    se pueda llamar leal.
+REY:
+    Niega que aquesta figura
+    no te ofrece y asegura,
+    viviendo yo, a Portugal.
+VISEO:
+    Hízola un pobre estudiante
+    por lisonja y se la di
+    a Elvira. Fue yerro.
+REY:
+    Aquí
+    ya no hay disculpa importante.
+VISEO:
+    Si alguno de los presentes
+    me ha infamado en la lealtad,
+    ninguno dice verdad.
+    Sólo tú, señor, no mientes.
+REY:
+    ¿Cómo?
+VISEO:
+    Que no mientes, digo.
+    Sino es quien dice que soy
+    traidor.
+REY:
+    ¿Soy Rey o quién soy?
+    ¿Esto pasa sin castigo?
+    ¡Matalde vos, Condestable!
+DON LEONARDO:
+    Yo, señor, culpa no veo.
+REY:
+    ¡Matalde, Conde!
+DON LUIS:
+    Viseo
+    no ha sido en esto culpable.
+REY:
+    ¡Matalde, don Diego!
+DON DIEGO:
+    Yo
+    no veo culpa.
+REY:
+    ¡Don Carlos,
+    matalde!
+DON CARLOS:
+    Debo imitallos
+    y no hay causa.
+REY:
+    ¿Cómo no?
+    ¡Don Egas, dalde la muerte!
+DON EGAS:
+    No me lo mandes, señor.
+REY:
+    ¿Nadie me mata un traidor?
+    ¡Pues muera de aquesta suerte!
+[Dale el Rey con la daga y él vaya cayendo con las bascas de la muerte. Y el Rey, tras él y Brito]
+VISEO:
+    ¡Válgame el cielo, a quien hago
+    testigo de mi inocencia!
+REY:
+    Yo ejecuté la sentencia
+    y de mi mano me pago.
+DON LEONARDO:
+    ¡Braveza estraña!
+DON EGAS:
+    Y crueldad
+    no vista en hombre.
+[Sale la Reina y damas y don Manuel, niño]
+REINA:
+    ¿Qué es esto?
+    ¡Vos, señor, tan descompuesto!
+DOÑA ELVIRA:
+    (¿Qué tembláis, alma? Esperad.)
+REY:
+    Si algún hombre, Catalina,
+    tuviera intento y deseo
+    de querer matar al rey
+    para alzarse con su reino,
+    ¿qué mereciera?
+REINA:
+    La muerte.
+REY:
+    Pues con eso libre quedo
+    de haber muerto a vuestro hermano.
+REINA:
+    Señor, ¿mi hermano habéis muerto?
+REY:
+    Quedo, quedo.
+DOÑA ELVIRA:
+    ¡Cielo santo!
+    ¿Esto sufrís en el suelo?
+DON MANUEL:
+    ¿Por qué habéis muerto, señor,
+    a mi hermano?
+REY:
+    Estadme atento.
+    Ya yo dije a vuestra hermana
+    la Reina, en breve suceso,
+    cómo me quiso matar.
+DON MANUEL:
+    ¿Pues de qué sabéis que es cierto?
+REY:
+    De papeles y de indicios.
+DON MANUEL:
+    ¡Envidiosos lisonjeros!
+DOÑA ELVIRA:
+    Dadme licencia, señor,
+    para que entre a ver el cuerpo.
+REY:
+    Querrás llorar a tu esposo.
+DOÑA ELVIRA:
+    Más que llanto a su amor debo.
+[Vase doña Elvira]
+REY:
+    No quiero, Manuel, que alguno
+    pueda presumir que he muerto
+    a tu hermano por codicia.
+    Y por eso darte quiero
+    su estado, que en mi poder
+    por todas las leyes tengo
+    que al que es traidor le confisquen.
+    Advertid, Manuel, con esto
+    que en mi lengua portuguesa,
+    para enmienda y escarmiento,
+    marqués de Viseo vos faço,
+    duque de Aviso vos eo.
+    Guardaos, Manuel, y mirad
+    de vuestro hermano el ejemplo.
+    Y para que os acordéis,
+    volved los ojos al cuerpo.
+[Descubren al Duque, sangriento. Y en una almohada, la corona y el cetro; y en otra, doña Elvira con la mano en la mejilla]
+REINA:
+    Dadme licencia, don Juan,
+    para no mirarle.
+REY:
+    Pienso
+    que no me llamastes rey
+    por ver ya difunto el vuestro.
+    Idos, don Egas, con ella,
+    no haga algún desconcierto.
+    Id vos, don Carlos, también.
+[Vase la Reina, don Egas y don Carlos]
+REY:
+    Este ejemplo, caballeros,
+    os toca a todos. Mirad
+    allí la corona y cetro...
+    Pero despertad a Elvira
+    de aquel desmayo.
+DON LEONARDO:
+    No creo
+    que volverá del desmayo,
+    porque es el postrero sueño.
+REY:
+    ¿Es muerta Elvira?
+DON LUIS:
+    Y tan fría
+    que ya no hay señal de aliento.
+REY:
+    ¿Matóse?
+DON LEONARDO:
+    No se mató.
+REY:
+    ¿Pues qué ha sido?
+DON LEONARDO:
+    Amor inmenso.
+[Dan voces dentro]
+REY:
+    ¿Qué voces dan, qué rumor
+    es este? ¡Ah, guardas, porteros!
+[Sale don Carlos]
+DON CARLOS:
+    ¿Ha sucedido en el mundo
+    tan espantoso suceso?
+REY:
+    ¿Qué es eso, Carlos?
+DON CARLOS:
+    Señor,
+    un labrador o escudero
+    del Duque, que desde el barco
+    le vino hasta aquí siguiendo,
+    así como vio a don Egas,
+    arremetió y por el pecho
+    le clavó toda la daga,
+    "¡muere, villano!" diciendo.
+    Acudió la guarda a él
+    y mil pedazos le han hecho.
+REY:
+    ¡Valiente escudero y noble!
+    Háganle un honroso entierro.
+    ¡Válame Dios si don Egas
+    en estas cosas me ha puesto,
+    pues Dios le castiga ansí!
+DON LEONARDO:
+    Si como prudente y cuerdo
+    nos quieres oír, sabrás
+    que este traidor lisonjero
+    te ha puesto en tantas desdichas.
+REY:
+    Sí, mas no tienen remedio.
+    A doña Elvira y al Duque,
+    que en la vida no pudieron,
+    muertos los junte un sepulcro
+    para que se gocen muertos.
+DON CARLOS:
+    Aquí acaba la tragedia
+    del gran duque de Viseo,
+    a quien dio muerte la envidia
+    como hace a muchos buenos.

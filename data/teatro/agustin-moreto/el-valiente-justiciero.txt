@@ -1,0 +1,4007 @@
+# El valiente justiciero
+Autor: Agustín Moreto
+
+JORNADA 1
+
+[Salen doña Leonor, y don Tello y Perejil]
+LEONOR:
+    ¿No me escuchas?
+TELLO:
+    ¡Qué molesta
+    y qué cansada mujer!
+PEREJIL:
+    Siempre que te viene a ver
+    debe de subir por cuesta.
+LEONOR:
+    Señor don Tello García,
+    si ese rigor vuestro nombre
+    funda acaso en ser ricohombre
+    de Castilla, es tiranía,
+    que estáis, por serlo, obligado
+    a pagar obligaciones
+    y os sirven vuestros blasones
+    de ultrajar al desdichado.
+    Si os llama absoluto dueño
+    de Alcalá toda la tierra,
+    en lo grande no se encierra
+    esa soberbia del ceño,
+    porque, si haceros mayor
+    presumís, siendo inhumano,
+    cuanto os ponéis para vano
+    os quitáis para menor.
+    El agrado es bizarría.
+    Y los hombres superiores
+    con nada se hacen mayores
+    si es nada la cortesía.
+    La grandeza más honrada
+    que tienen los grandes buenos,
+    es que pueden, al que es menos,
+    dar mucho con lo que es nada.
+    Y si yo me hago menor,
+    no es porque no os igualara
+    doña Leonor de Guevara,
+    sino porque os di mi honor.
+    De eso sólo desconfío
+    para juzgarme menor,
+    pues, para ser vos mayor,
+    tenéis el vuestro y el mío.
+    Pero debéis de advertir
+    que os le dio el pecho amoroso
+    con la palabra de esposo,
+    la cual me habéis de cumplir.
+    Y cuando por otra cosa
+    no os merezca yo atención,
+    faltáis a la obligación
+    de haber de ser vuestra esposa.
+TELLO:
+[([A Perejil]]
+    ¡Que no quiera esta mujer
+    llegarse a desengañar
+    de que no me he de casar
+    con ella!)
+PEREJIL:
+[([A Tello]]
+    ¿Pues qué ha de hacer
+    si la trae[s] siempre a tu lado?
+    Apártate a su inquietud,
+    que, si no has de hacer virtud,
+    así saldrás de pecado.
+    Y con razón lo imagina,
+    si hoy, que te ve Alcalá toda
+    ser padrino de una boda,
+    la haces a ella la madrina.)
+TELLO:
+[([A Perejil]]
+    No sabes tú con qué intento
+    por padrino me he ofrecido
+    y en mi quinta he prevenido
+    hoy la boda.)
+PEREJIL:
+[([A Tello]]
+    Atrevimiento
+    es grande, siendo tu amigo
+    y cuando de ti se fía,
+    robarle a doña María
+    hoy al pobre don Rodrigo.)
+TELLO:
+[([A Perejil]]
+    Pues ¿quién ha de poner ley
+    en un hombre como yo,
+    que, ya que rey no nació,
+    tampoco es menos que el rey?
+    Mi gusto, aunque en otro daño,
+    he de cumplir y seguir.)
+PEREJIL:
+[([A Tello]]
+    Así supieras cumplir
+    con la parroquia cada año.)
+LEONOR:
+    Pues me llegáis a escuchar,
+    ¿no me podéis responder?
+TELLO:
+[([A Perejil]]
+    Perejil, di a esa mujer
+    que me deje descansar.)
+PEREJIL:
+[([A Tello]]
+    ¿Pues yo he de ser tan crüel?)
+TELLO:
+[([A Perejil]]
+    Háblala claro.)
+PEREJIL:
+[([A Tello]]
+    ¿Reparo?)
+TELLO:
+[([A Perejil]]
+    ¿En qué?)
+PEREJIL:
+[([A Tello]]
+    En que si soy muy claro,
+    será malo el perejil.)
+LEONOR:
+    ¿No me respondéis?
+PEREJIL:
+    Señora,
+    mi amo me manda decir
+    que ahora no os quiere oír.
+LEONOR:
+    ¿Pues por qué no quiere ahora?
+PEREJIL:
+    También me manda que apunte
+    que no es más de no querer.
+LEONOR:
+    ¿Pues eso se puede hacer?
+PEREJIL:
+    Manda que no se pregunte.
+LEONOR:
+    ¿Y eso no es rigor injusto?
+PEREJIL:
+    Manda deciros que sí.
+LEONOR:
+    ¿Pues yo he de sufrirlo aquí?
+PEREJIL:
+    Manda que hagáis vuestro gusto.
+LEONOR:
+    ¡Que este agravio llegue a ver!
+    ¡El corazón me atraviesa!
+PEREJIL:
+    También manda que, si os pesa,
+    lo dejéis luego caer.
+LEONOR:
+    No tengo yo sentimiento
+    pues de oírlo no me infamo.
+    ¡Mucho manda vuestro amo!
+PEREJIL:
+    Anda haciendo testamento.
+LEONOR:
+    Y vuestra osadía villana
+    también, pues su error no ignora,
+    manda mucho.
+PEREJIL:
+    Soy agora
+    mayordomo de semana.
+LEONOR:
+    Ya amor la venganza traza
+    de un desprecio tan civil.
+TELLO:
+[([A Perejil]]
+    ¿Se lo has dicho, Perejil?)
+PEREJIL:
+[([A Tello]]
+    ¿Sí, [mas] se ha vuelto mostaza.)
+LEONOR:
+    Si lo ha dicho, ya no quiero
+    apurar la ofensa mía.
+    Yo por soberbio os tenía,
+    mas no os juzgara grosero,
+    [que] aunque tiranas violencias
+    uséis, vuestro honor podía
+    adornar la tiranía
+    [con corteses apariencias],
+    [que desmentirle tirano]
+    de cortés, si se repara,
+    es para afrentar la cara
+    dejar el guante en la mano.
+    No pagar la obligación
+    delito es común y necio,
+    mas es afrenta y desprecio
+    negarla sin atención,
+    que hay agravios que, aunque dellos
+    satisfación no se alcanza,
+    no irritan a la venganza
+    por el recato de hacellos.
+TELLO:
+    En fin, ya acabáis de oír
+    que el casarme no ha de ser.
+LEONOR:
+    ¿No lo pudierais hacer
+    sin llegármelo a decir?
+TELLO:
+    ¿No es mejor desengañaros
+    para que no me canséis?
+LEONOR:
+    ¿Desengañada, sabéis
+    que de mí podéis libraros?
+TELLO:
+    ¿Quién, por vos, me ha de ofender?
+LEONOR:
+    ¿No hallaré justicia yo?
+TELLO:
+    En la tierra, dudoló.
+    En el cielo, puede ser.
+LEONOR:
+    ¿En el cielo?
+PEREJIL:
+[([Ap]]
+    Y aun me espanta
+    que hoy la confiese tan presto.
+    No le he visto tan modesto
+    en una Semana Santa.)
+LEONOR:
+    Éste era el ruego importuno
+    con que me llegue a vencer.
+TELLO:
+    ¿Pues acaso el pretender
+    o conseguir es todo uno?
+LEONOR:
+    En quien desea alcanzar,
+    ¿qué diferencia ha de haber?
+PEREJIL:
+    La misma que hay de comer
+    hasta hartarse, o ayunar.
+LEONOR:
+    ¿No porfïó vuestro amor?
+TELLO:
+    Y vos ¿no os rendisteis luego?
+LEONOR:
+    Yo me rendí a vuestro ruego.
+TELLO:
+    Pues eso fue lo peor.
+LEONOR:
+    Si me venció el apurarme
+    con porfías, ¿qué os cansó?
+TELLO:
+    El porfïar tanto yo,
+    que fue preciso el cansarme.
+LEONOR:
+    ¿Porfïar un agasajo
+    os cansó?
+PEREJIL:
+    ¿Hay tales extremos?
+    Señora, no nos cansemos,
+    que el porfïar es trabajo.
+[Sale Inés]
+INÉS:
+    Leonor bella.
+LEONOR:
+    ¿Qué hay, Inés?
+INÉS:
+    Que ya de un coche se apea
+    la boda.
+LEONOR:
+    En mal hora sea.
+INÉS:
+    ¿Por qué?
+LEONOR:
+    ¿En mis ojos no ves
+    la causa de mi dolor,
+    no querer este enemigo,
+    Inés, casarse conmigo
+    siendo dueño de mi honor?
+INÉS:
+    ¿Pues mi honra, picarón?
+PEREJIL:
+    ¿Qué honra?
+INÉS:
+    De pagarla trata.
+PEREJIL:
+    ¿No la tomarás en plata
+    reduciéndola a vellón?
+INÉS:
+    Ni en oro, que sólo allano
+    con tu mano lo que erré.
+PEREJIL:
+    Yo una vuelta te daré,
+    que es lo mismo que una mano.
+TELLO:
+    Calla, Perejil.
+PEREJIL:
+    Ya callo.
+LEONOR:
+    Inés, rey tiene Castilla
+    que tiembla de su cuchilla
+    su enemigo y su vasallo.
+TELLO:
+    Al ricohombre de Alcalá,
+    ¿qué rey basta?
+PEREJIL:
+    Aunque sea un rayo,
+    ni para un rico lacayo,
+    ¿qué justicia haber podrá?
+    Mas ya en la música he oído
+    que viene el novio hecho un bobo.
+    ¿Cómo ha de ser este robo?
+TELLO:
+    Ya está todo prevenido.
+[Salen músicos, don Rodrigo y doña María]
+MÚSICOS:
+    Alegraos ahora,
+    campos de Alcalá,
+    que madrina y novia bellas
+    sol y luna os dan.
+RODRIGO:
+    Ya, don Tello generoso,
+    en la dicha de mi amor
+    de recibir vuestro honor
+    llegó el plazo venturoso.
+    Mi aplauso os hace el empeño
+    del favor que espera ya,
+    pues mi rendimiento os da
+    veneraciones de dueño.
+TELLO:
+    Yo os estimo, don Rodrigo,
+    tanto, que de apadrinaros
+    hoy el gusto he de mostraros.
+    Y vos, señora, conmigo
+    partid el justo contento.
+MARÍA:
+    Eso le toca a mi esposo,
+    que mi afecto decoroso
+    para en su agradecimiento.
+    Ése, señor, no le niego,
+    que es deuda en la atención mía.
+TELLO:
+[([A Perejil]]
+    Bella está doña María.)
+PEREJIL:
+[([A Tello]]
+    Pues meriéndatela luego.)
+LEONOR:
+    Dad, bella doña María,
+    los brazos a quien espera
+    ser vuestra, no compañera,
+    que es contra la suerte mía.
+MARÍA:
+    En ellos, bella Leonor,
+    gana mi suerte más nombre.
+TELLO:
+[([A Perejil]]
+    ¿De qué sirve ser ricohombre
+    si no logro yo mi amor?
+    ¿Yo he de ver que un hidalguillo,
+    teniendo yo amor, se case
+    con quien de celos me abrase?)
+PEREJIL:
+[([A Tello]]
+    ¿Qué llamas vello? Ni oíllo.)
+TELLO:
+[([A Perejil]]
+    Enamorado estoy della
+    y he de quitársela infiel.)
+PEREJIL:
+[([A Tello]]
+    Y si lo estuvieras dél,
+    ¿se le quitaras a ella?)
+TELLO:
+    Ya está mi gente avisada.
+    Rodrigo, al jardín entremos,
+    que allí al cura esperaremos.
+RODRIGO:
+    No hay que replicaros nada.
+    Entrad vosotros delante.
+    Aplaudid con vuestro acento
+    mi ventura y mi contento.
+PEREJIL:
+    Dios te lo lleve adelante.
+[Va entrando la música y, al llegar la novia al paño, salen de dentro enmascarados y róbanla]
+MÚSICOS:
+    Alegraos ahora […],
+    [campos de Alcalá,
+    que madrina y novia bellas
+    sol y luna os dan].
+[ENMASCARADO] 1:
+    Al coche, amigos.
+MARÍA:
+    ¿Qué es esto?
+    ¡Esposo! ¡Señor!
+RODRIGO:
+    ¡Qué miro!
+    ¡Cielos, sin alma respiro!
+TELLO:
+    ¿Quién tal traición ha dispuesto?
+RODRIGO:
+    ¡Que me roban a mi esposa!
+TELLO:
+    Sigamos estos traidores.
+[Van[se] sacando las espadas]
+PEREJIL:
+    ¡Presto, por Cristo, señores!
+    ¡Que se escapan! ¡Linda cosa!
+LEONOR:
+    ¡Ay, Inés!, que esta traición
+    es sin duda de don Tello.
+INÉS:
+    ¿Pues ahora caes en ello?
+    Y con aquesta intención
+    contigo el casarse excusa.
+LEONOR:
+    ¡Cielos, que no haya castigo
+    para tan fiero enemigo
+    que vuestra justicia acusa!
+INÉS:
+    ¡Ay, señora! Don Rodrigo
+    con todos ellos embiste
+    y le han de matar. ¡Ay, triste!
+[Dentro, doña María]
+MARÍA:
+    Esposo.
+RODRIGO:
+[(Dentro)]
+    En vano te sigo,
+    mas moriré por mi honor.
+[ENMASCARADO] 1:
+    Tiralde, ¿qué os detenéis?
+TELLO:
+    Dejalde. No le matéis.
+RODRIGO:
+    Éste es más fiero rigor.
+    ¿Por qué me dejáis la vida
+    si el alma me habéis quitado?
+INÉS:
+    Sin las armas le han dejado
+    y, sin haber quien lo impida,
+    se la llevan.
+LEONOR:
+    ¡Que mi brío
+    para vengar no sea bueno
+    un agravio, que, aunque ajeno,
+    resulta en desprecio mío!
+    Al rey irán mis enojos
+    y, si justicia no alcanza,
+    apelaré a la venganza
+    del veneno de mis ojos.
+    Ven, Inés.
+INÉS:
+    Señora, espera,
+    que aquí viene don Rodrigo.
+LEONOR:
+    Sin vengarle, ser testigo
+    de su dolor no quisiera.
+[Sale don Rodrigo]
+RODRIGO:
+    ¿Dónde se esconden los rayos
+    de vuestra justicia, cielos,
+    si el dolor de mi deshonra
+    no halla su venganza en ellos?
+    De las llamas que respiro,
+    pues no me abrasa el incendio,
+    o tengo el pecho de bronce
+    o me han quitado el aliento.
+LEONOR:
+    ¿Adónde vais, don Rodrigo?
+RODRIGO:
+    ¡Ay de mí!, que no lo siento,
+    pues veo, hermosa Leonor,
+    que ésta es traición de don Tello,
+    porque el coche en que a mi esposa
+    los alevosos metieron,
+    era suyo, y sus crïados
+    los cómplices de su yerro.
+    Claro es que otros no serían,
+    que no hubiera atrevimiento
+    que en su quinta lo emprendiera,
+    cuando al Rey menos respeto
+    tienen en toda esta tierra
+    que a este tirano soberbio.
+    Al desaire de mi afrenta,
+    el de quitarme el acero
+    añadieron atrevidos,
+    para que, clamando al cielo,
+    incapaz de mi venganza,
+    llore imposible el remedio.
+    Tristes campos de Alcalá,
+    abrid vuestro obscuro centro
+    para dar sepulcro a un vivo
+    que, sin su honor, está muerto.
+    Piadosas aguas de Nares
+    llevadme en llanto deshecho;
+    caed sobre mi deshonra,
+    desnudos y ásperos cerros.
+LEONOR:
+    Don Rodrigo, en vano sueltas
+    la rienda a tu sentimiento,
+    y más cuando en mi desdicha
+    tienen tus males consuelo.
+    No hay sentimiento más noble
+    que procurar el remedio.
+RODRIGO:
+    Bien dices, Leonor, bien dices.
+    A Madrid el rey don Pedro
+    pasa de Guadalajara,
+    donde está agora asistiendo.
+    Sólo hay este tribunal
+    para el poder de don Tello.
+    Bañará sus reales plantas
+    mi llanto. Y pues justiciero
+    se llama contra la voz
+    que crüel le hace y sangriento,
+    haga crédito el castigo
+    de un agravio tan violento.
+LEONOR:
+    Y yo te he de acompañar
+    por que agrave a un mismo tiempo
+    con mi queja su delito.
+RODRIGO:
+    Pues, si hemos de ir, no tardemos.
+INÉS:
+    También yo iré con vosotros,
+    que a este lobo carnicero
+    vosotros daréis la queja
+    de la pierna; yo del hueso
+    que dan por añadidura.
+[Conde dentro]
+CONDE:
+    Por acá al llano.
+LEONOR:
+    ¿Qué es esto?
+[Sale el conde de Trastamara y Mendoza]
+CONDE:
+    Mendoza, el Rey nos alcanza
+    y, si en sus manos me veo,
+    no está segura mi vida.
+    Los caballos se rindieron.
+    De la espesura del valle
+    nos valgamos. Encubiertos
+    pasaremos aquí el día.
+MENDOZA:
+    Ése sólo es el remedio.
+CONDE:
+    Vamos, Mendoza. ¡Ay, hermano!
+    ¡Ay, ingrato rey don Pedro!
+    ¿Por qué a tu sangre persigues?
+MENDOZA:
+    Vamos, señor.
+CONDE:
+    Vamos presto.
+[Vanse]
+LEONOR:
+    ¿Qué será esto, don Rodrigo?
+RODRIGO:
+    Siguiendo estos caballeros
+    viene por aquel camino
+    otro, en un caballo corriendo
+    con tal furia que en sí mismo
+    tropezó.
+[Dentro, el Rey]
+[REY]:
+    ¡Válgame el cielo!
+[[Entra el Rey]]
+RODRIGO:
+    Ir a socorrerle es fuerza.
+REY:
+    Ya sobra el socorro vuestro,
+    pues queda muerto y yo libre.
+[([Ap]]
+    ¡Que le estorbe a mi deseo
+    la fortuna, la venganza,
+    cuando con razón me ofendo
+    de tan aleves hermanos!
+    Ya Enrique de mi despecho
+    se libró, pues el caballo
+    tras él reventó corriendo.)
+RODRIGO:
+    ¿Os habéis hecho algún daño?
+    Reparaos.
+REY:
+    No, caballero.
+    ¿Qué sitio es éste?
+RODRIGO:
+    Es el campo
+    de Alcalá.
+REY:
+    ¿Estará muy lejos?
+RODRIGO:
+    Media legua.
+REY:
+    Y esta quinta,
+    ¿de quién es?
+RODRIGO:
+    Es de don Tello,
+    el ricohombre de Alcalá,
+    que por su poder soberbio
+    no le podéis ignorar.
+REY:
+    ¿Por su poder?
+RODRIGO:
+    Aqu[í] es menos
+    el del Rey.
+REY:
+    ¿Menos que el suyo?
+RODRIGO:
+    Según le temen, es cierto.
+REY:
+    Nunca le he oído decir.
+RODRIGO:
+    No seréis vos deste reino.
+REY:
+    Sí soy, mas los que asistimos
+    al Rey y siempre le vemos,
+    otro poder ignoramos.
+RODRIGO:
+    ¿Luego vos le asistís? (¡Cielos,
+    si dais luz a mi venganza!)
+REY:
+    Y por venirle siguiendo,
+    que a Madrid pasa esta noche,
+    le apresuré tan violento
+    que reventó ese caballo.
+    Mas, según le alabáis, creo
+    que sois vos crïado suyo.
+RODRIGO:
+    No soy sino quien intento
+    vengarme de sus agravios.
+    Y otro tribunal no tengo
+    sino el del Rey, y si vos
+    le asistís y es tan adentro
+    que me hagáis ser escuchado,
+    os deberé mi remedio.
+REY:
+    Y estas señoras, ¿quién son?
+LEONOR:
+    Quien deste tirano dueño
+    lloran también las injurias.
+INÉS:
+    Y yo, señor, punto menos
+    las lloro de su lacayo,
+    con que son más duraderos
+    mis agravios.
+REY:
+    Pues ¿por qué?
+INÉS:
+    Porque yo en paja los tengo.
+REY:
+    ¿Y no hay para ellos castigo?
+LEONOR:
+    Sólo podrá darle el cielo,
+    que el Rey no será bastante.
+REY:
+[([Ap]]
+    ¡Qué viviendo el rey don Pedro
+    esto se diga en Castilla!
+    Mucho ignoro de mis reinos.)
+    ¿Pues por qué no podrá el Rey?
+INÉS:
+    Porque es crüel y sangriento
+    y no nos hará justicia,
+    que antes se holgará al saberlo
+    de ver que haya quien le imite.
+REY:
+    Ésa es voz del vulgo ciego
+    que con lo crüel confunde
+    el nombre de justiciero,
+    porque él solo poner supo
+    a la justicia el respeto.
+    Y por que lo conozcáis,
+    yo os haré escuchar dél mesmo
+    y sabréis si hace justicia.
+LEONOR:
+    La vida y el alma os debo
+    si eso hacéis.
+REY:
+    ¿Pues cómo ha sido
+    vuestro agravio?
+LEONOR:
+    Eso reservo
+    para el oído del Rey.
+REY:
+    Yo le asisto tan adentro
+    y tanto fía de mí
+    la corona y el gobierno,
+    que, en decírmelo, podéis
+    pensar que habláis con él mesmo.
+LEONOR:
+    Pues si ese favor nos dáis,
+    generoso caballero,
+    Doña Leonor de Guevara
+    soy yo, cuyos padres muertos,
+    quedé en Alcalá al abrigo
+    de un copioso heredamiento
+    que en este lugar fundaron
+    mis ricos nobles abuelos.
+    Sola, hermosa, moza y rica,
+    ya veréis los casamientos
+    que unidos me ofrecerían
+    la codicia y el deseo.
+    Mas siendo mirada un día
+    del tirano de don Tello,
+    le ocasionó mi hermosura
+    a seguir mi galanteo.
+    Quedé yo sin elección,
+    pues, por temor o respeto,
+    cuantos mi amor pretendían
+    olvidaron el empeño.
+    Dél solamente asistida,
+    escuchaba sus afectos
+    y él, que horrorosa al principio,
+    me hizo el trato lisonjero,
+    porfïó en decirme amores,
+    finezas y rendimientos,
+    con que me venció. Así entonces
+    advertir supiera el pecho
+    que era el rendimiento falso,
+    que en este injusto trofeo
+    sólo se rinde el amor
+    por lograr el vencimiento.
+    En fin, con tantas porfías,
+    persuadida del ejemplo
+    de otras que hicieron lo mesmo,
+    me resolví a un desacierto.
+    ¡Ah, ciego engaño!, que todos,
+    para cometer un yerro,
+    ven los que erraron, y olvidan
+    a los que se arrepintieron.
+    Mano y palabra de esposo
+    me dio, y con ella… No puedo
+    pasar de aquí con la voz.
+    Mas bien podéis entenderlo,
+    que no se puede dudar
+    cuál sería mi suceso,
+    pues, de vergüenza, le explico
+    con la frase del silencio.
+    El hielo de mi desdén
+    desde aquí se trocó en fuego.
+    Precipiteme a quererle.
+    No sé si lo hizo el afecto,
+    o el trato o la obligación,
+    o el mirarle como a dueño
+    o si desto no fue nada.
+    Sin duda fue lo más cierto
+    que, para estar más galán,
+    le adornó mi mismo exceso
+    con la joya de mi honor
+    que mi error puso en su pecho.
+    La llama que en mí crecía
+    en su amor iba muriendo.
+    Sin duda hay en el amor
+    cantidad fija de fuego
+    y, cuando ésta se reparte
+    con igualdad en dos pechos,
+    ni uno ni otro quiere mucho
+    y, si se aviva uno dellos,
+    lo que uno crece, otro mengua.
+    Y aquella parte de incendio
+    que va creciendo en el uno,
+    falta al otro, con que es cierto
+    que tiene coto esta llama,
+    que le debe de supuesto
+    que nunca se ven iguales
+    dos ardores con extremo.
+    Deste natural discurso
+    fue nuestro amor vivo ejemplo,
+    porque creció tanto el mío
+    que el suyo se volvió en hielo.
+    Iba sin gusto a la mesa,
+    tarde y con cansancio al lecho.
+    De la falta del cariño
+    era la disculpa el sueño.
+    Siempre costaba un disgusto
+    hablar en mi casamiento.
+    Yo le halagaba rendida.
+    Le acariciaba, severo.
+    Daba a un desaire un cariño
+    por no irritarle a un despecho,
+    que cordura es menester
+    para conservar sin riesgo
+    a quien no ama, cuando tiene
+    tan cerca de sí el desprecio,
+    porque hay muy poco en los hombres
+    de lo tibio a lo grosero.
+    Bien se vio en él, pues llegando
+    la ocasión de haberme hecho
+    hoy madrina de una boda
+    que apadrinaba don Tello,
+    grosero, ingrato y tirano
+    me desengañó diciendo
+    que no había de casarse
+    conmigo, y al mismo tiempo,
+    viniendo ya don Rodrigo,
+    que es aquese caballero,
+    con su esposa al desposorio,
+    sin Dios, sin ley, sin respeto...
+RODRIGO:
+    Ése agravio a mí me toca,
+    mas no sé si tendré aliento
+    para decir que, tirano,
+    me robó mi esposa. ¡Cielos!,
+    ¿cómo a tan grande maldad
+    sordo está el castigo vuestro?
+    En fin, señor, con mi esposa
+    me quitaron el acero
+    y, sin poder apelar
+    desta traición sino al cielo,
+    del modo que nos halláis
+    nos dejó el bárbaro fiero
+    sin vida, sin ser, sin honra,
+    donde, a vuestras plantas puestos,
+    solicitamos que al Rey,
+    pues sois tan suyo, lleguemos
+    donde escuche nuestro agravio,
+    aunque venganza no espero.
+REY:
+[([Ap]]
+    ¡Que haya esta gente en Castilla
+    y no me den cuenta dello,
+    y que me llamen crüel
+    por castigar sus excesos!)
+    ¿No hay justicia en Alcalá?
+INÉS:
+    ¿Pues agora dudáis eso?
+    Es lugar estudiantino
+    y, si alguno hace un mal hecho,
+    en partiéndose [a] Alcalá
+    es lo mismo que a un convento.
+REY:
+    ¿Su corregidor u alcalde,
+    por un delito tan feo,
+    no irá a prender a ese hombre?
+INÉS:
+    Bien, que si allá el prendimiento
+    fuera de Gesemaní
+    en chusma de fariseos,
+    los hiciera a todos Malcos,
+    aunque nunca fuese Pedro.
+REY:
+[([Ap]]
+    ¡Cielos! ¿Qué hombrecillo es éste?
+    A ir a verle estoy resuelto.)
+    Señora, ¿estáis en su casa?
+LEONOR:
+    Yo no sé si hallaré abierto
+    cuando le vaya a buscar.
+REY:
+    Pues allá estad, que yo quiero
+    pasar por allá esta tarde
+    para ver si con él puedo
+    que os vuelva a vos vuestra esposa
+    y os logre a vos el deseo.
+RODRIGO:
+    Yo sólo he de hablar al Rey.
+REY:
+    Pues id a Madrid, que luego
+    yo haré que el Rey os dé audiencia.
+RODRIGO:
+    Pues la palabra os aceto.
+[Sale don Gutierre y criados]
+GUTIERRE:
+    ¿Pero aquí está, gran señor?
+REY:
+[([A Gutierre]]
+    Calla, Gutierre, que intento
+    no ser aquí conocido.)
+    ¿Va el Rey adelante?
+GUTIERRE:
+    El viento
+    desmintiendo en un caballo.
+REY:
+    Pues a seguirle pasemos.
+LEONOR:
+    En vos, señor, voy fïada.
+[[Vase]]
+REY:
+    Veréis lo que hará mi ruego.
+    ¿Qué ricohombrecillo es éste
+    que teme tanto este pueblo?
+    Vamos, Gutierre. Por verle
+    me va matando el deseo.
+[Vanse y salen músicos, doña María, don Tello y Perejil]
+MÚSICOS:
+    A mejorar su fortuna
+    la bella Amarilis viene,
+    dando a Tirso los aplausos
+    que Riselo no merece.
+MARÍA:
+    Pues si no está aquí mi esposo,
+    yo supliré su presencia
+    y con desdén riguroso
+    resistiré la violencia
+    de un tirano poderoso.
+TELLO:
+    ¿Qué es lo que dices, mujer?
+    Siendo tuyo ese favor,
+    ¿qué resistencia has de hacer?
+    ¿A ti no te está mejor
+    lo que es mejorar de ser?
+    ¿A hacerte yo esposa mía
+    te resistes? ¿Pues qué habrá
+    desde el que suya te hacía
+    hasta don Tello García,
+    el ricohombre de Alcalá?
+    Dueño de cuanto poseo,
+    ¿no te viene a hacer mi amor
+    que, cuando ese campo veo
+    diez leguas alrededor,
+    por nada ajeno paseo?
+    ¿No miras cumbres y llanos,
+    que, en sembrados diferentes
+    para enriquecerme ufanos,
+    me crece el oro en los granos
+    la plata de sus corrientes?
+    Del sol contra los rigores
+    que sale flechando ardores,
+    ¿no miras montes y prados,
+    por el estío nevados
+    de mis ganados menores,
+    que juzgan, según violentos
+    bajan la tarde sedientos
+    al valle donde agua tienen,
+    que en mariposas se vienen
+    abajo los elementos?
+    Villas, lugares, castillos
+    tengo tantos que, al mandallos,
+    me embarazo con oíllos,
+    que el número, al referillos,
+    bastaba para vasallos.
+    Y estas grandezas, no dadas
+    por merced de ningún rey,
+    sino con sangre ganadas
+    en aumento de la ley,
+    de los moros a lanzadas.
+    La renta desta riqueza,
+    con que yo nada codicio,
+    en mi pródiga largueza
+    sobra para mi grandeza
+    y basta a mi desperdicio.
+    Y aunque tant[o] maravilla
+    mi poder, mi sangre pasa
+    a más triunfo, que en Castilla
+    vio ricoshombres mi casa
+    antes que reyes su silla.
+    ¿Tu ignorancia esto desprecia?
+    Mira si, con causa poca,
+    la razón, que es quien lo aprecia,
+    te llama, al dejarlo, necia
+    y, al no procurarlo, loca.
+MARÍA:
+    Todo ese poder, señor,
+    que junto habéis referido,
+    es en mi aprecio menor
+    que el halago del marido
+    a quien tenga justo amor.
+TELLO:
+    ¿A un pobre hidalguillo metes
+    en estimación?
+PEREJIL:
+    Es dada
+    a querer estos pañetes.
+    ¿No había de ser honrada
+    mujer que quiere a pobretes?
+TELLO:
+    Todo mi amor lo atropella.
+MARÍA:
+    Que no he de casarme digo.
+PEREJIL:
+    Pues ¿qué importa en su querella
+    que no se case contigo
+    si tú te casas con ella?
+TELLO:
+    Dices bien. Cantad en tanto
+    que me desposo.
+MARÍA:
+    ¡Ay de mí!
+PEREJIL:
+    Cantad al son de su llanto,
+    que bien merece que aquí
+    le den todos con un canto.
+MÚSICOS:
+    A mejorar su fortuna
+    [la bella Amarilis viene,
+    dando a Tirso los aplausos
+    que Riselo no merece.]
+[Sale un criado]
+CRIADO:
+    Señor, a vuestros umbrales
+    un caballero se apea
+    que dice que viene a veros.
+TELLO:
+    Entre muy en hora buena,
+    que a nadie que viene a verme
+    tengo cerradas mis puertas,
+    y más hoy, que en este gusto
+    quiero que todos me vean.
+    Sillas a mí y a mi esposa.
+[([A María]]
+    Sentaos, que así recibiera
+    al mismo Rey.)
+[Sale el Rey]
+CRIADO:
+    Ya está dentro.
+[([Ap]]
+    Buen talle.)
+TELLO:
+[([Ap]]
+    Buena presencia.)
+MARÍA:
+[([Ap]]
+    Que yo calle aquí es forzoso
+    por no irritar su violencia.)
+REY:
+[([Ap]]
+    Sentado se está el grosero
+    sin saber quién es el que entra.
+    Estoy por echarle a coces
+    a rodar. Pero aquí es fuerza
+    disimular y encubrirme,
+    por que su castigo sea,
+    para después, escarmiento
+    destas tiranas cabezas.)
+    Deme su mano vusía.
+TELLO:
+    Cúbrase, hidalgo.
+REY:
+    Eso es fuerza,
+    que no hablo yo descubierto
+    con quien sentado me llega
+    a recibir.
+TELLO:
+    Taburete.
+REY:
+    ¿Esto más?
+PEREJIL:
+    Y eso agradezca,
+    que mi amo no da asiento
+    ni aun a ginoveses.
+REY:
+    Venga.
+TELLO:
+    Dos sillas tengo: la una
+    ocupa mi esposa bella
+    y otra yo. Mas no os admire,
+    que ricoshombres apenas
+    dan silla al rey en sus casas.
+REY:
+    Ya lo veo, que es grandeza.
+    Y así elijo lo que es mío.
+TELLO:
+    Aunque su buena presencia
+    quién es nos dice, ¿en qué altura
+    de hidalgo se halla?
+REY:
+    Aguilera
+    de la Montaña.
+TELLO:
+    Escuderos
+    son de mi casa. ¿Y qué intenta?
+REY:
+    Al Rey sigo por un pleito.
+TELLO:
+    Habiendo espadas, ¿quién deja
+    gastar su hacienda en proceso?
+REY:
+    La ley es bien que obedezca.
+    Ya el Rey en Madrid está.
+TELLO:
+    Con doña María, su prenda,
+    nos vendrá a dar buen ejemplo.
+REY:
+    Ya es su esposa y nuestra reina.
+    Y al que no hablare en sus partes
+    con decoro y con decencia,
+    con mi espada…
+[Levántase]
+TELLO:
+    Bueno está.
+    Brío el hidalguejo muestra.
+    Mucho quiere al Rey.
+REY:
+    Sí quiero.
+TELLO:
+    Siéntese el buen Aguilera.
+    ¿Que está ya en Madrid el Rey?
+[Siéntase]
+REY:
+    Si vuseñoría le espera,
+    ya puede pasar a verle.
+TELLO:
+    Cuando el Rey valerse quiera
+    de mí para alguna cosa,
+    vendrá a verme y hacer venta
+    en mi casa, donde yo,
+    a los reyes que aquí llegan,
+    como a parientes regalo
+    y hospedo. Y aun se me acuerda
+    que a don Alonso, su padre,
+    hospedó esta cuadra mesma
+    más de una vez, cuyas glorias…
+    ¡Ah, qué rey Alfonso era!
+    Mas hoy su hijo las infama.
+REY:
+    Tenga vusía. Y advierta
+    que hable bien del rey don Pedro,
+    que es su rey, y aunque no fuera
+    su rey, es tan mal sufrido
+    que le cortara la lengua
+    a saber cómo habla dél.
+[Levántase]
+PEREJIL:
+    ¡Crïados!
+TELLO:
+    Tente. ¿Qué intentas?
+PEREJIL:
+    Matalde.
+REY:
+    Mi Rey defiendo.
+    Contradígalo quien quiera.
+PEREJIL:
+    ¡Escuderos!
+TELLO:
+    No los llames.
+    Loco, necio, ¿en mi presencia
+    hablas tú? Si dar castigo
+    a su osadía quisiera,
+    ¿no bastaba yo?
+REY:
+    No sé.
+TELLO:
+    ¡Ea!, que la intención buena
+    y el buen celo de su Rey
+    le disculpan. No le ofendan.
+    Sosegaos.
+REY:
+    Soy buen vasallo,
+    ¡vive Dios!
+TELLO:
+    Sin jurar.
+REY:
+    Sea.
+TELLO:
+    Mucho quiere al Rey.
+REY:
+    Es ley.
+TELLO:
+    Siéntese el buen Aguilera.
+REY:
+    Perdonadme, que ésta ha sido
+    locura de la nobleza
+    de vasallo.
+TELLO:
+    Yo lo soy
+    también del Rey, y se precia
+    de leal más que ninguna,
+    mi sangre. Díganlo empresas
+    de mis ilustres agüelos.
+    Y por esta razón mesma,
+    me ha parecido gloriosa
+    aquí la osadía vuestra.
+    Dadme esa mano.
+REY:
+    Los nobles
+    deben de hablar con decencia
+    de los reyes, porque son
+    las deidades de la tierra
+    y en ella los pone Dios.
+    Y su imagen representa
+    tanto el bueno como el malo,
+    pues, como a él se reserva
+    su soberano secreto,
+    nos le da su providencia
+    malo cuando nos castiga,
+    y bueno cuando nos premia.
+    Pero dejando esto aparte,
+    la gloriosa fama vuestra,
+    pasando por vuestra casa,
+    me dio deseo de verla.
+    Y en lo que el lugar os ama,
+    ha quedado satisfecha
+    la opinión que yo traía.
+TELLO:
+    Todo Alcalá me venera
+    con mucho amor.
+REY:
+    Y en él dicen
+    que menos al Rey respetan.
+TELLO:
+    Por acá, hidalgo, conocen
+    por sello o firma a Su Alteza.
+    Y es con mi consentimiento
+    alguna vez que obedezcan
+    su firma.
+REY:
+[[Ap]]
+    (¡Válgame Dios!
+    ¿Viose tan gran desvergüenza?
+    Si a puntapiés no le mato,
+    es por que más logro tenga
+    el blasón de Justiciero,
+    que, si no, aquí yo le hiciera
+    ver quién soy.)
+LEONOR:
+[(Dentro)]
+    Dejadme entrar.
+CRIADO:
+    No hay lugar.
+LEONOR:
+    Aunque no quieran,
+    he de entrar.
+TELLO:
+    ¿Qué ruido es éste?
+    ¿Quién es? ¿Quién viene? ¿Quién entra?
+[Salen Leonor y Inés]
+LEONOR:
+    Quien viene a cobrar su honor,
+    aunque le neguéis la deuda.
+PEREJIL:
+    Venga el papel y veamos
+    si está cumplida la letra.
+TELLO:
+    Pues adonde está mi esposa,
+    ¿hay quien así a entrar se atreva?
+[REY]:
+    Si puede entrar quien pretende,
+    que quien lo ha de ser lo sea.
+[LEONOR]:
+    Caballero, este tirano
+    es quien me robó la prenda
+    mejor del alma, y agora
+    lo que prometió me niega,
+    faltando a Dios y a la ley,
+    y infamando mi nobleza
+    y quitando a otro su esposa.
+TELLO:
+    Pues decidme: ¿quién lo niega?,
+    ¿qué queréis?
+LEONOR:
+    Que no os caséis.
+MARÍA:
+    No os toca esa diligencia
+    a vos, Leonor, sino a mí,
+    que, aunque mil muertes me dieran,
+    no me casaria con él.
+TELLO:
+    ¡Vive Dios!, ingrata, necia,
+    que, aunque el mismo Rey lo mande,
+    lo has de ser. Y ya que aprecias
+    más que a mí un pobre hidalguillo,
+    a pedazos mi violencia
+    te le ha de sacar del alma.
+PEREJIL:
+    ¿Y habrá, como sacamuelas,
+    sacahidalgos?
+REY:
+[([Ap]]
+    ¡Que esta injuria
+    escuche yo y la consienta!
+    Mas llegará su castigo.)
+TELLO:
+    Yo truje una pasión ciega
+    que fue solamente antojo
+    de esta mujer. Y logrela
+    porque ella lo permitió,
+    presumiendo, loca y necia,
+    que había de ser su esposo.
+    Doyle de toda mi hacienda
+    lo que quisiere. Y porfía
+    que me he de casar con ella.
+REY:
+    Pues, señora, si don Tello
+    anda con tanta largueza
+    con vos, ¿qué más le pedís?
+LEONOR:
+[([A Inés]]
+    Inés, no ha estado muy buena
+    la intercesión.)
+INÉS:
+[([A Leonor]]
+    Todo es miedo.)
+LEONOR:
+    Pues teniendo al Rey tan cerca,
+    a su tribunal apelo
+    que su tiranía suspenda.
+MARÍA:
+    No será eso menester
+    donde está mi resistencia.
+TELLO:
+    Echad de aquí a esas mujeres.
+LEONOR:
+    ¡Buen padrino trae mi pena!
+TELLO:
+    Siempre en los reyes se teme,
+    más que la espada, la alteza.
+REY:
+    Pues de don Pedro se dice
+    que es bizarro.
+TELLO:
+    Eso se cuenta
+    por haber muerto un cantor
+    y un clérigo.
+REY:
+    Aunque así sea,
+    todos son hombres.
+TELLO:
+    No todos
+    son ricoshombres.
+REY:
+[([Ap]]
+    Suspensa
+    dejo mi venganza agora
+    para que castigo sea.)
+LEONOR:
+    Ven, Inés. Vamos al Rey.
+[[Vanse]]
+TELLO:
+    Andad muy en hora buena.
+    Retiraos todos adentro.
+    Y mis bodas se suspendan,
+    que hoy es todo azar y enojos.
+MARÍA:
+    ¡Cielos, en tanta violencia,
+    pues otro amparo no tengo,
+    válgame la piedad vuestra!
+PEREJIL:
+    ¡Ea! ¿Qué aguardáis aquí?
+TELLO:
+    Hidalgo, si hacer desea
+    noche en Alcalá, en mi casa
+    se quedará, mas advierta
+    que es con una condición.
+REY:
+    ¿Qué?
+TELLO:
+    Que a nadie doy mi mesa.
+REY:
+    Dios guarde a vuseñoría,
+    que yo acetara sin ella
+    el favor, y a no pasar
+    a Madrid algo depriesa.
+TELLO:
+    Pues adiós.
+REY:
+    Guárdeos el cielo.
+TELLO:
+    Véngame a ver cuando vuelva,
+    que me ha parecido, cierto,
+    buen hombre el buen Aguilera.
+[[Vase]]
+PEREJIL:
+    Véngame a mí a ver también,
+    que yo le tendré a la vuelta
+    de Alcalá al pasar el río.
+REY:
+    ¿Qué tendrás?
+PEREJIL:
+    La barca puesta.
+REY:
+    Dios os guarde.
+PEREJIL:
+    No acompañe.
+    Qúedese el buen Aguilera.
+[Vanse]
+REY:
+    ¡Cielos, que esto haya en Castilla
+    y haya tenido paciencia
+    para no matarle a coces!
+    Mas mi majestad me deba
+    este noble sufrimiento,
+    que yo haré que en su cabeza
+    los que me llaman crüel
+    por justiciero me tengan.
+
+JORNADA 2
+
+[Salen el Rey, don Gutierre]
+GUTIERRE:
+    Esto Toledo ha pedido.
+REY:
+    ¿Mi hermano Enrique se ampara
+    de Toledo?
+GUTIERRE:
+    A Trastamara
+    pasaba y le ha detenido
+    la ciudad, creyendo en vano,
+    fiada de glorias tantas,
+    que, poniéndose a tus plantas,
+    vuelva a tu gracia tu hermano.
+    Ésta es su carta.
+REY:
+    No puedo
+    templar con él mi pasión.
+    No es mala la intercesión,
+    que estimo mucho a Toledo.
+GUTIERRE:
+    Ésta es del Conde, tu hermano.
+REY:
+    Guardalda para después.
+    Poderoso afecto es
+    la ira de un pecho humano.
+    De tres hermanos estoy
+    enojado y ofendido.
+    Sólo mi furor olvido
+    cuando miro lo que soy.
+    Mis reinos alborotados
+    hoy por su causa se ven.
+    Yo haré que quietos estén,
+    cuando queden arrancados,
+    por que tumulto no haya,
+    de Geromena, Fadrique,
+    y de Astorga, don Enrique
+    y don Tello, de Vizcaya.
+    ¿Alcalá se despachó?
+GUTIERRE:
+    Ya viene Tello García.
+REY:
+    ¡Que este hombre en mi reino había
+    y no lo supiese yo!
+    Mas como vivo en Sevilla,
+    de quien Alcalá está lejos,
+    ve sólo el sol en reflejos
+    esta parte de Castilla.
+GUTIERRE:
+    Dicen que es hombre valiente.
+REY:
+    Yo lo he oído. Y cuando veo
+    que él lo publica, lo creo
+    muy dificultosamente.
+GUTIERRE:
+    Diez hombres juntos escucho
+    que huyan de sólo su espada.
+REY:
+    Si son pícaros, no es nada,
+    y, si son hombres, es mucho,
+    porque si tienen alientos,
+    reñir con dos es blasón,
+    y cuando pícaros son,
+    lo mismo es diez que ducientos.
+    Mirad quién espera audiencia.
+GUTIERRE:
+    Ya, señor, entrando van.
+[Sale un soldado y un contador]
+SOLDADO:
+    Yo, señor, soy capitán,
+    que veinte años de experiencia
+    que en la guerra con el moro
+    a hambre y sed me han enseñado,
+    que hallar no puede el soldado
+    la piedra de hacer el oro,
+    pues deseando tener
+    con que pasar como honrado,
+    aunque mi sangre he sembrado,
+    no he cogido qué comer.
+    Y siempre con las divisas
+    de que cubierto me hallas,
+    he reñido más batallas
+    que me he mudado camisas.
+    Algún modo de vivir
+    por tantos servicios pido,
+    que el que yo hasta aquí he tenido
+    es el modo de morir.
+REY:
+    Con cuidado quedo.
+SOLDADO:
+    O infiel
+    he sido o mal despachado,
+    pues cuanto yo he peleado
+    es por que vivas sin él.
+    Y es de entrambos molestado
+    cuando vengo a pretender,
+    irme yo sin qué comer
+    y quedar vos con cuidado.
+REY:
+    Bien está.
+CONTADOR:
+    Yo soy, señor,
+    de Vuestra Alteza premiado,
+    hijo de Andrés de Alvarado,
+    que fue vuestro contador.
+    Y porque os sirvió tan bien,
+    vuestra piadosa atención
+    me dio la administración
+    de alcabalas de Jaén.
+    Y para cuatro años van
+    que a este oficio asisto atento.
+REY:
+    No estaréis vos tan hambriento
+    como el pobre capitán.
+CONTADOR:
+    La de Murcia vacó ayer.
+    Y por mis servicios pido
+    me mejoréis de partido.
+REY:
+    ¿Y es servicio enriquecer?
+CONTADOR:
+    ¿Pues no os sirve mi cuidado?
+REY:
+    No es sino pedir de vicio,
+    pues me alegáis por servicio
+    lo que por premio os he dado.
+    Si justa merced fue aquélla
+    y la estáis gozando ya,
+    servirla bien servirá
+    de conservaros en ella.
+    No llaméis a la desdicha
+    y vuestro oficio gozad,
+    que el tener comodidad
+    no es menester, sino dicha.
+    A ese capitán le den
+    aquesa administración.
+SOLDADO:
+    Señor, es mucha razón.
+CONTADOR:
+    Miraldo, señor, más bien,
+    que no tendrá suficiencia
+    quien esto no ha ejercitado.
+REY:
+    Para estar acomodado
+    cualquiera tiene experiencia.
+[([Al Soldado]]
+    De ayuda de costa os den
+    docientos escudos luego.)
+SOLDADO:
+    Logres tu reino en sosiego
+    la edad de Matusalén.
+    Y pues hoy tal dicha gano,
+    sea cabal el interés
+    dándome, señor, los pies.
+REY:
+    No os daré sino la mano.
+[Dale la mano]
+SOLDADO:
+    Quedo, señor, que me muero.
+    Soltad, ¡voto a Dios!, u osado...
+REY:
+    Así quiero yo el soldado.
+SOLDADO:
+    Así yo los reyes quiero.
+[Vase. Sale don Rodrigo]
+RODRIGO:
+    A vuestras plantas, señor.
+    Mas, ¿qué miro?
+REY:
+    No os turbéis.
+    Alzad. Decid qué queréis.
+RODRIGO:
+    Reverencia es el temor,
+    pero ya habiéndoos mirado,
+    pues de mi queja noticia
+    tenéis, con pedir justicia
+    quedáis, señor, informado.
+REY:
+    Que digáis la queja es ley.
+RODRIGO:
+    Ya que la sabéis infiero.
+REY:
+    La oí como pasajero
+    y la ignoro como rey.
+RODRIGO:
+    Pues, señor, Tello García,
+    el ricohombre de Alcalá,
+    aquel a quien nombre da
+    del poder la tiranía,
+    a mi esposa me robó
+    del modo que ya supisteis.
+REY:
+    Si vos se lo consentisteis,
+    también lo consiento yo.
+RODRIGO:
+    Quitome la espada y, ciego,
+    me atajó acción tan honrada.
+REY:
+    ¿Y os quitó también la espada
+    que pudisteis tomar luego?
+RODRIGO:
+    Yo de su poder no puedo,
+    señor, mi agravio vengar.
+REY:
+    Luego se viene a quejar
+    no la injuria, sino el miedo.
+RODRIGO:
+    Esto, señor, no es temer
+    sino el poder de su nombre.
+REY:
+    Y cuando está solo ese hombre,
+    ¿riñe con él el poder?
+RODRIGO:
+    Pues cuando justicia os pido,
+    ¿que riña con él mandáis?
+REY:
+    Yo no quiero que riñáis,
+    sino que hubierais reñido.
+RODRIGO:
+    No quise, aunque fuera airosa
+    la acción, darla esa malicia.
+REY:
+    No va contra la justicia
+    el que defiende a su esposa.
+    Y habiéndolo ya intentado,
+    de no haberlo conseguido
+    quedabais más ofendido,
+    mas veníais más honrado.
+    Que yo, atento a la razón,
+    podré mandarle volver
+    a ese hombre vuestra mujer,
+    pero no a vos la opinión.
+RODRIGO:
+    Pues cobrarala mi pecho.
+REY:
+    Ya os costará mi castigo
+    si lo hacéis, que agora os digo
+    que no estuviera mal hecho.
+    Andad, que su sinrazón
+    castigaré.
+RODRIGO:
+    ¿Y no podré,
+    pues sin ella quedaré,
+    cobrar yo antes mi opinión?
+REY:
+    Sí y no.
+RODRIGO:
+    ¿Pues cuál haré yo,
+    entre un sí y un no que oí?
+REY:
+    Don Pedro dice que sí
+    y el Rey os dice que no.
+RODRIGO:
+    Pues ya que en mi honor infiero
+    tal mancha, lavarla es ley,
+    que, aunque me amenaza rey,
+    me aconseja caballero.
+[Vase. Sale doña Leonor y Inés]
+LEONOR:
+    Si de la justicia el celo
+    al Rey, Inés, no le mueve,
+    no hay, a culpa tan aleve,
+    más tribunal que el del cielo.
+GUTIERRE:
+    Mirad que el Rey os espera.
+LEONOR:
+    Ya yo llego. Mas ¡ay, Dios!,
+    ¿éste es el Rey?
+REY:
+    ¿Quién sois vos?
+LEONOR:
+    Habiéndoos visto, quisiera
+    que vuestra piedad atenta
+    me escuchase, gran señor,
+    la vergüenza y el dolor
+    de referiros mi afrenta,
+    que, sin decir mi bajeza,
+    no puedo a Tello García
+    culpar, pues su tiranía
+    comienza de mi flaqueza.
+REY:
+    Basta, ya tengo noticia
+    de dónde su error comienza.
+    No os ha de costar vergüenza
+    el que yo os haga justicia.
+LEONOR:
+    Pues, señor, ya que sabéis
+    su delito y mi desdicha,
+    pues, a no ser él ingrato,
+    no fuera culpa la mía.
+    Ya que sé que sois testigo
+    de sus soberbias esquivas,
+    pues se atrevió su desprecio
+    a vuestra persona misma,
+    supondré en mi propia queja
+    la ofensa vuestra y la mía,
+    que, aunque a vos no llega el daño
+    con que yo soy ofendida,
+    la circunstancia se llega
+    que el que el honor tiraniza
+    de los humildes vasallos,
+    desprecia en vuestra justicia
+    el poder que los ampara
+    y el brazo que los castiga.
+    Y para que más os mueva[n]
+    las iras que os justifica[n],
+    que aun[…] en Dios las suponemos
+    cuando son justas las iras,
+    sabed, señor, que a esas plantas
+    me traen las lágrimas mías,
+    llorando más en mi afrenta
+    infamias que tiranías.
+    Apenas, señor, salí
+    de su casa despedida
+    con las injurias que visteis,
+    cuando a pedir, vengativa,
+    justicia de tanto agravio
+    mi justo enojo camina.
+    Y estando para Madrid
+    previniendo mi familia
+    el coche, con sus crïados
+    llegó don Tello García
+    y, maltratando los míos,
+    hasta mi persona misma
+    padeció el desprecio infame
+    de sus manos atrevidas.
+    Desjarretaron las mulas
+    y el coche hicieron astillas,
+    diciendo: «Si hay rey que pueda
+    castigar mis demasías,
+    entre las otras, de aquesta
+    venganza también le pidan.»
+    Yo, de su furor huyendo,
+    no busqué prevención digna,
+    que, no siendo la decente
+    posible, hallé la precisa.
+    Sin decoro, señor, vengo,
+    que no dejó mi desdicha
+    en mi honor ni en mi respeto
+    parte que no esté ofendida.
+    Defendedme, gran señor,
+    de quien no sólo me quita
+    el honor, pero también
+    la queja me tiraniza.
+    Porque mi dolor os busca
+    para quejarme, se irrita
+    y me dobla las afrentas
+    porque lloro mi desdicha.
+    Quitarle al dolor la queja
+    es la postrer tiranía,
+    que al golpe, señor, que hiere,
+    ¿quién el sonido le quita?
+    Deste agravio la venganza
+    a vos, señor, os obliga,
+    que vos sois el agraviado
+    aunque yo soy la ofendida.
+    A quien de satisfacerse
+    no es capaz, si bien se mira,
+    el agravio no le ultraja
+    aunque la ofensa le oprima.
+    En tanto la injuria afrenta
+    en cuanto, en quien la reciba,
+    hay respeto que se pierde
+    y riesgo que no se mira.
+    Por esto al que está sin armas
+    no le afrenta, aunque le irrita,
+    la injuria, porque le falta
+    el brazo que la resista.
+    Luego si en mí no hay poder
+    para resistir sus iras,
+    no es mi pecho a quien agravian,
+    aunque es él a quien lastiman,
+    sino el vuestro, porque, siendo
+    quien al humilde apadrina
+    y cuando en vos su defensa
+    es obligación precisa,
+    el que al inferior ultraja
+    pierde con su tiranía
+    a vuestro amparo el respeto
+    y el temor a la justicia,
+    que es en vuestra regia mano
+    la rienda con que caminan
+    con freno a los poderosos
+    y a los humildes con guía.
+    No se desboque, señor,
+    su soberbia a su malicia,
+    pues vuestro imperio asegura
+    que su furor le reprima.
+    Y no os fiéis del decoro
+    de vuestra soberanía,
+    que quien no os teme, señor,
+    os amaga, aunque no os tira.
+    Y cuando el caballo corre
+    desbocado, no peligra
+    solamente el que atropella,
+    sino el que lleva en la silla.
+    Caiga esta soberbia planta
+    que ya crece tan altiva
+    que, subiendo como tron[c]o,
+    ya como nube os eclipsa.
+    Y si como buen cultor
+    no está tan endurecida
+    que podáis cortar las ramas
+    de su soberbia, y se humilla
+    de suerte que no haga sombra
+    a las flores que marchita
+    por que la luz les usurpe,
+    dejándole las precisas,
+    cortad las ramas ociosas
+    y, sin ser estorbo, viva,
+    por que se enlace con él
+    la hiedra que se le arrima.
+    Pero por mi honor os pido
+    que templéis la medicina
+    sin usar de la violenta
+    hasta probar la benigna.
+    Córtese el brazo, señor,
+    si todo el cuerpo peligra,
+    mas no quede manco y feo
+    si a su sanidad no implica,
+    por que cuando a vuestras plantas
+    mis lágrimas solicitan
+    de mi dolor, el remedio,
+    de mi decoro, la vida,
+    la salud de mi dolencia
+    y el descanso a mis fatigas,
+    rey, padre y médico os halle
+    y, curando mi desdicha,
+    dando remedio a mi afrenta
+    y amparando mi justicia,
+    por vuestro honor mismo sea
+    regalo la medicina.
+REY:
+    Tan justo enojo provoca
+    en mi pecho esta noticia,
+    que me he menester yo todo
+    para refrenar mis iras.
+    Mas yo daré en su castigo
+    circunstancias tan medidas
+    a su tirana altivez,
+    que su soberbia se rinda.
+    Ya yo estoy bien informado
+    y espero a Tello García.
+    Esperalde vos también,
+    que, pues venís a pedirla,
+    hoy, antes que de palacio
+    salgáis, os haré justicia.
+[Vase]
+INÉS:
+    ¡Qué severidad, señora!
+    Si hace nuestra fantasía
+    la majestad en los reyes,
+    ¿por qué, cuando allá en la Villa
+    le vimos, me pareció
+    tan hombre que yo podía
+    determinarme a tentarle,
+    y acá es una estatua viva,
+    que yo pensé, al escuchalle,
+    que hablaba de la otra vida?
+LEONOR:
+    Tanto el oficio de rey
+    a la persona autoriza,
+    que se ve como deidad
+    al que como rey se mira.
+    Mas, ¡ay, Inés!, ¿no es don Tello
+    el que viene?
+INÉS:
+    Y su familia,
+    que es más que la de Noé.
+    Mas yo pienso que es la misma,
+    porque es todo cuanto hacen
+    efeto de lo que brindan.
+[Sale[n] don Tello, Perejil, don Gutierre y acompañamiento]
+GUTIERRE:
+    Desde aquí habéis de entrar solo.
+TELLO:
+    Un ricohombre de Castilla,
+    para entrar a hablar al Rey
+    con sus deudos se autoriza.
+    Todos han de entrar conmigo,
+    que esto es preeminencia mía.
+    Y caso que no lo fuera,
+    basta el ser de mi familia,
+    que vienen aquí escuderos
+    de nobleza tan antigua
+    que al Rey no le deben nada.
+PEREJIL:
+    Y el Rey es quien debería
+    si se ajustase la cuenta,
+    que aquí está una pobre hormiga
+    que tuvo un padre tan noble
+    que estuvo toda su vida
+    vertiendo sangre por él.
+GUTIERRE:
+    Muy gran soldado sería.
+PEREJIL:
+    No fue sino quien mataba
+    las aves de su cocina.
+TELLO:
+    Entren todos.
+GUTIERRE:
+    No entre nadie.
+[Cierran]
+    Echad ahí el golpe apriesa.
+    Aquí ha de salir el Rey.
+    Espere vuseñoría.
+[Vase]
+TELLO:
+    ¿Qué es que espere? ¿Yo esperar?
+    ¿Pues el Rey de mi venida
+    no estaba ya prevenido?
+    Cuando que venga me avisa,
+    ¿con tal desprecio me trata,
+    cuando a la persona misma
+    del conde de Trastamara,
+    su hermano, es igual la mía
+    en el asiento y el trato?
+    ¿Yo esperar?
+PEREJIL:
+    Si bien lo miras,
+    todo es llamarte judío.
+TELLO:
+    Volverse a Alcalá im[a]gina,
+    sin hablarle, mi despecho.
+PEREJIL:
+    Déjalo para otro día,
+    que ahora no querrá la guarda.
+TELLO:
+    ¿Qué guarda?
+PEREJIL:
+    ¿Qué? La amarilla,
+    que tiemblo della.
+TELLO:
+    ¿Por qué?
+PEREJIL:
+    Yo la tengo antipatía
+    porque es del color del miedo.
+TELLO:
+    ¡Qué a mí me cierren!
+PEREJIL:
+    Malicia
+    es cogerte en ratonera.
+    Y imagino…
+TELLO:
+    ¿Qué imaginas?
+PEREJIL:
+    Que han de soltarnos al gato.
+[[Entra Leonor]]
+TELLO:
+    Mas, ¿quién es?
+PEREJIL:
+    ¡Santa Lucía!
+    ¡Vive Dios, que éste es el queso!
+    Pescáronnos en la mi[n]a.
+TELLO:
+    ¿Quién es?
+PEREJIL:
+    ¿No sois vos Leonor?
+LEONOR:
+    Yo soy la desconocida,
+    don Tello, y vos el ingrato.
+TELLO:
+    ¿Vendréis a pedir justicia?
+LEONOR:
+    Sí, vengo.
+TELLO:
+    Bueno, por cierto.
+PEREJIL:
+    Pues ¿te espantas de que pidan?
+TELLO:
+    Pues por que os desengañéis,
+    ahora veréis lo que estima
+    el Rey hombres como yo,
+    en quien su imperio se fía.
+LEONOR:
+    No es dudable, pues os llama.
+PEREJIL:
+    ¿Cómo, llamar? Nos convida
+    a almorzar, que le han traído
+    tocino de Algarrobillas.
+INÉS:
+    Sí será, mas podrá ser
+    que os haga mal la comida
+    si coméis de convidados.
+PEREJIL:
+    Nadie en palacio se ahíta,
+    principalmente galanes,
+    que lo que comen, suspiran.
+LEONOR:
+    Con toda esa vanidad,
+    fío yo de la justicia
+    del Rey que nos haga iguales.
+TELLO:
+    ¿En qué?
+LEONOR:
+    En el distribuirla.
+TELLO:
+    ¿Qué es iguales?
+PEREJIL:
+    ¿Qué es iguales?
+    Igualársenos querían.
+    ¿Somos nosotros gazapos
+    o perdigones de rifa?
+LEONOR:
+    ¿Tan difícil es?
+PEREJIL:
+    Y tanto,
+    que más presto igualaría
+    unos órganos el Rey
+    que a mi amo con la misma
+    gran Cenobia ¿Qué es Cenobia?
+    Ni con la infanta Sevilla,
+    ni la Giralda, aunque fuera
+    más alta catorce picas,
+    ni aun quince.
+INÉS:
+    Mire que es falsa.
+PEREJIL:
+    Por eso ustedes envidan.
+TELLO:
+    Perejil, deja esas locas.
+LEONOR:
+    Inés, esta demasía
+    parará en mayor ultraje.
+    Quitémonos de su vista.
+INÉS:
+    Vamos, luego lo veredes.
+[Vanse]
+PEREJIL:
+    Agrajes lo pronostica.
+    Pero el Rey sale, señor.
+TELLO:
+    ¡Vive Dios!, que está corrida
+    mi vanidad de que el Rey
+    deste modo me reciba.
+[Sale don Gutierre y acompañamiento, y el Rey leyendo una carta todo el tablado, sin mirar a don Tello]
+GUTIERRE:
+    Ésa, señor, es su carta.
+REY:
+    Mucho mi hermano me obliga.
+TELLO:
+    Perejil, ¿qué es lo que veo?
+PEREJIL:
+    ¡Por las santas letanías!,
+    que es éste el buen Aguilera.
+TELLO:
+    ¿Quién es?
+PEREJIL:
+    Él es, por la pinta.
+TELLO:
+    Sin mí estoy de haberle visto.
+PEREJIL:
+    Ya te espera. Llega apriesa.
+[Lee el Rey]
+TELLO:
+    A vuestros pies, gran señor,
+    está don Tello García.
+[Vuélvele a mirar y prosigue. Lee el Rey]
+TELLO:
+[([Ap]]
+    ¿Qué puede ser esto? ¡El Rey
+    no me oye o no me mira!)
+PEREJIL:
+    Álcese el buen Aguilera.
+TELLO:
+    A vuestras plantas se humilla...
+[Lee el Rey]
+TELLO:
+    Si Vuestra Alteza, señor,
+    en mí no ha puesto la vista…
+PEREJIL:
+    Sordo está el buen Aguilera.
+TELLO:
+    Que me miréis os suplica.
+[Lee el Rey]
+TELLO:
+    Dé Vuestra Alteza la mano.
+[([Ap]]
+    ¿Esto conmigo se estila?)
+PEREJIL:
+    Siéntese el buen Aguilera.
+TELLO:
+    Si Vuestra Alteza no mira…
+[Lee el Rey]
+PEREJIL:
+    Tampoco el buen Aguilera
+    usa en su casa el dar silla.
+TELLO:
+    Señor, llamado de vos…
+REY:
+    ¿Quién es?
+TELLO:
+    Don Tello García.
+REY:
+    Guardad, Gutierre, esa carta.
+[Vase]
+PEREJIL:
+    Éste estilo es de Castilla.
+TELLO:
+    ¡Desprecio a mí! Ya se abrasa
+    el corazón con más veras.
+PEREJIL:
+    ¿Pues quién son los Aguileras?
+    ¿Escuderos de tu casa?
+TELLO:
+    ¿Pues no lo son?
+PEREJIL:
+    Ya lo infiero.
+TELLO:
+    En mi sangre es cosa extraña.
+PEREJIL:
+    Mas como es de la Montaña,
+    anda tonto éste escudero.
+TELLO:
+    ¿Con las vanidades mías
+    usa el Rey tal desagrado?
+PEREJIL:
+    Señor, le habrán ya informado.
+TELLO:
+    ¿De qué?
+PEREJIL:
+    De tus niñerías.
+TELLO:
+    Todos, con semblante esquivo,
+    no hicieron caso de mí.
+PEREJIL:
+    Sí, han hecho caso de ti,
+    pero ha sido acusativo.
+TELLO:
+    Pues desprecia mis trofeos,
+    cuando me haya menester
+    a Alcalá me vendrá a ver.
+    Vamos de aquí.
+[Sale el Rey]
+REY:
+    Deteneos.
+TELLO:
+    Señor, yo, por que resista
+    mi pecho a vos el favor…
+REY:
+    Quien no me tiene temor,
+    ¿cómo se turbó a mi vista?
+TELLO:
+    Yo no me turbo.
+PEREJIL:
+    Es verdad,
+    que como no ha consumado,
+    aún no está recién casado.
+REY:
+    Yo haré que os turbéis. Llegad.
+TELLO:
+    A vuestros pies, gran señor,
+    el guante se os ha caído.
+REY:
+    ¿Qué decís?
+TELLO:
+    Que yo he venido…
+REY:
+    ¿Dúdolo yo?
+TELLO:
+    Si es favor,
+    cuando a besaros la mano
+    vengo, que el guante perdáis…
+REY:
+    ¿Qué decís? ¿No me le dais?
+TELLO:
+    Tomad.
+REY:
+    Para ser tan vano,
+    os turbáis. ¿Qué os embaraza?
+TELLO:
+    El guante.
+[Dale el sombrero por el guante]
+REY:
+    Éste es el sombrero,
+    y yo de vos no le quiero
+    sin la cabeza.
+PEREJIL:
+    ¡Zaraza!
+REY:
+    En fin, ¿vos sois en la Villa
+    quien al mismo Rey no da
+    dentro de su casa silla?
+    ¿El ricohombre de Alcalá
+    que es más que rey en Castilla?
+    ¿Vos sois aquél que imagina
+    que cualquiera ley es vana?
+    ¿Sólo la de Dios es digna?
+    Mas quien no guarda la humana,
+    no obedece la divina.
+    ¿Vos quien, como llegué a vello,
+    partís mi cetro entre dos,
+    pues nunca mi firma o sello
+    se obedece, sin que vos
+    deis licencia para ello?
+    ¿Vos quien vive tan en sí
+    que su gusto es ley y, al vellas,
+    no hay honor seguro aquí
+    en casadas ni en doncellas?
+    ¿Esto lo aprendéis de mí?
+    Pues entended que el valor
+    sobra en el brazo del Rey,
+    pues sin ira ni rigor
+    corta, para dar temor,
+    con la espada de la ley.
+    Y si vuestra demasía
+    piensa que hará oposición
+    a su impulso, mal se fía,
+    que al herir de la razón
+    no resiste la osadía.
+    Para el rey nadie es valiente
+    [ni] a su espada la malicia
+    logra defensa que intente,
+    que el golpe de la justicia
+    no se ve hasta que se siente.
+    Esto sabed, ya que no
+    os lo ha enseñado la ley
+    que vuestro error despreció,
+    porque, después de ser rey,
+    soy el rey don Pedro yo.
+    Y si a la alteza pudiera
+    quitar el violento efecto
+    cuyo respeto os altera,
+    mi persona en vos hiciera
+    lo mismo que mi respeto.
+    Pero ya que desnudar
+    no me pued[o] el ser de rey,
+    por llegároslo a mostrar
+    y que os he de castigar
+    con el brazo de la ley,
+    yo os dejaré tan mi amigo
+    que no darme cuchilladas
+    queráis. Y si lo consigo,
+    a cuenta deste castigo,
+    tomad estas cabezadas.
+[Dale contra un poste y vase]
+TELLO:
+    ¡Cielos, con tal deshonor
+    a mí ultraje tan infame!
+    ¡Que para esto el Rey me llame!
+PEREJIL:
+    ¿Doliote mucho, señor?
+TELLO:
+    ¡Ay de mí! Sin alma debo
+    de sentir pena tan rara.
+    ¿Conmigo afrenta tan clara?
+PEREJIL:
+    Es por si has menester huevo.
+TELLO:
+    ¡Que el Rey las manos osadas
+    ponga en tan nobles vasallos!
+PEREJIL:
+    Sabe que tienes caballos
+    y te da las cabezadas.
+TELLO:
+    Más que el furor de sus manos
+    siento que aje mis blasones.
+PEREJIL:
+    Apriétate en los chichones
+    unos cuartos segovianos.
+TELLO:
+    No pudiera la lealtad
+    vengarse deste furor
+    sin que fuera deshonor
+    agraviar la majestad,
+    que entonces de mi nobleza
+    el brazo se había de ver,
+    aunque juntase el poder,
+    el valor y la grandeza.
+    Mas si impulsos soberanos
+    ofenden el inferior,
+    ¿qué valor es, si al valor
+    ata el respeto las manos?
+    Fuera en campaña y no aquí,
+    y fuera el reñir blasón.
+PEREJIL:
+    Riñe tú con morrïón,
+    que yo apostaré por ti.
+TELLO:
+    ¿Qué dices, necio, villano?
+    ¿Tú contra mí el labio mueves?
+    ¿Ni aun con la queja te atreves
+    a lo que es poder tirano?
+PEREJIL:
+    Yo no hablo mal de Su Alteza.
+TELLO:
+    Pues, cobarde, ¿por qué no,
+    si me agravia?
+PEREJIL:
+    Porque yo
+    escarmiento en tu cabeza.
+    Mas ya que el dártele plugo,
+    vete y teme la ocasión,
+    porque de algún coscorrón
+    se suele alzar un verdugo.
+    Y veslo aquí dicho y hecho,
+    porque por aquel postigo
+    viene aquí un tropel de guardas,
+    y es mala señal, ¡por Cristo!,
+    que tú no eres monumento.
+[Salen don Gutierre, doña María, doña Leonor, Inés]
+GUTIERRE:
+    Entrad, señoras, conmigo.
+PEREJIL:
+[([Ap]]
+    ¡No es nada lo que va entrando.)
+TELLO:
+[[Ap]]
+    (¡Válgame el cielo, qué miro!
+    ¡Aquí está doña María!)
+PEREJIL:
+[([A Tello]]
+    A fe que te la han traído
+    antes que ella haya llegado.)
+GUTIERRE:
+    Don Tello, como ministro
+    a quien esta diligencia
+    encarga el Rey, he venido
+    a que aquí reconozcáis
+    estas señoras.
+PEREJIL:
+    ¡Qué lindo!
+    Con esto a mí me dan soga.
+TELLO:
+    Ya las he reconocido.
+    Una, porque fue mi dama.
+    Y otra, porque solicito
+    que sea mi esposa.
+LEONOR:
+    Tened.
+    La dama, si habláis conmigo,
+    lo fue por vuestra traición,
+    porque yo del honor mío
+    dueño os hice con palabra
+    de esposo.
+TELLO:
+    ¿Quién os ha dicho
+    que yo lo niego? Es verdad.
+LEONOR:
+    Pues, si vuestra dama he sido,
+    a lo que es engaño vuestro
+    no llaméis intento mío.
+MARÍA:
+    Y si hacerme vuestra esposa
+    queríais, no con motivo
+    de voluntad en mi afecto,
+    sino tirano y altivo,
+    robándome de mi esposo
+    que os eligió por padrino…
+TELLO:
+    Todo es así, mas ¿qué importa
+    que yo de un pobre hidalguillo
+    quite o robe la mujer,
+    cuando atento se la quito
+    antes que su esposa sea?
+GUTIERRE:
+    De lo que habéis respondido
+    haré información al Rey.
+TELLO:
+    Decilde que yo lo digo.
+    Y si esto tiene por culpa
+    que merezca su castigo,
+    se acuerde que le defiendo
+    sus reinos.
+[Sale don Rodrigo]
+RODRIGO:
+[([Ap]]
+    Arrepentido
+    de cobarde, espero aquí
+    a don Tello. Mas ¿qué miro?
+    Aquí están él y mi esposa.)
+    Quien halla lo que ha perdido,
+    en cualquiera parte puede
+    cobrarlo. Y el honor mío
+    está en tu vida.
+[Saca la espada]
+GUTIERRE:
+    ¿Qué es esto?
+PEREJIL:
+    Que ha venido su marido.
+GUTIERRE:
+    El Rey sale. Deteneos.
+[Sale el Rey]
+REY:
+    ¿Qué es esto?
+TELLO:
+    Haberse atrevido
+    un hidalgo a mi persona,
+    por haber acaso visto
+    que no me da Vuestra Alteza
+    el honor de que soy digno.
+RODRIGO:
+    Yo le hallé aquí con mi esposa
+    y aquí cobrarla he querido.
+REY:
+    Pues ¿en palacio? Prendeldos.
+RODRIGO:
+    Pues, señor, ¿no me habéis dicho
+    que puedo cobrar mi honor
+    sin que cometa delito?
+REY:
+    No aquí, ni en esta ocasión,
+    donde perdéis, atrevido,
+    a mi decoro el respeto
+    y el temor a mi castigo.
+    Llevaldos. (Y advertid vos
+    que es don Pedro el que lo dijo
+    y quien os prende es el Rey.)
+TELLO:
+    Yo sólo las armas rindo
+    a Vuestra Alteza.
+MARÍA:
+    Señor,
+    yo por mi esposo os suplico.
+REY:
+    Ya ninguno podrá serlo
+    de los dos. Y así os aviso
+    que os retiréis a un convento
+    o busquéis otro marido.
+MARÍA:
+    Temblando voy de su vista.
+[Vase]
+GUTIERRE:
+    Venid entrambos.
+RODRIGO:
+    Ya os sigo.
+[Vase]
+REY:
+    Esperad, don Tello, vos.
+    Gutierre, ¿qué ha respondido
+    don Tello a doña Leonor?
+GUTIERRE:
+    Que es verdad que le ha debido
+    su honor y le dio palabra
+    de ser su esposo.
+REY:
+    Cumplildo
+    dándole luego la mano.
+TELLO:
+    Vos, señor, de mi albedrío
+    no sois dueño.
+REY:
+    Así es verdad.
+TELLO:
+    Pues si yo contra mí mismo
+    no he de ser, dando la mano
+    a mujer que he aborrecido,
+    de mi hacienda, que lo sois,
+    cuando haya sido delito
+    le podéis satisfacer
+    sin violentar mi albedrío,
+    que, en un hombre como yo,
+    sobrado será el castigo
+    de quitarle de su hacienda
+    lo que parezca medido
+    para paga de su honor.
+REY:
+    Acetar ese partido
+    toca a la parte, no a mí.
+LEONOR:
+    Pues yo, señor, no lo admito,
+    que si el oro, siendo tanto
+    lo que la tierra atesora,
+    y las perlas que la aurora
+    cuaja con líquido llanto,
+    se juntase ahora a cuanto
+    don Tello me puede dar,
+    no bastaran a esmaltar
+    la mancha que hacerme intenta,
+    porque es un hierro la afrenta
+    que no se puede dorar.
+    Mientras palabra me dio
+    de esposo, honrada me infiere;
+    cuando dice que no quiere,
+    lustre y honor pierdo yo.
+    Para lo que prometió
+    tengo sobrada nobleza.
+    Mire, ahora, Vuestra Alteza,
+    si me la debe cumplir,
+    porque yo no he de salir
+    sin la mano o la cabeza.
+TELLO:
+    Los ricoshombres no pueden
+    morir por esos delitos.
+REY:
+    ¿Quién estableció esa ley?
+TELLO:
+    Privilegios concedidos
+    de reyes abuelos vuestros
+    a los que grandes nacimos.
+REY:
+    ¿Serán más reyes que yo?
+TELLO:
+    No, señor.
+REY:
+    Pues si lo mismo
+    soy yo que ellos, de la ley
+    es árbitro quien la hizo
+    y yo la sabré guardar
+    cuando importe a mis motivos,
+    y derogarla también
+    para hacer justo castigo.
+    Si vos prometisteis ser
+    esposo suyo, cumplildo,
+    por que no se arriesgue el alma
+    con la vida ese delito.
+    Mas si debéis o no hacerlo,
+    no me toca a mí inquirirlo,
+    sino a vuestro confesor;
+    consultalde ese peligro,
+    porque, que os caséis o no,
+    mañana por plazo fijo
+    os cortaré la cabeza.
+    Llevalde ahora al castillo.
+[Vase]
+TELLO:
+    ¡Cielos, qué es esto que escucho!
+PEREJIL:
+    ¡Cáscaras!, dijo Andresillo.
+TELLO:
+    ¿Aquí no hay apelación?
+GUTIERRE:
+    La de hacer lo que os ha dicho,
+    si importa a vuestra conciencia,
+    porque el Rey ha de cumplirlo.
+TELLO:
+    Bien podrá por la grandeza,
+    mas, si pudiera mi brío,
+    depuesta la majestad,
+    que confieso que he temido,
+    yo hiciera…
+GUTIERRE:
+    Vamos, que eso es
+    justificar el castigo.
+TELLO:
+    ¡En fin, vamos a morir!
+LEONOR:
+    Que, en fin, don Tello has querido
+    dar primero la cabeza
+    que la mano.
+TELLO:
+    Ya es preciso
+    lo que el poder quiere.
+PEREJIL:
+    Inés,
+    si te acuerdas, esto ha sido
+    todo manos y cabezas.
+    ¿Fue en sábado este delito?
+INÉS:
+    Si tú hubieras dicho lunes,
+    no hubiera en sábado sido.
+PEREJIL:
+    ¡Mal haya mi lengua infame!
+TELLO:
+    Ya no hay que tratar, amigo,
+    sino de enmendar el yerro.
+LEONOR:
+    Si eso intentas, aun resquicio
+    abre la piedad al ruego.
+TELLO:
+    Ya no podrás conseguirlo.
+LEONOR:
+    ¿Pues tú querrás ser mi esposo?
+TELLO:
+    No lo querrá el albedrío,
+    mas querralo la violencia.
+LEONOR:
+    Pues yo a hallar piedad me obligo.
+TELLO:
+    Ya, Leonor, será imposible.
+LEONOR:
+    ¿Por qué?
+TELLO:
+    Porque el Rey lo ha dicho.
+LEONOR:
+    La amenaza no es palabra.
+TELLO:
+    Téngole muy ofendido.
+LEONOR:
+    ¡Ah, don Tello, a qué mal tiempo
+    reconoces tus delitos!
+TELLO:
+    ¡Ay, Leonor, qué tarde vuelvo
+    a mi olvidado cariño!
+LEONOR:
+    Yo iré a llorar.
+TELLO:
+    Yo a morir.
+LEONOR:
+    Yo a solicitar tu alivio.
+TELLO:
+    Ya, Leonor, mi vida es tuya.
+    No defiendes lo que es mío.
+[Va[n]se [Tello y Gutierre]]
+LEONOR:
+    ¡Cielos!, siempre un desdichado
+    halla entre otro mal su alivio.
+[Vase]
+PEREJIL:
+    ¡A buen tiempo se requiebran!
+INÉS:
+    ¡Perejil!
+PEREJIL:
+    ¡Repollo mío!
+INÉS:
+    ¿Tú no me darás la mano?
+PEREJIL:
+    Antes yo a ti te la pido,
+    porque voy a dar un salto.
+INÉS:
+    ¿No te has de casar conmigo?
+PEREJIL:
+    No.
+INÉS:
+    Pues te llevará el diablo.
+PEREJIL:
+    Menos mal será.
+INÉS:
+    ¿Qué has dicho?
+PEREJIL:
+    Que más demonio me lleva
+    si yo me caso contigo.
+
+JORNADA 2
+
+[Salen doña María, doña Leonor y Inés]
+LEONOR:
+    Ya, bella doña María,
+    el rigor es impiedad,
+    la venganza es crüeldad
+    y la queja es tiranía.
+    Ya está don Tello rendido
+    y a muerte está condenado,
+    y de verle tan postrado
+    el pueblo a piedad movido.
+    Temple tu venganza, pues,
+    el ver que, aunque te ofendió,
+    en tu honor no te injurió
+    aunque pudo, descortés.
+    Y no veng[ue]s desta suerte,
+    cuando le acusa la ley,
+    hacer que apresure el Rey
+    los términos de su muerte.
+INÉS:
+    Ten lástima de la pena
+    de Perejil, infelice,
+    que, si escapa desta, dice
+    que se ha de hacer hierbabuena,
+    que, como tiene costumbre
+    de afligirse de un pesar,
+    si le sacan a ahorcar,
+    se ha de ahogar de pesadumbre.
+MARÍA:
+    Leonor, si de mi venida
+    presumís esa intención,
+    no sabéis de la aflicción
+    en que llego a ver mi vida.
+    Preso don Rodrigo está,
+    porque en palacio el acero
+    sacó, y el rigor severo
+    de la justicia le da
+    sentencia esquiva de muerte,
+    bien que admite apelación.
+    Y con esa pretensión
+    a palacio de esta suerte
+    vengo a ver si rigor tanto
+    puede mi llanto templar.
+LEONOR:
+    Pues de esa suerte ayudar
+    nos podemos con el llanto.
+INÉS:
+    Señora, al llanto te agarra
+    y lloremos a la par,
+    que más fácil de templar
+    será un rey que una guitarra.
+    Que si a sollozos y llantos
+    su dureza enternecemos,
+    siendo Pedro, al Rey diremos:
+    «Parece que somos santos».
+LEONOR:
+    Pues al paso le esperemos,
+    que por aquí ha de salir.
+INÉS:
+    Dios nos lo deje plañir
+    de modo que le ablandemos.
+[Sale el Rey, Gutierre y criados]
+REY:
+    Cerrad, Gutierre, esa puerta,
+    que no ha de salir de aquí.
+GUTIERRE:
+    ¿Quién, señor?
+REY:
+    Estoy sin mí.
+    ¿Quién entró no estando abierta?
+GUTIERRE:
+    Aquí, señor, nadie ha entrado
+    que dé a tu enojo ocasión.
+REY:
+[([Ap]]
+    ¿Qué me quiere esta ilusión?
+    ¿No da a mi valor cuidado
+    tanto marcial desacierto,
+    ni se le dieron esquivos
+    tantos enemigos vivos,
+    y quiere dármele un muerto?
+    Desde que airado maté
+    aquel clérigo atrevido,
+    en cualquier parte ofendido
+    la imaginación le ve.
+    Siempre, que esté solo o no,
+    se me viene al pensamiento,
+    y que he de ser, dice al viento,
+    piedra en Madrid, ¡piedra yo!
+    Pero ¿por qué esta visión
+    me obliga a mí a discurrir?
+    Piedra seré en no sentir
+    tan vana imaginación.)
+    Gutierre, ¿has notificado
+    a don Tello la sentencia?
+GUTIERRE:
+    Ya está de la diligencia
+    el secretario encargado.
+    Y ya el Infante ha partido.
+REY:
+    No quiero que se publique
+    que espero a mi hermano Enrique
+    hasta que él haya venido,
+    que en él y en Tello han de ver
+    mi castigo y mi perdón
+    juntos.
+GUTIERRE:
+    ¿Y será razón?
+REY:
+    Así le doy a entender
+    que, pues su soberbia loca,
+    como rey, tengo postrada,
+    le he de hacer ver con la espada
+    lo que a mi valor le toca.
+LEONOR:
+[([A doña María]]
+    Lleguemos, doña María,
+    que ésta es la ocasión mayor.)
+    A vuestras plantas, señor.
+REY:
+    ¿Qué queréis?
+LEONOR:
+    La pena mía
+    no puede, señor, venir
+    sino a pediros a vos,
+    que, si os mira como a Dios,
+    fuerza es que venga a pedir.
+REY:
+    Justicia me habéis pedido
+    y ya la he mandado hacer.
+LEONOR:
+    Pues lo mismo viene a ser,
+    señor, lo que ahora pido,
+    pues según de vos se indicia
+    por ser imagen de Dios,
+    lo mismo ha de ser en vos
+    la piedad que la justicia.
+    Pues si arrepentido el hombre
+    llegáis, gran señor, a ver,
+    tener piedad es hacer
+    justicia con otro nombre.
+MARÍA:
+    Yo, señor, del mismo daño
+    temerosa, a vuestros pies,
+    por ser del mismo interés,
+    su petición acompaño.
+REY:
+    ¿Qué pedís?
+LEONOR:
+    A Vuestra Alteza,
+    yo por entrambas, señor,
+    lo diré, aunque con temor
+    de enojar a Vuestra Alteza.
+REY:
+    La petición que no es buena
+    nunca ofende la razón,
+    que una injusta petición
+    negándola se condena.
+    Y aunque la vuestra haya sido
+    no justa, escucharla es ley,
+    que a una y otra debe el Rey
+    tener igual el oído,
+    que él, por sí, nada resuelve,
+    mas con cuerda distinción
+    deja entrar a la razón
+    y a la sinrazón la vuelve.
+LEONOR:
+    Pues, generoso don Pedro,
+    cuya justicia la fama
+    pondera tanto que puede
+    por exceso la alabanza,
+    yo, que, en mi honor ofendido,
+    por lavar la obscura mancha,
+    invoqué de vuestro brazo
+    la protección soberana,
+    en vuestra heroica justicia
+    provoqué de ofensa tanta,
+    que ya mi honor su castigo
+    tanto oprime como ampara.
+    Del delito de don Tello
+    venganza os pidió mi fama,
+    mas ya, aunque es justo el castigo,
+    es injusta la venganza.
+    Para merecer la pena,
+    bastó el desprecio, la sacra
+    violencia de la justicia
+    que vuestro valor iguala.
+    Mas para no padecerla,
+    también a la ley le basta
+    que, arrepentido, la tema
+    el que ciego la quebranta.
+    De ser mi esposo don Tello
+    me cumple ya la palabra;
+    si el negarla le condena,
+    el cumplírmela le salva.
+    Revoque, pues, la piedad
+    lo que la justicia manda,
+    porque en su muerte, señor,
+    soy yo la más castigada.
+    Él pierde la vida, y yo
+    pierdo la vida y la fama,
+    en quien, teniendo mi honor,
+    se hizo ya prenda del alma.
+    Ya quien me ofendió me obliga,
+    que, en quien se arrepiente y llama,
+    lo que como agravio irrita
+    ya como lisonja halaga.
+    Ya, gran señor, de don Tello
+    volvió a las culpas ingratas
+    la cara vuestro rigor,
+    vuestro desprecio la espalda.
+    Y pues de una y otra siente
+    ya el castigo, eso le basta.
+    ¿Qué tiene que hacer el golpe
+    en quien rindió la amenaza?
+    Vuestra piedad solicita
+    y ya postrad[o] la aguarda.
+    ¿Para quién se hizo el perdón
+    si el rendido no lo alcanza?
+    En un castigo, señor,
+    de quien mereció su saña,
+    la justicia es quien condena
+    y el poder es el que mata.
+    Pues si el poder os confiesa
+    su rendimiento, ¿a qué pasa
+    la ejecución del castigo,
+    si más blasón os alcanza
+    lo que la justicia enmienda
+    que lo que el poder acaba?
+    Del árbol que al suelo inclina
+    las ramas que vicio alarga,
+    por no malograr el fruto,
+    más dignos son de alabanza
+    los que la rama enderezan
+    que los que cortan la rama.
+    Si la vitoria sin sangre
+    más al vencedor alaba,
+    logre aquí vuestra justicia
+    tan vitoriosa alabanza.
+    Justicia es cortar el paso
+    a una vida que va errada,
+    mas justicia y providencia
+    hacerla buena de mala.
+    Para que sirva un vasallo
+    con fe prompta, firme y grata,
+    es deuda en vos prevenirse
+    el premio de la esperanza.
+    Pues si le tenéis más fijo
+    aquí, por razones tantas,
+    para lograrle más firme,
+    menos costa y más ventaja
+    será omitir un castigo
+    que conceder una gracia.
+    Y si aquí vuestra grandeza
+    la ha de conceder, logralda
+    en el amor de las dos,
+    pues, conducidas entrambas
+    de una amorosa violencia,
+    venimos a vuestras plantas,
+    que aunque amor en nuestro oído
+    es indecente palabra,
+    el ser de nuestros esposos
+    la vuelve decente y casta.
+    Muévaos, señor, el perdón,
+    el justo dolor que causa
+    en nuestro amor su castigo,
+    la piedad, que más ensalza
+    el nombre de justiciero;
+    la justicia, que es más sacra
+    con freno que con azote;
+    la corona, que avasalla
+    más al perdón que al castigo;
+    la ley, que es más soberana
+    por las hojas de la oliva
+    que los filos de la espada.
+    Que, cuando no sea en don Tello
+    cierta la enmienda, más falta
+    e[s] perder un buen vasallo
+    que daño el que le amenaza.
+REY:
+    Ya venís tarde, señora,
+    pues de don Tello la causa
+    tiene ya justa sentencia,
+    que, de mi mano firmada,
+    justicia y piedad supone
+    y la concuerdan entrambas.
+MARÍA:
+    Pues, señor, mi petición,
+    no siendo la culpa tanta
+    de don Rodrigo, mi esposo,
+    halle en el rigor templanza.
+REY:
+    También respondí a la vuestra.
+    Ya estáis las dos despachadas.
+INÉS:
+    Yo, señor, también soy parte,
+    que si a Perejil me matan,
+    no tengo con qué comer
+    carnero ya, sino vaca.
+LEONOR:
+    Señor, aunque haya sentencia,
+    dueño sois de revocarla.
+    Mi pena y mi llanto os muevan
+    y el honor que me restaura.
+INÉS:
+    No le degüellen, que harto
+    se degüella él si se casa.
+REY:
+    La petición, que propuesta
+    no me ofendió, replicada
+    merecerá de mi enojo
+    el castigo. –Despejaldas,
+    Gutierre.
+GUTIERRE:
+    Salid, señoras.
+LEONOR:
+[([Ap]]
+    ¡Qué entereza tan extraña!)
+MARÍA:
+[([Ap]]
+    ¡Qué semblante tan severo!)
+INÉS:
+[([Ap]]
+    ¡Y qué acedo de palabras!)
+LEONOR:
+[([Ap]]
+    ¡Temblando voy de su vista.)
+INÉS:
+[([Ap]]
+    ¡Vamos, que pienso que habla
+    ciruelas por madurar.)
+LEONOR:
+[([Ap]]
+    ¡Murieron mis esperanzas.)
+[Vanse]
+REY:
+    No sólo por mi justicia
+    ha de quedar castigada,
+    para ejemplo a mis vasallos,
+    deste loco la arrogancia,
+    mas también por mi valor
+    ha de conocer que basta
+    a castigar su osadía
+    la violencia de mi espada.
+    Gutierre, cuando esta tarde
+    las obscuras sombras caigan,
+    a la puerta del jardín,
+    con secreta vigilancia
+    me esperad, y allí tened
+    dos caballos y una espada.
+    Y sólo un mozo los lleve.
+GUTIERRE:
+    ¿Espada vos? Pues ¿os falta?
+REY:
+    No, que aquí llevo la mía.
+GUTIERRE:
+    ¡Qué prevención tan extraña!
+REY:
+    Es que quiero llevar dos.
+    En la escuela de las armas
+    ¿no habéis tomado lición
+    de reñir con dos espadas?
+GUTIERRE:
+    Sí, señor, mas como sé
+    que vuestro valor no se arma
+    para ningunos peligros
+    jamás de aquesas ventajas,
+    ésa prevención presumo
+    de más oculta ventaja.
+REY:
+    Pues si presumís, Gutierre,
+    que importa para otra causa,
+    cuando yo no os la declaro,
+    sois necio en averiguarla,
+    que nadie tiene al crïado
+    por consejero en su casa.
+    Y aquél sirve al rey mejor
+    que hace mejor lo que manda.
+GUTIERRE:
+    Yerro fue de mi fineza.
+REY:
+    Pues sed discreto en lograrla
+    y en ver que, pues no os lo fío,
+    el secreto es de importancia.
+[Vanse y sale un secretario con unos papeles, don Tello, y Perejil y un criado]
+SECRETARIO:
+    En los decretos del Rey
+    pone nuestra diligencia
+    solamente la obediencia.
+    Ya veis, don Tello, que es ley
+    cumplir así su preceto.
+    Ya no hay que apelar al brazo,
+    sino aprovechar el plazo
+    que os señala este decreto.
+    Mostrad valor y prudencia.
+TELLO:
+    ¿Esto es más que morir? Pues
+    ¿qué valor menester es
+    para morir con violencia?
+[SECRETARIO]:
+    Que hubiera, deciros puedo,
+    valor para resistir.
+PEREJIL:
+    Claro es que, para morir,
+    antes es menester miedo.
+TELLO:
+    Mas cuando no me perdona,
+    mira el Rey, pues yo le irrito,
+    la calidad del delito
+    y no la de mi persona.
+    Esto el Rey lo puede hacer,
+    pero atienda su rigor
+    que no me vence el valor
+    si me condena el poder.
+    Y que, si fuera me hallara
+    de la prisión, ser pudiera
+    que en sus ministros no hubiera
+    quien a prenderme llegara.
+SECRETARIO:
+    Pues ¿qué pudierais hacer
+    para intentaros librar?
+PEREJIL:
+    Pues ¿le quiere usted quitar
+    lo que pudiera correr?
+    Notifique usted y tasa
+    no ponga en nuestro poder.
+SECRETARIO:
+    Pues ¿qué pudiera correr?
+PEREJIL:
+    Más que un alquiler de casa.
+TELLO:
+    No es tiempo de repugnallo.
+    Y así, yo he de obedecello.
+SECRETARIO:
+    Eso es lo mejor, don Tello.
+TELLO:
+    Pues ya otro medio no hallo,
+    a Leonor haced venir
+    y, pues lo ordena mi estrella,
+    que me despose con ella.
+SECRETARIO:
+    Eso voy a prevenir.
+[Vase]
+CRIADO:
+    Vos también ya habéis oído
+    que a muerte estáis condenado.
+PEREJIL:
+    ¿Hámelo notificado?
+CRIADO:
+    Pues ¿no?
+PEREJIL:
+    Pues no lo he entendido.
+CRIADO:
+    ¿Cómo no?
+PEREJIL:
+    Digo que no.
+    Vuelva usted y no replique.
+CRIADO:
+    ¿Para qué?
+PEREJIL:
+    Usted notifique
+    hasta que lo entienda yo.
+CRIADO:
+    Pues oiga, que dice así,
+    y en la misma causa escritos:
+    «Por cómplice en sus delitos,
+    a Perejil.»
+PEREJIL:
+    Tenga ahí.
+    Y de ver me haga merced
+    si dice ahí Pedro Gil.
+CRIADO:
+    Aquí dice Perejil.
+PEREJIL:
+    Pues deletréelo usted.
+CRIADO:
+    Perejil dice. ¡Hay tal caso!
+PEREJIL:
+    ¿Es verde la letra?
+CRIADO:
+    No.
+PEREJIL:
+    Pues ¿cómo puedo ser yo?
+    ¿Hay perejil negro acaso?
+CRIADO:
+    Ésos son vanos atajos.
+    Sentenciado está usted
+    a muerte de horca.
+PEREJIL:
+    ¿De qué?
+CRIADO:
+    A muerte de horca.
+PEREJIL:
+    ¿Y es de ajos?
+CRIADO:
+    Prevéngase.
+PEREJIL:
+    ¡Que mis castos
+    deseos mueran al viento!
+CRIADO:
+    ¿Qué dice?
+PEREJIL:
+    Que sólo siento
+    morir en el tres de bastos.
+CRIADO:
+    Haga lo que su señor.
+PEREJIL:
+    Diga que me manden dar
+    término para envïar
+    a llamar mi confesor.
+CRIADO:
+    Yo le trairé. ¿Dónde está?
+PEREJIL:
+    No está muy lejos de aquí.
+    En Londres.
+CRIADO:
+    ¿En Londres?
+PEREJIL:
+    Sí,
+    que es canónigo de allá.
+CRIADO:
+    ¡Que piense ese desvarío!
+    Un fraile le haré envïar.
+PEREJIL:
+    Yo no me he de confesar
+    sino en inglés, señor mío.
+CRIADO:
+    Pues mañana esos cuidados
+    perderá. Adiós.
+[Vase]
+PEREJIL:
+    ¿Que es mañana?
+    Que ni en toda esta semana
+    puedo pensar mis pecados.
+TELLO:
+    Perejil, esto es violencia,
+    pero es justicia también.
+    Ya con Dios ponernos bien
+    es la mejor diligencia.
+PEREJIL:
+    ¿Yo morir haciendo gestos?
+    ¿Ajusticiados los dos?
+    Aunque puestos bien con Dios,
+    no quedamos muy bien puestos.
+    ¿Mañana, en fin, por mí anda
+    la campanilla y los gritos?
+    ¡Qué gran día de coritos
+    si les toca la demanda!
+    Que todo el día es tragar
+    lo que juntan en su nombre,
+    para hacer bien por el hombre
+    que sacan a ajusticiar.
+TELLO:
+    Ya va escureciendo el viento
+    la noche lóbrega y triste,
+    que parece que la viste
+    su traje mi pensamiento.
+PEREJIL:
+    El mío no, que es morado
+    y tira algo a columbino.
+TELLO:
+    ¿Por qué?
+PEREJIL:
+    En la lengua imagino,
+    que he de salir ahorcado.
+TELLO:
+    ¿No hay luz en este castillo?
+PEREJIL:
+    Impiedad es no la dar
+    viendo aquí para expirar
+    dos hombres de garrotillo.
+TELLO:
+    Mala noche.
+PEREJIL:
+    Pues paciencia,
+    que a mí peor me la aplican,
+    que, como es de salto, pican
+    las pulgas de la sentencia.
+TELLO:
+    Ya mi desdicha el consejo
+    de no malograrla tomo.
+PEREJIL:
+    Pues, por Dios, que es bravo como
+    pensar en el cordelejo.
+TELLO:
+    O es el temor que resisto
+    o el postigo abriendo están
+    del castillo. ¿Quién serán?
+PEREJIL:
+    Un confesor con un Cristo.
+[Sale el Rey y don Gutierre]
+REY:
+    Desde aquí os podéis volver.
+GUTIERRE:
+    Sólo a obedecerte asisto.
+[Vase]
+PEREJIL:
+    Muy devoto soy de Cristo
+    y él me ha de favorecer.
+TELLO:
+    ¿Quién va?
+REY:
+    ¿Es Tello?
+TELLO:
+    Tello soy.
+    ¿Quién lo pregunta?
+REY:
+    Quien viene
+    a daros vida y previene
+    vuestra libertad.
+PEREJIL:
+    Ya voy.
+TELLO:
+    Detente. Quién sois decid,
+    por que sepa con quién hablo.
+PEREJIL:
+    Líbrenos, y sea el diablo.
+REY:
+    Un hombre soy de Madrid.
+PEREJIL:
+    No le neguéis la verdad,
+    que confesor os creía.
+    Y os daremos señoría
+    si no sois paternidad.
+REY:
+    ¿No está de mí asegurada
+    la verdad?
+TELLO:
+    En vos se ve.
+PEREJIL:
+    Tiéntale.
+TELLO:
+    Pues, ¿para qué?
+PEREJIL:
+    Por si trae Cristo u espada.
+REY:
+    No dudéis, que soy un hombre
+    que os viene a dar libertad,
+    traído de la piedad
+    a que mueve vuestro nombre.
+    Que soy un hidalgo, creed
+    que vengo a esta diligencia.
+PEREJIL:
+    Os creemos reverencia
+    y os dudamos la merced.
+TELLO:
+    Pues, ¿qué intentáis?
+REY:
+    ¿Tendréis, pues,
+    valor para aqueste exceso?
+PEREJIL:
+    No preguntéis para eso
+    por valor, sino por pies.
+TELLO:
+    Mucho extraño, si sabéis
+    quién soy, de que hayáis dudado
+    valor a mi pecho osado.
+REY:
+    Pues seguidme, si queréis
+    que del Rey la sinrazón
+    no se logre.
+TELLO:
+    No lograra
+    si el poder no lo intentara.
+PEREJIL:
+    ¡Vive Dios! que es un Nerón,
+    cara de Sardanapalo,
+    que de sí da testimonio.
+REY:
+    Es mal hombre.
+PEREJIL:
+    Y mal demonio,
+    que aun para diablo era malo.
+TELLO:
+    Pues con toda esa fiereza,
+    yo de encontrarle me holgara
+    donde no me embarazara
+    el respeto de la alteza.
+PEREJIL:
+    Le hicieras mil rebanadas,
+    que yo, ¡por vida de san!,
+    de sólo comer tu pan
+    estoy que broto estocadas.
+REY:
+    Ya yo sé que sois brïoso
+    y, a vuestro brío inclinado,
+    libertad os he intentado
+    de aficionado y piadoso.
+TELLO:
+    Pues, ¿quién sois?
+REY:
+    No es para aquí,
+    que arriesga la dilación
+    mi noble resolución.
+PEREJIL:
+    Pues, ¿qué esperáis? ¡pesia a mí!
+REY:
+    Seguidme los dos.
+PEREJIL:
+    Corred
+    presto, señor.
+TELLO:
+    ¿Quién será
+    quien este favor nos da?
+PEREJIL:
+    Si es fraile, de la Merced.
+[Vanse y salen don Enrique y Mendoza]
+ENRIQUE:
+    En esos álamos queden
+    los caballos, hasta el día,
+    y la gente.
+MENDOZA:
+    La porfía
+    del sueño vencer no pueden.
+ENRIQUE:
+    Aquí quiero que aguardemos
+    al sol para entrar de día.
+MENDOZA:
+    Temo a tu hermano.
+ENRIQUE:
+    Porfía
+    en tus temores y extremos.
+    ¿Qué temes dél?
+MENDOZA:
+    Que te tiene
+    envidia por tu valor,
+    y es poderoso.
+ENRIQUE:
+    El temor
+    de la culpa te previene,
+    mas tus recelos son vanos,
+    que el delito hace el temor.
+MENDOZA:
+    ¿Pues qué delito mayor,
+    si hay odio entre dos hermanos,
+    que atropella cualquier ley?
+ENRIQUE:
+    Vete, Mendoza, a la mano
+    que es ofender en mi hermano
+    y es irritarme en mi rey.
+    La mano vengo a besar,
+    porque licencia me ha dado,
+    y habiendo a sus pies llegado,
+    nada puedo aventurar.
+    Y pues de su enojo injusto
+    es causa mi adversa estrella,
+    no quiero más logro della
+    que morir dándole gusto.
+MENDOZA:
+    Gente parece que viene
+    hacia aquí.
+ENRIQUE:
+    Guardas serán
+    del campo, que en vela están.
+    Que no nos vean conviene.
+MENDOZA:
+    Bien será que te repares,
+    que aquí se van acercando.
+ENRIQUE:
+    Pues vámonos retirando
+    a orilla de Manzanares.
+[Vanse y sale el Rey, Tello y Perejil]
+REY:
+    Ya en este parque estamos más seguros.
+TELLO:
+    Alejémonos algo de los muros,
+    que temo mucho al Rey.
+REY:
+    Pues ¿tenéis miedo
+    del Rey?
+TELLO:
+    Si lo obrara su denuedo
+    y cuerpo a cuerpo aquí yo le encontrara,
+    pudiera ser que el miedo se trocara,
+    pero riñe el poder con muchas manos
+    con quien los bríos son alientos vanos.
+PEREJIL:
+    Y luego tiene, para ser valiente,
+    una cara de sátiro de fuente,
+    que entre sus tentaciones pensar puedo
+    que al mismo san Antón le diera miedo.
+REY:
+    Ya que solos estamos, sabed, Tello,
+    quién libertaros me movió a emprendello:
+    vuestro valor.
+TELLO:
+    Y yo saber deseo
+    a quién debo favor como el que veo.
+REY:
+    Este crïado ir puede a aquel molino
+    a traer una luz, que aquí previno
+    para esto una linterna mi cuidado,
+    por que me conozcáis. Y asegurado
+    de quién yo soy, busquemos los caballos
+    por si no acierto dónde pude atallos.
+PEREJIL:
+    ¿Y hacia dónde, señor, nos encaminas?
+    Porque yo tendré miedo en Filipinas.
+REY:
+    Portugal o Aragón serán reparo,
+    porque sus reyes os darán amparo;
+    que aquí os daré yo letras y dineros.
+TELLO:
+    Más que librarme espero conoceros.
+PEREJIL:
+    ¿Dinero y letras? Vengan al instante,
+    que, por que nuestro gozo te los cante,
+    las pondremos en solfa en el camino
+    para que tengan fuga. Mas yo inclino
+    mis pasos a Aragón.
+REY:
+    ¿Por qué lo intentas?
+PEREJIL:
+    Porque yo tengo allí muchas parientas.
+REY:
+    Si allá tienes parientes, bien esperas.
+PEREJIL:
+    Soy, por vinoso, deudo de las peras.
+REY:
+    Pues ve a traer la luz.
+PEREJIL:
+    Iré volando.
+    y por las letras me vendré cantando.
+[[Vase]]
+REY:
+    Un bulto hacia aquí viene.
+TELLO:
+    Sin espada
+    no puedo conocerle.
+REY:
+    Pues si, osada,
+    vuestra mano echa menos el acero,
+    tomad la mía, que llegarme quiero
+    por otra que al arzón traigo colgada,
+    y guardad este puesto con la espada.
+TELLO:
+    Eso no os dé cuidado.
+REY:
+    Temo que nos descubran.
+[Vase]
+TELLO:
+    Yo aseguro
+    más que si esto quedara con un muro.
+    ¿Quién será este hombre, cielos, cuyo trato
+    tanto me obliga, y, con tan gran recato,
+    siempre cubriendo el rostro, me ha traído
+    donde de un rey crüel me ha defendido?
+[Sale el Rey]
+REY:
+[([Ap]]
+    La ocasión ha logrado mi deseo
+    de ver si se compone mi trofeo
+    de respeto o valor, si esto consigo.)
+TELLO:
+[([Ap]]
+    Éste es el bulto que asustó a mi amigo.)
+REY:
+    ¿Quién va?
+TELLO:
+    ¿Quién lo pregunta?
+REY:
+    Quien desea
+    saber quién va.
+TELLO:
+    Muy mala vista tiene,
+    que quien quedo se está, ni va ni viene.
+REY:
+    ¿Qué busca en este parque?
+TELLO:
+    Leña verde.
+REY:
+    ¿Qué buscáis?
+TELLO:
+    ¿Volvéis vos lo que se pierde?
+REY:
+    Yo mostraré a estocadas lo que ha[b]lo
+    si no se va de ahí.
+TELLO:
+    Válalo el diablo.
+REY:
+    Váyase o le echaré de aquí al momento.
+TELLO:
+    ¿Cuántos vienen con él para el intento?
+REY:
+    En mí viene quien sobra.
+TELLO:
+    Pocos peones trae para la obra.
+REY:
+    Pues comiéncelo a ver.
+TELLO:
+    ¡Qué lindo tema!
+    ¿Qué, en fin, quiere reñir…
+REY:
+    Donosa flema.
+    O arrojarle [he] de ahí?
+TELLO:
+    Tenga paciencia,
+    que yo le hartaré presto de pendencia.
+    Acérqueseme un poco.
+REY:
+    Riña y calle.
+TELLO:
+    No quiero yo cansarme por matalle.
+[([Ap]]
+    Pulso tiene, por Dios, y trae la espada
+    no mal alicionada.)
+REY:
+[([Ap]]
+    Bien repara y bien tira.
+    Valor tiene. Ya es menos mi ira,
+    que le cobro afición.)
+TELLO:
+[([Ap]]
+    ¡Que hombre haya habido
+    que solo me resista! Estoy corrido.)
+REY:
+[([Ap]]
+    ¡Vive el cielo!, que Tello se defiende.
+    Casi me da cuidado, mas pretende
+    ya de mi furia resistirse en vano.
+TELLO:
+    La espada me ha[s] sacado de la mano.
+REY:
+    Tómala.
+TELLO:
+    ¿Cómo puedo
+    si la fuerza perdí?
+REY:
+    ¿Me tienes miedo?
+TELLO:
+    Miedo no, envidia sí, pues me has vencido.
+    Mover no puedo el brazo. Hombre atrevido,
+    ¿quién eres, que no sabes cuánta gloria
+    te da el haber logrado esta vitoria?
+REY:
+    ¿No me conoces?
+TELLO:
+    No.
+REY:
+    ¿Luego yo solo,
+    sin que el ser yo quien soy sea circunstancia,
+    confiesas que he vencido tu arrogancia?
+[Sale Perejil con luz]
+TELLO:
+    No te lo puedo negar.
+PEREJIL:
+    Vengan letras y dinero,
+    que ya está la luz aquí.
+    ¡San Pablo! ¿Qué es lo que veo?
+REY:
+    Al ricohombre de Alcalá
+    a los pies del rey don Pedro.
+PEREJIL:
+    San Miguel está al revés.
+TELLO:
+    ¿Vos sois, señor?
+REY:
+    Sí, don Tello,
+    que lo que tú deseabas
+    te he mostrado cuerpo a cuerpo
+    parando tu vanidad,
+    en que veas tú eres menos
+    que el clérigo y el cantor
+    que maté, acaso riñendo
+    con más aliento que tú,
+    para que sepas que puedo
+    hacer, hombre, con la espada
+    lo que, rey, con el respeto.
+TELLO:
+    Ya lo confieso.
+REY:
+    Pues ya
+    que por mí mismo te venzo,
+    y sabes que te vencí
+    en tu casa por modesto,
+    y por rey en mi palacio,
+    y en estos tres vencimientos
+    me has admirado piadoso,
+    y valiente y justiciero,
+    vete, pues te dejo libre,
+    de Castilla y de mis reinos,
+    porque, si en ellos te prenden,
+    has de morir sin remedio;
+    porque, si aquí te perdono,
+    allá, como Rey, no puedo,
+    que aquí obra mi bizarría
+    y allá ha de obrar mi consejo.
+    Allá la ley te condena
+    y aquí te absuelve mi aliento;
+    aquí puedo ser bizarro
+    y allá he de ser justiciero;
+    allá he de ser tu enemigo,
+    aquí ser tu amigo quiero,
+    que allá no podré dejar
+    de ser rey, como aquí puedo,
+    porque, para que riñeses,
+    sin ventaja, cuerpo a cuerpo,
+    me quité la alteza y sólo
+    vine como caballero.
+TELLO:
+    Sin mí estoy y con más fe
+    tu majestad reverencio,
+    admiro tu bizarría
+    y tu valentía tiemblo,
+    juzgando gloria el castigo
+    y honor este vituperio,
+    porque tú solo podrás
+    postrar mi valiente pecho.
+    Y así, dejando a Castilla,
+    tu voluntad agradezco.
+PEREJIL:
+    Y yo, señor, de memoria
+    tomando tan buen consejo,
+    obedezco en tu mandado,
+    voluntad y entendimiento,
+    y con mis cinco sentidos
+    voy a correr como un viento,
+    que no quiero como un galgo,
+    por temer tu pan de perro.
+REY:
+    Junto aquel olmo está un hombre
+    con caballos y dineros.
+    Que esto, García, es ser rey
+    y esto es ser valiente, Tello.
+TELLO:
+    Todo, señor, lo conozco.
+REY:
+    Pues no os dilatéis el riesgo.
+PEREJIL:
+    ¿Qué es dilatar? Vamos desta.
+TELLO:
+    Mil veces tus plantas beso.
+REY:
+    Idos presto.
+PEREJIL:
+    Agur, jauná.
+TELLO:
+    Corrido voy.
+PEREJIL:
+    Vamos luego.
+TELLO:
+    Vamos.
+PEREJIL:
+    Lleve el diablo el alma
+    que gastaré cumplimientos.
+[Vanse]
+REY:
+    Glorioso quedo de haber
+    ganado en un vencimiento
+    dos triunfos, que en un rendido
+    malogra el golpe el trofeo.
+    Ya el alba está muy vecina.
+    Cerca aquí a palacio tengo.
+[UNA VOZ]:
+[(Dentro)]
+    Piedra has de ser en Madrid.
+REY:
+    ¿Qué escucho? ¡Válgame el cielo!
+    Esta voz que en mis oídos
+    tanto horror hacen sus ecos,
+    vuelvo a oír, pero ¡qué importa,
+    si es ilusión que padezco!
+    Recogerme quiero.
+[Sale un muerto con un alba y manípulo de clérigo]
+CLÉRIGO:
+    Aguarda.
+REY:
+    ¿Quién me llama?
+CLÉRIGO:
+    Yo.
+REY:
+    ¿Qué veo?
+    Sombra o fantasma, ¿qué quieres?
+CLÉRIGO:
+    Decirte que en este puesto
+    has de ser piedra en Madrid.
+REY:
+    ¿Qué pregón me estás haciendo,
+    que así en Madrid me persigues?
+CLÉRIGO:
+    Llega, si quieres saberlo,
+    y en el brocal deste pozo
+    que está arrimado a este templo,
+    venerable, como humilde,
+    glorioso, como pequeño,
+    por haberlo edificado
+    santo Domingo, asistiendo
+    el seráfico Francisco
+    en su fábrica, podemos
+    sentarnos.
+REY:
+    Viene ya el día
+    y detenerme no puedo.
+CLÉRIGO:
+    Siéntate, que eso es temor.
+REY:
+    Por desmentirte me siento.
+    Ya estoy sentado. Prosigue.
+CLÉRIGO:
+    ¿Conócesme?
+REY:
+    Estás tan feo
+    que no me acuerdo, si no eres
+    demonio que persiguiendo
+    me estás.
+CLÉRIGO:
+    No, vuelve a sentarte.
+REY:
+    Sí haré.
+CLÉRIGO:
+    Yo, Nerón soberbio,
+    soy el clérigo a quien diste
+    de puñaladas.
+REY:
+    ¿Yo?
+CLÉRIGO:
+    Es cierto.
+REY:
+    Mas anduviste atrevido.
+    Y aunque fue justo tu celo,
+    ni a mí, rey, me respetaste
+    ni era tuyo aquel empeño.
+CLÉRIGO:
+    Es verdad, mas te amenaza,
+    con el mismo fin, el cielo
+    con este agudo puñal,
+    con el cual tu hermano mesmo
+    de tus ciegos precipicios
+    dará a Castilla escarmiento.
+REY:
+    ¿A mí mi hermano? ¿Qué dices?
+    Suelta el puñal.
+CLÉRIGO:
+    Ya le suelto.
+[Déjale caer y queda clavado en el tablado]
+REY:
+    Si te pudiera matar,
+    otra vez te hubiera muerto.
+CLÉRIGO:
+    Día de santo Domingo
+    me mataste.
+REY:
+    ¿Y qué es tu intento?
+CLÉRIGO:
+    Advertirte que Dios manda
+    que fundes aquí un convento,
+    donde en vírgines le pagues
+    lo que le hurtaste en desprecios.
+    Clausuras honren clausuras.
+    ¿Prométeslo?
+REY:
+    Sí, prometo.
+    ¿Quieres otra cosa?
+CLÉRIGO:
+    No.
+    Queda en paz. Lábrale luego,
+    porque has de vivir en él
+    en alabastros eternos.
+REY:
+    ¿Eso es ser piedra en Madrid?
+CLÉRIGO:
+    Sí, piedra en Madrid es esto.
+    Y dame agora la mano
+    en señal del cumplimiento.
+REY:
+    Sí doy, pero suelta, suelta,
+    que me abrasas, ¡vive el cielo!
+CLÉRIGO:
+    Éste es el fuego que paso,
+    de donde salir espero
+    cuando la fábrica acabes.
+REY:
+    Suelta, que sufrir no puedo,
+    ¡vive Dios!
+CLÉRIGO:
+    En este ardor
+    teme, rey, el del infierno.
+[Vase]
+REY:
+    ¡Vive Dios!, que, a ser posible,
+    te hiciera átomos mi aliento.
+    Mas, ¡válgame Dios!, ¿qué digo?
+    Haré edificar el templo,
+    por que por él se revoque
+    lo que me amenaza el cielo.
+    Mas ya, tras el alba, el día
+    viene apriesa. Gente siento
+    y el retirarme es forzoso.
+[Salen don Enrique y Mendoza]
+ENRIQUE:
+    Él es, Mendoza. Lleguemos.
+REY:
+[([Ap]]
+    Por el postigo del parque,
+    que cae allí, entrarme quiero
+    antes que me reconozcan.)
+[Vase]
+ENRIQUE:
+    Mi hermano es, ¡viven los cielos!,
+    y ya por aquel postigo
+    se entra en palacio. ¿Qué haremos?
+MENDOZA:
+    No darse por entendido,
+    pues tú no sabes qué empeño
+    le ha detenido esta noche.
+ENRIQUE:
+    Llama a los crïados luego.
+    Mas, ¡válgame Dios! ¿Puñal
+    no es aquél… ¡Terrible encuentro!
+MENDOZA:
+    Antes di terrible azar,
+ENRIQUE:
+    ...que está clavado en el suelo?
+    Algo tengo de Mendoza,
+    mas no creo esos agüeros.
+    Muestra.
+MENDOZA:
+    Prenda es de valor.
+ENRIQUE:
+    En la guarnición que veo
+    conozco que es el puñal
+    de mi hermano.
+MENDOZA:
+    Algún exceso
+    de pesar ha sucedido.
+    ¡Ah, quién llegara más presto!
+ENRIQUE:
+    Vamos, Mendoza, a palacio.
+    Por aquí el paso atajemos.
+MENDOZA:
+    Vamos, señor.
+ENRIQUE:
+    El puñal
+    ha de ser, Mendoza, el medio
+    por donde el Rey me reciba
+    más grato, porque su reino,
+    según su primor aprecia,
+    presumo que estima en menos.
+MENDOZA:
+    Dicha ha sido haberle hallado.
+ENRIQUE:
+    No sé qué alborozo siento,
+    que deste puñal presumo
+    que han de resultar mis premios.
+    Mas ya a palacio llegamos.
+MENDOZA:
+    ¿Qué alboroto suela dentro?
+ENRIQUE:
+    No sé. Vámonos llegando,
+    que el Rey en el parque, y luego
+    en palacio este alboroto,
+    me ha dado mucho recelo.
+MENDOZA:
+    No hay ya que pasar de [a]quí,
+    porque todos van saliendo
+    y presumo que es el Rey.
+ENRIQUE:
+    A buena ocasión le vemos.
+[VOCES]:
+[(Dentro)]
+    ¡Plaza, plaza al Rey!
+[Sale el Rey, don Gutierre y acompañamiento]
+GUTIERRE:
+    Señor,
+    ya se sabe en todo el pueblo
+    que don Tello se ha escapado.
+REY:
+    Grande fue su atrevimiento.
+    Haced que luego le sigan,
+    que ha de ser el escarmiento
+    de Castilla su castigo.
+    Y llamad a los maestros
+    que hayan de venir conmigo
+    a ver la planta del templo
+    que labro a santo Domingo,
+    donde he de hacer un convento
+    de monjas, que le dé honor
+    a Madrid, donde deseo
+    que mi hija doña Juana
+    tome el hábito primero.
+    Donde se clavó el puñal
+    la capilla hacer pretendo.
+GUTIERRE:
+    Sin duda se te ha caído,
+    pues sola la vaina veo.
+REY:
+    Junto al pozo le olvidé.
+    Por azar perderle tengo.
+[UNA VOZ]:
+[(Dentro)]
+    Llévenle luego al castillo.
+REY:
+    Mirad, Gutierre, qué es eso.
+[[Vase don Gutierre]]
+    Haber perdido el puñal
+    me ha dado gran sentimiento.
+ENRIQUE:
+    Pues, señor, no está perdido,
+    que, a quien desvela el deseo
+    de servirte, le ha traído
+    por lograrte este contento.
+REY:
+[([Ap]]
+    ¡Válgame el cielo! ¿Qué miro?
+    Más pesar me ha dado el verlo
+    en mi hermano que el perderle.
+    Pues cuando me avisa el cielo
+    que me ha de matar mi hermano
+    con este mismo instrumento,
+    con temor y horror le miro,
+    mas disimularlo quiero.)
+    Enrique, llega a mis brazos.
+ENRIQUE:
+    Y el alma, señor, en ellos
+    te daré.
+REY:
+    ¿Qué haces, traidor?
+    ¡Ah de mi guarda! Prendeldo,
+    matalde.
+ENRIQUE:
+    Señor, ¿qué dices?
+REY:
+    Tú, con el puñal sangriento,
+    me quieres quitar la vida.
+    Tú me has herido. Prendeldo.
+ENRIQUE:
+    Señor, a tus pies está.
+REY:
+    Dámele, que con él mesmo
+    te he de matar.
+ENRIQUE:
+    Gran señor,
+    humilde y rendido vengo
+    y, si mi humildad te enoja,
+    besándole te le vuelvo,
+    como quien de su castigo
+    besa humilde el instrumento.
+REY:
+    Alza, Enrique, de mis pies,
+    que en los decretos del cielo
+    nada es el hombre, y las obras
+    ejecutan sus decretos.
+[([Ap]]
+    ¿Qué loca ilusión me asusta?)
+[UNA VOZ]:
+[(Dentro)]
+    Entrad dentro.
+REY:
+    ¿Qué es esto?
+[Salen Gutierre y las damas]
+GUTIERRE:
+    Señor, las guardas del campo
+    iban siguiendo a don Tello,
+    y los crïados del Infante,
+    sin conocerle, creyendo
+    que fuese algún malhechor,
+    le detuvieron a tiempo
+    que llegaron a prenderle,
+    y le traen.
+REY:
+[([Ap]]
+    Mucho lo siento,
+    porque es preciso que muera.)
+ENRIQUE:
+    Mis crïados le prendieron.
+    Ya es empeño de ampararle.
+LEONOR:
+    Señor, a tus plantas vuelvo
+    porque te hace más deidad,
+    aunque te ofenda, mi ruego.
+MARÍA:
+    Mirad, señor, nuestro llanto.
+REY:
+    Gutierre, llévenle luego
+    a ejecutar la sentencia.
+    No entre aquí y el privilegio
+    de verme la cara alegue.
+ENRIQUE:
+    Señor, si el merecimiento
+    de haber entrado en tu gracia
+    puede alcanzar este premio,
+    te pido que le perdones.
+    Y sea aqueste el primero
+    favor que de ti reciba
+    para empeñar mis alientos
+    en las glorias de servirte.
+REY:
+    Muy poderoso es tu ruego.
+    Hermano, su vida es tuya.
+ENRIQUE:
+    Mil veces tus plantas beso.
+REY:
+    Venga él y don Rodrigo.
+[Salen don Tello y don Rodrigo, y Gutierre y Perejil]
+GUTIERRE:
+    Aquí están todos.
+PEREJIL:
+    Laus Deo.
+TELLO:
+    Y yo rendido a tus plantas.
+REY:
+    Da la mano a Leonor, Tello.
+TELLO:
+    Ya se la doy con el alma.
+LEONOR:
+    Dulce fin de tanto empeño.
+RODRIGO:
+    También yo a doña María.
+MARÍA:
+    Tu vida es la que yo precio.
+PEREJIL:
+    Oigan vustedes, que falta
+    aquí lo mejor del cuento:
+    y es que sepan que aquí acaba
+    El valiente justiciero.

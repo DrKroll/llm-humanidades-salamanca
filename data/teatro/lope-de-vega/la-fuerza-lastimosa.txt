@@ -1,0 +1,4963 @@
+# La fuerza lastimosa
+Autor: Lope de Vega
+
+JORNADA 1
+
+[Sale la infanta Dionisia sola, de caza, con un venablo en la mano]
+DIONISIA:
+    Si por sendas tan estrechas
+    al ligero viento igualas
+    ¿que yo soy viento sospechas
+    o muestras que llevas alas
+    en las plumas de mis flechas?
+    Párate, ciervo, un momento
+    a ver mi cansancio atento,
+    si algún descanso te da.
+    ¿Piensas que siguiendo va
+    tu curso mi pensamiento?
+    ¡Oh notable ligereza,
+    que a la del tiempo equipara
+    la común naturaleza!
+    Y en aquellas aguas para,
+    bañando pies y cabeza.
+    Dichoso tú, que, afligido,
+    llegaste al centro querido
+    dese arroyo puro y manso,
+    que tarde llega al descanso
+    un corazón afligido.
+[Sale el conde Enrique, de caza]
+ENRIQUE:
+    Enramadas arboledas,
+    yedra que las vas vistiendo
+    y por sus ramas te enredas,
+    aguas que estando corriendo
+    parece que os estáis quedas,
+    sombras que el temor alteran
+    y contra el sol perseveran,
+    montes de aspereza llenos
+    para pensamientos buenos
+    si en vosotros se perdieran,
+    veis aquí un hombre dichoso
+    si no estuviera confuso,
+    pero el punto venturoso
+    en que mi estrella me puso
+    tiene el fin dificultoso.
+    Donde el alma apenas toca,
+    en una fortuna loca,
+    soy Tántalo de mi bien,
+    que por más que me le den
+    no puedo llegar la boca.
+DIONISIA:
+    ¡Enrique!
+ENRIQUE:
+    Señora mía...
+    No en balde esta fuente hermosa
+    sus márgenes excedía
+    y con envidia la rosa
+    más vivo color tenía.
+    No en balde el viento le daba
+    música al monte y tocaba
+    estas hojas a concierto.
+    No en balde el sol descubierto
+    las verdes cumbres doraba.
+    No en balde este claro río,
+    detenido entre esas piedras,
+    paraba su curso frío
+    y abrazaban estas yedras
+    este olmo, retrato mío.
+    No en balde por ver, señora,
+    aquesas plantas ligeras,
+    todas las flores agora
+    se quitan las vidrïeras
+    del rocío del aurora.
+    No en balde estaba este prado
+    de más cambiantes pintado
+    que del cielo el arrebol,
+    sirviendo de alfombra al sol
+    adonde está reclinado;
+    que estas estrellas dichosas
+    alegran, con dar sus lumbres,
+    al sol, montes, fuentes, rosas,
+    olmos, ríos, yedras, cumbres,
+    prados y flores hermosas.
+DIONISIA:
+    Mucho aquestas soledades
+    me obligan a que te diga
+    del alma grandes verdades.
+ENRIQUE:
+    Harto más mi fe te obliga
+    si a mi fe te persüades.
+    No mires a tu valor,
+    aparta de tu grandeza
+    los ojos de mi favor;
+    que no viendo mi bajeza
+    es la distancia menor.
+    Quien en alto está subido
+    ya no es bien que mire al suelo.
+    Que no me mires te pido,
+    que soy suelo dese cielo
+    de mil estrellas vestido.
+    De amor las ciertas señales
+    es igualar desiguales,
+    que en su mano celestial
+    tiene una balanza igual
+    que hace las almas iguales.
+DIONISIA:
+    Conde, si tanta humildad
+    os detiene a mi valor
+    para tener igualdad,
+    pensaré de vuestro amor
+    que no me tratáis verdad;
+    que como no he de tener
+    en pensamiento jamás
+    que menos pudistes ser,
+    vos os habéis de atrever
+    a no pensar que soy más.
+ENRIQUE:
+    ¡Oh divino entendimiento!
+    ¡Por qué camino ha igualado
+    su amor y mi pensamiento
+    y a su grandeza animado
+    mi cobarde atrevimiento!
+DIONISIA:
+    Dejemos divinidades
+    y la grandeza humanemos,
+    desnudemos las verdades
+    y, si es posible, juntemos
+    a un alma dos voluntades.
+ENRIQUE:
+    Decid mi bien, que aquí estoy.
+[Sale el duque Otavio]
+OTAVIO:
+    (Siguiendo mi muerte voy
+    perseguido de una fiera,
+    que hasta que en sus manos muera
+    ignorante Adonis soy.
+    ¡Quién ha visto que el que caza
+    vaya de la fiera huyendo
+    como del toro en la plaza,
+    sino yo, que voy siguiendo
+    la que mi muerte amenaza!
+    ¿Qué fuerza puede tener
+    contra un hombre una mujer?
+    Pero, pues que vence a un hombre,
+    sin duda es fuerza del nombre,
+    que no valor de su ser.
+    No es la fortuna importuna
+    porque tiene fuerza alguna
+    ni la muerte tiene ser,
+    mata el nombre de mujer
+    si lo son muerte y fortuna.
+    Puso gran virtud el cielo
+    en palabras, piedras, yerbas,
+    que dice y que tiene el suelo
+    y aquí, fiero amor, reservas
+    tu poder de fuego y hielo.
+    En la yerba de tu flecha
+    hay virtud, piedra en el pecho
+    que adoro y que no aprovecha,
+    pero palabras han hecho
+    más daño que se sospecha
+    y la de mayor poder
+    es el nombre de mujer;
+    luego bien se ve que el nombre
+    es el que da muerte al hombre,
+    que no la fuerza del ser.
+    ¡Ay, enemiga!, ¿aquí estás?
+    Déjame, amor, que publique
+    mi pena esta vez no más.
+    Mas aquí está el conde Enrique.)
+ENRIQUE:
+    ¿Esa palabra me das?
+[Hablan los dos aparte y escúchalos el Duque sin que le vean]
+DIONISIA:
+    Esta palabra te doy.
+OTAVIO:
+    (Palabras se dan. ¿Qué escucho?
+    Aquí más oculto estoy.)
+DIONISIA:
+    ¿Puedo hacer más?
+ENRIQUE:
+    Esto es mucho.
+DIONISIA:
+    Tu mujer digo que soy.
+OTAVIO:
+    (¿Cómo? ¡Ay, cielos! ¡Que la Infanta
+    confiese que es su mujer!)
+ENRIQUE:
+    Prenda mía, en merced tanta,
+    el callar al responder
+    muchas leguas se adelanta;
+    él diga lo que no digo,
+    pero con gusto del Rey
+    ya sabes que el viento sigo
+    y que antes, por justa ley,
+    me amenaza su castigo.
+    ¿Quién os ha de dar consejo?
+DIONISIA:
+    No me querer yo casar
+    y estar mi padre tan viejo.
+ENRIQUE:
+    Luego ¿quieres aguardar
+    a que se rompa su espejo?
+DIONISIA:
+    Si quedo sola ¿no puedo
+    hacer mi gusto sin miedo?
+ENRIQUE:
+    Sí, mas ¿dónde, hasta su muerte,
+    habrá paciencia tan fuerte
+    ni amor que quiera estar quedo?
+    Yo a lo menos, a esperar
+    sin sus ayudas de costa
+    no sé si podré llegar.
+OTAVIO:
+    (Este amor ya por la posta
+    en mi muerte ha de parar.)
+DIONISIA:
+    Verdad es que es largo plazo,
+    pero el papel, el abrazo
+    y la esperanza con él,
+    bien podrán...
+ENRIQUE:
+    Deja el papel
+    y al abrazo alarga el brazo,
+    que amor de papel no es bueno
+    para andar tanto camino
+    ni estar de noche al sereno;
+    que, en fin, el papel más fino
+    viene de lisonjas lleno;
+    que si se viene a olvidar,
+    cree que el papel mejor
+    es, llegado a pleitear,
+    cédula por donde amor
+    a nadie obliga a pagar.
+    Pero para esperar años
+    son menester desengaños
+    que entretengan el deseo.
+DIONISIA:
+    No lo digas con rodeo.
+ENRIQUE:
+    Temo tu enojo y mis daños.
+DIONISIA:
+    Ahora bien, mañana quiero
+    que vengas por el terrero
+    y en mi aposento entrarás.
+ENRIQUE:
+    No hay que dar ni pedir más.
+    Dame esas manos.
+OTAVIO:
+    (¿Qué espero?
+    Ya de mi muerte inhumana
+    ha llegado la sentencia.)
+DIONISIA:
+    ¿Qué dificultad no allana
+    amor?
+ENRIQUE:
+    ¿Quién tendrá paciencia
+    para esperar a mañana?
+DIONISIA:
+    Pues ¡cómo! ¿Aún no estás contento?
+ENRIQUE:
+    Como soy buen comprador,
+    regateo del tormento,
+    porque son años de amor
+    esperanzas de un momento.
+DIONISIA:
+    ¿Tormento da la esperanza?
+ENRIQUE:
+    Mientras el bien no se alcanza
+    y mayor cuando es mayor.
+DIONISIA:
+    ¿De aquí a mañana el favor?
+    ¡Eso es poca confïanza!
+ENRIQUE:
+    De hoy a mañana se vio
+    Troya famosa abrasada,
+    Roma su lustre perdió,
+    deshizo el viento la Armada
+    que más gallarda se vio.
+    De hoy a mañana acontece
+    que el rico pobre amanece,
+    el privado aborrecido,
+    el levantado abatido
+    y que la mar mengua y crece.
+    De hoy a mañana está el cielo
+    más sereno, más nublado;
+    está seco y verde el suelo
+    y el pájaro más atado
+    por el aire esparce el vuelo.
+    Vemos un almendro en flor
+    y helado todo mañana,
+    vemos esclavo al señor,
+    la sierra más alta, llana,
+    y más mudable el favor.
+    Entre la taza y el labio
+    dijo en cierto pasatiempo
+    que había peligro un sabio,
+    que en dos minutos de tiempo
+    puede caber un agravio.
+OTAVIO:
+    (¡Cómo, si es cuerda la Infanta,
+    debe al Conde aborrecer!
+    Pues cuando ella se adelanta
+    a lo que no puede hacer
+    la aprieta con fuerza tanta.
+    ¡Cuán diferente que fuera,
+    si ese bien me prometiera
+    de aquí a una semana, a un mes,
+    a un año, a un siglo y después
+    que nunca más lo cumpliera!)
+DIONISIA:
+    Para darte ese contento
+    es fuerza que al punto vuelva
+    a la ciudad.
+ENRIQUE:
+    Ahora siento
+    tu grande amor: esta selva
+    no fuera mal aposento,
+    pero no todas las Didos
+    agua y cuevas han de hallar.
+OTAVIO:
+    (Ciegos están y perdidos.
+    Su gusto quiero estorbar
+    y el fuego de mis sentidos.)
+[Llégase el duque Otavio a ellos]
+    ¿Ha llegado por aquí,
+    que habrá mucho que aquí estáis,
+    gran Dionisia, el jabalí?
+DIONISIA:
+    ¡Enhoramala vengáis!
+ENRIQUE:
+    (Y habrá de ser para mí.)
+OTAVIO:
+    Pienso que va a esta fuente
+    bañando en espuma el diente.
+ENRIQUE:
+    A lavárselos vendría.
+    Vamos de aquí, prenda mía.
+DIONISIA:
+    Buscad, Otavio, la gente.
+[Vanse, y queda el duque Otavio solo]
+OTAVIO:
+    Buscaré mi muerte fiera
+    y haré mucho si la hallo,
+    que va huyendo ligera.
+    ¿Por qué me detengo y callo?
+    ¡Muera el conde Enrique! ¡Muera!
+    ¡Dirélo al Rey! Pero no;
+    que si en desdichas iguales
+    sólo el ingenio ayudó,
+    siendo las que tengo tales
+    ¿quién las tendrá como yo?
+    Mía será esta mujer.
+    ¿Qué dices, alma? -“Sin duda,
+    digo que tuya ha de ser.”-
+    ¿Quién me ayuda? -“Amor te ayuda.”-
+    Pues si es dios, tendrá poder.
+    ¿Gozaréla? -“Bien podrás,
+    pues ¿cómo te atreverás?”-
+    Esta noche iré al terrero,
+    donde llegaré primero
+    y haga el amor lo demás.
+    Árboles con altas copas
+    a quien dio librea junta
+    el tiempo de verdes ropas;
+    monte, que con esa punta
+    en los mismos cielos topas;
+    prados, hechos a colores
+    con aromáticas flores,
+    manchados de varias tintas,
+    ajironados de cintas
+    de arroyos murmuradores;
+    animales escondidos,
+    altas y parleras aves,
+    que habláis por cuevas y nidos,
+    unas con voces süaves
+    y otras con fuertes bramidos;
+    cáuseos risa, aunque no sea
+    vuestro el reír ni entender
+    que diga un hombre y que crea
+    que gozará una mujer
+    que a otro esta noche desea.
+    Pero no importa creello
+    si así tengo de vivir
+    y tentallo será hacello,
+    que con ello he de salir
+    y de sentido sin ello.
+[Sale el rey de Irlanda, de caza, con gabán y dos criados]
+REY:
+    ¿Que no habéis visto la Infanta?
+VILLANO:
+    ¡Pardiós, señor, que en correr
+    de tal suerte se adelanta
+    que al viento quiere exceder
+    y atrás dejar a Atalanta!
+REY:
+    Que se recoja esa gente
+    será agora conviniente
+    y que a la ciudad volvamos.
+VILLANO 2:
+    Ella suena entre esos ramos...
+    pero no, que es una fuente.
+    Allá en su busca partimos.
+    Su merced sobre esta piedra
+    se siente mientras venimos.
+[Vanse los villanos]
+    Será do sale esa yedra
+    con sus hojas y racimos.
+REY:
+    Id, y diréis que aquí aguardo.
+OTAVIO:
+    Cansado estará Su Alteza.
+REY:
+    ¡Oh Duque!
+OTAVIO:
+    Cuando gallardo
+    joven corrió esta aspereza,
+    venciera al más suelto pardo.
+REY:
+    Pasa, Otavio, nuestra edad
+    como el sol que da la sombra.
+    Eso llaman mocedad,
+    esto, en fin, vejez se nombra
+    y es la misma enfermedad.
+    ¿Cómo os habéis alejado?
+OTAVIO:
+    Porque solo te he buscado
+    desde los rayos de Apolo
+    y, en fin, quiere Dios que solo
+    te haya en este monte hallado.
+REY:
+    ¿A qué efeto solo a mí?
+OTAVIO:
+    No habrá sido sin efeto.
+    Dame la palabra aquí
+    de guardarme...
+REY:
+    ¿Qué?
+OTAVIO:
+    Un secreto.
+REY:
+    ¿Secreto?
+OTAVIO:
+    Sí, señor.
+REY:
+    Di.
+OTAVIO:
+    Pero no lo digo bien.
+    Prende aquesta noche a un hombre.
+REY:
+    ¿Quién?
+OTAVIO:
+    El conde Enrique.
+REY:
+    ¿Quién?
+OTAVIO:
+    El Conde.
+REY:
+    Dudaba el nombre.
+OTAVIO:
+    Duda la prisión también.
+    La causa no has de saber
+    hasta mañana.
+REY:
+    ¿A qué efeto?
+    ¿Sin causa le he de prender?
+OTAVIO:
+    En eso estriba el secreto.
+REY:
+    Secreto sabré tener.
+OTAVIO:
+    No hay mucho de aquí a mañana,
+    y si esta noche lo sabes
+    será mi esperanza vana.
+    Tú muestra en cosas tan graves
+    paciencia madura y cana,
+    pero advierte que si entiende
+    más que un hombre su prisión,
+    tu vida y honra se ofende.
+REY:
+    Estrañas quimeras son.
+    ¿Qué es lo que el Conde pretende?
+OTAVIO:
+    Mañana al amanecer,
+    gran señor, lo has de saber.
+REY:
+    ¿Sólo un hombre ha de prendello?
+OTAVIO:
+    Llámale y podrás hacello.
+REY:
+    Y ese hombre ¿quién ha de ser?
+OTAVIO:
+    El capitán de tu guarda,
+    el marqués Fabio, que es hombre
+    de valor.
+REY:
+    La noche tarda.
+    ¿No tendrá esta prisión nombre?
+OTAVIO:
+    Yo sé que tu vida guarda.
+REY:
+    ¿Que en el secreto consiste
+    poner en esto remedio?
+OTAVIO:
+    Sí, señor.
+REY:
+    Vamos.
+OTAVIO:
+    ¿Vas triste?
+REY:
+    Voy de aqueste mar en medio
+    en que agora me pusiste,
+    pero siendo convenible,
+    mostraré, Otavio, valor.
+OTAVIO:
+    Muéstrate ahora apacible.
+REY:
+    ¡El conde Enrique traidor!
+    Parece cosa imposible.
+    ¿Sabrá, Otavio, esta prisión
+    mi hija?
+OTAVIO:
+    De ningún modo,
+    que estorbas mi pretensión.
+REY:
+    Ello es tan confuso todo,
+    que es la misma confusión.
+[Vanse y sale Belardo y Hortensio, criados del conde Enrique]
+BELARDO:
+    Dicen que ha vuelto Su Alteza
+    a gran priesa en la carroza.
+HORTENSIO:
+    Es briosa.
+BELARDO:
+    Es gentil moza
+    de los pies a la cabeza.
+    Otra vez al monte fui
+    y al salir de la mañana,
+    como otra hermosa Dïana,
+    con un venablo la vi.
+    Echéla mil bendiciones:
+    que Dios la diese un marido
+    galán, gallardo y brïoso
+    en obras como en razones;
+    más que Alejandro dichoso,
+    más lleno de oro que Midas
+    y que alargue Dios sus vidas
+    un siglo en paz y reposo.
+HORTENSIO:
+    Si nuestro amo el Conde oyera,
+    Belardo, tus bendiciones,
+    no acabaras las razones
+    cuando con algo te diera.
+BELARDO:
+    ¿Qué? ¿Diérame algún vestido?
+HORTENSIO:
+    Sin duda, y de lienzo fuera,
+    que hasta los pies te cubriera.
+BELARDO:
+    ¡Oh loco desvanecido!
+    Pues ¿qué piensa por ventura?
+    ¿que se ha de casar con él?
+HORTENSIO:
+    No sé si lo piensa él,
+    pero sé que lo procura.
+BELARDO:
+    Hortensio, los pensamientos
+    altos se llaman honrados,
+    pero más que altos, culpados,
+    y es dar que hacer a los vientos.
+    Que el Conde la quiere creo
+    por muchas demostraciones,
+    que agradece sus razones
+    por los favores que veo;
+    mas llegada la ocasión
+    en que el Rey la ha de casar,
+    el Conde se ha de quedar
+    con su mal de corazón.
+[Sale el conde Enrique]
+HORTENSIO:
+    El Conde ha venido, espera.
+ENRIQUE:
+    (¡Día enfadoso y pesado!
+    Sin duda el sol se ha parado
+    en medio de su carrera,
+    pero si milagro fue
+    pararse el sol o ir atrás,
+    para que corriera más
+    quisiera fuerzas y fe.
+    ¡Oh Amor!, pues dicen que estás
+    allá en la tercera esfera,
+    de la cuarta a la tercera
+    poca distancia hallarás:
+    ruégale al sol que camine
+    y se vaya a descansar;
+    ruégale, Amor, que al mar
+    su dorada frente incline,
+    dile que se acuerde bien
+    cuando por Dafne corría,
+    que yo pondré al fin del día
+    otros laureles también.)
+    ¿Aquí estáis?
+HORTENSIO:
+    Aquí esperamos.
+ENRIQUE:
+    Ya me podéis descalzar
+    y para esta noche dar
+    lo que otras veces llevamos...
+    Digo, en lo que toca al pecho.
+BELARDO:
+    Nunca defensas son malas.
+HORTENSIO:
+    Yo siempre llevo unas alas
+    por si fuere el paso estrecho.
+ENRIQUE:
+    ¿Galas dices?
+HORTENSIO:
+    Sí, señor.
+    (Alas dije, entendió galas.)
+ENRIQUE:
+    Las negras todas son malas
+    de noche, dadme color.
+BELARDO:
+    Gala negra, plata y oro
+    muy bien recebido está.
+ENRIQUE:
+    Esto es mal agüero ya,
+    aunque lo cubra un tesoro.
+    Dame color, que hoy es día
+    de que hasta el alma vistamos
+    de color.
+BELARDO:
+    (¡Buenos estamos!
+    ¿Hay favor?)
+ENRIQUE:
+    ¡Por vida mía,
+    que reviento por deciros
+    mi bien! Pero su grandeza
+    me enfrena.
+BELARDO:
+    ¿Fue que Su Alteza
+    oyó acaso tus suspiros?
+    Estará descalabrada
+    de alguno, si era muy duro.
+ENRIQUE:
+    Hortensio, yo no procuro
+    decir a este necio nada.
+    Ven acá tú ¡por mi vida!
+    Sabrás tú solo mi bien.
+HORTENSIO:
+    ¿Mas que me dices también
+    que está de tu amor perdida?
+    Yo apostaré que te vio
+    si los ojos puso en ti,
+    y que te dijo que sí
+    si no te dijo que no.
+    ¿Cuánto va que la has mirado
+    y que la viste muy bien?
+ENRIQUE:
+    ¡Mal fuego te queme, amén!
+    ¡Qué pesadumbre me has dado!
+    Ven acá, Belardo, tú.
+BELARDO:
+    ¿No sabremos lo que tienes?
+    Loco parece que vienes.
+ENRIQUE:
+    (¡Jesú! ¡La Infanta! ¡Jesú!)
+BELARDO:
+    ¿Santíguaste?
+ENRIQUE:
+    ¡Loco estoy!
+BELARDO:
+    Loco, pero buen cristiano;
+    háceme cruces.
+ENRIQUE:
+    Es en vano
+    callar el bien a que voy.
+    Désta va.
+BELARDO:
+    Hortensio, desvía.
+HORTENSIO:
+    ¿Cómo?
+BELARDO:
+    Pensé que tiraba.
+ENRIQUE:
+    (Casi por decirlo estaba.
+    ¡Oh fuerza de mi alegría!
+    Bien dicen que en el pesar,
+    más fácil que en el placer,
+    se puede un hombre tener
+    a las riendas del callar.)
+    Hijos, mi bien tuvo ya
+    el fin que yo le pedí...
+BELARDO:
+    ¿Cómo, señor?
+HORTENSIO:
+    ¿Cómo así?
+BELARDO:
+    Suspenso y callando está.
+HORTENSIO:
+    ¡Ah, señor!
+ENRIQUE:
+    ¿Qué me queréis?
+BELARDO:
+    ¿No dices eso?
+ENRIQUE:
+    Ya no,
+    que un pensamiento llegó
+    a decir que lo diréis.
+    A la lengua el bien salía
+    y detúvole el temor,
+    para que fuese mayor
+    cuanto más le detenía.
+    Desviaos de aquí, enemigos,
+    que os daré dos cuchilladas.
+HORTENSIO:
+    Loco está.
+BELARDO:
+    ¿De qué te enfadas?
+ENRIQUE:
+    ¡Oh luna, oh cielos amigos!
+    Ni tú salgas, ni vosotros
+    saquéis vuestro aparador
+    de estrellas, porque mejor
+    os las daremos nosotros:
+    veránse los ojos bien
+    de aquel ángel celestial.
+HORTENSIO:
+    No nos estuviera mal
+    que durara su desdén.
+[Sale Clenardo, secretario del Rey]
+CLENARDO:
+    ¿Está en casa el Conde?
+ENRIQUE:
+    Aquí
+    a vuestro servicio estoy.
+CLENARDO:
+    Una buena nueva os doy:
+    que os llama el Rey.
+ENRIQUE:
+    ¿Cómo así?
+CLENARDO:
+    Pienso, según me encomienda,
+    que yo proprio venga acá,
+    que alguna encomienda os da.
+ENRIQUE:
+    Vuestra será la encomienda;
+    que si de llamarme a mí,
+    a vos, Clenardo, os la dio,
+    en tenerla antes que yo
+    no os ofrezco nada aquí.
+    ¡Hola! Escuchadme vosotros.
+HORTENSIO:
+    ¿Qué mandáis?
+ENRIQUE:
+    En el terrero
+    esperad.
+HORTENSIO:
+    Yo allí te espero.
+BELARDO:
+    ¿Armarémonos nosotros?
+ENRIQUE:
+    Poneos entrambos bien
+    y no tenga que buscaros.
+    Ya sabéis donde he de hallaros.
+BELARDO:
+    Y a ti nosotros también.
+ENRIQUE:
+    ¿Qué quiere el Rey, secretario?
+CLENARDO:
+    Pienso que haceros merced.
+ENRIQUE:
+    (¡Oh cielos santos, haced
+    que no sea lo contrario!)
+[Vanse y salen la infanta Dionisia y Celinda, dama]
+DIONISIA:
+    En las determinaciones
+    de pechos enamorados,
+    los consejos son culpados
+    y cansadas las razones.
+    Yo, Celinda, quiero bien;
+    deja de pensar que puedo
+    tener a mi padre miedo
+    ni al Conde mostrar desdén.
+    Yo nací para servir
+    a Enrique. Enrique es mi dueño.
+    Todo es viento, es sombra, es sueño,
+    cuanto me puedes decir.
+    Si ha sido mala elección,
+    que me disculpes te ruego;
+    conque, si el amor es ciego,
+    ciegos sus efetos son.
+CELINDA:
+    Señora, el Conde es muy noble;
+    pero hay más desigualdad
+    de aquella a tu calidad,
+    que desde la palma al roble.
+    Si amor es ciego, por eso
+    es un lince la razón
+    y siempre la obstinación
+    es madre del mal suceso.
+    ¿Qué bien se puede seguir
+    de que el Conde entre atrevido
+    a tu aposento?
+DIONISIA:
+    El marido
+    bien puede entrar y salir.
+CELINDA:
+    El marido ¿quién lo duda?
+    Pero el Conde no lo es.
+DIONISIA:
+    Es lo que ha de ser después
+    y en lo que ha de ser no hay duda.
+CELINDA:
+    Perdida está Vuestra Alteza.
+DIONISIA:
+    Ganada, Celinda, estoy.
+CELINDA:
+    ¡Señora!
+DIONISIA:
+    A fe de quien soy,
+    que me quiebras la cabeza.
+    El Conde ha de estar aquí.
+    A la ventana estarás
+    hasta que venga.
+CELINDA:
+    ¿Eso más?
+DIONISIA:
+    ¿Óyeslo?
+CELINDA:
+    Señora, sí.
+DIONISIA:
+    Pues yo voy sólo a rogar
+    al cielo el tiempo apresure
+    y que la vida asegure
+    de quien me la puede dar.
+    Estarás bien advertida
+    que no haya luz.
+CELINDA:
+    Yo lo haré.
+DIONISIA:
+    Mira que si el Rey lo ve
+    puede costarme la vida.
+[Vase la infanta Dionisia y queda Celinda sola]
+CELINDA:
+    Nunca, tirano amor, de tus embustes
+    resultaron menores desatinos;
+    ya no podrás hallar otros caminos
+    para que más de veras me disgustes.
+    ¿Que un conde humilde y una reina ajustes?
+    Enlaza, amor, las yedras con los pinos,
+    mas no enredes los frágiles espinos
+    cuando, por niño, de locuras gustes.
+    Mira, amor, que era el Conde propio centro
+    desta alma y calidad y que es pequeño
+    para los brazos de la Infanta bella.
+    Mas eres vino, amor, que una vez dentro
+    quieres que te obedezcan más que al dueño
+    y echas de casa a quien te puso en ella.
+[Salen el Rey y el marqués Fabio y Clenardo, secretario]
+REY:
+    En fin ¿dijo que vendría?
+CLENARDO:
+    A la puerta le dejé.
+REY:
+    ¿Vino triste?
+CLENARDO:
+    Antes le hallé
+    con una estraña alegría
+    y con la misma ha venido.
+REY:
+    Llamadle y quedaos allá.
+    Mirad, capitán, si está
+    alguien por aquí escondido.
+FABIO:
+    Celinda pasa al retrete.
+REY:
+    ¿Quieres algo?
+CELINDA:
+    No, señor.
+REY:
+    Pues despeja el corredor.
+CELINDA:
+    Voyme, si te sirvo.
+REY:
+    Vete.
+    ¿Qué hace Dionisia?
+CELINDA:
+    Después
+    que te habló fue a su aposento.
+[Vase]
+REY:
+    No tiene más fundamento
+    de lo que os digo, Marqués.
+    Otavio me le ha mandado
+    prender.
+FABIO:
+    Pues ¿sin dar razón?
+    ¡A un hombre que, en opinión
+    del mundo, no está culpado!
+    ¡A Enrique, a un hombre leal!
+REY:
+    Marqués, no hay mucha jornada
+    de aquí a mañana.
+FABIO:
+    Y ¿no es nada
+    que a un hombre tan principal
+    prendas de aquesta manera?
+REY:
+    Con tal secreto no importa
+    y pues la distancia es corta,
+    en mi sufrimiento espera.
+    ¿Qué quieres? ¿Qué puedo hacer,
+    si dice Otavio que es cosa
+    tan secreta y tan forzosa?
+FABIO:
+    Él lo debe de saber;
+    mas ¡vive Dios! así ha hecho
+    Enrique cosa en tu ofensa,
+    como yo soy...
+REY:
+    Marqués, piensa
+    que es hombre.
+FABIO:
+    Y de noble pecho.
+    ¡Plegue a Dios que algún traidor...
+REY:
+    ¿Quieres que piense que fuiste
+    cómplice en esto?
+FABIO:
+    Si diste
+    crédito al primero error,
+    dale también al segundo
+    y manda prenderme a mí.
+[Sale Clenardo, secretario]
+CLENARDO:
+    Señor, el Conde está aquí.
+FABIO:
+    Y el que es la lealtad del mundo.
+REY:
+    Ya te he dicho que él me vea
+    y que tu no entres acá.
+[Vase Clenardo y sale el conde Enrique]
+ENRIQUE:
+    Por ver lo que el Rey me da,
+    Clenardo, el mundo rodea.
+    Aquí, señor, he llegado,
+    como tu hechura, a servirte.
+REY:
+    Marqués, no hay más que decirte.
+    Harás lo que te he mandado.
+[Vase]
+ENRIQUE:
+    ¡Cómo, señor! ¿Así os vais?
+    Pues, ¿qué es esto? ¿Vuestra cara
+    no merezco ver?
+FABIO:
+    Repara
+    un poco.
+ENRIQUE:
+    ¡Oh Fabio! ¿Aquí estáis?
+    ¿Sois vos a quien dice el Rey
+    que lo que os manda se haga?
+FABIO:
+    Así tus servicios paga
+    del mundo ordinaria ley.
+ENRIQUE:
+    ¿Cómo que paga? Pues ¿qué?
+    ¿Qué os manda o qué he de hacer yo?
+    ¿Para qué el Rey me llamó
+    y a verme Clenardo fue?
+    ¿En qué puedo al Rey servir?
+    ¿Qué me puede el Rey querer?
+    ¿Qué tengo yo que hacer?
+    ¿Qué tenéis vos que decir?
+    ¿Qué importan aquí las leyes?
+FABIO:
+    No sé más, en tu disgusto,
+    de que obedecer es justo
+    de cualquier suerte a los reyes.
+ENRIQUE:
+    ¿Yo he deservido a Su Alteza?
+    ¿Qué es esto?
+FABIO:
+    No sé.
+    Callar, Enrique, juré,
+    con pena de la cabeza.
+ENRIQUE:
+    Pues sacadme deste enredo,
+    que me tenéis encantado.
+FABIO:
+    Sabéis vos que os he estimado
+    más que encareceros puedo.
+    Pechos andan por aquí
+    que no están del todo buenos.
+ENRIQUE:
+    Agora os entiendo menos
+    que al principio os entendí.
+    Yo sé bien vuestra amistad,
+    conozco vuestro valor...
+FABIO:
+    ¿Dígolo, en fin?
+ENRIQUE:
+    Sí, señor.
+    Los prólogos escusad.
+FABIO:
+    Vos sois un gran caballero,
+    mentiras no pueden nada;
+    con sólo darme la espada
+    podéis saber lo que os quiero.
+ENRIQUE:
+    ¡La espada yo!
+FABIO:
+    Sí, ¡por Dios!
+ENRIQUE:
+    Acertó desa manera
+    el Rey, porque no la diera,
+    Fabio, a quien no fuera vos.
+    Desde que fui vuestro amigo
+    en serviros procuré
+    emplearla y lo mostré
+    delante de algún testigo.
+    ¡No esté más tiempo ceñida!
+[Dale el Conde la espada]
+    Tomadla, que no doy nada
+    en dar a un hombre la espada
+    a quien le diera la vida.
+FABIO:
+    Conde, no me la habéis dado,
+    ni vos la podéis rendir,
+    que lo que podéis decir
+    es que me la habéis trocado.
+    La mía de vos se fía;
+[Dale Fabio la suya al Conde]
+    que persona tan honrada
+    ni ha de ir preso sin espada,
+    ni le ha de faltar la mía.
+    Por el nombre de prisión
+    la espada tomo y os doy
+    la mía en fe de que estoy
+    más preso de obligación.
+ENRIQUE:
+    Vamos adonde mandáis,
+    que esperáis y el Rey espera.
+FABIO:
+    Para que quién sois supiera,
+    basta que eso respondáis.
+    Pues ¿cómo sin preguntarme
+    por qué os prendo? ¡Estraño pecho!
+ENRIQUE:
+    Lo que vos, Fabio, habéis hecho
+    no es prenderme, es obligarme,
+    y el obligado está preso,
+    como yo lo estoy de vos;
+    y prisión vuestra ¡por Dios,
+    que ha de tener buen suceso!
+    Y aunque es propria obligación
+    saber por qué me lleváis,
+    basta que vos me prendáis
+    para saber que hay razón.
+    Fuera deso, no me altera
+    que el Rey os lo haya mandado;
+    que agora no estoy culpado
+    y mañana lo estuviera.
+    Y como el llevar razón
+    hace fácil la pendencia,
+    así, Marqués, la inocencia
+    hace alegre la prisión.
+    Sin eso, causa ni ley
+    para replicarle hallo;
+    ni prende el Rey al vasallo,
+    basta que lo quiera el Rey,
+    antes yo le debo en eso,
+    porque me ha dado ¡por Dios!
+    más honra en prenderme vos,
+    que pena en tenerme preso.
+FABIO:
+    De todo salís tan bien
+    como de vos se esperaba.
+    Vamos.
+ENRIQUE:
+    (Hoy la envidia acaba
+    de quitarme todo el bien.)
+[Vanse y salen Hortensio y Belardo, con broqueles y escopetas]
+BELARDO:
+    ¡Gran sueño!
+HORTENSIO:
+    Echóse a dormir.
+BELARDO:
+    No es posible; que tenía
+    el Conde mucha alegría,
+    que el sueño suele impedir.
+HORTENSIO:
+    El alegre ¿puede estar
+    sin dormir?
+BELARDO:
+    Bien puede ser.
+    Tanto desvela el placer
+    como si fuera un pesar.
+HORTENSIO:
+    ¿No dijo que aquí vendría?
+    No debe de ser la hora.
+BELARDO:
+    Plegue a Dios que el aurora
+    vaya a madrugar al día.
+HORTENSIO:
+    Según eso ¿ya imaginas
+    que hasta el alba no vendrá?
+BELARDO:
+    Primero le correrá
+    la noche al sol las cortinas.
+HORTENSIO:
+    ¿Qué cortinas, mentecato?
+    ¿Es el cielo barbería?
+BELARDO:
+    ¿No ves que, hablando poesía,
+    la metáfora retrato?
+    Mal sabes tú lo que es esto.
+HORTENSIO:
+    Quisiera ¡pese a la dama!
+    Ser poeta de mi cama
+    y estar en ella hecho un cesto.
+    ¿Hay galeras, hay Argel,
+    hay tahona, hay mal casado
+    como servir a un penado
+    déstos de azúcar y miel?
+    Vendrá la bestia a lo escuro,
+    hecho un molde de galanes,
+    a besar los mazapanes
+    de las piedras deste muro;
+    y cuando mucho, una dueña,
+    más sesga que una borrica,
+    verterá una bacinica
+    y él pensará que es la seña;
+    y recibiendo el favor
+    sobre mucha tela y gasa
+    le llevaremos a casa
+    cubierto de agua de olor.
+BELARDO:
+    ¡De lo que hacen favores
+    aquestos desventurados!
+    Nuesa ama tiene guardados
+    claveles, listones, flores,
+    plumas, piedras, palos, lienzo,
+    guantes viejos, zapatillos,
+    estuches, clavos, cuchillos
+    y cosas que me avergüenzo
+    de decirlas y aun no quiero,
+    por no tocar en su honor.
+HORTENSIO:
+    Sábete que tiene amor
+    mil cosas de bohonero.
+    Quedo: de arriba deciende
+    un hombre por una escala.
+BELARDO:
+    No tuvo la noche mala,
+    ni en vano el Conde pretende.
+    ¡Pese a mí, que el alegría
+    no era acaso y sin razón!
+HORTENSIO:
+    Ten del postrer escalón.
+BELARDO:
+    Baje derecho Vusía.
+[Descuélgase por una escala el duque Otavio y en viéndose abajo echa mano a la espada]
+OTAVIO:
+    ¿Qué gente? ¿Quién va? ¿Quién es?
+    Ténganse, que haré pedazos
+    a quien llegare.
+HORTENSIO:
+    Esos brazos
+    nos da a entrambos o esos pies.
+    ¿Cómo allá te detenías?
+    Casi has aguardado al alba,
+    que ya con alegre salva
+    le da al sol los buenos días.
+OTAVIO:
+    Ninguno se llegue a mí
+    ni procure conocerme.
+HORTENSIO:
+    ¿Qué dices?
+BELARDO:
+    Pienso que duerme.
+HORTENSIO:
+    ¿Quieres que nos vamos?
+OTAVIO:
+    Sí.
+BELARDO:
+    ¿No nos habías mandado
+    guardar aqueste balcón?
+OTAVIO:
+    (Crïados del Duque son.)
+BELARDO:
+    O está loco, o se ha casado.
+HORTENSIO:
+    Pues ¿qué hace el casamiento?
+BELARDO:
+    Muda de gusto y lenguaje.
+OTAVIO:
+    ¡Oh, pesar de mi linaje!
+    ¿No se van?
+BELARDO:
+    ¡Estraño cuento!
+[Empiézalos el Duque a dar de cintarazos]
+    Paso, señor, ya nos vamos.
+HORTENSIO:
+    Belardo, vamos de aquí.
+BELARDO:
+    ¡Bien pagas lo que por ti
+    toda la noche velamos!
+[Vanse Belardo y Hortensio santiguándose y queda el duque Otavio solo y ha de haber estado embozado]
+OTAVIO:
+    ¿A cuál hombre jamás le ha sucedido
+    que, en lugar de galán que fue esperado,
+    su dama desdeñosa haya gozado
+    con el seguro nombre de marido?
+    Fábula le parece a mi sentido
+    lo que por todos juntos ha pasado.
+    Todo cobarde, amando, es desdichado
+    y sólo el venturoso es atrevido.
+    ¡Oh, escurísima cuadra! ¡Oh, noche fresca!
+    Yo te ofrezco una lámpara de plata,
+    agradecido a la ventura mía.
+    Ni celos temo ya, ni amor me mata.
+    Venciste, noche, el más alegre día
+    y yo engañé la más hermosa ingrata.
+[Vase y sale el Rey y el marqués Fabio y Clenardo]
+REY:
+    Apenas se mostraba en el Oriente
+    la blanca aurora, cuando me despierta
+    este papel del Duque, marqués Fabio,
+    que ya tenía desde anoche escrito,
+    porque anoche a su tierra se partía.
+    Estrañas confusiones me ha dejado,
+    más dudas que al principio tengo agora
+    y más temor de algún siniestro caso.
+FABIO:
+    Dame licencia que lea.
+REY:
+    Toma.
+[Lee la carta el marqués Fabio]
+REY:
+    ¿Qué os parece?
+FABIO:
+    Que fue, si es verdad esto,
+    remedio impertinente, pues pudiera
+    guardarse el Conde, sin que tú lo hicieses
+    por medio de alboroto semejante.
+    Voy, con licencia tuya, por el Conde,
+    contento de saber, que está inocente
+    y provocado a risa y a enojo,
+    de ver la necedad del Duque.
+REY:
+    Parte
+    y venga el Conde aquí.
+FABIO:
+    Yo voy.
+CLENARDO:
+    Agora
+    acabo de entender lo que me cuesta
+    haberme desvelado aquesta noche.
+    ¿Preso tenías al Conde?
+REY:
+    Preso estaba.
+CLENARDO:
+    ¿Y ésta fue la ocasión?
+REY:
+    La que has oído.
+CLENARDO:
+    Es el Conde, señor, tal caballero,
+    tan discreto, leal, noble, sencillo,
+    tan liberal, tan bien intencionado,
+    tan poco entremetido y cauteloso,
+    tan bienquisto de todos, tan amable,
+    tan seguro y tan bueno finalmente,
+    que cuando me mandaste con secreto
+    que le llamase, dije que sin duda
+    merced le hacías de algún nuevo título.
+REY:
+    Ventura tiene el Conde.
+CLENARDO:
+    Tiene méritos.
+REY:
+    Oigo decir a todos que es un ángel.
+CLENARDO:
+    La voz del pueblo la de Dios se llama.
+REY:
+    Sí, pero la virtud tiene enemigos;
+    no tiene mucha, pues que no los tiene.
+CLENARDO:
+    La virtud general vence la envidia
+    y el que es en todo bueno, ámanle todos.
+REY:
+    Mi gracia ha conquistado con tu lengua.
+[Sale Fabio y el conde Enrique]
+ENRIQUE:
+    Aquí tienes, señor, la hechura tuya.
+REY:
+    Alzáos, Conde, y cubríos.
+ENRIQUE:
+    ¿Por qué causa
+    ayer me prendes y hoy cubrir me mandas?
+REY:
+    Levantaos, Almirante.
+ENRIQUE:
+    Tus pies beso
+    por merced tan notable.
+FABIO:
+    Justamente
+    el Conde es digno dese honrado título.
+CLENARDO:
+    Todos, señor, el parabién le damos.
+REY:
+    No os cause admiración haberos preso
+    y haceros hoy merced.
+ENRIQUE:
+    Mi humildad miro.
+CLENARDO:
+    Josef para ser Rey dejó la cárcel.
+REY:
+    Ahora bien, yo tendré de hoy más, Enrique,
+    en haceros merced cuidado.
+ENRIQUE:
+    Bastan
+    tantas mercedes para muchas vidas.
+REY:
+    Vamos, Marqués, y vos también Clenardo,
+    para que despachemos luego a Escocia
+    sobre este casamiento de la Infanta.
+[Vanse y queda el conde Enrique solo]
+ENRIQUE:
+    Engáñase la fortuna
+    o piensa con este engaño
+    del ya recebido daño
+    satisfacer parte alguna.
+    Toda la noche he pasado
+    divertido en la ocasión
+    desta mi nueva pasión
+    y nunca en lo cierto he dado,
+    porque si el Rey me prendiera
+    por el concierto que hacía
+    con su hija y mujer mía,
+    más larga prisión tuviera.
+    No pregunté la razón,
+    porque a los reyes no es justo,
+    en las cosas de su gusto,
+    preguntarles la ocasión.
+    Como al cielo por qué llueve
+    no se puede preguntar,
+    así el Rey no ha de contar
+    lo que a su gusto le mueve.
+    En cosas del común bien
+    o justicia en opinión,
+    es bien que satisfación
+    los reyes entonces den
+    y ésa de su voluntad,
+    que el Rey de nadie depende,
+    en fin, anoche me prende
+    y hoy me ha dado libertad.
+    El título de almirante
+    es agravio a toda ley,
+    pues me le ha quitado el Rey
+    en ocasión semejante.
+    ¡Ah, crüel fortuna mía!
+    ¿Cómo hiciste una quimera
+    tan estraña? ¿No pudiera
+    aguardar tu furia un día?
+    ¿No pudiera suceder
+    hoy esta prisión sin culpa?
+    Bien, fortuna, te disculpa
+    que eres mudable y mujer.
+[Salen Hortensio y Belardo]
+BELARDO:
+    ¡Gracias a Dios que pareces
+    más quïeto y sosegado!
+HORTENSIO:
+    ¡Qué bien que me has animado
+    para esperarte otras veces!
+BELARDO:
+    ¿Así el estarte esperando
+    toda una noche al sereno,
+    mientras tú en el huerto ajeno
+    la fruta estabas hurtando,
+    nos pagas a cintarazos?
+    Bajas de gozar la Infanta
+    toda una noche y ¡te espanta
+    que te pidamos los brazos!
+    ¡Por Dios, si no te reparo
+    la punta en el vademécum,
+    que con un Dominus técum
+    me pasas de claro en claro!
+    ¡Y dejaste allí la escala!
+    Que no hiciera un... no quiero
+    decírtelo.
+ENRIQUE:
+    Majadero,
+    vete mucho enhoramala;
+    que ni escala me dejé,
+    ni la Infanta anoche vi,
+    ni cintarazos te di,
+    ni dentro ni fuera hablé.
+HORTENSIO:
+    ¿Niegas que no decendiste
+    con una escala al balcón,
+    y al hablarte, sin razón,
+    de cintarazos nos diste?
+    Que ¡vive Dios, si no eras,
+    que otro galán la ha gozado!
+ENRIQUE:
+    ¿Hombre dices que ha bajado?
+HORTENSIO:
+    ¿Qué te demudas y alteras?
+    ¡Vive Dios, que decendió
+    y que fue burla de fama,
+    pues te ha quitado la dama
+    y muchos palos nos dio!
+ENRIQUE:
+    Que por la Infanta no fue,
+    ese es negocio muy cierto.
+BELARDO:
+    No, pero es cierto el concierto
+    de los palos que llevé,
+    que, a saber que tú no eras,
+    le hiciéramos mil pedazos.
+[Sale la infanta Dionisia y Celinda]
+CELINDA:
+    Aquí está.
+DIONISIA:
+    Dame esos brazos.
+    ¿Qué te detienes? ¿Qué esperas?
+    Ya me tiene el ciego amor,
+    prenda mía, de tal suerte,
+    que he vuelto el rostro a la muerte
+    y atropellado el honor.
+    ¿Cómo estás? Que yo estoy tal,
+    con la noche que he tenido
+    contigo, que no hay sentido
+    que no tenga gloria igual.
+    ¡Ay, mi bien!, ¿serán verdades
+    todas aquellas razones
+    que me dijiste, o traiciones
+    de hombre al fin me persuades?
+    ¿Cumplirás lo prometido?
+    Mira, amores, cuál estoy,
+    pues apenas digna soy
+    de que seas mi marido.
+    La mañana maldecía,
+    viendo que ya de tus brazos
+    tantos amorosos lazos
+    con envidia deshacía.
+    No me atreví, ni era justo
+    esperar a que llegase,
+    porque un gusto no quitase
+    para siempre tanto gusto.
+    ¿De qué me escuchas suspenso?
+    ¿Oféndete el ver quién soy?
+ENRIQUE:
+    Suspenso escuchando estoy,
+    porque en lo que dices pienso.
+    ¿Yo, señora, anoche entré
+    en tu aposento?
+DIONISIA:
+    Si es eso
+    por Celinda, este suceso,
+    Conde, en su presencia fue.
+    Si miras a tus crïados,
+    ninguna pena te den:
+    tú eres mi esposo, mi bien,
+    mis padres, reinos y estados.
+ENRIQUE:
+    Señora, no es la ocasión
+    de mi admiración la gente
+    que está presente o ausente.
+DIONISIA:
+    Pues ¿qué?
+ENRIQUE:
+    Tus palabras son.
+    ¿Yo anoche te hablé ni vi?
+    ¿Yo anoche estuve en tus brazos?
+    Hartos diferentes lazos
+    me puso tu padre a mí.
+    Preso me tuvo, señora;
+    mira que yo no sería
+    el que gozaste hasta el día,
+    pues el Rey me suelta agora.
+DIONISIA:
+    ¿Cómo preso?
+ENRIQUE:
+    Aquesto es cierto.
+DIONISIA:
+    Celinda ¿tú no le abriste?
+CELINDA:
+    Luego ¿niegas que veniste
+    de galas y armas cubierto
+    y que yo te abrí el balcón
+    y entraste en el aposento?
+    Di también, Conde, que miento.
+ENRIQUE:
+    Celinda, tus celos son.
+    ¿Yo te hablé? ¿Yo entré? ¿Yo vi
+    a la Infanta?
+DIONISIA:
+    Esos crïados
+    lo dirán, pues embozados
+    amanecieron allí.
+BELARDO:
+    Verdad es que bajó un hombre,
+    pero no se dejó ver;
+    no pudiera el Conde ser
+    quien nos negara su nombre.
+DIONISIA:
+    ¿Qué es esto? ¡Que pierdo el seso!
+    Conde ¿que no entrasteis vos?
+ENRIQUE:
+    No, señora, no por Dios,
+    que esta noche estuve preso.
+DIONISIA:
+    Daré voces como loca.
+    Al Rey lo diré, villano.
+ENRIQUE:
+    ¡Señora...!
+DIONISIA:
+    Suelta la mano.
+    Tu muerte será mi boca,
+    pues que la tuya lo fue
+    de su honor y el mío.
+ENRIQUE:
+    Señora,
+    oye un poco, escucha agora.
+DIONISIA:
+    ¿Qué dices?
+ENRIQUE:
+    Que me burlé.
+DIONISIA:
+    Pesadas burlas, Enrique,
+    siendo reina y tú vasallo,
+    gozarme y querer negallo.
+ENRIQUE:
+    Pues ¿quieres que lo publique?
+    Así es razón que te niegues.
+    ¿No ves que a gran mal te obligas?
+DIONISIA:
+    No quiero yo que lo digas,
+    mas no quiero que lo niegues.
+ENRIQUE:
+    Ahora bien, si gustas deso,
+    yo lo diré de tal suerte,
+    que tu deshonra y mi muerte
+    tengan un mismo suceso.
+    A mucho el amor te obliga.
+    ¿Quieres que dé voces?
+DIONISIA:
+    No,
+    pero que quien me gozó,
+    si lo pregunto, lo diga.
+    Y este pesar que me has dado
+    me aparta agora de ti.
+ENRIQUE:
+    Pues ¿cómo? ¿Así te vas?
+DIONISIA:
+    Sí,
+    que me has, Enrique, enojado.
+[Vanse la Infanta y Celinda]
+BELARDO:
+    Mal has hecho, ya que vías
+    que ella no mira a su honor,
+    en contradecir, señor,
+    que ya gozado la habías;
+    que bien podías llegar
+    y decírselo al oído.
+HORTENSIO:
+    No sé, si discreto has sido
+    en tanto disimular,
+    pero no dure el mal año,
+    más que duren sus enojos.
+    ¿Cómo aun no mueves los ojos?
+    ¿Temes, por ventura, el daño
+    que de saberse tu bien
+    te podría resultar?
+BELARDO:
+    ¡Qué notable imaginar!
+ENRIQUE:
+    Esto me estará más bien.
+    ¡Ea, amigos, alto, a España!
+BELARDO:
+    ¿Cómo, señor? Vuelve en ti,
+    ¿Gózasla y déjasla así?
+    ¿No ves que es infame hazaña?
+    ¿Quién no perdiera mil vidas,
+    aunque un hombre bajo fuera?
+ENRIQUE:
+    Si yo gozado la hubiera,
+    las diera por bien perdidas.
+    Amigos, otro hombre fue.
+    ¡Triste de mí, que estoy loco!
+    Ni entré, ni la vi tampoco,
+    ni a los balcones llegué.
+    Prendióme el Rey y en verdad
+    que he estado preso.
+BELARDO:
+    Confieso,
+    que es un estraño suceso.
+ENRIQUE:
+    Salgamos de la ciudad.
+    No he de estar un punto aquí.
+    ¡Alto, a embarcar!
+HORTENSIO:
+    ¿Dónde iremos?
+ENRIQUE:
+    A España.
+HORTENSIO:
+    No hagas estremos.
+ENRIQUE:
+    ¿Cómo no, si voy sin mí?
+    No me quejaba con poca
+    razón cuando yo decía
+    que una desgracia cabía
+    entre la taza y la boca.
+    Mi esperanza dejo al viento,
+    pues que la más cierta engaña.
+    ¡Plegue a Dios, aires de España,
+    que mudéis mi pensamiento!
+[Vanse, con que se da fin a la primera jornada]
+
+JORNADA 2
+
+[Sale el Rey y la infanta Dionisia muy triste y Celinda y Clenardo y unos músicos]
+REY:
+    Si para darte alegría
+    mi propia vida bastara,
+    de mil años la trocara
+    por darte contento un día.
+    ¿Es posible que el consejo
+    que firma amor de sus ojos
+    quieran quebrar sus enojos
+    a un rey y a un padre, a un viejo?
+    ¿Hasta cuándo ha de durar
+    tan fiera melancolía,
+    que la vida tuya y mía
+    quiere de un golpe acabar?
+    Dos filos tiene esta espada,
+    con que les corta a los dos.
+    ¡Ay, Dionisia, quiera Dios
+    que acabe la más cansada!
+    ¿No me hablas? ¿No respondes?
+    ¿No son justas mis querellas?
+    ¿En qué cielo las estrellas
+    de tu alegre rostro escondes?
+    Siéntate en este jardín.
+    ¡Hola! Esa silla llegad.
+    ¿Cantarán?
+DIONISIA:
+    Sí.
+REY:
+    Pues cantad.
+DIONISIA:
+    A las honras de mi fin,
+    aunque quien muere sin honra
+    ningunas honras merece.
+REY:
+    ¿Desta enfermedad padece?
+DIONISIA:
+    ¿Qué mayor que la deshonra?
+REY:
+    ¿Tú, deshonra? Loca estás.
+    ¿Quien da honra, que es un rey,
+    está sin honra? ¿Qué ley
+    comprehende al rey jamás?
+DIONISIA:
+    ¡Cantad o salíos allá!
+REY:
+    Ya cantan, no te apasiones.
+DIONISIA:
+    Ea, pues, dejad razones.
+CELINDA:
+    (Loca está.)
+CLENARDO:
+    (Furiosa está.)
+[Cantan los músicos]
+MÚSICOS:
+    Madrugaba entre las rosas
+    el alba, pidiendo albricias
+    a las aves y a las fieras
+    de que se acercaba el día,
+    cuando, viéndose engañada
+    del duque Vireno, Olimpa
+    a voces dice en la playa
+    a la nave fugitiva:
+    “¡Plegue a Dios que te anegues,
+    nave enemiga!
+    Pero no, que me llevas
+    dentro la vida.”
+DIONISIA:
+    ¿Esto consientes cantar?
+REY:
+    Pues, hija ¿en qué te ha ofendido?
+DIONISIA:
+    Gozóla el Duque atrevido
+    y alargó la nave al mar.
+    Yo sé muy bien lo que siento,
+    no es locura, sino engaño.
+REY:
+    ¿Qué importa el ajeno daño
+    para el propio sentimiento?
+DIONISIA:
+    ¿No importa? ¿Luego la ley
+    de Dios no lo manda así?
+    ¿Queréis vos quebrarla aquí,
+    no más de porque sois rey?
+    ¡Oh Duque falso, traidor,
+    que a Olimpia dejas!
+CLENARDO:
+    Señora,
+    deje Vuestra Alteza agora
+    ese fabuloso amor.
+DIONISIA:
+    ¿Quién os mete, majadero,
+    en si fue verdad o no?
+    (Verdad es, pues que soy yo
+    la que por el Duque muero.
+    Yo soy la que un triste día
+    a la orilla de la mar,
+    viendo a Vireno embarcar,
+    con tristes voces decía:
+    “¡Plegue a Dios que te anegues,
+    nave enemiga!”)
+CELINDA:
+    ¿De quién piensas que se queja?
+CLENARDO:
+    Ya sé que del conde Enrique.
+CELINDA:
+    Mucho temo que publique
+    la razón por que la deja.
+CLENARDO:
+    Cuatro años ha que falta,
+    mucho es durarle el amor.
+CELINDA:
+    Quizá le falta el honor.
+CLENARDO:
+    ¡Cómo! ¿A persona tan alta?
+CELINDA:
+    Como si aquesto no fuera
+    la Infanta menos llorara
+    que el Conde allá se casara
+    y aquí su mujer trajera.
+    Todo aqueste sentimiento
+    es porque el Conde ha llegado
+    de España a Irlanda casado.
+REY:
+    Descansa, amiga, un momento;
+    deja esa tristeza estraña
+    y procura entretenerte.
+DIONISIA:
+    ¡Que se fuese desta suerte
+    el duque Vireno a España!
+    Que desde la noche al día
+    en sus brazos le tuviese,
+    que la gozase y se fuese,
+    ¿esto no es alevosía?
+    “¡Plegue a Dios que te anegues,
+    nave enemiga!
+    Pero no, que me llevas
+    dentro la vida.”
+REY:
+    Hija, aquestas son canciones;
+    no repares tanto en ellas.
+CELINDA:
+    Ella se queja por ellas
+    con disfrazadas razones.
+    Después que el Conde ha venido
+    ha crecido este furor.
+CLENARDO:
+    Bien dices que no es amor,
+    pues que no le vence olvido;
+    sin duda el Conde gozó
+    de la Infanta.
+CELINDA:
+    Yo, testigo.
+CLENARDO:
+    Pues ¿cómo el fiero enemigo
+    huyó a España y la dejó?
+CELINDA:
+    Miedo a su padre tendría.
+CLENARDO:
+    Sí, mas ¿por qué se ha casado?
+CELINDA:
+    Cuatro años ausente ha estado,
+    que dél ninguno sabía.
+    Daba el Rey por ocasión
+    de su ausencia aquel agravio,
+    cuando por el duque Otavio
+    le tuvo una hora en prisión;
+    y al cabo de aquestos años
+    vuelve con una mujer
+    y tres hijos, para hacer
+    más insufribles sus daños.
+    El Rey le recibe bien
+    porque no sabe su mal;
+    la Infanta con pena igual
+    llora, sin decir por quién.
+    Dio en esta melancolía,
+    y della en este furor.
+[Sale el marqués Fabio]
+FABIO:
+    Aquí está el Conde, señor,
+    que besar tus pies quería
+    con su mujer la Condesa;
+    y a ti, señora, si das
+    licencia.
+DIONISIA:
+    (¿Qué aguardo más?)
+REY:
+    Dile, Fabio, que me pesa
+    que venga en esta ocasión,
+    que está la Infanta indispuesta.
+DIONISIA:
+    Antes lo tendré por fiesta,
+    y les darán colación.
+    ¿No es de España esa mujer?
+FABIO:
+    Sí, señora.
+DIONISIA:
+    Pues deseo
+    verla, que si yo la veo
+    ¿qué me queda ya que ver?
+REY:
+    Diles que entren.
+DIONISIA:
+    ¡Ay, Celinda!
+    Hoy será aquí mi locura
+    como mi dolor.
+CELINDA:
+    Procura
+    que su fuerza no te rinda.
+    Para grandes penas hizo
+    el cielo el grande valor.
+DIONISIA:
+    Sí, mas perder el honor
+    ¿a qué valor no deshizo?
+[Salen el conde Enrique y la condesa Isabela su mujer y don Juan niño delante y Hortensio y Belardo, sus criados]
+ENRIQUE:
+    Déme Vuestra Majestad
+    los pies.
+ISABELA:
+    Y a mí Vuestra Alteza.
+CLENARDO:
+    ¡Bello rostro!
+CELINDA:
+    ¡Gran belleza,
+    compostura y gravedad!
+REY:
+    Seáis, Conde, bienvenido
+    y enhorabuena casado,
+    que estar tan bien empleado
+    no poca ventura ha sido.
+    ¿Como venís? ¿Venís bueno?
+ENRIQUE:
+    A vuestro servicio.
+REY:
+    ¿Viene
+    la Condesa buena?
+ENRIQUE:
+    Tiene
+    salud.
+DIONISIA:
+    (Más tiene veneno.)
+REY:
+    Dad asiento, por mi vida,
+    hija, a la Condesa.
+DIONISIA:
+    Aquí
+    se sentará, junto a mí.
+ISABELA:
+    Pues Vuestra Alteza es servida,
+    por los méritos del Conde,
+    tomaré este atrevimiento.
+REY:
+    Tomad vos, Enrique, asiento.
+FABIO:
+    Todo a su valor responde.
+CLENARDO:
+    Toda esta honra merece.
+DIONISIA:
+    (Si ha cabido resistencia
+    en mi acabada paciencia
+    al mal que el tiempo me ofrece,
+    no debe de ser valor,
+    sino que, suspensa el alma,
+    tiene el sufrimiento en calma
+    la grandeza del dolor.
+    ¿Posible es que viendo están
+    mis ojos a mi enemiga
+    sin que a voces se lo diga?)
+ENRIQUE:
+    Llegaos vos acá, don Juan.
+    Pedid a Su Majestad
+    las manos.
+REY:
+    ¿Quién es?
+ENRIQUE:
+    Señor,
+    es mi hijo.
+REY:
+    ¿Es el mayor?
+ENRIQUE:
+    Por él lo dice su edad;
+    que el año de mi partida
+    y el mismo que me casé,
+    nació al fin dél.
+REY:
+    Bien se ve
+    vuestra imagen esculpida.
+    en su rostro y compostura.
+ENRIQUE:
+    A lo menos, que en él queda
+    quien a vuestros nietos pueda
+    servir con igual ventura.
+DON JUAN:
+    Vuestra Majestad, señor,
+    no se dignará ser dueño
+    de crïado tan pequeño,
+    pero ya tengo fiador
+    en el Conde, mientras llego
+    a edad que os pueda servir.
+REY:
+    ¿Qué más se puede decir?
+ENRIQUE:
+    Haced lo que os dije luego.
+DON JUAN:
+    Vuestra Alteza, mi señora,
+    me dé sus manos Reales.
+DIONISIA:
+    (¿En qué penas infernales
+    hay mayor tormento agora?)
+    ¡Bonito niño! ¿Tenéis
+    más que éste, Condesa?
+ISABELA:
+    Otros
+    que os sirvan.
+DIONISIA:
+    Guárdeoslos Dios.
+ISABELA:
+    Tan fieros como el que veis.
+DIONISIA:
+    ¿Quiéreos mucho el Conde?
+ISABELA:
+    Él dice
+    que en su vida quiso bien
+    si no es a mí, más también
+    se enoja y se contradice.
+    Si, como eso me pregunta
+    Vuestra Alteza, me dijera
+    si yo le quería, viera
+    toda la fe y lealtad junta
+    que en Julia o en Porcia puso
+    la romana antigüedad
+    y porque es tanta verdad,
+    mis alabanzas excuso.
+    Pero dirá Vuestra Alteza
+    que Enrique tiene valor
+    para merecer mi amor
+    con esta justa firmeza
+    y no querré yo negallo,
+    que no pienso que ha tenido
+    mujer más noble marido
+    ni rey más leal vasallo.
+DIONISIA:
+    (¡Triste de mí! ¿Por qué gusta
+    el Rey que me den veneno?
+    Basta un trago, pero lleno
+    todo el vaso es cosa injusta.
+    Entraban por los oídos
+    otro tiempo mis enojos;
+    pero si entran por los ojos
+    ¿cómo serán resistidos?)
+    ¡Afuera, mujer; afuera,
+[Levántase la Infanta muy furiosa]
+    lazo de mi alma estrecho,
+    de cuatro víboras hecho,
+    que mi helada sangre altera!
+    ¡Afuera, deshonra mía,
+    con fruto de bendición,
+    pues ha sido maldición
+    de mi esperanza este día!
+    (¡Oh cielo! ¿Cómo adelantas
+    pasos al fin de mi honra,
+    que al árbol de mi deshonra
+    le vas añadiendo plantas?
+    ¿Faltan más muertes, por dicha?)
+REY:
+    El mal le ha dado más fuerte.
+ENRIQUE:
+    Pésame que vengo a verte
+    en tiempo de tal desdicha.
+    Ya me habían dicho allá
+    que la Infanta padecía
+    tan fiera melancolía.
+REY:
+    A tiempos, Conde, le da.
+ENRIQUE:
+    Tenla, Isabela.
+ISABELA:
+    Sí haré.
+    ¡Ah, mi señora!
+DIONISIA:
+    ¡Ah, traidora!
+    ¿Tú me tienes? Pero agora
+    tienes mi bien, si bien fue.
+    ¡Échalos luego!
+REY:
+    ¡Hija mía!
+FABIO:
+    De veros muestra dolor.
+REY:
+    Idos, Conde.
+ENRIQUE:
+    Yo, señor,
+    no pensé que os deservía.
+    Condesa, vamos de aquí.
+DIONISIA:
+    ¡Váyanse todos!
+CLENARDO:
+    También
+    dice que nos vamos.
+FABIO:
+    Ven,
+    Clenardo.
+CLENARDO:
+    Yo voy tras ti.
+[Vanse todos y quedan el Rey y la Infanta solos]
+REY:
+    Hija, ya todos se han ido;
+    sosiega un poco.
+DIONISIA:
+    No puedo.
+    Desta vez le pierdo el miedo.
+REY:
+    ¿A quién?
+DIONISIA:
+    A mi honor perdido.
+REY:
+    Hija ¿qué honor puede ser
+    éste, de cuya razón
+    toma tu mal ocasión?
+DIONISIA:
+    ¡Oh padre, honor de mujer!
+REY:
+    Yo pienso tantas quimeras
+    deste tu confuso mal,
+    que he de hablar lenguaje igual
+    si a mi atrevimiento esperas.
+    Porque esta locura tuya
+    nunca tiene más rigor
+    que cuando tratan de amor,
+    luego la ocasión es suya.
+    Tras eso, el honor perdido
+    muestra que alguien te ha engañado,
+    que cobarde te ha dejado
+    y te ha gozado atrevido.
+    Yo cumplo mi obligación
+    en esto, tú agora puedes
+    hacer de suerte que quedes
+    con igual satisfación
+    ¿Qué te suspendes atenta?
+    Padre soy. Habla, confía,
+    pues es tu sangre la mía,
+    también lo será el afrenta.
+    Pensé darte en el de Escocia
+    marido, a Irlanda señor,
+    pero ya el embajador
+    que está allá no lo negocia,
+    porque de tu enfermedad
+    se va la fama estendiendo.
+    ¿No hablas?
+DIONISIA:
+    Señor, yo entiendo
+    que amor te obliga a piedad.
+    Yo veo que mi tristeza
+    pone tu vida en aprieto
+    y que en padre tan discreto
+    puede cargar mi flaqueza.
+    Mas que yo te pueda hablar
+    en caso tan insufrible
+    es el mayor imposible
+    que puedes imaginar.
+REY:
+    Pues algún medio ha de haber.
+DIONISIA:
+    Celinda...
+CELINDA:
+    Señora...
+DIONISIA:
+    Aquí
+    trae tinta y pluma. Así
+    te quiero satisfacer.
+[Vase Celinda]
+REY:
+    Como mal pintor has sido,
+    que, retratado algún hombre,
+    le quiere poner el nombre
+    porque no está parecido.
+    Si eres mis ojos, mal haces
+    en no ser también mi lengua,
+    pues con la tuya mi mengua
+    remedias y satisfaces.
+[Sale Celinda con el recado]
+CELINDA:
+    Ya tienes papel aquí.
+DIONISIA:
+    Sobre esta almohada escribo.
+REY:
+    (Gran sobresalto recibo.)
+DIONISIA:
+    (Duélase el cielo de mí.)
+[Asiéntase la Infanta a escribir aparte y el Rey dice entretanto]
+REY:
+    (Cual reo, en tanto que el jüez escribe
+    la sentencia, esperando estoy la mía.
+    Tiembla el deseo y la piedad porfía,
+    muere el remedio y la esperanza vive.
+    De las vanas quimeras que concibe
+    mi loca y engañada fantasía
+    nace un monstruo, que el miedo después cría,
+    hasta que el ser de mi dolor recibe.
+    Este saber el mal es un deseo
+    común en los mortales desengaños,
+    que con saber que es mal, mueren por velle,
+    y yo le quiero ver, aunque es tan feo,
+    que más matan las dudas que los daños,
+    y esperar el mal que el padecelle.)
+DIONISIA:
+    Ya escribí. Déjame ir
+    antes que abras el papel.
+[Dale el papel y vase la Infanta con licencia]
+REY:
+    Ya sé que has escrito en él
+    receta para morir.
+    ¡Con qué priesa que se fue!
+    No menos la tengo yo
+    de saber lo que escribió.
+[Lee el papel]
+    Dice así: “Yo me casé
+    con Enrique de secreto,
+    y en secreto me gozó;
+    fuese a España y me dejó,
+    padre, sin honra, en efeto.
+    Como ves vuelve casado,
+    con sus hijos y mujer.
+    Juzga de qué puede ser
+    la enfermedad que me ha dado.”
+    ¡Ah de mis crïados! ¡Guardas!
+    ¡Gente! ¡Capitán!
+[Sale el marqués Fabio]
+FABIO:
+    Señor...
+REY:
+    (Cielo ¿para tal rigor
+    mis cansados años guardas?)
+    ¡Pierdo el seso!
+FABIO:
+    (¿Si le dio
+    el mal de la Infanta?)
+REY:
+    ¡Fabio!
+FABIO:
+    Señor...
+REY:
+    (¡Cómo! ¿Qué este agravio
+    sufre el cielo y sufro yo?)
+    ¡Capitán!
+FABIO:
+    ¿Qué es lo que quieres?
+REY:
+    (¡Que alcanzase a la grandeza
+    de mi hija la flaqueza
+    que a las comunes mujeres!)
+    ¡Marqués!
+FABIO:
+    ¿Qué es lo que me mandas,
+    que no acabas de decillo?
+REY:
+    Error será diferillo.
+FABIO:
+    ¿También en los aires andas
+    como la Infanta? ¿Qué tienes?
+REY:
+    Llámame a Enrique.
+FABIO:
+    Yo voy.
+REY:
+    Pues has de advertir que estoy
+    penando en tanto que vienes.
+[Vase el marqués Fabio y queda el Rey solo]
+REY:
+    Peligro tiene el más probado vado;
+    quien no teme que el mal le impida,pida
+    mientras la suerte le convida vida,
+    y goce el bien tan sin cuidado dado.
+    Mas cuanto en más afortunado hado
+    fuerza y poder se descomida, mida
+    cuán presto adonde más resida es ida
+    la gloria vil deste prestado estado.
+    La honra puede tu estandarte darte,
+    amor, por quien la recatada atada
+    tuvo en el fuego que reparte parte.
+    Fue la defensa, aunque ordenada, nada,
+    pues es por ti, sin remerdiarte, arte,
+    la cuerda, loca; la encerrada, errada.
+[Sale Fabio con el conde Enrique]
+FABIO:
+    Aquí está el Conde.
+ENRIQUE:
+    ¿Qué es lo que me mandas?
+REY:
+    Salte, Fabio, allá fuera, cierra, y guarda
+    que no llegue ninguno a este aposento.
+FABIO:
+    Harélo así.
+[Vase Fabio]
+ENRIQUE:
+    (¡Qué estrañas prevenciones!)
+    Señor ¿en qué te sirvo?
+REY:
+    Escucha.
+ENRIQUE:
+    (¡Ay, cielos!)
+REY:
+    Enrique, este papel es una carta
+    que del rey albanés recibo agora.
+    Contiene en suma una desdicha grande
+    y, como amigo, pídeme consejo.
+    Yo, que no fío de mi ingenio cosas
+    tan arduas y del tuyo estoy contento,
+    quiero que me aconsejes lo que pueda
+    escribirle en desdicha semejante.
+ENRIQUE:
+    Señor, si el mundo y otros mil que hubiera
+    pudieran por un hombre gobernarse,
+    tú solo fueras digno de regirlos;
+    y espántome que a mí me encargues esto
+    sabiendo mi ignorancia; mas presumo
+    que amor te engaña y mi lealtad te obliga.
+    Propón el caso, que a las veces suele
+    un ignorante dar consejo a un sabio.
+REY:
+    Tiene el rey albanés, Enrique amigo,
+    sólo una hija, como yo a Dionisia;
+    pídensela mil príncipes y reyes
+    y ella pone los ojos en un hombre,
+    noble por cierto, más vasallo suyo.
+    Éste la goza y con temor del padre
+    huye a otro reino, donde al fin se casa,
+    y casado después a Albania vuelve.
+    Enferma de dolor la Infanta y dice
+    al padre la ocasión; el padre, airado,
+    no se atreve a matalle por su hija,
+    ni se la puede dar, porque es casado.
+    El caso es grave y pídeme consejo.
+    Yo te le pido a ti, ¿qué te parece?
+ENRIQUE:
+    Estraño es el suceso y que pedía
+    más ingenio y más tiempo; mas si es fuerza
+    obedecerte, digo que, aunque mate
+    el Rey a ese hombre, no remedia nada,
+    pues se queda la Infanta sin remedio,
+    y casarle con ella está más puesto
+    en razón y justicia.
+REY:
+    ¿De qué modo,
+    siendo casado el hombre?
+ENRIQUE:
+    Dando muerte
+    el propio a su mujer, en justa pena
+    de su delito.
+REY:
+    Pues ¿qué debe, Enrique,
+    la inocente mujer?
+ENRIQUE:
+    Los grandes daños,
+    con los menores atajarse deben;
+    menor mal es que esa inocente muera,
+    que no que el reino quede destruïdo,
+    la Infanta sin remedio, el Rey sin honra.
+REY:
+    ¿Y si clama la sangre a Dios, Enrique?
+ENRIQUE:
+    No clamará, que no es de Abel la sangre.
+REY:
+    Todo inocente la de Abel refresca.
+ENRIQUE:
+    David por Bersabé dio muerte a Urías,
+    y no era su mujer, sino su dama.
+REY:
+    Y Natán ¿qué le dijo después desto?
+    ¿Y qué lloró David?
+ENRIQUE:
+    Fue su deleite
+    la causa; y aquí, Rey, la causa es honra.
+REY:
+    La honra solamente a Dios se debe;
+    con ofensa de Dios no hay honra, Conde.
+ENRIQUE:
+    También le manda Dios al que recibe
+    un bofetón, que ponga el otro lado
+    y en el mundo es deshonra, y es la honra
+    vengarse, siendo siempre la venganza
+    odiosa a Dios, cuanto apacible al hombre.
+REY:
+    Las leyes en el mundo recebidas
+    si son entre cristianos, no son justas,
+    cuando con las de Dios no se conforman.
+ENRIQUE:
+    Toda ley es injusta, que no pende
+    de las leyes de Dios, yo lo conozco;
+    pero debajo de que no hay remedio
+    y que pedir a Dios milagro agora
+    para que lo que fue no sea, no es justo,
+    yo, si fuera este rey, hiciera a este hombre
+    que esa mujer matara, y le casara
+    con mi hija, y después, del homicidio
+    hiciera penitencia conveniente.
+REY:
+    Bien dices, pues que no hay otro remedio.
+    Mas lee este papel, por vida mía.
+    Veamos si confirmas lo que has dicho.
+[Lee el papel Enrique y vase turbando]
+ENRIQUE:
+    Dice así: “Yo me casé
+    con Enrique de secreto...”
+    Señor ¿qué es esto? ¿A qué efeto...?
+REY:
+    Ese hombre el vasallo fue.
+    Esa letra ¿no es posible
+    que no la conoces tú?
+ENRIQUE:
+    ¡Jesús mil veces! ¡Jesú!
+    ¡Caso espantoso y terrible!
+REY:
+    Tú fuiste jüez discreto.
+[Vuelve a leer el papel]
+ENRIQUE:
+    “En secreto me gozó;
+    fuese a España y me dejó,
+    padre, sin honra, en efeto.
+    Como ves, vuelve casado,
+    con sus hijos y mujer...”
+    Señor ¿cómo puede ser?
+    Mira que te han engañado.
+[Acaba de leer el papel]
+REY:
+    Enrique, Enrique, este papel ha escrito
+    mi hija, y desta causa es el proceso;
+    tú el jüez, que, sin verle, sentenciaste
+    contra ti lo que has visto; yo no tengo
+    de buscar más testigos, ni esto es cosa
+    que tengo yo de andar en su probanza.
+    Tú me diste el consejo; parte luego,
+    y a la Condesa quitarás la vida,
+    para que aquesta noche seas esposo
+    de la Infanta, mi hija.
+ENRIQUE:
+    ¡Señor!
+REY:
+    Conde,
+    no repliques palabra. Tú lo has dicho,
+    tú has hecho esto; basta. ¡Ah, marqués Fabio!
+[Sale el Marqués]
+FABIO:
+    Señor...
+REY:
+    Id con el Conde a su posada
+    con cien hombres de guarda que se queden
+    a la puerta.
+ENRIQUE:
+    Suplico a Vuestra Alteza
+    que, si ha de ser, sin alboroto sea;
+    que yo gano en aquesto un bien supremo,
+    como se ve tan claro; y pues yo gano,
+    no será necesario guarda o gente,
+    y el secreto en aquesto es de importancia
+    a ti, a la Infanta, a mí y a la Condesa.
+REY:
+    Pues parte, y de su muerte echarás fama
+    por alguna ocasión, la que tú quieras;
+    y vuelve luego aquí.
+[Vase el Rey]
+ENRIQUE:
+    Yo vuelvo luego.
+FABIO:
+    ¿Qué es esto, Conde?
+ENRIQUE:
+    Mis desdichas, Fabio;
+    Fabio, mis desventuras; ¡Fabio, muero!
+    Marqués, mirad qué os digo: ningún hombre
+    de cuantos hizo Dios puede haber visto
+    fuerza tan lastimosa por su honra,
+    por su gusto, su bien y por su casa.
+    ¡Ah, cielos, penetradme con un rayo!
+    ¡Tierra, centro y tus entrañas rompe,
+    sepulta en ti la más penosa vida
+    que fue regida de mortal espíritu!
+    ¿Hay cosa como ésta? ¿Hay tal suceso?
+    ¿Hay fuerza tan estraña y lastimosa?
+    ¡Yo a la Condesa, a un ángel en belleza,
+    en pura honestidad, en mansedumbre!
+    ¡A aquellos ojos, a aquel blanco pecho!
+    ¡Yo mismo! ¡Yo! ¡Sin culpa! ¡Jesús! ¡Cielos!
+FABIO:
+    No des voces aquí; sal de palacio.
+ENRIQUE:
+    Ven y sabrás, Marqués, mi desventura.
+    ¡Ay, mi Isabela! ¡Ay, mi querida esposa!
+    ¡Ay, Rey crüel! ¡Ay, fuerza lastimosa!
+[Vanse y sale la condesa Isabela con Belardo, su criado]
+ISABELA:
+    En fin, me quedé sin misa.
+BELARDO:
+    ¿Está malo el capellán?
+ISABELA:
+    Sí. ¿Tomó lición don Juan?
+BELARDO:
+    Partes va juntando apriesa;
+    muy presto sabrá leer.
+ISABELA:
+    Pena me da, Dios le guarde,
+    al Conde, porque es muy tarde
+    y no ha venido a comer.
+BELARDO:
+    El Marqués vino por él.
+ISABELA:
+    ¿Dijo que el Rey le llamaba?
+BELARDO:
+    Sí, señora.
+ISABELA:
+    Y ¿quién estaba,
+    cuando le llamó, con él?
+BELARDO:
+    Solo estaba y solo fue.
+    No tengas pena, señora.
+ISABELA:
+    En mi vida, como agora,
+    de su ausencia la tomé.
+    Esta noche no he dormido,
+    con mil sueños desvelada.
+    Una tórtola casada
+    soñé que estaba en su nido,
+    y que un fiero cazador
+    tomó una flecha a su aljaba,
+    y con tres hijos la echaba
+    del nido. ¡Ay Dios, qué dolor!
+    Levantéme, y dando abrazos
+    a mi Laurencia, sin ver
+    la ocasión que pudo haber,
+    cayóseme de los brazos.
+    Hice vestir a don Juan
+    y propuse de ir a misa,
+    y por más que me doy prisa,
+    no parece el capellán.
+    Agora el Conde no viene,
+    que nunca suele faltar.
+BELARDO:
+    Albricias me puedes dar.
+ISABELA:
+    ¿Cómo?
+BELARDO:
+    En los brazos te tiene.
+[Sale el conde Enrique y Fabio]
+ENRIQUE:
+    ¡Isabela!
+ISABELA:
+    Señor mío,
+    mi vida, mi bien, mi Enrique
+    ¿cómo haré que os signifique,
+    si en lágrimas no la envío,
+    el alma, el placer que tengo
+    de veros más que otros días?
+ENRIQUE:
+    Suspended las alegrías,
+    mi gloria; mirad que vengo
+    del Marqués acompañado.
+ISABELA:
+    Perdonad, señor Marqués,
+    que esto es amor.
+FABIO:
+    Justo es.
+ISABELA:
+    ¿Sois hoy nuestro convidado?,
+    que en estremo me holgaría.
+FABIO:
+    Soy tan vuestro servidor,
+    que aun pienso que de ese amor
+    parte alcanzar me podría.
+ISABELA:
+    Tan divertida quedé
+    en el Conde, que no os vi.
+FABIO:
+    Con lo mismo que entendí,
+    mi señora, os disculpé.
+ISABELA:
+    ¿Cómo venís, Conde, en quien
+    tengo vida y por quien soy?
+    ¿Cómo estáis y cómo estoy
+    en vuestra gracia también?
+ENRIQUE:
+    Aunque ese gusto os resisto,
+    mi vida, no le tengáis;
+    que mucho porte pagáis
+    de cartas que no habéis visto.
+    Si las abrís, yo sé bien
+    que os pesará de hacer fiestas
+    al sobrescrito; y pues éstas
+    es fuerza que hoy os las den,
+    salte, Belardo, allá fuera;
+[Vase Belardo]
+    que esta puerta me es forzoso
+    que cierre.
+ISABELA:
+    ¿Qué es esto, esposo?
+    ¿Cómo habláis desa manera?
+ENRIQUE:
+    Ya la puerta está cerrada.
+    Fabio, decidle lo que es.
+ISABELA:
+    ¿Qué es eso, señor Marqués?
+    ¿Qué es esto?, que estoy turbada.
+FABIO:
+    No sé si de enternecido
+    os podré hablar.
+ISABELA:
+    ¿Vos lloráis?
+    Mas ¿qué es, Conde, no me habláis?
+    ¿Qué puede haber sucedido?
+    ¿También vos estáis llorando?
+    ¿Tan fuerte yerba soy yo,
+    que lágrimas os saco
+    sólo de estarme mirando?
+ENRIQUE:
+    ¡Ay ojos, que éstos adoran!
+ISABELA:
+    Mirad que es vergüenza ver
+    con ánimo una mujer
+    entre dos hombres que lloran:
+    dos arroyos parecéis;
+    yo, la yerba que regáis;
+    mas, si tanta agua me dais,
+    mirad que me anegaréis.
+FABIO:
+    Isabela desdichada,
+    en triste punto nacida
+    debajo de las estrellas
+    que influyen mayor desdicha;
+    tan hermosa como honrada,
+    siendo tú la honra misma,
+    que en el sol de tus virtudes
+    las demás luces se miran;
+    inocente, a quien un rey
+    os manda quitar la vida
+    al hombre que más te adora
+    y al que más tu bien estima;
+    dechado de nobles damas,
+    adonde los cielos pintan
+    más valores y excelencias
+    que en las matronas antiguas;
+    española milagrosa,
+    que a las romanas imitas,
+    y ellas a ti te imitaran
+    si fueran después nacidas;
+    sabe que el Conde, tu esposo,
+    cuando a España se partía,
+    amaba y era adorado
+    de nuestra infanta Dionisia.
+    Creció el amor en la ausencia
+    con tanta melancolía,
+    que ha llegado a ser locura,
+    llena de celos y envidia.
+    Hoy, que te vio con tus hijos,
+    nació de aquella visita
+    decir a su viejo padre
+    una cosa nunca oída;
+    porque le ha dicho que el Conde
+    la gozó, siendo mentira;
+    porque el Conde me ha jurado
+    tantas cosas, tantas vidas,
+    que he conocido que amor
+    a lo que dice la obliga,
+    con ánimo de gozalle,
+    loca, furiosa y rendida.
+    El Rey, por guardar su honor...
+    No sé cómo te lo diga...
+    Le ha mandado que te mate
+    y se case con su hija.
+ISABELA:
+    ¡Jesús, Marqués! ¿Eso es cosa
+    tan grande y encarecida?
+    Pensé yo, Fabio, que el Rey
+    al Conde matar quería.
+    Vivid vos, amado Enrique,
+    vivid vos muy largos días,
+    que como vos la tengáis
+    ¿qué importa esta triste vida?
+    No lloro yo de pesar;
+    lloro de mucha alegría
+    de que el Conde, mi señor,
+    en tan alto estado viva.
+    Mil años gocéis, mi bien,
+    vuestra esposa, que os estima
+    y procura con razón.
+    Reinas es razón que os sirvan.
+    Vos nacistes para rey;
+    rey sois, y Dios lo permita
+    que vuestros merecimientos
+    a ceptro y corona aspiran.
+    Y pues ya sois rey, Enrique,
+    mercedes es bien que os pida.
+    No es bien que me las neguéis
+    por dos cosas que os obligan:
+    la una, que cuando heredan
+    los reyes a sus provincias
+    y reinos, hacen mercedes
+    por grandeza y por justicia;
+    la otra, porque os casais,
+    que los reyes tales días
+    muestran el estremo a todos
+    de su grandeza excesiva.
+    Yo tengo de vos, Enrique,
+    tres hijos; no es bien que vivan
+    con madre tan estranjera,
+    con madrastra tan altiva.
+    El conde de Barcelona
+    es mi padre; aquí está Arsinda,
+    una aya que me ha criado
+    y vino en mi compañía.
+    Enviémoslos a España
+    con ella, que mejor crían
+    abuelos que padres, hijos
+    de madre muerta o cautiva.
+    Haced esto, Enrique amigo,
+    si por ventura os obligan
+    tantos días de regalo,
+    tantas horas de caricias;
+    que si Dios me lleva a sí
+    -lo que esta alma en él confía,
+    porque, aunque soy pecadora,
+    su santa sangre me anima-,
+    yo le rogaré por vos,
+    por vos, mi prenda querida
+    y por la señora Infanta,
+    mujer vuestra y reina mía.
+ENRIQUE:
+    Cesa de matarme hablando,
+    basten los rayos que tiras
+    con esos ojos, por donde
+    mi propia vida destilas,
+    que ni para que yo sepa
+    tu virtud, Isabel mía,
+    ni para darte remedio,
+    el ver tu humildad me obliga.
+    Bien sabe Dios que no ha sido
+    de mí jamás ofendida
+    la honra del Rey, Condesa,
+    aunque la Infanta lo diga.
+    En esta locura ha dado,
+    propúsome el Rey la enigma,
+    yo le he dado este consejo...
+    juzgué lo que no sabía.
+    Dar yo causa de tu muerte
+    sólo en mi deshonra estriba,
+    matando contigo alguno
+    de los que en mi casa habitan,
+    pero no permita Dios
+    que con engaño y malicia
+    te quite el Conde la honra,
+    ya que te quita la vida.
+    Esto el Rey por un papel
+    en este punto me avisa,
+    que a la puerta me le dio
+    un paje que con él priva.
+    Pero más quiero, Condesa,
+    que los hombres me maldigan,
+    que no que, en el cielo mártir,
+    sin honra en la tierra vivas.
+    Los hijos de mis entrañas
+    haz cuenta que ya caminan
+    a España con sus abuelos,
+    donde venganza les pidan;
+    que no es justo que en Irlanda
+    queden sus santas reliquias
+    con un padre que a su madre
+    sin razón la vida quita.
+    Y porque me aguarda el Rey,
+    pon en tierra la rodilla,
+    en tanto que a tu garganta
+    pongo esta funesta liga.
+ISABELA:
+    Hazme, señor, un placer;
+    por el postrero, bien puedes.
+ENRIQUE:
+    ¿Que le tengas puede ser,
+    ni el verdugo hacer mercedes?
+ISABELA:
+    Mis hijos me deja ver.
+ENRIQUE:
+    Vaya Fabio, aunque quisiera
+    que esto no me enterneciera.
+    Pero al fin, martirio agora
+    y sin ángeles, señora,
+    descuido del cielo fuera.
+FABIO:
+    Llorando voy a traellos.
+[Vase]
+    Esta es fuerza lastimosa.
+ENRIQUE:
+    Venid, mis ángeles bellos,
+    a ver vuestra madre hermosa,
+    para que muera con ellos.
+    Venid para que os halléis
+    presentes al sacrificio,
+    porque contra mí juréis
+    en aquel alto juïcio,
+    donde pedirme tenéis.
+    Que yo me quiera excusar
+    con huïr, no puede ser;
+    esta isla cerca el mar,
+    guardas hizo el Rey poner,
+    el Rey la manda matar.
+    ¡Válgame el poder de Dios!
+    Si yo he de ser su homicida,
+    muramos juntos los dos.
+ISABELA:
+    ¿Qué es eso Enrique? ¡Ah, mi vida!
+    ¿El ánimo falta en vos?
+ENRIQUE:
+    No tienes de qué espantarte
+    que me falte la osadía,
+    Isabela, en esta parte;
+    que, como eras alma mía,
+    fáltame para matarte.
+    Dame esos brazos mil veces,
+    por ver si este bronce duro
+    con regalalle enterneces.
+    Cuanto más mal te procuro,
+    más hermosa me pareces.
+    ¿Qué haré si agora te mato,
+    y estando solo, ¡ay de mí!,
+    imagino en tu retrato...?
+    ¿Qué hará esta noche sin ti
+    éste tu marido ingrato?
+    ¿Qué haré? ¡Que diré de cosas
+    tan tiernas, tan amorosas,
+    tan tristes, tan desdichadas!
+    ¡Que me pasarán de espadas
+    las entrañas rigurosas!
+    Perdóname. Vesme aquí
+    que te mato..., que te adoro.
+    Duélete, Isabel, de mí,
+    y allá en el celeste coro
+    ruega a Dios, ángel, por mí.
+ISABELA:
+    No llores de esa manera,
+    que pareces tú el que está
+    temiendo la espada fiera.
+[Sale el marqués Fabio con un niño en brazos y dos de las manos]
+FABIO:
+    Aquí están tus hijos ya.
+ENRIQUE:
+    ¿Queda algún hombre allá fuera?
+FABIO:
+    Ninguno.
+ENRIQUE:
+    ¿Cerraste?
+FABIO:
+    Sí.
+ISABELA:
+    Hijos, hoy os llamo aquí
+    por testigos de mi intento,
+    que quiero hacer testamento;
+    bien estáis juntos a mí.
+    Y sabe Dios que quisiera
+    volveros donde os tenía,
+    porque cuando yo muriera,
+    de una vida con la mía
+    cuatro almas al cielo diera.
+    ¡Pluguiera a Dios que mi ruego
+    oyera, para que luego
+    que me mataran aquí,
+    salieran almas de mí,
+    como centellas del fuego!
+    Hijos, si hoy muero, hoy acaba
+    mi vida, no porque fui
+    de culpa ni infamia esclava;
+    la causa es porque nací,
+    que para morir bastaba.
+    Mando a Dios el alma mía,
+    el cuerpo a la tierra fría,
+    que ya le está deseando,
+    y éstas mis lágrimas mando
+    al Conde para algún día;
+    al cual suplico me abone
+    y de no le haber servido
+    como merece, perdone,
+    pues el tiempo breve ha sido
+    y en medio el morir se pone.
+    Bienes que mandar no tengo;
+    soislo vosotros no más;
+    y aunque a daros me prevengo,
+    no os apartaré jamás
+    de donde a poneros vengo,
+    porque es el alma, adonde
+    os llevo y amor esconde.
+    Perdonad, amores míos,
+    del tiempo los desvaríos
+    y las desgracias del Conde.
+    Por manda de testamento,
+    que la ley hace tan fuerte,
+    os mando -estad, Juan, atento-
+    que no le pidáis mi muerte,
+    pues vos tenéis sentimiento.
+    Mirad, que más no ha podido
+    el Conde; pues fue forzosa,
+    poned mi muerte en olvido,
+    que esta es fuerza lastimosa
+    y basta que fuerza ha sido.
+ENRIQUE:
+    Isabela, bien está.
+ISABELA:
+    Juan, vos sois el padre ya
+    de vuestros hermanos; creo
+    que cumpliréis mi deseo.
+DON JUAN:
+    Señora ¿adónde se va?
+ISABELA:
+    Hijo querido, a la muerte.
+DON JUAN:
+    Lléveme consigo madre.
+ENRIQUE:
+    Deja ya de enternecerte.
+DON JUAN:
+    ¿Por qué la mata mi padre?
+ISABELA:
+    Por desdichada y por suerte.
+    No pidáis mi muerte a Dios.
+DON JUAN:
+    Si ella ve ¿qué importará
+    no se la pedir los dos?
+ENRIQUE:
+    Metedlos, Marqués, allá.
+DON JUAN:
+    ¡Ay, padre, triste de vos!
+ISABELA:
+    Besadme, Juan de mi vida,
+    vos, Laurencia, y vos, Lisarda,
+    huérfana antes que nacida.
+ENRIQUE:
+    Suéltalos.
+ISABELA:
+    Aguarda, aguarda,
+    siquiera por despedida.
+[Lleva los niños Fabio]
+ENRIQUE:
+    Isabela, el llanto muda.
+ISABELA:
+    Ya mi garganta se pone,
+    Conde, a tu filo desnuda;
+    que, pues el sol se me pone,
+    la noche viene sin duda.
+    Tener vida no es razón
+    después de aquestos abrazos
+    y que dure es confusión,
+    sacándome tres pedazos
+    tan grandes del corazón.
+    Ea ¿de qué estás temblando?
+    Más por merced te demando
+    que no me enlacen tus ligas;
+    si con las manos me ligas,
+    será el tránsito más blando.
+    Ponme las manos, señor;
+    salga mi espíritu en ellas.
+    Mas detendrále el favor.
+ENRIQUE:
+    Desvía tus manos bellas,
+    no despiertes mi furor.
+ISABELA:
+    Pues ¿no piensas abrazarme?
+[Sale el marqués Fabio]
+ENRIQUE:
+    Ea Isabela...
+FABIO:
+    ¿Es ya muerta?
+ENRIQUE:
+    No acierto a determinarme,
+    ni el amor tampoco acierta
+    a matarla sin matarme.
+    Llega el brazo y teme el pecho,
+    osa el pecho y tiembla el brazo;
+    y cuando llego de hecho,
+    en vez de apretar el lazo,
+    la abrazo con lazo estrecho.
+    ¡Ay! ¡Quién no hubiera nacido!
+FABIO:
+    Conde, yo he considerado
+    que ser en esto atrevido
+    no es valor de pecho honrado.
+ENRIQUE:
+    ¡Ay, Fabio, remedio os pido!
+    Que habiéndome de casar,
+    no es posible sin morir
+    la Condesa.
+FABIO:
+    Otro lugar
+    se puede en esto elegir,
+    y a otra mano encomendar.
+    Venga Isabela conmigo.
+ENRIQUE:
+    ¿Dónde?
+FABIO:
+    Yo tengo un crïado
+    leal y en lugar de amigo;
+    vive en un monte apartado.
+    Y éste, sin otro testigo,
+    en el mar la puede echar
+    en un barco, en que un barreno
+    se puede dar al entrar,
+    y así, poco a poco lleno
+    de agua, irá al fondo del mar.
+    Esta será de tu esposa
+    muerte y sepultura junta,
+    más secreta y más piadosa,
+    y di, si el Rey te pregunta,
+    que entre su arena reposa.
+ENRIQUE:
+    Bien has dicho, amigo Fabio.
+ISABELA:
+    Piadoso remedio y sabio.
+ENRIQUE:
+    Vete, Isabela, con él;
+    sea yo esposo crüel,
+    no verdugo de tu agravio.
+    Dirélo al Rey desa suerte.
+FABIO:
+    De mi lealtad conocida
+    no quiero satisfacerte.
+ISABELA:
+    Adiós, causa de mi vida.
+ENRIQUE:
+    Mejor dirás de tu muerte.
+[Vanse todos y sale el Rey y la infanta Dionisia]
+DIONISIA:
+    Crüeldad notable fuera;
+    por mi voto, está muy cierto
+    que Isabela no muriera.
+REY:
+    Puesto que inocente ha muerto,
+    que fue justo considera.
+    Y pues por tu liviandad
+    pagó lo que no debía
+    la inocente castidad,
+    mira tu culpa en la mía,
+    y la tuya en mi maldad.
+    Esto fue razón de estado.
+DIONISIA:
+    Sinrazones fueron todas.
+REY:
+    Con esto libre ha quedado
+    el Conde para tus bodas,
+    aunque no de estar culpado.
+    Si tuviera posesión,
+    matara al Conde y pusiera
+    tu libertad en prisión,
+    pero viva el Conde, y muera
+    de mi infamia la ocasión.
+DIONISIA:
+    Si fui yo ¿por qué merece
+    muerte esa triste española?
+REY:
+    Porque más justo parece
+    que viva tu honra sola,
+    que es quien más muerte padece.
+DIONISIA:
+    No me puedo consolar.
+REY:
+    Ni yo dejar de buscar
+    remedio a mi honor perdido.
+DIONISIA:
+    De tan sangriento marido
+    ¿qué menos puedo esperar?
+REY:
+    Que me has enojado advierte.
+    Los dos somos homicidas:
+    tú por culpas, yo por suerte.
+DIONISIA:
+    Mal se lograrán dos vidas
+    fundadas sobre una muerte.
+REY:
+    No debes ya de querer
+    que dure mucho la mía,
+    con tu loco proceder.
+[Sale el conde Enrique]
+ENRIQUE:
+    A besar tus pies venía.
+REY:
+    Habla, Conde, a tu mujer.
+[Vase]
+ENRIQUE:
+    ¿Por qué se va el Rey así?
+    ¿Hase enojado conmigo?
+DIONISIA:
+    Porque reprehensión le di
+    de tu crueldad, enemigo,
+    pues fue justo hacerla en ti.
+    Di, infame Conde ¿qué hallaste
+    en mí, que de verme huiste
+    la noche que me gozaste?
+    ¿Por qué la fe me rompiste,
+    y con otra te casaste?
+    ¿Fue mejor hija tercera
+    de un conde de Barcelona
+    que de tu rey la primera?
+    ¡Dejas la propia corona
+    por la nobleza estranjera!
+    ¿No miras lo que has causado?
+ENRIQUE:
+    Miro que soy desdichado;
+    miro que no te gocé.
+DIONISIA:
+    ¿Qué dices?
+ENRIQUE:
+    Que Dios lo ve
+    y que Dios me ha castigado.
+DIONISIA:
+    Pensé que negar querías.
+ENRIQUE:
+    Ahora bien, muerta Isabela
+    ¿qué haré?
+DIONISIA:
+    Pues que tenías
+    con tu engañosa cautela
+    secas las entrañas mías,
+    no puedo negar que has sido
+    amado como marido,
+    y que ahora lo has de ser.
+    Procura, Conde, poner
+    a tu Isabela en olvido.
+ENRIQUE:
+    Yo lo haré, señora, así.
+DIONISIA:
+    Vamos a desenojar
+    al Rey.
+[Vase la Infanta]
+ENRIQUE:
+    Voy. ¡Ay de mí!
+    ¿Si habrán entrado en la mar?
+    ¿Si estaba la barca allí?
+    Cielo, sol, estrellas, luna,
+    elementos, hombres, aves,
+    fieras sin razón alguna;
+    mar azul, donde mil naves
+    corren tormenta y fortuna,
+    esa barquilla que llega
+    a vuestra piedad temblando,
+    con dos ángeles navega.
+    Ved que la están barrenando,
+    ved que se pierde y se anega.
+    Cargada va de tesoro;
+    Indias fue mi amor, que, en fin,
+    dél truje esa plata y oro.
+    Halle Anfïón el delfín
+    y otra vez Europa lloro.
+    Viva el barco, y no perezca
+    aunque dé en Constantinopla;
+    luz en lanterna parezca.
+    Muerte es el viento que sopla;
+    a su pesar resplandezca.
+    No seas, mar, su enemigo.
+    Madre tierna, dale abrigo.
+    Viento, déjala correr,
+    que no se puede perder
+    quien lleva el norte consigo.
+[Vanse y sale el duque Otavio con Polibio y Tereo sus criados y dos pescadores, diciendo primero estas dos coplas desde adentro y habla Isabela también]
+OTAVIO:
+    Acosta, acosta, patrón.
+    ¡Rema, perro!
+POLIBIO:
+    El viento es bravo.
+OTAVIO:
+    Llega, aborda, dale un cabo.
+ISABELA:
+    ¡Cielos, tus milagros son!
+OTAVIO:
+    Ásela en brazos, Tereo.
+TEREO:
+    Ya la tengo.
+OTAVIO:
+    Caminad
+    a la orilla.
+ISABELA:
+    Tu piedad,
+    cielo, en mis desdichas veo.
+[Sacan a Isabela en brazos y salen todos]
+OTAVIO:
+    ¿Tienes vida?
+ISABELA:
+    Vida tengo.
+OTAVIO:
+    Esfuérzate.
+ISABELA:
+    Eso procuro.
+OTAVIO:
+    Ya tienes puerto seguro.
+ISABELA:
+    Basta que a tus manos vengo.
+OTAVIO:
+    ¿De dónde eres?
+ISABELA:
+    Española.
+OTAVIO:
+    ¡Española, y aquí!
+ISABELA:
+    Sí,
+    que de una armada yo fui
+    la que se ha librado sola.
+OTAVIO:
+    ¿Eres casada?
+ISABELA:
+    No sé,
+    que fue mi ventura corta.
+OTAVIO:
+    Dadla que coma.
+ISABELA:
+    No importa.
+    Ánimo, señor, tendré.
+OTAVIO:
+    Ser española te abona.
+    Dónde naciste me di.
+ISABELA:
+    En Cataluña nací.
+OTAVIO:
+    Y ¿en qué ciudad?
+ISABELA:
+    Barcelona.
+POLIBIO:
+    ¿Quién duda que es principal?
+OTAVIO:
+    Necio, ¿no se echa de ver?
+ISABELA:
+    Quién eres deseo saber.
+OTAVIO:
+    Desta tierra natural.
+ISABELA:
+    De que me encubras, me agravio,
+    tu nombre.
+OTAVIO:
+    Hombre noble soy.
+ISABELA:
+    Pues dime en qué tierra estoy.
+OTAVIO:
+    En tierra del duque Otavio.
+ISABELA:
+    ¿Eres tú?
+OTAVIO:
+    Yo soy, que andaba
+    pescando en aquesta orilla,
+    de donde vi tu barquilla,
+    que el mar furioso anegaba.
+    No temas, que en mi poder
+    nada te puede faltar.
+ISABELA:
+    Sólo te quiero obligar
+    con decir que soy mujer.
+    La corte del rey de Irlanda
+    ¿está lejos?
+OTAVIO:
+    Cerca está.
+ISABELA:
+    ¿Tú, piensas volver allá?
+OTAVIO:
+    Cualquiera cosa me manda
+    que ir a la corte no sea,
+    donde en seis años no entré.
+ISABELA:
+    Antes yo procuraré
+    que nadie en ella me vea.
+OTAVIO:
+    Si, para cualquiera cosa
+    que intentes, menester fuese
+    que en tu servicio ofreciese
+    la vida, española hermosa,
+    no dudes de que me inclinas
+    de tal manera a tus ojos,
+    que le ofrezco por despojos
+    a sus estrellas divinas.
+    No soy casado ni tengo
+    a quien dar cuenta de mí.
+ISABELA:
+    Ya olvido el bien que perdí,
+    pues en ti a cobralle vengo.
+    Mas tu estado, te prometo,
+    tu vida, tu honor también,
+    no me pueden dar más bien
+    que guardarme con secreto.
+OTAVIO:
+    ¿Eso te importa?
+ISABELA:
+    La vida
+    por lo menos.
+OTAVIO:
+    Pues yo haré
+    que aquí tu persona esté
+    cuanto quisiere escondida.
+ISABELA:
+    Tu palabra me asegura.
+OTAVIO:
+    Al mismo cielo la doy.
+ISABELA:
+    ¿Vamos?
+OTAVIO:
+    Bien perdido voy
+    por su divina hermosura.
+TEREO:
+    Pues ¿tan presto estás tan ciego?
+OTAVIO:
+    Todo me siento abrasar.
+    No sé cómo de la mar
+    pudo salir tanto fuego.
+[Vanse, con que se da fin a la segunda jornada]
+
+JORNADA 3
+
+[Salen el Rey y la infanta Dionisia y Celinda]
+DIONISIA:
+    A su culpa corresponde.
+    Mayor castigo merece.
+REY:
+    En fin ¿que ya convalece
+    de su enfermedad el Conde?
+DIONISIA:
+    Larga y peligrosa ha sido
+    y llena de confusión,
+    mas no para la ocasión
+    que de tenella ha tenido.
+REY:
+    Muy como mujer procedes,
+    pues vienes a aborrecer
+    lo que solías querer,
+    cuando ya gozarlo puedes.
+    Sospecho que quieres mal
+    a Enrique.
+DIONISIA:
+    No le aborrezco;
+    pero mucho me entristezco
+    de verle tan desigual,
+    que ya que por tu rigor
+    a la Condesa dio muerte,
+    no veo que se divierte
+    de aquel su pasado amor.
+    Y no me puede estar bien
+    casamiento con un hombre
+    que siempre llora su nombre
+    y que le adora también.
+REY:
+    Dionisia, si tuyo ha sido
+    deste suceso el honor,
+    busca marido a tu honor,
+    y no a tu gusto marido.
+    El Conde llora a su esposa.
+CELINDA:
+    Y razón debe tener,
+    que fue una santa mujer,
+    y por todo estremo hermosa.
+    Mas dame que venga a estar
+    con tu nueva compañía,
+    verás que ese mismo día
+    ama y comienza a olvidar;
+    que cuando más tiernamente
+    lloran pasada amistad,
+    con cualquiera novedad
+    se consuelan fácilmente.
+REY:
+    Hoy, pues el Conde está bueno,
+    se desposará contigo.
+[Sale Clenardo, secretario]
+CLENARDO:
+    Parece justo castigo
+    del cielo, de enojos lleno.
+    Rayos son de su venganza.
+REY:
+    ¿Qué es eso, Clenardo?
+CLENARDO:
+    El Conde,
+    que en todo tan mal responde
+    al gusto de tu esperanza,
+    acabando de vestirse
+    las galas de desposado,
+    cuando en el siniestro lado
+    quiso la espada ceñirse,
+    quedóse suspenso un rato,
+    y al fin desta suspensión
+    dijo que vía en una visión,
+    de su Isabela un retrato;
+    y diciendo: “Espera, espera”,
+    se comenzó a desnudar,
+    y se ha querido matar
+    si por nosotros no fuera.
+REY:
+    ¡Ah, cielos, que desta suerte
+    tu justa muerte revela
+    que la sangre de Isabela
+    la pide a Dios de su muerte!
+    Hija ¿qué tengo de hacer?
+DIONISIA:
+    Aplacar a Dios con ruegos.
+REY:
+    Todos estuvimos ciegos.
+[Sale el conde Enrique en calzas y en jubón, haciendo locuras y dos criados huyendo]
+ENRIQUE:
+    Aguarda, aguarda mujer.
+    Espera, Isabela hermosa.
+REY:
+    Tenedle, asidle.
+ENRIQUE:
+    Dios sabe
+    que me es la vida más grave
+    que la más pesada cosa.
+    Ni Sísifo con el canto,
+    ni con la rueda Ixïón,
+    siente más grave pasión
+    en el reino del espanto.
+    ¿Qué esperas, muerte? ¿A quién digo?
+    Mata ¡oh muerte! un homicida;
+    mas déjasme con la vida,
+    por darme mayor castigo.
+    Si no sabes quien mató
+    a la Condesa, yo fui.
+REY:
+    Hacedle callar.
+ENRIQUE:
+    Y a mí
+    este Rey me lo mandó.
+REY:
+    Conde, quien eso te oyere
+    ¿qué juzgará de los dos?
+ENRIQUE:
+    Temed vos que os juzgue Dios
+    cuando llamaros quisiere,
+    y al mundo no le temáis.
+    Si para Dios no sois bueno,
+    para el mundo yo os condeno,
+    por bueno que parezcáis.
+DIONISIA:
+    No está loco en lo que dice.
+REY:
+    ¿Cómo no? Su furia espanta.
+ENRIQUE:
+    ¡Diz que yo gocé a la Infanta!
+    Mal me haga Dios si tal hice;
+    que la verdad deso es,
+    que ello estaba concertado,
+    estando el cielo nublado,
+    entre las dos, o las tres.
+    Pero púsome en prisión...
+    ¿Quién pensáis? Aqueste viejo
+    con sus barbas de conejo;
+    y entretanto un abejón
+    se comió el panal de miel.
+    ¿Por qué me prenden a mí,
+    que cuando a cogerle fui,
+    sólo el corcho estaba en él?
+REY:
+    Todavía contradice
+    tu opinión.
+DIONISIA:
+    Eso me espanta.
+ENRIQUE:
+    ¡Diz que yo gocé a la Infanta!
+    Mal me haga Dios si tal hice.
+    Algún vellaco embozado,
+    que se entró por el balcón,
+    viendo en cueros la ocasión,
+    quiso acostarse a su lado;
+    que yo, por ningún tormento
+    que el Rey me pudiera dar,
+    si la pudiera gozar,
+    negara el atrevimiento.
+    ¡Ay, Dios! Tapadme los ojos,
+    tapadme.
+CLENARDO:
+    ¿Qué te desvela?
+ENRIQUE:
+    ¿No ves cómo está Isabela
+    llena de tristes despojos?
+    ¿No la veis altos los pies,
+    cubierta de negro luto,
+    con el lastimoso fruto
+    de mis hijos todos tres?
+    ¿No veis a don Juan llorando,
+    a Ricarda y a Laurencia,
+    testigos de la sentencia
+    que el cielo está pronunciando?
+    ¿No veis aquel tribunal
+    cuyas gradas son leones,
+    y entre mil santos varones
+    el Salomón celestial?
+    ¿No veis la sangre que pide
+    justicia del caso feo?
+    ¿No veis que el engaño es reo,
+    y la ignorancia preside?
+    ¿No veis contra mí fiscal
+    el que del cielo cayó?
+    No se escusa morir yo,
+    digno soy de pena igual.
+    Mi conciencia me lo dice.
+    Maté un ángel, una santa...
+    y ¡diz que gocé a la Infanta!
+    Mal me haga Dios si tal hice.
+DIONISIA:
+    ¡Que aqueste fin ha tenido
+    tu intento, padre engañado!
+REY:
+    Amor y honor me han forzado,
+    y tuya la culpa ha sido.
+ENRIQUE:
+    ¡Oh, Isabela! ¡Oh, serafín,
+    que hasta el cielo ver no aguardo!
+    ¡Que no hubiera un Mandricardo
+    que diera muerte a Cerbín,
+    a pesar de mi obediencia
+    y de quien me lo mandó!
+REY:
+    Enrique ¿sabes que yo
+    soy rey?
+ENRIQUE:
+    ¡Buena impertinencia!
+    Culebra sois en cautela,
+    ésta Eva, yo fui Adán,
+    la manzana que me dan
+    fue la muerte de Isabela;
+    de la conciencia el aviso
+    en mi furia declarada,
+    es el ángel con la espada
+    que los echa del paraíso;
+    mas ¿este mi cuerpo es
+    el de Adán? Mucho lo dudo,
+    que Adán andaba desnudo
+    de la cabeza a los pies.
+    Pero mal he conocido
+    que en esto soy engañado,
+    que Adán, después del pecado,
+    quedó de pieles vestido.
+REY:
+    ¿Qué me aconsejas en esto,
+    causa de todo mi mal?
+DIONISIA:
+    No sé, padre; estoy mortal.
+ENRIQUE:
+    ¡Por Dios, Rey, que sois un cesto!
+    Ya vuestra opinión y fama
+    como de ajedrez ha sido;
+    que el ser rey habéis perdido,
+    todo por guardar la dama.
+    ¿Qué os hizo a vos, mentecato,
+    una paloma sin hiel?
+    Ya vos dijo el rey de Argel
+    que tocaban a rebato.
+CELINDA:
+    Estraña furia le toma;
+    mas tanto amor le combate.
+ENRIQUE:
+    ¡Que mi gallina me mate,
+    y mis tres pollos me coma!
+    ¡Buenos mis negocios van!
+    ¿Quién tendrá en esto paciencia?
+    Apelo de la sentencia
+    para el señor Preste Juan.
+    Dirálo un jüez de palo.
+    Término pido, y repido;
+    mas ¿cómo término pido
+    a quién le tuvo tan malo?
+REY:
+    Ahora bien, Dionisia, este hombre
+    ha de morir, porque en medio
+    deste mal, sólo es remedio
+    para su fama y mi nombre.
+    En este fin se remata
+    todo el daño que hemos hecho,
+    pues vivo no es de provecho,
+    y muerto tu infamia mata.
+DIONISIA:
+    ¿Ese es remedio?
+REY:
+    Este hallo.
+ENRIQUE:
+    ¡Eso no, milano fiero!
+    ¡Gallina y pollos primero
+    y agora quieres el gallo!
+    ¡Vive Dios, que he de cantar
+    antes que amanezca Dios,
+    que me lo mandastes vos,
+    aunque seais para negar!
+    ¿Yo morir, siendo alma en pena?
+CELINDA:
+    Señor, matarle es crueldad.
+REY:
+    Pues con esta enfermedad
+    ¿qué aguardo dél cosa buena?
+CELINDA:
+    Señor, causa desto ha sido
+    que el Conde dos días ha estado
+    sin comer, de que ha quedado,
+    como ves, desvanecido.
+    Hazle comer y beber,
+    y verás que vuelve en sí.
+REY:
+    Traed de comer aquí.
+    Denle a Enrique de comer.
+ENRIQUE:
+    ¡Ah, perros, que concertáis
+    darme veneno comiendo!
+    Si pensáis que no lo entiendo,
+    muy engañados estáis.
+    No he de comer ¡vive Dios!
+    Hasta que a Isabela vea.
+    ¡Caramelos y jalea!
+    ¿Quitarme queréis la tos?
+    Ven acá, rey embutido,
+    Herodes entre inocentes,
+    remedio de inconvenientes
+    y entre remedios perdido;
+    rey de paramento viejo,
+    que el rétulo significa
+    como caja de botica,
+    lleve el diablo tu pellejo.
+    ¿Por qué me echaste en prisión?
+    ¿Quién te engañó, rey mochuelo?
+    ¿Qué capítulo del duelo
+    te dio mi satisfación?
+    ¿Por qué mandaste cortar
+    el blanco cuello a Isabela?
+    ¿Con qué azúcar y canela
+    se puede agora curar?
+    Todo el mundo te maldice.
+CLENARDO:
+    Mucho el furor se adelanta.
+ENRIQUE:
+    ¡Diz que yo gocé a la Infanta!
+    Mal me haga Dios si tal hice.
+REY:
+    Llevadle luego de aquí,
+    metedle en una prisión.
+ENRIQUE:
+    ¿Vos conmigo, faraón?
+    ¿Vos conmigo? ¿Vos a mí?
+    ¡Afuera, perros villanos!
+REY:
+    Asidle, que está furioso.
+CRIADO 1:
+    ¡Ay, que me ha muerto!
+CLENARDO:
+    Es forzoso
+    atalle de pies y manos.
+REY:
+    Llamad la guarda.
+ENRIQUE:
+    ¡Isabela,
+    allá te voy a buscar!
+REY:
+    Asidle y hacedle atar.
+ENRIQUE:
+    Alguno habrá que le duela.
+CLENARDO:
+    No hay quien no se atemorice.
+CRIADO 2:
+    No se ha visto fuerza tanta.
+ENRIQUE:
+    ¡Diz que yo gocé a la Infanta!
+    Mal me haga Dios si tal hice.
+[Vase Enrique, haciendo locuras, tras los criados y sale Fabio]
+DIONISIA:
+    Hazle de suerte encerrar,
+    que mi infamia no publique.
+FABIO:
+    ¿Dónde va corriendo Enrique?
+    ¿Por qué le mandas matar?
+REY:
+    Fabio, encerrarle he mandado
+    porque está loco y publica
+    mi infamia.
+FABIO:
+    ¡A buen tiempo aplica
+    ese sentimiento honrado!
+REY:
+    ¿Cómo?
+FABIO:
+    Como agora llega
+    del conde de Barcelona,
+    adonde él viene en persona
+    y mil banderas despliega,
+    al puerto una fuerte armada
+    llena de gente española,
+    cuya entrada y salva sola,
+    de la primer rociada
+    puso el primer fuerte en tierra,
+    y a la playa en barcos sale,
+    donde de los pies se vale
+    tu poca gente de guerra
+    que huyendo la fiera muerte
+    con que te amenaza el Conde,
+    van enseñando por dónde
+    pueden llegar a prenderte.
+    Si esto es libertad, perdona,
+    y procura resistilla;
+    que viene media Castilla
+    en favor de Barcelona.
+    Fuerte gente toledana
+    -porque jamás supo el miedo
+    por dónde van a Toledo-,
+    cordobesa y sevillana
+    trae el Conde, porque tiene
+    gran deudo al rey de Castilla.
+    Ya todos cubren la orilla,
+    ya en orden marchando viene.
+    El niño don Juan, su nieto,
+    dicen que es el general,
+    a cuyo guión real
+    guardan los demás respeto.
+    Éste es un negro pendón,
+    donde pintada Isabela,
+    por el aire al cielo vuela
+    a pedir satisfación.
+    Mira, señor, qué has de hacer.
+REY:
+    Por puntos crece este daño,
+    y para mi desengaño
+    basta ser causa mujer.
+    ¿Quién te parece a ti, Fabio,
+    que sea mi general?
+FABIO:
+    Pues dura del Conde el mal,
+    haz que venga el duque Otavio.
+REY:
+    Ha seis años que no viene
+    a la corte.
+FABIO:
+    ¿Hasle agraviado?
+REY:
+    No.
+FABIO:
+    Pues el Duque es soldado
+    y hombre que experiencia tiene.
+    ¿Iréle a llamar?
+REY:
+    Camina,
+    y entretanto haré juntar
+    gente que camine al mar.
+DIONISIA:
+    Ésta es justicia divina.
+[Vanse y salen el duque Otavio y Isabela]
+OTAVIO:
+    ¿Que eres, hermosa española,
+    del conde Enrique mujer?
+ISABELA:
+    Soy la que solía ser,
+    Otavio, su mujer sola.
+    Y pues palabra me has dado
+    del secreto prometido,
+    y del amor pretendido
+    ya quedas desengañado,
+    haz de manera que pueda
+    volver a mi padre, a España,
+    pues mi vida en tierra estraña
+    en tanto peligro queda.
+OTAVIO:
+    Enrique, Isabela hermosa,
+    fue competidor conmigo;
+    dos años fue mi enemigo
+    en competencia amorosa;
+    y aunque entonces es verdad
+    que está en su punto el rigor,
+    luego que acaba el amor
+    acaba el enemistad.
+    Y digo que de tu cuento
+    sólo a ti misma te diera
+    crédito quien conociera
+    de Enrique el entendimiento.
+    ¿Es posible, que aunque el Rey
+    mil muertes le amenazara,
+    y que en él la ejecutara,
+    ya por fuerza, ya por ley,
+    osó entregarte a la muerte
+    y dar tus hijos a España?
+ISABELA:
+    No fue suya aquella hazaña,
+    mas del rigor de mi suerte;
+    aunque no sé si el reinar,
+    que es poderosa disculpa,
+    fue la ocasión de su culpa.
+OTAVIO:
+    Al fin te mandó matar,
+    y debe de estar casado
+    con Dionisia injustamente.
+ISABELA:
+    ¿Cómo?
+OTAVIO:
+    Porque está inocente
+    de la culpa que le ha dado,
+    y como tú me prometas
+    que un secreto callarás,
+    quién la ha gozado sabrás.
+ISABELA:
+    No han sido menos secretas
+    las cosas que te he fïado.
+    Unas por otras troquemos.
+OTAVIO:
+    Mil cosas que escritas vemos
+    o acaso nos han contado,
+    imposibles nos parecen.
+    Pues sábete que yo fui
+    quien la gozó.
+ISABELA:
+    ¿Cómo así?,
+    que mil dudas se me ofrecen.
+OTAVIO:
+    Con una industria amorosa,
+    en un escuro aposento
+    me dio amor atrevimiento
+    y gocé la Infanta hermosa,
+    y una sortija la di
+    por el Conde.
+ISABELA:
+    ¡Estraño enredo!
+OTAVIO:
+    Y ésta que traigo en el dedo
+    me dio también ella a mí.
+    Cuanto a ella, bien conviene
+    hacer al Conde casar;
+    cuanto al Conde, no hay dudar
+    de la inocencia que tiene.
+    Él fue a España y yo a mi tierra,
+    donde seis años he estado,
+    que es el tiempo que casado
+    della el Conde se destierra.
+    Discúlpale del error,
+    y cúlpale de tu injuria.
+ISABELA:
+    Culparé del Rey la furia
+    y disculparé su honor.
+    De Enrique no digo nada,
+    que le he querido de suerte,
+    que me pesa que mi muerte
+    fue sin efeto ordenada;
+    pero, pues ya estoy sin él,
+    déjame, Otavio, gozar
+    de mis hijos, que es estar
+    casi con tres partes dél.
+    Tres son mis hijos, bien digo,
+    tres partes del Conde son;
+    una falta al corazón,
+    téngala el Conde consigo;
+    y pues esto fuerza es
+    o gusto de la fortuna,
+    mejor estaré sin una,
+    Duque, que sin todas tres.
+    Ese anillo te pidiera
+    por consuelo de mi mal,
+    si a pedirte merced tal
+    mi desdicha se atreviera.
+    Con él fuera consolada;
+    mas si la tienes amor,
+    no es justo.
+OTAVIO:
+    Si en tu dolor,
+    Isabela desdichada,
+    causa esta prenda consuelo,
+    servirte della podrás.
+[Dásela]
+ISABELA:
+    No puedo pagarte más,
+    que con obligar al cielo.
+[Sale Polibio]
+OTAVIO:
+    Polibio...
+POLIBIO:
+    Señor...
+OTAVIO:
+    Al puerto
+    con esta dama camina,
+    y en llegando a la marina,
+    la entrega a Atilo o Alberto,
+    que en este primer vïaje
+    la pasen a Barcelona,
+    regalando su persona;
+    y para el matalotaje
+    haz que le den mil escudos.
+POLIBIO:
+    ¿Gozástela?
+OTAVIO:
+    Los crïados
+    tienen por blasón de honrados
+    ser obedientes y mudos.
+    Por secreto no te encargo
+    a más gente.
+ISABELA:
+    Este hombre basta.
+OTAVIO:
+    Adiós, Isabela casta.
+POLIBIO:
+    Yo llevo un hermoso cargo.
+ISABELA:
+    Adiós, Duque generoso.
+POLIBIO:
+    (¡Por Dios, que antes de llegar
+    al puerto la he de gozar!)
+[Vase Polibio con Isabela]
+OTAVIO:
+    ¡Caso estraño y espantoso!
+    ¿Que de aquel atrevimiento
+    haya este mal procedido?
+    ¿Que mía la culpa ha sido
+    y de Isabela el tormento?
+    ¡Ved, a cabo de seis años
+    que esto a verdad se reduce,
+    el fruto que aquí produce
+    la causa de mis engaños!
+    Todo engaño y compasión
+    de una mujer inocente
+[Sale el marqués Fabio]
+FABIO:
+    Aunque no quiera tu gente...
+OTAVIO:
+    ¡Fabio! En aquesta ocasión
+    ¿adónde bueno?
+FABIO:
+    Por ti.
+OTAVIO:
+    ¿Llámame el Rey por ventura?
+FABIO:
+    Por ventura, y tan segura,
+    que albricias te pido.
+OTAVIO:
+    ¿Ah, sí?
+    Pues ¿qué me quiere?
+FABIO:
+    Que seas
+    de una empresa general.
+OTAVIO:
+    ¿Traes gente?
+FABIO:
+    El bastón real,
+    sólo para que lo creas.
+OTAVIO:
+    Si es por mi daño, Marqués,
+    en mi tierra estoy; no quiero
+    servirle.
+FABIO:
+    Soy caballero,
+    crédito es bien que me des.
+    Yo hago pleito homenaje
+    al cielo y a ti que es cierto
+    lo que digo: por el puerto
+    recibe de España ultraje
+    con navíos que han llegado.
+OTAVIO:
+    Ya la ocasión adivino.
+FABIO:
+    Vamos, que por el camino
+    te diré lo que ha pasado.
+OTAVIO:
+    ¿Es del conde Enrique hazaña?
+FABIO:
+    Y de Dionisia cautela.
+OTAVIO:
+    (Peligro corre Isabela
+    de no llegar viva a España.)
+[Vanse y sale un alarde de soldados con caja y bandera negra y en ella pintada la imagen de Isabela y don Juan, el niño, armado sobre una sotana negra, con bastón de general y el conde de Barcelona detrás]
+CONDE:
+    Aunque justo parece que vengara
+    la muerte de mi hija como padre,
+    y que el bastón de general llevara,
+    mejor será que a vos el cargo os cuadre.
+    Si a mí por viejo la experiencia es clara,
+    amor, por el dolor de vuestra madre,
+    nieto, os hará mover, que éste es mi celo,
+    con guerra el mundo y con justicia el cielo.
+    No llevaron a Troya los de Grecia
+    niños tiernos, mas fuertes viejos canos
+    por capitanes; que la guerra precia
+    más que de Aquiles las valientes manos.
+    Roma triunfante y la sagaz Venecia,
+    más que los Aníbales y africanos,
+    viejos Torcatos, honra de su tierra,
+    sacaban de la paz para la guerra.
+    Confieso, que esto es justo; pero creo,
+    que el no tener jamás causa tan justa
+    hizo fïar sus armas y trofeo
+    más de la antigua que la edad robusta.
+    Pero ya que tan justa causa veo
+    yo el contrario, la defensa injusta,
+    quiero que en este niño el mundo vea
+    que no las armas, la razón pelea.
+    Este es el general, nobles soldados;
+    éste es mi nieto y de Isabela hijo.
+    De su inocencia estáis desengañados,
+    el Conde por sus cartas os lo dijo.
+    Pues si vais de razón tan justa armados,
+    con justa causa un niño tierno elijo
+    por general contra su fiero padre,
+    cubierto de la sangre de su madre.
+DON JUAN:
+    Famoso Conde y noble abuelo mío,
+    gloria y honor del nombre de Moncada,
+    pequeño corazón y grande brío
+    rigen este bastón y aquesta espada;
+    pero tan grande ya con vos le crío,
+    y con la injuria de mi madre amada,
+    que dentro de dos días este pecho
+    ha de romper como aposento estrecho.
+    Para asombrar esta cobarde gente
+    yo basto solo, fuera de que es justo
+    que un inocente vengue a otro inocente;
+    del cielo vengador acuerdo y gusto.
+    Fuera de que soy hombre tan valiente,
+    y para casos de honra tan robusto,
+    que al Rey crüel desafïar pretendo,
+    y con favor de Dios vencerle entiendo.
+CONDE:
+    Besar quiero la boca que eso dice,
+    o con aquestos brazos levantarte,
+[Toma el niño en brazos]
+    porque esta barba blanca te autorice.
+    Alto estás, mira bien ese estandarte,
+    y aquí la historia trágica infelice
+    quiero desde mis brazos enseñarte
+    de tu difunta madre.
+DON JUAN:
+    No, no, abuelo,
+    no la quiero mirar, bajadme al suelo;
+    que pues llorar es fuerza, puesto en alto,
+    anegaré con otro mar la tierra.
+    Vamos a darles el primer asalto;
+    veréis qué corazón mi pecho encierra.
+CONDE:
+    Dadme la sangre, de que ya estoy falto,
+    a fuego y sangre les publico guerra.
+DON JUAN:
+    Vayan espías a saber qué hace
+    el Rey.
+SOLDADO:
+    Bien dice.
+CONDE:
+    De otra causa nace.
+[Vanse y salen el Rey y la infanta Dionisia y Clenardo, secretario]
+REY:
+    Perdidos somos.
+DIONISIA:
+    ¿Qué remedio pones
+    en tantas desventuras?
+REY:
+    Ve, Clenardo,
+    y trae de la prisión atado al Conde.
+CLENARDO:
+    ¿A qué efecto le quieres loco y preso?
+REY:
+    Camina a hacer lo que te mando.
+CLENARDO:
+    (En todo
+    se engaña el Rey.)
+[Vase Clenardo]
+DIONISIA:
+    ¿Qué intentas con Enrique?
+REY:
+    Dársele intento a quien por él me pone
+    en tanto aprieto.
+DIONISIA:
+    Esa es crueldad notable.
+REY:
+    Pues si Ramón, cual ves, desembarcando
+    tanta copia de gente en esta isla
+    desierta de reparo y desarmada,
+    ya derriba mil villas y castillos
+    y sin nuestra prisión no se contenta,
+    ¿qué puedo yo hacer mejor que darle a Enrique?
+    Enrique es loco, Enrique es hombre inútil,
+    por Enrique esta guerra origen tuvo,
+    a Enrique quiere el Conde.
+[Salen Clenardo y Enrique atado]
+CLENARDO:
+    Aquí está Enrique.
+REY:
+    Haz luego que le lleven cien soldados
+    al fiero catalán y di que vengue
+    en el duro homicida de su hija
+    la sangre de que yo no estoy culpado.
+    Matándole podrá vengar mi honra.
+ENRIQUE:
+    ¡Agora sí que cumples mis deseos,
+    piadoso cielo! ¡Agora sí que llega
+    otra vez la razón a mi discurso!
+    Cobré sentido con oír mi muerte,
+    y con ver que a las manos de mi hijo
+    voy a vengar la sangre de su madre.
+    Protesto al cielo y a sus santos ángeles,
+    a sus inteligencias, a sus luces,
+    sol, luna, estrellas, signos y planetas,
+    a la tierra, a sus plantas, a sus árboles,
+    a sus fieras, sus fuentes y sus ríos,
+    a las nubes, al aire, a cuantas cosas
+    en su región tercera se congelan
+    desde el granizo hasta el ardiente rayo,
+    a las aves parleras y a las mudas,
+    al mar furioso y a sus nadantes peces,
+    al fuego elementar y al que hemos visto,
+    a los hombres más altos y comunes,
+    desde el rey adorado al pastor pobre
+    y desde el más letrado al ignorante;
+    que no debo a la Infanta cosa alguna
+    de su honor, ni fui de ningún modo
+    aquel de quien se queja, pues la noche
+    de su desgracia el Rey me tuvo preso.
+    Verdad es que confieso que esta muerte
+    la debo por la muerte de Isabela.
+REY:
+    Llevadle luego.
+ENRIQUE:
+    ¡Oh bárbaro enemigo!
+    Presto verás por ti mayor castigo.
+[Lleva Clenardo a Enrique]
+DIONISIA:
+    ¿A quién no mueve a sentimiento
+    este desdichado Conde?
+REY:
+    Yo, Dionisia,
+    quedo temiendo que inocente muere.
+    Esta protestación que al cielo hace,
+    a la tierra, a las fieras y a los hombres
+    que no ha sido el autor de tu desdicha,
+    ¿a quién no puede dar cuidado?
+DIONISIA:
+    A aquellos
+    que supieren que Enrique estaba loco;
+    que no es tan claro el día como es cierto
+    ser el autor de la deshonra mía.
+[Sale Fabio y el duque Otavio]
+FABIO:
+    Aquí está el duque Otavio.
+REY:
+    ¡Amigo Duque!
+OTAVIO:
+    Dé Vuestra Alteza a Otavio sus pies ínclitos.
+REY:
+    ¡Tanto tiempo sin veros!
+OTAVIO:
+    No pudiera,
+    señor, menos ausencia de la corte
+    descansar mis estados, que tenía
+    perdidos y empeñados su asistencia.
+    Esto, y no ser en ella necesario,
+    de tu servicio me tuvieron lejos;
+    pero ofrecida la ocasión agora,
+    estados, honra y vida, todo es poco
+    para emplear en tu real servicio.
+REY:
+    Ya sabes el aprieto en que me ha puesto
+    del español la armada.
+OTAVIO:
+    Ya he sabido
+    del Marqués el agravio y la venganza.
+    El remedio conviene que sea presto.
+REY:
+    Venid donde sepáis lo que he trazado,
+    si no bastare haberle dado a Enrique,
+    que es lo que dicen que pretende el Conde.
+FABIO:
+    ¿A Enrique has dado al español?
+REY:
+    Agora
+    de dar acabo al español a Enrique.
+FABIO:
+    ¿Por qué tan gran crueldad has hecho?
+REY:
+    Fabio,
+    Enrique es la ocasión, Enrique muera,
+    fuera de que ya es loco y hombre inútil.
+FABIO:
+    Yo perderé la vida en su defensa.
+OTAVIO:
+    (¡Ay Dionisia! Mirándote, mi herida
+    vierte sangre de nuevo.)
+DIONISIA:
+    ¿Venís bueno,
+    Otavio?
+OTAVIO:
+    A tu servicio y tan perdido
+    como agora seis años.
+DIONISIA:
+    Sabe el cielo
+    que estoy arrepentida de no amaros.
+OTAVIO:
+    Yo no de mi afición. (Ni de gozaros.)
+[Vanse y sale Isabela en hábito de hombre]
+ISABELA:
+    Dejando al traidor dormido,
+    que el Duque me dio por guarda,
+    y tomando su vestido,
+    vengo donde el mar me aguarda,
+    con pensamiento atrevido;
+    que en esta primera aldea
+    dicen -¡quiera Dios que sea!-
+    que de una armada de España
+    sale gente a la campaña
+    y estas riberas pasea.
+    Forzarme quiso el villano;
+    mas como el sueño y el vino
+    le retuvieron la mano,
+    enfrenó su desatino
+    la noche, descanso humano.
+    Pero cuando el alba apenas
+    sobre rosas y azucenas
+    vertía aljófar, tomé
+    su vestido y caminé
+    por estas blancas arenas.
+    Allá queda con el mío
+    y en poder de dos villanos,
+    que reirán su desvarío.
+[Salen Lucindo y Fenicio soldados españoles, con escopetas]
+LUCINDO:
+    Rinde a este cordel las manos,
+    o aqueste irlandés te envío.
+ISABELA:
+    Ten el arcabuz, soldado;
+    que no soy hombre de guerra,
+    aunque traigo espada al lado.
+FENICIO:
+    Basta ser de aquesta tierra
+    y que aquí te hemos hallado.
+LUCINDO:
+    Bien dices, que éste es espía.
+[Átanla]
+ISABELA:
+    Españoles, no podía
+    dar al cielo más bien junto
+    que rendiros a este punto
+    la espada y la vida mía.
+    Pero ya que os di la espada
+    y he rendido mi persona,
+    decidme cúya es la armada.
+LUCINDO:
+    Del conde de Barcelona.
+ISABELA:
+    ¿Quién?
+LUCINDO:
+    Don Ramón de Moncada.
+ISABELA:
+    ¡Cielos! ¿Hay ventura igual?
+FENICIO:
+    Aquí viene el general.
+    Llega, y hinca la rodilla.
+[Sale don Juan niño con su bastón de general y el capitán Carlos con él]
+DON JUAN:
+    En fin se rindió la villa.
+CAPITÁN:
+    Temió tu bando real.
+ISABELA:
+    (¿Qué es esto, cielos, que veo?
+    ¿No es este niño don Juan?
+    ¡Hijo!... Mas teneos, deseo,
+    que brazos que atados van,
+    a mal tiempo los empleo.
+    Las lágrimas derramadas
+    por los ojos, del placer
+    han sido más desmandadas,
+    que lo pudieron hacer
+    como no estaban atadas.
+    Toma estas lágrimas mías,
+    nuevo capitán de hazañas,
+    que son en mis alegrías
+    reliquias de las entrañas
+    que habitaste tantos días.
+    Quiérome disimular
+    si lo permite el contento.)
+FENICIO:
+    Agora puedes llegar.
+DON JUAN:
+    ¿Qué es eso?
+LUCINDO:
+    Aquí te presento,
+    general de tierra y mar,
+    del enemigo esta espía.
+DON JUAN:
+    ¿A qué venías?
+ISABELA:
+    Venía
+    bien libre de ver tal bien
+    donde no esperaba bien
+    el mayor bien que tenía.
+DON JUAN:
+    ¿Qué hace tu rey?
+ISABELA:
+    No sé,
+    porque jamás mi rey fue.
+DON JUAN:
+    ¿Qué es lo que tienen pensado
+    para defender su estado
+    después que a Irlanda llegué?
+ISABELA:
+    Jamás, señor, lo entendí.
+CAPITÁN:
+    Manda que le den tormento.
+DON JUAN:
+    Traed un tormento aquí.
+ISABELA:
+    No es el primero que siento,
+    noble general, por ti.
+DON JUAN:
+    ¿Por mí dolor has sentido?
+ISABELA:
+    El mayor que puede ser.
+DON JUAN:
+    Yo soy muy agradecido.
+    Eso deseo saber,
+    que me lo digas te pido.
+ISABELA:
+    A su tiempo lo sabrás.
+DON JUAN:
+    Desatalde.
+CAPITÁN:
+    Aquí le mata
+    a tormentos.
+DON JUAN:
+    Necio estás
+    desatadle, que retrata
+    la cosa que quiero más.
+CAPITÁN:
+    ¿Son como tú los soldados?
+    Porque tendréis buen aliño.
+DON JUAN:
+    Tendrá el Rey pocos cuidados.
+    Como ve el general niño,
+    trae soldados desbarbados.
+    ¿De dónde eres?
+ISABELA:
+    ¿No lo ves?
+    Español soy de nación.
+DON JUAN:
+    ¿De dónde?
+ISABELA:
+    Barcelonés.
+DON JUAN:
+    Que te honremos es razón.
+ISABELA:
+    Beso, general, tus pies.
+    Cree que no soy espía,
+    sino un hombre que servía
+    al conde Enrique, tu padre.
+DON JUAN:
+    Y ¿conociste a mi madre?
+ISABELA:
+    Sí, señor.
+DON JUAN:
+    ¡Ay, madre mía!
+    ¿Dónde ibas?
+ISABELA:
+    Iba a España.
+DON JUAN:
+    Dalde la espada.
+ISABELA:
+    Es hazaña
+    de tu valor, gran don Juan.
+DON JUAN:
+    De hoy más serás capitán.
+    Tú mi persona acompaña.
+ISABELA:
+    Siendo tú muy pequeñito
+    te acompañé nueve meses.
+DON JUAN:
+    De esa obligación me quito.
+ISABELA:
+    Si las que tienes supieses,
+    era proceso infinito.
+DON JUAN:
+    ¿Cómo?
+ISABELA:
+    También te he crïado,
+    aunque no me has conocido.
+    Mas, pues a tiempo he llegado
+    que el amor que te he tenido
+    te muestre en ser tu soldado,
+    dame para cierto efeto
+    licencia.
+DON JUAN:
+    Parte en buen hora.
+[Vase]
+CAPITÁN:
+    Que es gallardo te prometo.
+DON JUAN:
+    Su rostro, Carlos, adora
+    mi pensamiento secreto.
+CAPITÁN:
+    ¿Cómo?
+DON JUAN:
+    Si no fuera muerta
+    mi madre, que era jurara
+    aquesta sombra encubierta.
+CAPITÁN:
+    Mucho le imita en la cara.
+[Sale el conde de Barcelona y Clenardo y Enrique atado, con gente de guarda]
+CAPITÁN:
+    No poco el de Irlanda acierta.
+CLENARDO:
+    A Enrique, señor, te envía,
+    y suplica que su muerte
+    ponga freno a la osadía
+    de tu gente airada y fuerte.
+[Vanse Clenardo y la guarda]
+CONDE:
+    No poco he puesto a la mía
+    viendo presente al traidor
+    que deteniendo la mano...
+    Don Juan...
+DON JUAN:
+    Abuelo y señor
+    ¿qué es esto?
+CONDE:
+    Un hombre villano,
+    homicida de mi honor;
+    un hombre que, por reinar,
+    mató la mejor mujer
+    que en el mundo pudo hallar;
+    un hombre que te dio el ser
+    que te quisiera quitar.
+    Este es aquel que mató
+    tu madre santa y hermosa.
+DON JUAN:
+    Padre, nunca pensé yo
+    que hiciérades vos tal cosa.
+ENRIQUE:
+    Hijo, un hombre me forzó.
+DON JUAN:
+    ¿Un hombre puede forzar
+    a nadie el libre albedrío?
+CONDE:
+    Admira el oírte hablar.
+ENRIQUE:
+    Hombre he nacido, hijo mío,
+    y como hombre, pude errar.
+DON JUAN:
+    Matastes mi madre, padre
+    por casaros con la Infanta.
+    ¿Qué disculpa habrá que os cuadre,
+    siendo tan hermosa y santa,
+    como vos sabéis, mi madre?
+    Arrojástesla en la mar,
+    pensando poder lavar
+    con tanta agua tal pecado;
+    mas lo que sangre ha manchado,
+    con sangre se ha de sacar;
+    y pues que sangre ha de haber,
+    de vos la sangre confío
+    que la que se ha de verter
+    no ha de ser, abuelo mío,
+    de sangre que me dio ser.
+[Híncanse de rodillas]
+    Ante el tribunal, abuelo,
+    de vuestra clemencia justa,
+    de rodillas por el suelo,
+    de aquesta sentencia injusta
+    de parte del Conde apelo.
+    Mi madre es muerta, señor,
+    si mi padre muere así,
+    yo moriré de dolor.
+ENRIQUE:
+    Hijo, no ruegues por mí,
+    que haces mi culpa mayor.
+    Matadme, señor; la diestra
+    levantad de la ira vuestra.
+    Yo lo reconozco, yo,
+    pues maté a quien engendró
+    quien tanto valor os muestra.
+    Veisnos aquí; ya no apelo,
+    porque justicia me falta.
+    Cortad, cortad sin recelo;
+    mi cabeza está más alta,
+    y vendrá primero al suelo;
+    que deste golpe cortada
+    veréis que pasa la espada
+    por encima del cabello
+    de don Juan, sin ofendello,
+    porque no es sangre culpada.
+CONDE:
+    Para mi injuria y poder
+    bien fue el sagrado importante
+    adonde te vengo a ver.
+    ¿Cómo te puedo ofender
+    con esta imagen delante?
+    Como retraído has sido,
+    que con un niño en los brazos
+    a una torre te has subido;
+    tenle bien, que estos abrazos
+    te han guardado y defendido.
+    Contra el plomo, que ya vuela
+    del tiro de mi justicia,
+    tu hijo hiciste rodela,
+    donde pintó tu malicia
+    la imagen de mi Isabela;
+    y bien fue rodela a prueba
+    de mi buen nieto el valor,
+    yo el cobarde, él el temor,
+    que por defensa le lleva.
+    ¿Quién ha visto al lobo fiero
+    porque el pastor no le mate,
+    que en brazos lleve al cordero?
+    ¿Quién ha visto que rescate
+    el que es libre al prisionero?
+    Mas como, para templar
+    la ira, es bueno mirar
+    su rostro un hombre al espejo,
+    porque me he visto, te dejo
+    de castigar y matar:
+    es mi nieto espejo mío,
+    tú la guarnición, y tal,
+    que si romperte porfío,
+    pongo a peligro el cristal
+    y por eso me desvío.
+[Vase]
+ENRIQUE:
+    Señor ¿dónde vas así?
+    Mátame, yo te ofendí.
+    Hijo, abrázame.
+DON JUAN:
+    Detente;
+    que estando mi abuelo ausente,
+    queda tu enemigo en mí.
+ENRIQUE:
+    Pues mátame tú también,
+    porque mis entrañas abras;
+    que no hay muerte que me den
+    más fuerte que estas palabras.
+CAPITÁN:
+    El español viene.
+DON JUAN:
+    ¿Quién?
+CAPITÁN:
+    El que hiciste capitán.
+[Sale Isabela]
+ISABELA:
+    Ya tratan, fuerte don Juan,
+    los enemigos que ves,
+    de echarse a tus nobles pies,
+    y concertándolo están.
+    Servirte quieren y honrarte.
+DON JUAN:
+    Carlos...
+CAPITÁN:
+    Señor...
+DON JUAN:
+    Oíd aparte,
+    no disgustemos a mi abuelo.
+    Prended mi padre, aunque el cielo
+    sabe que el alma me parte;
+    mas, por darle confusión,
+    pongan ese hombre en prisión,
+    que así parece a mi madre,
+    porque viéndole mi padre
+    conozca su sinrazón.
+CAPITÁN:
+    Como lo mandas lo haré.
+[Vase don Juan niño]
+    Soldado ¿cómo es tu nombre?
+ISABELA:
+    Tomás, señor, me llamé
+    después que vi que en un hombre
+    faltó la sangre y la fe.
+CAPITÁN:
+    Ese preso has de guardar,
+    que el general lo ha mandado;
+    tanto te pretende honrar.
+ISABELA:
+    ¿Dónde estará bien guardado?
+CAPITÁN:
+    En una nave en la mar.
+ISABELA:
+    Sin cuidado podéis ir;
+    que yo le haré llevar luego.
+CAPITÁN:
+    Voyme.
+[Vase]
+ENRIQUE:
+    Y yo fuera a morir.
+    Esto, soldado, te ruego,
+    que ya me cansa el vivir.
+ISABELA:
+    ¿Quién eres?
+ENRIQUE:
+    ¿Ya no lo ves?
+    Un hombre a quien la fortuna,
+    dando su nave al través,
+    desde encima de la luna,
+    pudo bajar a tus pies.
+    Un hombre a quien hoy combate
+    un enfadoso vivir
+    y pesa que se dilate,
+    y porque quiere morir,
+    no halla un hombre que le mate.
+    Un hombre, un diamante fuerte
+    en quien se mella la espada,
+    ni hay espada que le acierte,
+    que por cosa desechada
+    no le conoce la muerte.
+    Un castigado sin culpa
+    en un delito famoso,
+    y en otro en que no hay disculpa,
+    sin castigo y temeroso
+    de ver que el cielo me culpa;
+    que cuando su espada aplique,
+    mayor daño me desvela;
+    en fin, soy el conde Enrique,
+    que dio la muerte a Isabela.
+    ¿Qué más quieres que publique?
+    Pero tú, español soldado,
+    a quien por guarda me han dado
+    ¿eres por dicha la sombra
+    que de Isabela me asombra?
+    ¿Dónde ese rostro has hurtado?
+    Ya que en la tragedia muero
+    de mis mal logrados bienes,
+    que vivo cobrar no espero,
+    si eres sombra ¿cómo vienes
+    antes del acto postrero?
+    ¿Eres el hijo mayor
+    del Conde? ¿Eres mi cuñado?
+    Habla, que tengo temor
+    de ver que no me has hablado,
+    mirándome con rigor.
+ISABELA:
+    Enrique, el hombre que ha muerto
+    a sangre fría algún hombre,
+    inocente y encubierto,
+    siempre trae con su nombre
+    viva la imagen del muerto.
+    Débete de parecer
+    que parezco a tu mujer,
+    porque tu mismo pecado
+    miras siempre retratado
+    en cuanto aciertas a ver.
+    Mas ya que conmigo estás
+    ¿la razón no me dirás
+    de dar a Isabela muerte?
+    ¿Fue flaca mujer tan fuerte?
+    ¿Hízote ofensa jamás?
+ENRIQUE:
+    Fue santa llegado a eso.
+    Sólo un rey pudo forzarme;
+    mas yo, llorando el suceso,
+    paguéla con no casarme,
+    y luego, perdiendo el seso.
+    Viéndome inútil, me entrega
+    al Conde. Yo, por morir
+    y no hacer lo que me ruega,
+    doy en llorar y en fingir,
+    por ver si mi muerte llega.
+ISABELA:
+    ¿Que no te has casado?
+ENRIQUE:
+    No.
+ISABELA:
+    Bien has hecho, que yo sé
+    que otro a la Infanta gozó.
+ENRIQUE:
+    ¿Quién?
+ISABELA:
+    El duque Otavio fue.
+ENRIQUE:
+    Por él lo he pagado yo.
+    ¿Eso suénase en la corte?
+ISABELA:
+    Hasta agora no se suena;
+    pero quiero que se acorte
+    tu peligro y tu cadena,
+    y que tu cuello no corte
+    la espada del Conde airado.
+    Vete, Enrique desdichado,
+    donde el hado te aconseja.
+ENRIQUE:
+    Deja la cadena, deja;
+    suelta, piadoso soldado.
+    Yo agradezco tu piedad,
+    y verás, como lo veo
+    en la tuya y mi verdad,
+    que porque morir deseo
+    todos me dan libertad.
+ISABELA:
+    Vete, Conde.
+ENRIQUE:
+    No lo mandes.
+ISABELA:
+    ¿No es mejor que libre andes,
+    y negociarás mejor?
+ENRIQUE:
+    Desear vida es error
+    donde hay trabajos tan grandes.
+    Cáusame más confusión
+    ver que en aquesta ocasión,
+    porque a Isabela pareces,
+    que me dio vida mil veces,
+    tienes de mí compasión.
+ISABELA:
+    ¿Que no te irás?
+ENRIQUE:
+    No podré.
+ISABELA:
+    Pues ¿qué has de hacer?
+ENRIQUE:
+    Moriré.
+ISABELA:
+    ¿Por qué?
+ENRIQUE:
+    Por pagar mi culpa.
+ISABELA:
+    Ya la pagas.
+ENRIQUE:
+    No hay disculpa.
+ISABELA:
+    Disculpa habrá.
+ENRIQUE:
+    No la sé.
+ISABELA:
+    Dios perdona.
+ENRIQUE:
+    Dios castiga.
+ISABELA:
+    Quien se arrepiente le obliga.
+ENRIQUE:
+    Arrepentido estoy yo.
+ISABELA:
+    Pues vete, Enrique.
+ENRIQUE:
+    Eso no,
+    aunque el mundo me persiga.
+[Sale el conde de Barcelona y don Juan niño y el rey de Irlanda, la infanta Dionisia, Clenardo, el duque Otavio, el marqués Fabio, Celinda y todos los demás]
+REY:
+    Si después de darte al Conde
+    quieres más satisfación,
+    tú mismo a mi honor responde.
+CONDE:
+    Sucesos estraños son
+    que el tiempo en su pecho esconde.
+    ¿Qué hicistes dél?
+ISABELA:
+    Aquí está.
+CONDE:
+    Huélgome que aún vivo estés
+    si mereces vivir ya,
+    porque la razón me des
+    que nadie por ti me da,
+    de haber la Infanta dejado
+    después de haberla gozado,
+    traidor, y engañarme a mí
+    en España, pues te di
+    la prenda que me has quitado.
+    ¿No era, villano, mejor
+    que con la Infanta casaras,
+    satisfaciendo su amor,
+    que no que a los dos quitaras,
+    a uno sangre y a otro honor?
+    Disculpa tiene conmigo
+    el Rey, que el Rey pretendió
+    reparar su honor contigo;
+    pero tú, bárbaro, no,
+    que diste a un ángel castigo.
+ISABELA:
+    Aunque a todos os parece
+    nuevo que disculpe a un hombre
+    que tan culpado se ofrece
+    a vuestros ojos, señores,
+    no os espantéis que lo haga,
+    por grandes obligaciones
+    que pienso deciros cuando
+    laurel mi frente corone;
+    y así, digo que si alguno
+    dijere que gozó el Conde
+    de la Infanta, desde aquí
+    le reto y desmiento a voces.
+    Verdad es que está engañada
+    Dionisia, cuyos amores
+    fueron ciertos con Enrique,
+    en cuyo gusto conformes,
+    concertaron que se viesen
+    en su aposento una noche,
+    donde no acudiendo Enrique,
+    porque el Rey le echó en prisiones,
+    yo, que con él competía,
+    aunque nadie me conoce,
+    entré en su aposento oscuro,
+    hurtando señas y nombre.
+    En fin, poniendo en las obras
+    lo que quité a las razones,
+    le di un anillo por prenda
+    de los gozados favores,
+    con una piedra en que impresas
+    se miran mis armas nobles,
+    que son cinco flor de lises,
+    y tres rapantes leones.
+    Éste que traigo, ella diga
+    si es suyo o le desconoce;
+[Danle el anillo]
+    que no le podrá negar,
+    aunque confusa se pone.
+REY:
+    ¿Qué dices, Dionisia?
+DIONISIA:
+    Rey,
+    pregunta quién es ese hombre,
+    que en todo dice verdad.
+    Hombre ¿eres plebeyo o noble?
+OTAVIO:
+    Una palabra, soldado.
+ISABELA:
+    Duque ¿para qué te encoges?
+    Bien sabes tú que esto es cierto.
+REY:
+    ¿Qué es esto, infames traidores?
+    ¡Tú gozándola y tú, ingrato,
+    entendiendo cuándo y dónde!
+    ¡Por el cielo, que he de hacer...
+OTAVIO:
+    Paso, señor, no te arrojes;
+    y tú, soldado, que guardas
+    tan mal la fe siendo noble,
+    si luego no te desdices,
+    a todos diré tu nombre.
+ISABELA:
+    Diré yo, Otavio, que fuiste,
+    para que venganza tome
+    el Rey de quien gozó su hija
+    entrando por los balcones;
+    que no fui yo, sino tú,
+    por más que decirlo estorbes,
+    y tuyas son en Irlanda
+    estas armas y blasones.
+OTAVIO:
+    Hoy lo confieso y te pido,
+    que la cabeza me cortes;
+    pero primero me deja
+    que a este soldado despoje.
+REY:
+    Si mi hija está contenta
+    que mi honor contigo cobre,
+    mejor será, duque Otavio,
+    que con ella te desposes.
+    No solo daré mi reino,
+    donde mi honor se interpone
+    a un duque, pero a un hidalgo
+    que fuese en estremo pobre.
+OTAVIO:
+    Pues, señor, cuando te dije
+    que a Enrique echases prisiones,
+    sabe que fue por gozar
+    de Dionisia aquella noche.
+    Por esto estuve seis años
+    desterrado de tu corte.
+    Mío es el anillo y armas,
+    o me mates o perdones.
+REY:
+    ¿Qué dices, Dionisia?
+DIONISIA:
+    Digo
+    que yo fui engañada entonces,
+    y aunque el Duque merecía
+    la muerte por sus traiciones,
+    le quiero por mi marido,
+    pues es mejor que me honres,
+    que no que tú y yo quedemos
+    sin honra y sin sucesores.
+REY:
+    Dale la mano.
+OTAVIO:
+    Y el alma
+    a quien me estima y escoge.
+DON JUAN:
+    Duque, ya estás despachado.
+OTAVIO:
+    ¿Qué mandas, general?
+DON JUAN:
+    Oye,
+    digo que pues por tu causa
+    a mi madre mató el Conde,
+    te reto y te desafío;
+    el campo y armas escoge.
+OTAVIO:
+    Eres muy niño, don Juan;
+    mas si de tus españoles
+    alguno sale, aquí estoy.
+CONDE:
+    Ya mis canas te responden.
+OTAVIO:
+    Conde ilustre, ya tus canas
+    es razón que se reporten.
+DON JUAN:
+    Por viejo os dejan, abuelo,
+    y a mí porque no soy hombre.
+    ¡Pesar de la barba, amén!
+    Si en ella un peine me ponen,
+    yo le meteré en la barba.
+ENRIQUE:
+    Suplícoos que se me otorgue
+    campo contra el fiero Duque.
+    Mi agravio ¡oh Rey! te provoque,
+    por éste maté a Isabela,
+    esta razón baste y sobre
+    para que con él me mate.
+OTAVIO:
+    Eres preso, busca otro hombre.
+ISABELA:
+    Ahora bien, aquí estoy yo.
+OTAVIO:
+    Tú sí, que secretos rompes.
+    Contigo acepto batalla
+    en mar, en campaña, en monte.
+ISABELA:
+    No, sino aquí donde estamos.
+OTAVIO:
+    Soy contento. A punto ponte,
+    mas di primero la causa.
+ISABELA:
+    ¿Qué más que engañar al Conde?
+OTAVIO:
+    Esa ya la he satisfecho;
+    sin causa te descompones:
+    marido soy de la Infanta.
+ISABELA:
+    Otras causas hay mayores.
+OTAVIO:
+    Dilas.
+ENRIQUE:
+    Por tu ocasión
+    a Isabela el mundo llore.
+OTAVIO:
+    ¿Y si yo diese a Isabela
+    viva?
+ISABELA:
+    ¿Viva?
+OTAVIO:
+    No te asombres.
+ISABELA:
+    Tendrá Enrique libertad,
+    quedando todos conformes.
+OTAVIO:
+    ¿Quedáralo el Conde?
+CONDE:
+    Digo
+    que desde la popa al tope
+    cubrirá laurel mis naves,
+    y que a España haré que tornen.
+OTAVIO:
+    Pues alto; quedad amigos,
+    y a leva en tu armada toquen,
+    que ésta misma es Isabela.
+CONDE:
+    ¿Quién?
+OTAVIO:
+    La que miráis, señores,
+    que Fabio en el mar la puso
+    y ella, asiéndose a los bordes
+    de un barquillo ya anegado,
+    vino a la orilla de un bosque,
+    por donde entraban al río,
+    que entre algunos pescadores
+    la vi, la saqué y libré.
+CONDE:
+    ¡Hija!
+ISABELA:
+    ¡Señor!
+DON JUAN:
+    ¡Madre!
+ISABELA:
+    ¡Amores!
+ENRIQUE:
+    ¡Esposa!
+ISABELA:
+    ¡Enrique!
+FABIO:
+    Mil años
+    los tres vivan y se logren;
+    que Fabio os da el parabién.
+ENRIQUE:
+    Mis brazos le reconocen.
+REY:
+    ¿Qué ruïdo y gente es ésa?
+CELINDA:
+    Soldados deben de ser,
+    que traen una mujer
+    de aquestas montañas presa.
+CONDE:
+    Ya no hay guerra, todo es paz,
+    haced que la dejen luego.
+[Salen Lucindo y Fenicio soldados y sacan preso a Polibio, en hábito de mujer]
+POLIBIO:
+    Que me deis la muerte os ruego.
+LUCINDO:
+    Anda, que eres pertinaz.
+CONDE:
+    ¿Qué es esto?
+LUCINDO:
+    A este gentil hombre,
+    que por huïr de la guerra
+    andaba así por su tierra.
+OTAVIO:
+    ¿Es Polibio?
+POLIBIO:
+    Ése es mi nombre.
+OTAVIO:
+    Pues ¿cómo vienes así?
+POLIBIO:
+    La dama llevé al mar;
+    después de muy bien brindar
+    y que a mi placer dormí,
+    me dio aquesta madrugona;
+    yo, por no andar como Adán
+    en el puro cordobán,
+    me he vestido de amazona.
+ISABELA:
+    ¿Conócesme?
+POLIBIO:
+    Sí, traidora,
+    mi vestido es éste.
+FABIO:
+    Ya
+    otro mejor te dará
+    la Condesa mi señora.
+POLIBIO:
+    ¿Qué condesa?
+ENRIQUE:
+    Mi mujer.
+POLIBIO:
+    Conde y señor, perdonad.
+REY:
+    Volvamos a la ciudad
+    con este gusto y placer,
+    donde a Celinda con Fabio
+    un rico dote daremos.
+CELINDA:
+    ¡Gran favor!
+REY:
+    Y casaremos
+    a Dionisia con Otavio.
+DIONISIA:
+    Ya que todo se declara,
+    de aquella noche parí
+    una niña.
+CELINDA:
+    Yo lo vi,
+    que es vuestro retrato y cara.
+REY:
+    Ésa quiero yo que sea
+    para don Juan, y que herede
+    a Irlanda.
+CONDE:
+    Todo eso puede
+    quien en serviros se emplea.
+ISABELA:
+    ¡Conde amado!
+ENRIQUE:
+    ¡Amada esposa!
+POLIBIO:
+    Señores, dejadme hablar.
+ENRIQUE:
+    Ya no, porque aquí ha de dar
+    fin La fuerza lastimosa.

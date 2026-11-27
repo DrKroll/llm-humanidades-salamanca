@@ -59,7 +59,7 @@ Si la GPU se queda sin memoria, 04 repite solo con la mitad de lote.
 - `backups/calderon_indice_rag.json.gz`: índice RAG precalculado (cuaderno 04; se crea en segundos, pero por si acaso).
 - `backups/calderon_lora/` y `backups/quijote_lora/`: adaptadores LoRA para Qwen2.5-0.5B-Instruct (cuadernos 04 y 03,
   `USAR_COPIA = True`, o automáticamente sin GPU / si falla el entrenamiento). Datos del entrenamiento en `entrenamiento.json` de cada carpeta.
-- **Los adaptadores actuales están entrenados en CPU con ajustes reducidos** (Calderón: 400 pares de las 14 obras, 1 época; Quijote: 60 pasos).
+- **Los adaptadores actuales están entrenados en CPU con ajustes reducidos** (Calderón: 400 pares de las 14 obras de la primera selección, 1 época; Quijote: 60 pasos). Desde el 27/11 el corpus de Calderón tiene 166 obras: al reentrenar en la T4 (12/12) la copia de seguridad las incluirá todas.
   Antes del curso conviene reentrenarlos en una T4 con el comando siguiente (ver `backups/LEEME.md`).
 - Volver a entrenarlos (mejor con GPU): `python tools/entrenar_copias_de_seguridad.py todo --epocas-calderon 2 --pasos-quijote 300`.
 - No publicar los adaptadores (Hugging Face, etc.): están entrenados con ediciones con licencia de uso docente.

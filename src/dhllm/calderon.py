@@ -129,6 +129,14 @@ def load_plays(folder="data/calderon/tei", show=True) -> list[dict]:
     """Lee todas las obras TEI de una carpeta y muestra un resumen."""
     files = sorted(Path(folder).glob("*.xml"))
     plays = [parse_play(f) for f in files]
+    # títulos repetidos (auto y comedia, primera y segunda parte...): los distinguimos con el nombre del archivo
+    veces = collections.Counter(p["title"] for p in plays)
+    for p in plays:
+        if veces[p["title"]] > 1:
+            resto = re.sub(r"^calderon_", "", Path(p["file"]).stem)
+            resto = resto.replace(re.sub(r"[^a-z0-9]+", "-", _fold(p["title"])).strip("-"), "").strip("-_ ")
+            if resto:
+                p["title"] = f"{p['title']} ({resto.replace('-', ' ')})"
     if show:
         print(f"{len(plays)} obras cargadas de {folder}\n")
         for p in plays:
@@ -185,8 +193,11 @@ def _fold(s: str) -> str:
     return "".join(c for c in s if unicodedata.category(c) != "Mn")
 
 
+_STOP_F = {_fold(x) for x in STOP}
+
+
 def tokenize_es(text: str) -> list[str]:
-    return [w for w in re.findall(r"[a-zñ]+", _fold(text)) if w not in {_fold(x) for x in STOP} and len(w) > 1]
+    return [w for w in re.findall(r"[a-zñ]+", _fold(text)) if w not in _STOP_F and len(w) > 1]
 
 
 def play_card(play: dict) -> str:
@@ -247,6 +258,10 @@ class BM25Index:
         df = collections.Counter(w for d in self.docs for w in d)
         n = len(self.docs)
         self.idf = {w: math.log(1 + (n - c + 0.5) / (c + 0.5)) for w, c in df.items()}
+        self.postings = collections.defaultdict(list)  # palabra -> [(fragmento, frecuencia)]
+        for i, d in enumerate(self.docs):
+            for w, tf in d.items():
+                self.postings[w].append((i, tf))
         # Nombres para reconocer la obra en la pregunta: título completo, antes de la coma, 4 primeras palabras
         self.aliases = []
         for t in {f["obra"] for f in fragments}:
@@ -273,19 +288,12 @@ class BM25Index:
         if play and with_card:
             card = [dict(f, puntuacion="ficha") for f in self.fragments if f["obra"] == play and f["verso"] == "ficha"]
             k = max(1, k - len(card))
-        q = tokenize_es(query)
-        scores = []
-        for i, d in enumerate(self.docs):
-            if play and self.fragments[i]["obra"] != play:
-                continue
-            s = 0.0
-            for w in q:
-                if w in d:
-                    tf = d[w]
-                    s += self.idf[w] * tf * (self.k1 + 1) / (tf + self.k1 * (1 - self.b + self.b * self.lengths[i] / self.avg))
-            if s > 0:
-                scores.append((s, i))
-        scores.sort(reverse=True)
+        acc = collections.defaultdict(float)
+        for w in tokenize_es(query):  # solo miramos los fragmentos que contienen cada palabra
+            for i, tf in self.postings.get(w, ()):
+                acc[i] += self.idf[w] * tf * (self.k1 + 1) / (tf + self.k1 * (1 - self.b + self.b * self.lengths[i] / self.avg))
+        scores = sorted(((s, i) for i, s in acc.items() if s > 0 and (not play or self.fragments[i]["obra"] == play)),
+                        reverse=True)
         hits = [dict(self.fragments[i], puntuacion=round(s, 2)) for s, i in scores
                 if self.fragments[i]["verso"] != "ficha" or not card][:k]
         return card + hits

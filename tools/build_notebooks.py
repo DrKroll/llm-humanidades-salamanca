@@ -78,15 +78,17 @@ lo primero es siempre **mirar el corpus**: ¿cuánto texto hay?, ¿qué palabras
 
 Corpus de ejemplo:
 - la *Primera parte del Quijote* y el *Lazarillo de Tormes* (dominio público, Project Gutenberg, `.txt`),
-- **las 14 obras de Calderón del curso** en TEI-XML (`data/calderon/tei/`, ver `data/FUENTES.md`).
+- **teatro del Siglo de Oro: 688 obras de 26 autores** (Calderón, Lope de Vega, Mira de Amescua, Moreto, Rojas Zorrilla,
+  Tirso, Sor Juana, Cervantes...), sin duplicados: 166 obras de Calderón en TEI-XML (`data/calderon/tei/`) y el resto en
+  `data/teatro/<autor>/`. Lista completa con procedencia: `data/teatro_indice.csv`; fuentes: `data/FUENTES.md`.
   Del XML se extrae el texto plano: cada parlamento con el nombre del personaje delante y las acotaciones entre corchetes.
 
 Puedes usar tus propios textos `.txt` o `.xml` (TEI).
 """),
     code(SETUP_CODE),
-    md("## ⚙️ Ajustes\nCambia aquí las carpetas con tus textos (`.txt` o TEI `.xml`). `data/sample`: Quijote y Lazarillo; `data/calderon/tei`: las 14 obras de Calderón."),
+    md("## ⚙️ Ajustes\nCambia aquí las carpetas con tus textos (`.txt` o TEI `.xml`). `data/sample`: Quijote y Lazarillo; `data/calderon/tei`: Calderón (TEI); `data/teatro`: el resto del teatro áureo, por autor (p. ej. `data/teatro/lope-de-vega`)."),
     code("""
-CARPETAS = ["data/sample", "data/calderon/tei"]   # p. ej. ["data/mis_textos"]
+CARPETAS = ["data/sample", "data/calderon/tei", "data/teatro"]   # p. ej. ["data/mis_textos"]
 PALABRA_CLAVE = "Dulcinea"     # para buscar en contexto (KWIC)
 """),
     md("""
@@ -132,7 +134,7 @@ kwic(textos, PALABRA_CLAVE, width=45, max_results=8);
     md("""
 ## 5. ¿Cuánto texto necesita un modelo?
 Para comparar: GPT-3 se entrenó con unos 300 000 millones de tokens; los modelos actuales con más de
-10 billones. Nuestro corpus de ejemplo tiene ~2,5 millones de caracteres. Por eso nuestros modelos serán
+10 billones. Nuestro corpus de ejemplo tiene ~58 millones de caracteres (~10 millones de palabras). Por eso nuestros modelos serán
 **miniaturas**: aprenderán algo del estilo, pero no «sabrán» cosas.
 """),
     code("""
@@ -491,9 +493,9 @@ N07 = [
 | C | **SFT** (ajuste fino con LoRA) | Entrenas el modelo con ~2000 preguntas y respuestas generadas automáticamente a partir del TEI. |
 | D | **SFT + RAG** | El modelo ajustado recibe además los fragmentos encontrados. |
 
-**Corpus:** 14 obras en TEI-XML (8 comedias/dramas de EMOTHE/ARTELOPE, 3 autos sacramentales en CC0 y
-3 comedias en ediciones de Simon Kroll: *Los empeños de un acaso*, *Eco y Narciso* y *El secreto a voces*).
-Fuentes y licencias: `data/FUENTES.md`.
+**Corpus:** 166 obras de Calderón en TEI-XML (89 comedias y dramas, 77 autos sacramentales y loas), sin duplicados,
+de los corpus TEI de Simon Kroll (EMOTHE/ARTELOPE, DraCor, ediciones propias...). Fuentes: `data/FUENTES.md`.
+El entrenamiento usa una muestra de ~2000 preguntas de todas las obras, así que dura lo mismo que con pocas obras.
 
 ⏱️ **≈ 30 min** (martes 16:30–17:00). El entrenamiento en tu GPU T4 dura ≈ 4–7 min (como máximo 10: después se para solo).
 """),

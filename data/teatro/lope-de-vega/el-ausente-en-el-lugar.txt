@@ -1,0 +1,5141 @@
+# El ausente en el lugar
+Autor: Lope de Vega
+
+JORNADA 1
+
+[Salen Elisa y Laurencia, damas; Paula y Sabina, criadas, todas con mantos, de una iglesia, con dos escuderos delante]
+ELISA:
+    Mándeme vuesa merced,
+    que le quedo aficionada.
+LAURENCIA:
+    Yo a serviros obligada,
+    por muy vuestra me tened.
+ELISA:
+    De hoy más ser devota quiero
+    desta iglesia.
+LAURENCIA:
+    Guárdeos Dios,
+    que yo por veros a vos
+    me lo prometí primero.
+ELISA:
+    Bellas manos, por mi vida,
+    fuera de lo natural.
+    ¿Qué hacéis en ellas, si es tal
+    nuestra amistad que no impida,
+    que me deis aquestas muestras?
+LAURENCIA:
+    ¡Qué graciosas niñerías!
+    Creo que habláis en las mías
+    porque os alabe las vuestras,
+    que con más razón pudiera
+    preguntaros qué os ponéis.
+ELISA:
+    Es porque negar queréis
+    lo que os suplico.
+LAURENCIA:
+    Eso fuera
+    usar de término injusto
+    a la amistad profesada,
+    no suelo ponerme nada,
+    pero a veces tengo gusto
+    de ponerme, oíd aparte,
+    si le tenéis de sabello.
+[Las criadas aparte]
+PAULA:
+    Digo que me huelgo dello,
+    que vendré mañana a hablarte.
+SABINA:
+    No ha de faltar ocasión,
+    pues nuestras amas han hecho
+    amistad, de que a mi pecho
+    pagues tan justa afición.
+    Fuera desto no habrá fiesta
+    que no venga a misa aquí.
+    ¿Ha mucho que sirves?
+PAULA:
+    Sí.
+SABINA:
+    Y ¿qué casa, Paula, es esta?
+PAULA:
+    Muy honrada y principal.
+SABINA:
+    ¡Ay, madre!
+PAULA:
+    Pues si la hubiera,
+    a misa también viniera.
+SABINA:
+    ¿Tienes buen dueño?
+PAULA:
+    ¡Y qué tal!
+SABINA:
+    ¿Hay más hijos?
+PAULA:
+    Un mancebo
+    que es un retrato de Elisa,
+    mi señora.
+SABINA:
+    ¿Ha estado en misa?
+PAULA:
+    No, porque en él fuera nuevo
+    acompañar a su hermana.
+    Allá sigue un monasterio,
+    adonde cierto misterio
+    es deste león cuartana.
+SABINA:
+    ¿Es Elisa tan honesta
+    como parece?
+PAULA:
+    Sí, a fe.
+SABINA:
+    ¿No tiene algún no sé qué?
+PAULA:
+    Tú misma te das respuesta.
+    Un no sé qué la desvía
+    de la quietud de su estado,
+    pero con mucho cuidado
+    de su honor, por vida mía.
+SABINA:
+    ¿Quién duda que será gala
+    y amor para casamiento?
+PAULA:
+    En honesto casamiento
+    la más recogida iguala.
+SABINA:
+    ¿Tú a la cuenta no estarás
+    sin otro poco de amor?
+PAULA:
+    Sí tengo.
+SABINA:
+    ¿Y será el señor
+    su paje?
+PAULA:
+    En el blanco das.
+SABINA:
+    ¿Quieres recio?
+PAULA:
+    Estoy perdida.
+SABINA:
+    ¿Págate?
+PAULA:
+    Landre le dé,
+    que se va tras cuantas ve.
+    Mas, ya que sabes mi vida,
+    cómo no me dices algo
+    de lo que hay allá también.
+    ¿Tu señora quiere bien?
+SABINA:
+    Quiere bien a cierto hidalgo.
+PAULA:
+    Crïado tendrá.
+SABINA:
+    Y crïado
+    que se arremete a pariente.
+PAULA:
+    ¿Quiéresle apretadamente?
+SABINA:
+    Sí, pues nunca le he soltado.
+PAULA:
+    Yo nunca soy tan leal,
+    dellos aprendo mudanza.
+[Los escuderos aparte]
+ESCUDERO 1:
+    La sal al agua no alcanza.
+[ESCUDERO] 2:
+    Dicen que es el mayor mal
+    el servir a la vejez.
+[ESCUDERO] 1:
+    ¿Qué os dan, en fin, de ración?
+[ESCUDERO] 2:
+    Es vergüenza, cosas son
+    que no pasaran en Fez.
+[ESCUDERO] 1:
+    ¿Pan y dos reales?
+[ESCUDERO] 2:
+    Yo fuera
+    príncipe.
+[ESCUDERO] 1:
+    ¿Quitaré el medio?
+[ESCUDERO] 2:
+    Aun eso fuera remedio
+    de toda mi casa.
+[ESCUDERO] 1:
+    Hiciera
+    juramento que era gente
+    que os trataba como a padre.
+ESCUDERO 2:
+    Después que murió su madre
+    se vive míseramente.
+[ESCUDERO] 1:
+    A ninguno faltan duelos,
+    que si yo no me valiese
+    de otras cosas y anduviese
+    con mil penas y desvelos
+    buscando algún dinerillo,
+    muriera, no lo dudéis.
+[ESCUDERO] 2:
+    Pues ¿en qué os entretenéis?
+[ESCUDERO]:
+    No falta algún remendillo.
+[ESCUDERO] 1:
+    Por san Payo, maese Juan,
+    que si yo no me valiera
+    de otras cosas, que estuviera
+    como mis padres están.
+[ESCUDERO] 2:
+    ¿Sabéis vos algo también?
+[ESCUDERO] 1:
+    Sé una cosa.
+[ESCUDERO]:
+    ¿Y qué es la cosa?
+[ESCUDERO] 2:
+    Es un poco vergonzosa,
+    mas vame con ella bien.
+[ESCUDERO] 1:
+    ¿Curáis esquisitos males?
+[ESCUDERO] 2:
+    Peor.
+[ESCUDERO] 1:
+    ¿Lleváis recaditos?
+[ESCUDERO] 2:
+    Esos no fueran delitos.
+[ESCUDERO] 1:
+    Suele esto valer reales.
+[ESCUDERO] 2:
+    Y entra al nombre de escudero
+    por la puerta de la hambre.
+[ESCUDERO ] 1:
+    ¿Quedo hacéis medias de estambre?
+[ESCUDERO] 2:
+    Ahora bien decirlo quiero.
+    Pero hablando con perdón
+    sabed que yo soy poeta.
+[ESCUDERO] 1:
+    ¿Poeta?
+[ESCUDERO] 2:
+    Tan mala seta
+    que os puede dar compasión.
+[ESCUDERO] 1:
+    ¿Deso lloráis?
+[ESCUDERO] 2:
+    ¿No queréis
+    que lo sienta?
+[ESCUDERO] 1:
+    No, por Dios,
+    que conozco más de dos.
+[ESCUDERO ] 2:
+    ¿Más de dos?
+[ESCUDERO ] 1:
+    Y aun más de seis,
+    que se holgaran de sabello.
+    Vos no estáis examinado.
+[ESCUDERO] 2:
+    Eso es ello, mal pecado.
+[ESCUDERO] 1:
+    Pues ¿qué, castigan por ello?
+[ESCUDERO] 2:
+    Nuestras amas se van ya,
+    veámonos y os diré
+    lindas cosas.
+[ESCUDERO] 1:
+    Allá iré.
+[ESCUDERO] 2:
+    Yo os iré a buscar allá.
+[ESCUDERO] 1:
+    No, no, por Dios que he de ir
+    para veros componer.
+    ¿A qué hora suele ser?
+[ESCUDERO] 2:
+    A todas podéis venir.
+[ESCUDERO] 1:
+    ¿Ello untaisos antes?
+[ESCUDERO] 2:
+    No.
+[ESCUDERO] 1:
+    Pues ¿cómo os apercebís?
+[ESCUDERO] 2:
+    Vos lo veréis si venís.
+[ESCUDERO] 1:
+    ¿Y podré aprenderlo yo?
+[ESCUDERO] 2:
+    A la fe, si vos queréis,
+    que en menos de un año os haga
+    poeta con tanta llaga.
+[ESCUDERO] 1:
+    Pierna de pobre me hacéis.
+    Mas quedaos con Dios, Marquina,
+    que se han despedido ya.
+LAURENCIA:
+    Por esa receta irá
+    después de comer Sabina.
+    Y Dios os guarde mil años.
+ELISA:
+    A Dios, señora Laurencia.
+LAURENCIA:
+    Sentir tengo vuestra ausencia.
+ELISA:
+    ¡Ea, por mi vida, engaños!
+LAURENCIA:
+    Engaños, guárdeme Dios.
+SABINA:
+    Paula, adiós.
+PAULA:
+    Adiós, Sabina.
+ELISA:
+    Dadme la mano, Marquina.
+[ESCUDERO] 2:
+    ¿Qué habéis hablado las dos,
+    que así os habéis detenido?
+ELISA:
+    Cosas de mujeres son.
+[Salen Feliciano, caballero, y Fisberto, criado]
+FISBERTO:
+    ¿Llegaste a buena ocasión?
+FELICIANO:
+    No poca ventura ha sido.
+    Detente un poco, Laurencia,
+    así Dios te haga dichosa
+    como gallarda y hermosa.
+LAURENCIA:
+    ¡Qué graciosa impertinencia!
+    Podísteme ver aquí
+    todo el día y, cuando vienes
+    de tu gusto, me detienes.
+FELICIANO:
+    Agora, por Dios, salí,
+    que me ha detenido en casa
+    persona de obligación.
+    ¿Quién son estas damas?
+LAURENCIA:
+    Son…
+FELICIANO:
+    Di presto.
+LAURENCIA:
+    Gente que pasa.
+FELICIANO:
+    Con ellas sé que has estado,
+    contado me lo ha Fisberto.
+LAURENCIA:
+    Gente principal, por cierto,
+    no hay de qué tengas cuidado.
+FELICIANO:
+    Díceme que por tres horas
+    no habéis dejado de hablar,
+    y no suele ese lugar
+    darle a las que son señoras.
+LAURENCIA:
+    ¿Qué quieres? Somos mujeres,
+    presto amistad confirmamos
+    y las vidas nos contamos.
+FELICIANO:
+    Fácil en tus cosas eres,
+    dirías nuestros amores.
+LAURENCIA:
+    Huélgome de hablar en ti.
+FELICIANO:
+    ¿Y ella qué te dijo a ti?
+LAURENCIA:
+    Otras historias mayores.
+    Prometila al despedirme
+    que te enviaría allá,
+    que quiere verte.
+FELICIANO:
+    ¿Y podrá
+    de visita recibirme?
+LAURENCIA:
+    Irás con un papel mío
+    fingiéndote mi crïado.
+FISBERTO:
+    Y ella, diga, ¿cómo ha estado?
+SABINA:
+    Hábleme con menos brío,
+    que estoy un poco celosa.
+LAURENCIA:
+    No me puedo detener.
+FELICIANO:
+    En fin ¿la tengo de ver?
+LAURENCIA:
+    Verás una dama hermosa.
+FELICIANO:
+    Guárdete, señora, el cielo.
+FISBERTO:
+    Adiós, reina.
+SABINA:
+    Estoy sin gusto.
+[Vanse Laurencia, Sabina y el escudero]
+FELICIANO:
+    ¡Gallardo talle!
+FISBERTO:
+    Es al justo
+    de un ángel cifra y modelo.
+FELICIANO:
+    Merece, Fisberto, amor,
+    y este amar en esperanza
+    mientras el bien no se alcanza
+    hace la causa mayor.
+    ¡Qué bien pisa, qué bien lleva
+    el cuerpo!
+FISBERTO:
+    ¡Gentil donaire!
+    Toda la mujer es aire,
+    no es mucho que bien se mueva.
+FELICIANO:
+    Una gallarda mujer
+    que pisa con aire y brío
+    es como ver un navío
+    que lleva viento a placer.
+    Son los chapines la quilla,
+    las sayas las obras muertas,
+    con las jarcias que cubiertas
+    salen de la verde orilla.
+    El pecho es árbol; los brazos,
+    mesana; la gavia, el cuello;
+    velas, tocas; y cabello,
+    del viento prisión y lazos.
+    Y como llevando viento
+    parte con gala y donaire,
+    y no puede andar sin aire,
+    que el aire es su movimiento,
+    ansí la mujer sin él
+    es como un navío en calma,
+    porque en la mujer es alma
+    el aire, y se mueve en él.
+FISBERTO:
+    Harto bien la comparaste,
+    bien sabes su calidad,
+    mas conforme a su humidad
+    en las aguas la fundaste.
+    Por lo que toca a mudanza,
+    y a inquietud, le viene bien,
+    por el navegar también,
+    no poca parte le alcanza.
+    Que es navío la mujer
+    con quien en Indias se trata,
+    que oro, piedras, perlas, plata,
+    suele cargar y traer.
+    Ninguna cosa sin alma
+    tanto imita al cuerpo humano,
+    habla, anda, duerme, es liviano,
+    ya corre, ya vive en calma.
+    Ya tiene el tiempo en bonanza,
+    ya con la tormenta incierto,
+    y hasta llegar a su puerto
+    le animan fe y esperanza.
+FELICIANO:
+    De las burlas te has pasado
+    a lo moral.
+FISBERTO:
+    Es verdad,
+    tal vez de una liviandad
+    se sigue un mote pesado.
+[Entran Carlos, caballero, y Esteban, lacayo]
+CARLOS:
+    ¿Qué te dijo?
+ESTEBAN:
+    Que se iba
+    su padre a la quinta luego.
+CARLOS:
+    Pues cese del alma el fuego,
+    que de su quietud la priva.
+    Cobren su perdida fuerza
+    mis sentidos, pues verán
+    si agora lugar las dan
+    la gloria que los esfuerza.
+ESTEBAN:
+    Bien te puedes prevenir,
+    Carlos, a un grande favor.
+CARLOS:
+    Bien me lo debe el amor,
+    por tanto amar y sufrir.
+FELICIANO:
+    ¿Quién es éste?
+FISBERTO:
+    Un caballero
+    destos a quien dio Fortuna
+    sangre y sustancia ninguna:
+    es noble entre carne y cuero.
+FELICIANO:
+    Mísera cosa y bajeza
+    del alma, aunque honor le sobre,
+    vivir en cuerpo tan pobre.
+FISBERTO:
+    Si la virtud es riqueza,
+    sólo es rico el que la tiene.
+FELICIANO:
+    Todos lo dicen ansí
+    cuando son pobres, y a mí
+    como de perlas me viene.
+    Pero alaban la virtud
+    que es blasón de la nobleza
+    y procuran la riqueza
+    con toda solicitud.
+FISBERTO:
+    Este mancebo es galán
+    aunque ser pobre se suena;
+    porta cintillo y cadena,
+    viste raso y gorguerán.
+    Y, tal vez, a la bayeta
+    remite la mejor gala.
+FELICIANO:
+    ¿Piensas, Fisberto, que es mala?
+FISBERTO:
+    No, que es de los pobres treta.
+    ¡Oh, bien haya su inventor,
+    que hizo honrados y galanes,
+    a pesar de gorgueranes
+    y de la seda mejor!
+FELICIANO:
+    ¿Si diera título acaso,
+    atributo o epiteto,
+    un poeta en un soneto,
+    destos que pica el Parnaso,
+    a la señora bayeta,
+    cómo te parece a ti
+    que la llamara?
+FISBERTO:
+    Si a mí
+    me recibiera esa seta,
+    muy ilustre la llamara.
+FELICIANO:
+    ¿Por qué razón muy ilustre?
+FISBERTO:
+    Por la gala, por el lustre
+    y por ser cosa tan rara.
+FELICIANO:
+    ¿Rara?
+FISBERTO:
+    Sí, porque el valor
+    de un hombre es no depender
+    de nadie, ni tener ser
+    de otro igual ni otro mayor.
+    Y esto hace la bayeta,
+    que no admite compostura,
+    cuchillada, aprensadura,
+    ni está a guarnición sujeta.
+    Ella se está guarnecida,
+    ella tiene sus labores,
+    y ansí es de grandes señores
+    venerada y admitida.
+FELICIANO:
+    Demos vuelta a las ventanas
+    de Laurencia, que yo sé
+    que este galán todo es fe,
+    y que tardes y mañanas,
+    con bayeta o sin bayeta,
+    no sale de nuestra calle.
+FISBERTO:
+    ¿Date cuidado su talle
+    o el ser su gala discreta?
+FELICIANO:
+    En conquista de casar,
+    nunca temas hombre pobre.
+FISBERTO:
+    Cuando entendimiento sobre,
+    se ha de temer y aun temblar.
+FELICIANO:
+    ¿Quieres tú que piense yo
+    que sirve a Laurencia?
+FISBERTO:
+    Sí.
+FELICIANO:
+    Pues no nos vamos de aquí.
+FISBERTO:
+    Aquel «sí» convierte en «no»,
+    que en aquellas rejas mira
+    muy diferente lugar.
+FELICIANO:
+    Sígueme.
+[Váyanse]
+CARLOS:
+    Quiero esperar
+    aquí; Esteban, te retira
+    hasta ver si Aurelio sale;
+    mas ¿quién es aquel mancebo?
+ESTEBAN:
+    A decirte no me atrevo
+    lo que busca y lo que vale,
+    por no darte pesadumbre.
+CARLOS:
+    Lo que vale bien lo veo,
+    lo que busca su deseo
+    lleva delante una lumbre
+    que lo dice a cuantos viven
+    en la calle donde estamos.
+ESTEBAN:
+    Si mil veces la pasamos,
+    tantas los dos nos reciben.
+    Es este mozo un hidalgo,
+    perdóneme Dios si miento,
+    compuesto de nada y viento,
+    agora sabrás si es algo.
+    Diole ejecutoria el oro;
+    de galán, de cuatro abuelos
+    y de ingenio, que los cielos
+    dan por divino tesoro.
+    No hay trencelín de diamantes
+    que se acabe en otro nombre,
+    ni tiene la corte un hombre
+    cuyos coletos y guantes
+    espiren olor igual,
+    porque andan en competencia
+    los jazmines de Valencia
+    y el ámbar de Portugal.
+    Las cadenas han perdido
+    invención y esmalte en él;
+    y de noche no hay vergel
+    como su galán vestido.
+    Tiene como iglesia ternos
+    de todas festividades,
+    con bravas curiosidades
+    y pensamientos modernos.
+    Tiene gala de desdén,
+    de celos y de favor,
+    de esperanza, de temor,
+    y de posesión también.
+    No hay almendro por hebrero
+    que no se rinda a sus plumas,
+    invidia el mar con espumas
+    la margen de su sombrero,
+    y sobre todo le viste
+    el alma tanta arrogancia,
+    que no hay mujer de importancia
+    que no pretenda y conquiste.
+    No le falta entendimiento
+    desto que llamar solía
+    un discreto argentería
+    que brilla y que luce al viento.
+    No sé lo que quiere aquí,
+    porque esta calle es el centro
+    de Venus y viven dentro
+    muchas diosas.
+CARLOS:
+    ¡Ay de mí!
+    ¿Quién duda que esa fantasma
+    compuesta como quimera
+    a mi Elisa adore y quiera?
+ESTEBAN:
+    Aquí se alfenica y pasma.
+    Aquí pica, y aquí tiende
+    la discreta arquitectura
+    de su endiosada figura.
+CARLOS:
+    ¿Sabes tú si la pretende?
+ESTEBAN:
+    No puedo certificallo,
+    la calle el testigo sea,
+    tal vez a pie la pasea,
+    tal vez la pasa a caballo.
+    Trae consigo un bellacón,
+    entre valiente y gigante,
+    que no hay cosa que no espante.
+CARLOS:
+    Los celos gigantes son.
+    ¿Cómo se llama?
+ESTEBAN:
+    Fisberto.
+CARLOS:
+    ¿Qué damas viven aquí?
+ESTEBAN:
+    Algunas conozco y vi,
+    de la que es estoy incierto.
+    Allí vive una vïuda,
+    de ojos por envïudar,
+    que es lindo censo al quitar,
+    puede ser que a verla acuda.
+    Enfrente está una doncella,
+    rubia como un alemán,
+    que no hay oro de Milán
+    que se compare con ella.
+    A tres casas la casada
+    menos casada que vi.
+CARLOS:
+    ¿Hay duende?
+ESTEBAN:
+    Pienso que sí,
+    pero es mudable, aunque honrada.
+CARLOS:
+    ¿No se estima?
+ESTEBAN:
+    Sí se estima,
+    mas hay amor de mujer,
+    cuyo trato viene a ser
+    como el juego de la esgrima,
+    que cuando picados ves
+    algunos mozos de cuenta,
+    para entrar donde uno asienta
+    están aguardando tres.
+CARLOS:
+    Esa no es estimación
+    de este hidalgo.
+ESTEBAN:
+    En esa acera
+    hay una imagen de cera,
+    como los milagros son.
+CARLOS:
+    ¿Es descolorida?
+ESTEBAN:
+    Sí.
+CARLOS:
+    Linda hermosura si viene
+    con ojos negros.
+ESTEBAN:
+    No tiene
+    más negro algún borceguí.
+CARLOS:
+    ¿Hay dote?
+ESTEBAN:
+    Seis mil ducados,
+    tras ella vive Laurencia,
+    mujer de linda presencia,
+    padres y hermanos honrados.
+CARLOS:
+    Retírate, que han salido
+    Aurelio y su hijo.
+ESTEBAN:
+    Van
+    a la quinta.
+CARLOS:
+    ¡Qué galán!
+ESTEBAN:
+    Es para el campo el vestido.
+[Sale Aurelio, viejo, y Octavio, su hijo]
+AURELIO:
+    ¿No quiso venir Elisa?
+OCTAVIO:
+    No, señor, que no anda buena.
+AURELIO:
+    ¿Tiene a caso alguna pena?
+OCTAVIO:
+    Antes con alegre risa
+    a todo me respondió.
+AURELIO:
+    Pues avisa los crïados.
+OCTAVIO:
+    Ya están todos avisados.
+CARLOS:
+    ¿Hame visto a caso?
+ESTEBAN:
+    No.
+CARLOS:
+    Pues vamos adonde vea
+    el dueño de aquestos ojos
+    la gloria de mis enojos
+    y el bien que el alma desea.
+ESTEBAN:
+    Hasta que todos se partan
+    no es razón.
+CARLOS:
+    Ven por aquí.
+[Vanse los dos]
+AURELIO:
+    Deste lugar y aun de mí
+    justos cuidados me apartan.
+    Aléjome, Octavio, dél,
+    solo para descansar.
+OCTAVIO:
+    ¿No es tu casa en el lugar
+    de las buenas que hay en él?
+    Yo pensé que el alegría
+    del campo te lleva allá.
+AURELIO:
+    Cuidado Elisa me da,
+    pensar en su bien querría.
+OCTAVIO:
+    ¿Pues, Elisa virtüosa
+    qué cuidado puede darte?
+AURELIO:
+    Tengo mucho que contarte.
+OCTAVIO:
+    Moza por casar y hermosa,
+    tendrá algunos pretendientes.
+AURELIO:
+    Haber mi hacienda perdido
+    en Cádiz la causa ha sido
+    destos locos acidentes.
+    Ella estuviera casada.
+OCTAVIO:
+    ¿Has sentido de su parte
+    cosa que pueda enojarte?
+AURELIO:
+    No, Octavio, que aún ciño espada.
+OCTAVIO:
+    Algo has visto, pues que tratas
+    de Elisa con pesadumbre.
+AURELIO:
+    Es de aquestos ojos lumbre.
+OCTAVIO:
+    ¿De quién, señor, te recatas?
+    Despide a quien da ocasión.
+AURELIO:
+    Ninguno ocasión me ha dado.
+OCTAVIO:
+    Hanle dado algún recado
+    de casa o de fuera son.
+AURELIO:
+    No es más de ver en su edad
+    que importa darle marido.
+OCTAVIO:
+    Algo has visto o has oído
+    que ofenda su honestidad.
+AURELIO:
+    Elisa tiene valor,
+    aunque ya vive sin madre,
+    para asegurar a un padre,
+    que le tuviera mayor.
+    No es más de que honestamente
+    se mostrará agradecida
+    a algún amor.
+OCTAVIO:
+    Por mi vida,
+    que lo pintas cuerdamente.
+    ¿Qué llamas agradecer?
+AURELIO:
+    Mirar con honesto fin
+    de que puede ser, en fin,
+    de quien la mira mujer.
+    Mas, si te digo verdad,
+    el hombre no me contenta.
+OCTAVIO:
+    Si el decírmelo te ausenta
+    del pueblo a la soledad,
+    ya que me lo has declarado,
+    a casa puedes volver.
+AURELIO:
+    ¿Qué causa podré tener?
+OCTAVIO:
+    Di que la gota te ha dado.
+AURELIO:
+    Hame dado todo un mar
+    ¿y una gota he de decir?
+OCTAVIO:
+    Mucho tienes que sentir,
+    y me has dado qué pensar.
+    Y viene mal a mi intento,
+    si no ha sido prevención
+    de tu cuerda discreción,
+    tratarme su casamiento.
+AURELIO:
+    ¿Cómo?
+OCTAVIO:
+    Porque yo querría
+    tratarte de otro.
+AURELIO:
+    ¿De quién?
+OCTAVIO:
+    Mío.
+AURELIO:
+    ¿Cásaste también?
+OCTAVIO:
+    ¿No puede ser?
+AURELIO:
+    Bien podría.
+    ¿Guíate virtud o amor?
+OCTAVIO:
+    Entrambas cosas.
+AURELIO:
+    ¿Quién es?
+OCTAVIO:
+    Algunas veces la ves.
+AURELIO:
+    ¿Es Laurencia?
+OCTAVIO:
+    Sí, señor.
+AURELIO:
+    No escoges mal, ansí fuera
+    la eleción de Elisa. Vamos,
+    pues sin campo en campo entramos,
+    de una batalla tan fiera.
+OCTAVIO:
+    ¿Es a Elisa desigual
+    ese mancebo que mira?
+AURELIO:
+    El ser pobre me retira,
+    que en lo demás es su igual,
+    y casamiento nacido
+    por gusto de una mujer
+    de milagro suele ser
+    acertado.
+OCTAVIO:
+    Estoy corrido.
+AURELIO:
+    Remedio habrá.
+OCTAVIO:
+    Cuerdo eres.
+AURELIO:
+    Hoy veré con esperiencia
+    si puede más la obediencia
+    que el amor en las mujeres.
+[Éntrense, y salgan Elisa, Carlos, Paula y Esteban]
+CARLOS:
+    Apenas pude esperar
+    que de la villa saliese.
+ELISA:
+    Ya estaba para espirar,
+    no hay nave que padeciese
+    tanta tormenta en el mar.
+    Pero advierte, Carlos mío,
+    que no es bien que a desvarío
+    juzgues esta libertad,
+    si miras mi voluntad
+    como de tu amor confío.
+CARLOS:
+    ¿Libertad te ha parecido
+    que pueda en tu casa entrar
+    quien ha de ser tu marido?
+ELISA:
+    El tiempo suele mudar
+    grande amor en grande olvido.
+CARLOS:
+    No hay cosa fuera de ser
+    mudable tu parecer
+    porque yo pueda mudarme,
+    mudarme para casarme,
+    que no mudarme en querer.
+ELISA:
+    Pues yo te juro, mi bien,
+    que el tiempo, ni la fortuna
+    y entre la muerte también,
+    derriben esta coluna
+    por más golpes que le den.
+    Porque son temores vanos
+    la muerte, ni mil tiranos,
+    a quien te ha de amar después.
+CARLOS:
+    Pedirte quiero los pies.
+ELISA:
+    Agraviáranse las manos.
+CARLOS:
+    Esas tantas veces beso
+    cuantas en esas razones
+    hay letras, y te confieso
+    que de mis obligaciones
+    ya se rinde el alma al peso.
+    ¡Ay, Elisa, que ni ausencia,
+    ni muerte, harán competencia
+    a tu amor!
+ELISA:
+    Sola una cosa
+    en el mundo es poderosa:
+    de mi padre la obediencia.
+CARLOS:
+    ¿Tu padre puede mandarte
+    que me olvides?
+ELISA:
+    No podrá,
+    Carlos, mandarme olvidarte,
+    que en lo que en el alma está
+    solo el cielo tiene parte.
+    Pero podrame mandar
+    que no me case contigo.
+CARLOS:
+    ¡Gentil manera de amar!
+ELISA:
+    Cuanto es de mi parte obligo,
+    no tengo más que te dar.
+    Estos ojos tuyos son,
+    estas manos y este pecho,
+    a cualquiera posesión
+    del alma tienes derecho,
+    que mi amor te ha dado ación.
+    Pero, en llegando a que diga
+    mi padre «de otro has de ser»,
+    vana fue nuestra fatiga,
+    por fuerza me has de perder,
+    como quien lo ajeno obliga.
+CARLOS:
+    No querrá el cielo, señora,
+    que llegue tan fuerte día
+    por el alma que te adora.
+ESTEBAN:
+    ¿De qué es la melancolía?
+PAULA:
+    ¿Quién le mete en eso agora?
+ESTEBAN:
+    ¿No me puedo yo meter?
+PAULA:
+    Ni él, ni su ánima.
+ESTEBAN:
+    Advierta
+    que me suelen responder
+    con respequeto.
+PAULA:
+    Estoy cierta
+    que en su vida me ha de ver.
+ESTEBAN:
+    ¿Son celazos?
+PAULA:
+    Ni aun celitos.
+ESTEBAN:
+    ¿Quién la ha dicho mis delitos?
+PAULA:
+    ¿Esa cinta del sombrero,
+    le parece al majadero,
+    que no son mil sobrescritos?
+ESTEBAN:
+    Paula, por ver tu crueldad
+    encarnada la compré.
+PAULA:
+    ¿Eso es cierto?
+ESTEBAN:
+    Esto es verdad.
+PAULA:
+    Pues démela.
+ESTEBAN:
+    Sí daré,
+    como hagamos amistad.
+PAULA:
+    No es poderosa el ausencia
+    ni la muerte a no quererte.
+    Sólo te hará competencia
+    una cosa.
+ESTEBAN:
+    Eso me advierte.
+PAULA:
+    De mi padre la obediencia.
+ESTEBAN:
+    ¿Padre tienes tú también?
+PAULA:
+    Jure que me quiere bien.
+ESTEBAN:
+    Ponme, Paula, en el verano
+    al pie de un peral enano,
+    cuyas ramas sombra den,
+    con una bota que sea
+    de Illana y un pernil tierno,
+    con hebras de taracea,
+    o ponme a una chiminea
+    en el rigor del invierno
+    con una ollaza podrida
+    y, si de ti me olvidare,
+    si no me duermo, esta vida
+    después de mi muerte pare
+    donde tú fueres servida.
+[Sale Marquina, que es Escudero]
+MARQUINA:
+    Un crïado de Laurencia
+    pide licencia. ¿Entrará?
+ELISA:
+    ¡Jesús, qué poca advertencia!
+CARLOS:
+    ¿Dónde está?
+MARQUINA:
+    En la sala está.
+ELISA:
+    ¿Quieres que le dé licencia?
+CARLOS:
+    ¿Quién es Laurencia?
+ELISA:
+    Una dama
+    con quien hoy he estado en misa.
+CARLOS:
+    Toma el recado.
+ELISA:
+    Antes llama
+    el paje; y tú, amigo, a prisa
+    ponte detrás desta cama,
+    que será descortesía
+    cuando a visitarme envía
+    que el paje no pueda entrar.
+CARLOS:
+    Y ¿Esteban dónde ha de estar?
+ELISA:
+    Contigo.
+CARLOS:
+    Adiós, prenda mía.
+[Escóndense, y entra Feliciano y Fisberto]
+FELICIANO:
+    Dadme esas manos.
+ELISA:
+    ¿Quién es?
+FELICIANO:
+    Un hombre en quien hoy hablastes.
+ELISA:
+    ¿Qué es aquesto?
+FELICIANO:
+    Lo que ves.
+ELISA:
+    ¿Por paje, señor, entrastes?
+FELICIANO:
+    Y lo soy a vuestros pies.
+    ¿No quedó ansí concertado,
+    que yo os trujese un recado?
+ELISA:
+    Es verdad.
+FELICIANO:
+    Pues paje soy
+    y si el recado no os doy
+    es porque me habéis turbado.
+ELISA:
+    Si el veros para saber
+    que está Laurencia empleada
+    como principal mujer
+    en persona tan honrada
+    y de tan buen parecer
+    fue el recado del concierto,
+    que le recibo os advierto,
+    y a Laurencia responded,
+    que me ha hecho gran merced.
+FELICIANO:
+    ¿Parézcoos bien?
+ELISA:
+    Sí, por cierto.
+FELICIANO:
+    Miradme de espacio.
+ELISA:
+    Aquí
+    no tenéis que me agradar,
+    allá le diréis que os vi
+    y que le quiero enviar
+    otro que me agrada a mí,
+    que pues se me ha descubierto
+    hasta enseñarme a quien ama,
+    no es bien que tenga encubierto
+    lo que yo adoro a esa dama.
+FELICIANO:
+    Como de un sueño despierto,
+    no he visto mayor belleza.
+FISBERTO:
+    ¿Nunca habías visto a Elisa?
+FELICIANO:
+    Nunca vi su gentileza.
+FISBERTO:
+    No es de las que hizo a prisa
+    la varia naturaleza.
+    Aquí detuvo el pincel,
+    hizo, deshizo, quitó,
+    todo el arte puso en él.
+FELICIANO:
+    ¡Qué otro quiere!
+FISBERTO:
+    ¿Por qué no,
+    si se ha de casar con él?
+FELICIANO:
+    Confieso que es liviandad,
+    pero por Dios que me agrada
+    su talle y su honestidad.
+ELISA:
+    Inquieta estoy y turbada,
+    señor, desta novedad,
+    que no entran hombres aquí,
+    id con Dios.
+FELICIANO:
+    No sé, por Dios,
+    cómo he de salir.
+ELISA:
+    Yo sí.
+    Muéstrales, Paula, a los dos
+    la puerta.
+PAULA:
+    Venid tras mí.
+FELICIANO:
+    Teneos, no tan aprisa.
+PAULA:
+    Quiero enseñaros la puerta.
+FELICIANO:
+    Antes para entrar a Elisa
+    la quisiera ver abierta.
+PAULA:
+    ¿Requiebros? Cosa de risa.
+ELISA:
+    Ea, señor, salid luego.
+FELICIANO:
+    Que me permitáis os ruego
+    ver un momento esta casa.
+FISBERTO:
+    Señor.
+FELICIANO:
+    La mujer me abrasa.
+FISBERTO:
+    ¡Linda estopa!
+FELICIANO:
+    ¡Inmenso fuego!
+    Entretén esa crïada.
+FISBERTO:
+    ¿Quiere oír tres mil razones,
+    diga, señora entonada?
+PAULA:
+    ¡Oh, qué lindos gigantones!
+FELICIANO:
+    ¿Por qué, mi bien, tan airada?
+ELISA:
+    Mirad que es descortesía,
+    Marquina.
+MARQUINA:
+    Señora mía.
+ELISA:
+    ¿Qué me habéis traído aquí?
+MARQUINA:
+    ¿No hablaste a Laurencia?
+ELISA:
+    Sí.
+MARQUINA:
+    Pues de su parte venía.
+    Caballero, no es razón
+    que procedáis deste modo.
+FELICIANO:
+    Padre, efetos de amor son,
+    a buen fin camina todo.
+ELISA:
+    ¿Hay tan notable ocasión?
+MARQUINA:
+    De amor no me maravillo,
+    mas de que queráis decillo
+    por fuerza… Salios, que es tarde.
+FELICIANO:
+    No quiero.
+MARQUINA:
+    ¿No? Pues aguarde.
+FELICIANO:
+    ¿Qué traeréis?
+MARQUINA:
+    La del perrillo.
+[Entren Aurelio y Octavio]
+AURELIO:
+    ¿Tan ocupada estás que no respondes,
+    ni tú ni los crïados desta casa?
+    ¿Qué es esto?
+FELICIANO:
+    Vive Dios, que soy perdido.
+OCTAVIO:
+    ¿Hombre en tus aposentos?
+AURELIO:
+    Hombre y hombres,
+    pero detén la espada.
+OCTAVIO:
+    ¿Eso me mandas?
+AURELIO:
+    Espera hasta saber a qué te obligan.
+    ¿Qué hacéis aquí?
+FELICIANO:
+    Señor, quise… y llegando,
+    cuando…, no sé…, mas yo...
+[Túrbase.]
+OCTAVIO:
+    ¿Qué aguardas?
+AURELIO:
+    Tente,
+    que no todas las veces se remedia
+    la honra con la espada.
+ELISA:
+    ¿Hay tal desdicha?
+AURELIO:
+    No en vano a la cordura y a la furia,
+    pintaron un mancebo y un anciano,
+    el mozo con las manos pretendiendo
+    arrancar una cola de un caballo
+    jamás pudo y cayó rendido en tierra.
+    El viejo cerda a cerda, poco a poco,
+    la vino a deshacer.
+OCTAVIO:
+    Pues ¿qué pretendes
+    en tanta desventura sin la espada?
+AURELIO:
+    ¿Quién sois, hidalgo?
+FELICIANO:
+    Soy un caballero.
+AURELIO:
+    ¿El nombre?
+FELICIANO:
+    Feliciano.
+AURELIO:
+    ¿Vuestro padre?
+FELICIANO:
+    Lisandro.
+AURELIO:
+    Conocile. ¿Sois casado?
+FELICIANO:
+    No soy casado.
+OCTAVIO:
+    ¿Qué preguntas?
+AURELIO:
+    Calla,
+    que voy sacando cerdas a la afrenta.
+OCTAVIO:
+    Si está en forma de bestia, no me espanta.
+AURELIO:
+    ¿Sabéis, a caso, que esta casa es mía?
+FELICIANO:
+    A no saber que es vuestra aquesta casa,
+    no hubiera puesto yo los pies en ella.
+AURELIO:
+    Pasaos allí.
+FELICIANO:
+    (Yo pierdo aquí la vida.)
+AURELIO:
+    Di, Elisa, que mejor dijera Elicia,
+    quién es este mancebo.
+ELISA:
+    El que él ha dicho.
+AURELIO:
+    ¿Cómo entró aquí?
+ELISA:
+    Con un recado falso
+    de Laurencia, su dama.
+OCTAVIO:
+    Vive el cielo,
+    que es este el mismo que Laurencia adora
+    y por quien soy aborrecido. Padre,
+    si no casáis a Elisa y Feliciano,
+    no tengo honor.
+AURELIO:
+    Detente, que estás loco.
+    Elisa, que haya entrado honestamente
+    este mancebo, aquí no lo tratemos,
+    que de tus pensamientos yo lo creo.
+    Soy padre, tengo un hijo que a mi crédito
+    sucederá mañana, no repliques
+    a cuanto vieres que mi honor emprende.
+ELISA:
+    Si yo fui desdichada, si mi estrella
+    me puso en ocasión de tantos daños,
+    el tiempo te dirá qué culpa tengo.
+AURELIO:
+    Caballero, yo os hallo en esta casa
+    y en el mismo aposento de mi hija,
+    no os hago fuerza, porque no era justo
+    por hallaros aquí casaros luego.
+    ¿Queréis ser su marido?
+FELICIANO:
+    (¿Qué diremos?
+FISBERTO:
+    Yo pienso que te engañan, que si dices
+    que no quieres casarte, han de matarte;
+    si quieres defenderte, mete mano,
+    quizá saldremos, aunque no haya puerta.
+FELICIANO:
+    Quién duda que estarán todas cerradas.
+FISBERTO:
+    Pues di que sí, que habrá después remedio
+    si esto no fuere cosa de tu gusto).
+FELICIANO:
+    Señor, yo gano tanto en ser esclavo,
+    que no esposo, de Elisa, vuestra hija,
+    que alabo la piedad del justo cielo,
+    que os trujo en ocasión que aquí me hallásedes,
+    aunque os prometo que es la vez primera.
+AURELIO:
+    Pues porque no penséis que me aprovecho
+    de la ocasión agora, id en buen hora,
+    y pensadlo de espacio en vuestra casa,
+    que puesto que soy pobre, rico he sido
+    y no es mi hacienda, no, tan limitada
+    que no os importe, aunque el valor de Elisa
+    hace muchas ventajas a su dote.
+FELICIANO:
+    Porque veáis con cuánto honor procedo
+    en vuestra estimación, venid conmigo,
+    y haremos los conciertos y escrituras.
+AURELIO:
+    Mis brazos quiero daros.
+FELICIANO:
+    Yo los míos.
+AURELIO:
+    Vamos en casa de mi hermano.
+FELICIANO:
+    Vamos.
+FISBERTO:
+    ¿Que te casaste?
+FELICIANO:
+    Sí.
+FISBERTO:
+    ¿Qué hará Laurencia?
+FELICIANO:
+    Lo que hice yo.
+FISBERTO:
+    ¿Qué fue?
+FELICIANO:
+    Tener paciencia.
+[Váyanse todos, queden Elisa y Paula, y salgan Carlos y Esteban]
+CARLOS:
+    Si se tardan un momento,
+    fiera Elisa, más ingrata
+    que a las manos que la siembran,
+    la verde y soberbia palma,
+    sospecho que como mina
+    por la boca reventara
+    el alquitrán que en el pecho
+    me estaba abrasando el alma.
+    Cuando vi que Feliciano
+    te hablaba, te enamoraba,
+    mil veces para salir
+    puse la mano a la espada.
+    Pero viendo que tu honor,
+    el de tu padre y tu casa,
+    se pusiera al blanco vil
+    del vulgo que errando enclava,
+    detuve mi justo enojo.
+    ¡Qué mal hice!, pues fue causa
+    que Aurelio y Octavio entrasen,
+    hija, de uno; y de otro, hermana,
+    donde por cobrar su honor
+    bajaron mis esperanzas
+    del cielo de tus favores,
+    al infierno de mis ansias.
+    Cuántas veces presumí,
+    que lo que vía soñaba
+    y que sin duda dormía,
+    pues me escondiste en tu cama.
+    Mas limpiándome los ojos,
+    y despertándome el alba
+    del día de mis desdichas
+    y el tocar tu engaño al arma,
+    conozco que estoy despierto,
+    porque aunque en sueños me espanta,
+    que por quien no fuera yo
+    tantas desdichas pasaran.
+    Mas ya que ha traído el tiempo
+    la prueba de tus palabras,
+    no te castigue el amor,
+    que has hecho sus firmas falsas.
+    No diga mi amor, Elisa,
+    que cuando me diste tantas,
+    torres en el viento hacías,
+    y escribías en el agua.
+    Mientras van a sus conciertos,
+    vamos a mi casa honrada,
+    o a las del juez del cielo,
+    que las voluntades casa.
+    Soy tu primero marido,
+    tú mi mujer, pues ¿qué aguardas,
+    cómo te detienes? Mira
+    que quieren forzarte el alma.
+    ¿Qué respondes?
+ELISA:
+    Carlos mío,
+    mío no, que hablé turbada,
+    Carlos tuyo y mío un tiempo,
+    que para mi muerte basta.
+    Cuando palabra te di
+    de ser tuya ¿quién pensara,
+    que hallara un Sansón tan fuerte
+    el templo de mi esperanza?
+    Aqueste mancebo ciego
+    a las colunas se abraza
+    de mis pensamientos hoy
+    y a todos juntos nos mata.
+    Entre cuantos imposibles
+    tu imaginación hallara,
+    para olvidarte, mi bien,
+    ni hacer de mi amor mudanza,
+    la obediencia de mi padre
+    fue, como ves, reservada,
+    en llegando a que es mi dueño,
+    cesa el gusto, el amor para.
+    Él me dio este ser que tengo,
+    a la sombra de sus alas
+    he vivido, no es razón
+    ser a tanta deuda ingrata.
+    Si aquesto se desconcierta,
+    o tu ingenio y amor hallan
+    remedio con que se impida,
+    aquí está Elisa.
+CARLOS:
+    ¿Qué llamas?
+    Aquí está Elisa, mujer,
+    que es el nombre que declara
+    mejor la mudanza vuestra,
+    porque sois muerte y mudanza.
+    Si Elisa estuviera aquí,
+    cumpliérame su palabra,
+    no está en sí, pero está en mí
+    como infierno que me abrasa.
+    Este fue concierto tuyo,
+    todo concertado estaba.
+    El hablar hoy a Laurencia
+    no ha sido, Elisa, sin causa.
+    En tu cama me pusiste,
+    a que viese mi desgracia.
+    Mal haya fe que pretende
+    gloria de cielo de cama.
+    Trujísteme a que lo viese,
+    ¡oh, qué bien me desengañas!,
+    tuya la cama, león yo,
+    que a sus pies dorados brama.
+    Camaleón vengo a ser,
+    pues el día que te casas
+    vengo a sustentar de viento
+    tantas esperanzas vanas.
+    Don Fernando de Toledo
+    hace gente. Afuera España.
+    No más patria, no más vida,
+    todo contigo me falta.
+    Iré a morir; plega a Dios
+    que en la primera batalla
+    una pistola me borre
+    tu rostro, Elisa, del alma.
+    ¿Obediencia dices, cuando
+    amor obediencia guarda,
+    ni a padre, ni a honor, ni a esposo,
+    ni al cielo?
+ELISA:
+    Espera, repara.
+CARLOS:
+    ¿Tú vienes conmigo?
+ELISA:
+    No.
+CARLOS:
+    Pues, loca, ¿por qué me llamas?
+ELISA:
+    Si pudiera, Carlos mío,
+    yo fuera: he nacido honrada.
+    ¿Qué dirá el mundo de mí?
+    Piensa algún medio.
+CARLOS:
+    Quien ama
+    y piensa no tiene amor
+    o el que tuvo se le acaba.
+    Hante hablado en casamiento
+    palabra que os arrebata
+    el seso. ¿Quién duda, Elisa,
+    que a este son hagas mudanza?
+    Dios te haga tan dichosa
+    que aquella misma mañana
+    de la noche de tu boda
+    te traigan de Flandes cartas,
+    en que digan que soy muerto.
+ELISA:
+    Escúchame una palabra.
+CARLOS:
+    Obras quisiera escuchar,
+    que palabras todo es nada.
+[Vase Carlos]
+PAULA:
+    ¿Esteban, qué dices desto?
+ESTEBAN:
+    Plega a Dios que una bombarda
+    pase de mí treinta leguas
+    si volviere a verte, Paula.
+    No más España crüel,
+    no más vida, no más patria.
+    Arrïeros van a Flandes,
+    allá me lleven sus cargas.
+    Y si te casares...
+PAULA:
+    Oye…
+ESTEBAN:
+    De aquí a mil años te traigan
+    nuevas de que el Draque es muerto,
+    o el Rey Chico de Granada.
+[Vase Esteban]
+ELISA:
+    Parte, Paula, y llama a Carlos.
+PAULA:
+    Señora, desta ventana
+    le daré una voz.
+ELISA:
+    ¿Camina?
+PAULA:
+    No irá lejos, que quien ama,
+    cuanto sale más furioso,
+    tanto más despacio para
+    porque se aleja del centro
+    y lleva violenta el alma.
+[Vase Paula]
+ELISA:
+    ¡Ay, fuerte obligación! ¡Ay, honra asida
+    a la virtud de un generoso pecho!
+    La justa resistencia que habéis hecho
+    en tanto amor me costará la vida.
+    No sé si ya me siento arrepentida,
+    que contra amor no hay fuerza de provecho,
+    pero saldrá del alma su despecho
+    cuando al honor la posesión le impida.
+    Casada yo sin ti, triste suceso,
+    imaginallo sólo me desalma,
+    pero ya que en el alma estás impreso,
+    él tendrá los despojos, tú la palma,
+    que quien tiene en Argel el cuerpo preso,
+    tendrá por puntos en su tierra el alma.
+[Éntrese, y salgan Laurencia y Sabina]
+LAURENCIA:
+    Deseo en estremo ver
+    a Feliciano, Sabina.
+SABINA:
+    Gloriosa estás de querer
+    hombre tan galán.
+LAURENCIA:
+    Inclina
+    a amarle a cualquier mujer.
+SABINA:
+    Tienes, señora, razón,
+    que cuando pienso en Fisberto
+    se me baña el corazón
+    de un cierto incendio encubierto,
+    agradable suspensión,
+    que no deja a mis sentidos
+    lugar de volver en mí.
+LAURENCIA:
+    Amando están divertidos,
+    no dirá Elisa que fui
+    sirena de sus oídos.
+    Habrá visto en Feliciano
+    que lo menos le conté,
+    pues con atrevida mano
+    en corto mapa cifré
+    todo un cielo soberano.
+    ¿Quién duda que está invidiosa
+    de verme tan venturosa?
+SABINA:
+    No hará, porque quiere bien.
+LAURENCIA:
+    ¿Parecérale tan bien?
+SABINA:
+    ¡Qué necedad tan famosa!
+LAURENCIA:
+    Quiero mucho.
+SABINA:
+    Tus deseos
+    conozco.
+LAURENCIA:
+    Pues no te espantes
+    que encarezca mis empleos.
+SABINA:
+    Los hijos y los amantes
+    no pueden parecer feos.
+    Pasos siento.
+LAURENCIA:
+    Y ellos son,
+    que en los amorosos casos
+    quien espera con pasión
+    siente trasladar los pasos
+    desde el suelo al corazón.
+SABINA:
+    Pienso que te has engañado.
+LAURENCIA:
+    Tuyo el engaño habrá sido,
+    mi bien y el tuyo han llegado.
+[Entran Feliciano y Fisberto]
+FISBERTO:
+    ¿Sabina?
+SABINA:
+    Fisberto amado,
+    [.................]
+    triste viene tu señor.
+FISBERTO:
+    No sé qué pena se tiene.
+LAURENCIA:
+    ¿No me hablas?
+FELICIANO:
+    ¡Qué rigor!
+SABINA:
+    ¡Qué descolorido viene!
+LAURENCIA:
+    ¿Qué te enmudece?
+FELICIANO:
+    Un temor.
+LAURENCIA:
+    ¿Temor conmigo? ¿De qué?
+    ¿Viste a Elisa?
+FELICIANO:
+    Ya la vi.
+LAURENCIA:
+    ¿Con suspiro?
+FELICIANO:
+    ¿Suspiré?
+LAURENCIA:
+    Sí, mis ojos. ¿Fue por mí?
+FELICIANO:
+    Del alma a tus ojos fue.
+LAURENCIA:
+    ¡Válame Dios! ¿Dónde has ido?
+FELICIANO:
+    A ver a Elisa.
+LAURENCIA:
+    ¿Y de allá
+    esta tristeza has traído?
+    ¿No está buena?
+FELICIANO:
+    Buena está.
+LAURENCIA:
+    ¿Algo has visto o has oído?
+    ¿No te dijo que «te quiero,
+    que te alabo, que te adoro
+    y que te estimo»?
+FELICIANO:
+    Sí, espero
+    para guardarte el decoro,
+    que es más rigor considero.
+    Laurencia, yo he visto a Elisa,
+    porque tú me lo mandaste.
+    Entré en su mismo aposento,
+    libre de tantos pesares;
+    no había hablado con ella
+    dos palabras, cuando el padre
+    y Otavio entraron diciendo
+    y haciendo mil disparates;
+    que como deben de andar
+    sospechosos, esta tarde
+    fingieron aquella ausencia
+    para que Carlos entrase.
+    Halláronme en su lugar…
+    No permitas que te canse
+    con decirte sus locuras,
+    y amenazas desiguales;
+    basta saber que salí...
+    ¿Cómo lo diré?
+LAURENCIA:
+    No tardes,
+    que me matas.
+FELICIANO:
+    ¡Ay, Laurencia!
+    Casado.
+LAURENCIA:
+    Calla.
+FELICIANO:
+    ¿Que calle?
+    ¡Pluguiera a Dios que pudiera!
+LAURENCIA:
+    ¿Pues qué razón hay bastante
+    a hacerte casar por fuerza?
+FELICIANO:
+    Solo en su aposento hallarme.
+LAURENCIA:
+    ¿Estabas desnudo?
+FELICIANO:
+    ¿Yo?
+LAURENCIA:
+    Pues ¿por qué un rigor tan grande?
+FELICIANO:
+    Porque se dan a entender
+    que soy quien entra y quien sale
+    a deslustrar su nobleza
+    y deshonorar su sangre.
+    Las escrituras se han hecho.
+LAURENCIA:
+    ¿Qué dices?
+FELICIANO:
+    Con penas tales
+    que no se podrán romper
+    o es decirles que me maten.
+LAURENCIA:
+    ¡Válame Dios! ¿Eres tú
+    quien eso dices?
+FELICIANO:
+    La cárcel
+    ni la muerte me pudieran
+    a lo que has visto forzarme,
+    si no fuera alguna estrella,
+    cuya influencia es bastante
+    a que con quien nunca vi
+    por fuerza un hombre me case.
+    Y no es esto el daño solo
+    que el venir agora hablarte,
+    también es otro dolor
+    para que tantos me acaben:
+    Octavio, ya le conoces,
+    quiere que contigo trate
+    que te cases con él.
+LAURENCIA:
+    Calla.
+FELICIANO:
+    Esto me dijo en la calle.
+LAURENCIA:
+    Todo lo entiendo, ya sé
+    que Elisa vino a engañarme:
+    concierto de todos fue.
+FELICIANO:
+    Espera.
+LAURENCIA:
+    ¿En quién?
+FELICIANO:
+    En mis males.
+LAURENCIA:
+    Déjame saber mi muerte.
+FELICIANO:
+    Escucha.
+FISBERTO:
+    Furiosa parte.
+FELICIANO:
+    Tenla, Sabina.
+SABINA:
+    No puedo.
+FELICIANO:
+    ¿Qué he de hacer?
+FISBERTO:
+    No te acobardes,
+    que alguna industria ha de haber.
+FELICIANO:
+    ¿Quieres que de veras hable?
+FISBERTO:
+    ¿Pues no?
+FELICIANO:
+    Pues por Dios, que Elisa...
+FISBERTO:
+    Dilo.
+FELICIANO:
+    Me parece un ángel.
+FISBERTO:
+    El dote es poco.
+FELICIANO:
+    Y muy poco,
+    si algo más al dote añade:
+    yo soy marido de Elisa.
+FISBERTO:
+    ¡Qué linda traza de amante!
+    ¿Amas y pides dineros?
+FELICIANO:
+    ¿Sabes tú lo que es casarse?
+FISBERTO:
+    Sé que es carga.
+FELICIANO:
+    Pues si es carga,
+    dineros y bestia, y ande.
+
+JORNADA 2
+
+[Salen Carlos y Esteban, de camino, con botas, espuelas y plumas]
+CARLOS:
+    ¿Está todo prevenido?
+ESTEBAN:
+    No hay cosa por prevenir.
+CARLOS:
+    En fin. ¿Me puedo partir?
+ESTEBAN:
+    Sí, pues no te dan partido.
+CARLOS:
+    ¿Cómo ha salido esta gala?
+ESTEBAN:
+    Como de tu gusto, en fin.
+CARLOS:
+    ¿Come, Esteban, el rocín?
+ESTEBAN:
+    Comiendo queda en su estala.
+CARLOS:
+    Buen nombre, bien se autoriza.
+ESTEBAN:
+    Como a Flandes nos partimos,
+    los soldados no decimos,
+    como aquí «caballeriza».
+CARLOS:
+    ¿Salen estas plumas bien?
+ESTEBAN:
+    Que pareces un virote,
+    pero di: ¿mi matalote
+    ha de ir a Flandes también?
+    Que tiene talle por Dios
+    de quedarse hacer la cuenta
+    aquí en la primera venta.
+CARLOS:
+    Qué bien andarán los dos.
+    Las bestias en compañía
+    andan más.
+ESTEBAN:
+    Es pensamiento
+    tomado del casamiento,
+    que andan de noche y de día.
+    Mas, por Dios, que, aunque vestido
+    ya de camino te vea
+    y a mí con esta librea
+    a lo flandesco lucido,
+    que no creo que de Illescas
+    has de pasar.
+CARLOS:
+    ¿Cómo no?
+ESTEBAN:
+    Como te conozco yo
+    y sé las truchas que pescas,
+    para mí tú quieres dar
+    martelo de ausencia y ver
+    si estorbas que esta mujer,
+    Carlos, se llegue a casar.
+CARLOS:
+    No hay tratar deso, es partida
+    tan cierta que antes de un mes
+    me verá el país de Artués.
+ESTEBAN:
+    ¿Por tu vida?
+CARLOS:
+    Por mi vida.
+ESTEBAN:
+    Confiésote que pensaba
+    que era máscara de celos.
+CARLOS:
+    No vuela el ave a los cielos,
+    ni la flecha de la aljaba
+    puesta en el arco, ni el rayo,
+    de la nube, como yo
+    parto a Flandes.
+ESTEBAN:
+    Luego ¿no
+    tendrá fuerza algún desmayo,
+    lagrimilla o papel tierno?
+CARLOS:
+    De unos ojos tan crüeles,
+    lágrimas ni más papeles
+    de tales manos. ¡Qué infierno!
+    Pues de tal pecho desmayo
+    fuego del cielo.
+ESTEBAN:
+    Por Dios,
+    que si llora solas dos,
+    que el ave, la flecha, el rayo,
+    se detengan y se queden.
+CARLOS:
+    Llamaron.
+ESTEBAN:
+    Dirás que son
+    sus crïados.
+CARLOS:
+    No es razón.
+ESTEBAN:
+    Ni es razón, ni son, ni pueden.
+    Estarales ya bailando
+    la boda en el cuerpo a todos
+    y de diferentes modos
+    comida y galas buscando.
+    ¿Y quieres que a ver te vengan?
+CARLOS:
+    ¿Digo que son, majadero?
+ESTEBAN:
+    ¿Tú los ves?
+CARLOS:
+    A su escudero
+    y a Paula.
+ESTEBAN:
+    Pues alto, tengan
+    las puertas de par en par.
+CARLOS:
+    ¡Abre, borracho!
+ESTEBAN:
+    ¿Tú eres
+    el bravo? ¿Tú a Flandes quieres
+    partirte?
+CARLOS:
+    Déjala entrar.
+ESTEBAN:
+    Yo papel de tales manos,
+    lágrimas de tales ojos,
+    mas ¿cómo de esos enojos
+    tiene amor por tierra llanos?
+CARLOS:
+    Abre, maldígate Dios.
+    Ya está abierto y ya han entrado.
+[Salen Marquina, que es el escudero segundo, y Paula]
+PAULA:
+    ¡Oh, qué gallardo soldado!
+ESTEBAN:
+    ¿Uno solo? ¿No ves dos?
+    ¿Dónde bueno desta suerte?
+CARLOS:
+    A Flandes, amiga, voy.
+PAULA:
+    Jesús, por reírme estoy,
+    déjame despacio verte.
+CARLOS:
+    Bien dices, porque jamás
+    me volverás, Paula, a ver.
+    ¿Qué hace Dios de esa mujer?
+PAULA:
+    Esa mujer ya no es más.
+CARLOS:
+    Nunca el nombre le ha venido
+    como en aquesta ocasión,
+    mujeres dicen que son
+    las que ya tienen marido.
+    Y ella, pues que tiene dos,
+    más mujer debe de ser,
+    que para el mundo es mujer
+    de otro y mía para Dios.
+    ¡Ay, padre, ay, Paula, ay amigos,
+    nadie mejor mi razón
+    sabe, pues de mi pasión
+    son vuestros ojos testigos!
+    Cásese Elisa, bien hace,
+    obedezca, como dice,
+    a su padre; Dios bendice
+    quien tan obediente nace.
+    Cuanto a mí, no hay que tratar,
+    Paula, consolado estoy;
+    no lo he de ver, ya me voy.
+PAULA:
+    ¿Pegado se te ha el hablar
+    tan resuelto y consolado
+    del hábito soldadesco?
+    ¿Es ese estilo flandesco?
+CARLOS:
+    Bien dices, ya estoy soldado
+    y de manera lo estoy,
+    que la palabra de estar
+    en Flandes no he de quebrar,
+    Paula, si en el aire voy.
+    ¿A qué bueno es la venida?
+PAULA:
+    A traerte este papel.
+CARLOS:
+    Contará su boda en él.
+PAULA:
+    Contará su triste vida.
+CARLOS:
+    Vuélvele, Paula, por Dios,
+    letra de Elisa es veneno.
+PAULA:
+    Léele, acaba.
+ESTEBAN:
+    ¡Oh, qué bueno,
+    melindres!
+CARLOS:
+    Venís los dos,
+    y quiero os tener respeto.
+ESTEBAN:
+    Lindo achaque.
+MARQUINA:
+    Tú verás
+    que Elisa no puede más,
+    pues eres, Carlos, discreto.
+[Lea Carlos]
+    «Si una mujer principal,
+    porque a su padre obedece,
+    Carlos del alma, merece
+    que vos la tratéis tan mal,
+    sea en buen hora, bien mío,
+    aunque para mí no es buena,
+    que os agradezco la pena
+    y mil gracias os envío.
+    Que como me ha de matar
+    de vuestra ausencia el dolor,
+    mientras más pena, señor,
+    más me queréis obligar.
+    ¡Oh, qué bien he conocido,
+    mi bien, lo que tengo en vos,
+    sabiendo también los dos
+    lo que vos me habéis debido!
+    No quiero yo que no os vais,
+    mas no sea tan aprisa,
+    que aún no está casada Elisa,
+    a quien vos decís que amáis.
+    Hacedme merced, mis ojos,
+    que nos veamos primero,
+    que con vos descansar quiero
+    de tantas penas y enojos.
+    Esta noche habrá lugar.
+    Vuestra Elisa, aunque me maten.»
+CARLOS:
+    ¿Que esto escriban, que esto traten
+    manos que a otro se han de dar?
+    ¿Hay traición, hay fingimiento
+    como este?
+PAULA:
+    ¿De qué es traición?
+CARLOS:
+    Pues trae el papel razón
+    que impida su casamiento.
+    ¿No ves que me dice aquí
+    que me vaya y que no quiere
+    detenerme?
+PAULA:
+    Quien le oyere
+    jurará que adora en ti.
+    ¿Puede ser cosa más tierna?
+CARLOS:
+    ¿Esto es tierno? ¡Es fuego, es ira,
+    es embeleco, es mentira!
+PAULA:
+    ¡Qué mal humor te gobierna!
+    Si Elisa no te adorara,
+    ni escribiera bien ni mal.
+CARLOS:
+    Como es mujer principal,
+    en su término repara.
+    Tras esto no le ha movido
+    amor, que bien se ve aquí,
+    si no lástima de mí,
+    viéndome quedar perdido.
+    Que aún no está casada Elisa,
+    dice aquí. ¡Fuego de Dios,
+    pagaréisme papel vos
+    palabras de tanta risa!
+PAULA:
+    No le rasgues.
+CARLOS:
+    Ya está hecho,
+    que me abrasaba la palma,
+    así quisiera algún alma,
+    así quisiera algún pecho.
+PAULA:
+    Luego ¿no responderás?
+CARLOS:
+    ¿Responder? Vete de aquí
+    o haré lo que dél en ti.
+PAULA:
+    ¿En mí?
+CARLOS:
+    Vete.
+PAULA:
+    Loco estás.
+    Vámonos de aquí, Marquina.
+MARQUINA:
+    Vámonos, que está furioso.
+PAULA:
+    No te espantes, que un celoso
+    con el dolor desatina.
+MARQUINA:
+    ¿Quién le podrá resistir?
+    Vamos. Esteban, adiós.
+ESTEBAN:
+    Está adorando en los dos
+    y quiere fuerzas fingir.
+PAULA:
+    ¿Tú no me verás primero
+    que te ausentes?
+ESTEBAN:
+    Allá iré.
+PAULA:
+    ¿Vas a caballo o a pie?
+ESTEBAN:
+    Voy con este majadero
+    en un camello persiano.
+    Allá nos despediremos.
+MARQUINA:
+    Vámonos. ¿Paula, qué hacemos?
+    Mira que en el viento vano
+    anda deste mozo el seso,
+    mira los gestos que hace.
+PAULA:
+    Adiós, de sus celos nace.
+MARQUINA:
+    Temblando voy, te confieso.
+[Vanse los dos]
+ESTEBAN:
+    Mal has andado en tratar
+    esta gente deste modo.
+    Elisa es culpa de todo,
+    della te debes quejar.
+    No viene Paula a ofenderte,
+    ni ella es parte a que se case.
+CARLOS:
+    ¡Oh, que mal fuego te abrase!
+    ¿A Elisa nombras?
+ESTEBAN:
+    Advierte
+    que si no es que loco estás,
+    a lo menos lo pareces.
+CARLOS:
+    Pena a mis penas ofreces,
+    celos a mis celos das.
+ESTEBAN:
+    ¿No era mejor responder
+    que esta noche a verla irías?
+CARLOS:
+    ¿Fuéronse?
+ESTEBAN:
+    Habrá cuatro días.
+CARLOS:
+    Quiérolos hacer volver.
+    Parte a llamarlos.
+ESTEBAN:
+    Yo voy.
+CARLOS:
+    Déjalos.
+ESTEBAN:
+    Ya me estoy quedo.
+CARLOS:
+    Mas llámalos, que no puedo
+    vivir, si sin verla estoy.
+ESTEBAN:
+    Voy volando.
+CARLOS:
+    Aunque te diga
+    que vayas, te has de estar quedo.
+ESTEBAN:
+    Que enloquezcas tengo miedo,
+    si tanto el dolor te obliga.
+CARLOS:
+    Que no respondí que iría,
+    ánimo tuve y valor
+    porque es como negro amor,
+    todo entono y fantasía.
+    Mas ¿cómo sufrir podré
+    el no verla? Parte luego,
+    y llama a Paula. ¿Estás ciego?
+    ¿Estás sordo? ¿Oyes?
+ESTEBAN:
+    No sé,
+    ¿no me mandaste no hacer
+    lo que me mandases?
+CARLOS:
+    Sí.
+ESTEBAN:
+    Pues yo te obedezco ansí.
+CARLOS:
+    Ya que no me pueden ver,
+    cojamos estos pedazos
+    de aquel rompido papel.
+ESTEBAN:
+    ¿Agora adoras en él?
+CARLOS:
+    ¡Oh, letras, rasgos y lazos
+    de aquella mano divina!
+ESTEBAN:
+    Paula, vuelve.
+CARLOS:
+    Y él al suelo.
+ESTEBAN:
+    ¿Pues no es?
+CARLOS:
+    Maldiga el cielo
+    tu condición.
+ESTEBAN:
+    Imagina
+    que es entretener a un loco
+    ciencia, humor, industria y flema.
+CARLOS:
+    Es celos, Esteban, tema
+    para estarlo un hombre poco.
+    Estos papeles quisiera
+    juntar.
+ESTEBAN:
+    Yo se cómo.
+CARLOS:
+    El cielo
+    te dé en tus males consuelo.
+ESTEBAN:
+    Escucha.
+CARLOS:
+    ¿De qué manera?
+ESTEBAN:
+    Llevándolos al molino
+    del papel, majados luego
+    volverán a hacer el pliego.
+CARLOS:
+    ¿Hay tan crüel desatino?
+    ¿Y las letras?
+ESTEBAN:
+    Pues si allí
+    la letra quedar pudiera,
+    molino y emprenta fuera.
+CARLOS:
+    Hoy veré a Elisa.
+ESTEBAN:
+    ¿Tú?
+CARLOS:
+    Sí.
+ESTEBAN:
+    ¿Cómo, de noche?
+CARLOS:
+    De día.
+ESTEBAN:
+    ¿De día? ¿Con qué invención?
+CARLOS:
+    Ven comigo.
+ESTEBAN:
+    Efetos son
+    de amor.
+CARLOS:
+    ¡Ay, Elisa mía!
+[Vanse, y salen Laurencia y Sabina]
+LAURENCIA:
+    ¿Cómo quieres que sosiegue,
+    Sabina, en tanto dolor?
+SABINA:
+    ¿Es posible que el amor
+    de un hombre ingrato te ciegue
+    a tanta descompostura?
+LAURENCIA:
+    Si no fuera amor mi mal,
+    dices bien, mas es igual
+    a la furiosa locura.
+    No se curan amor y ella
+    si sabes remedio, di
+    ¿cómo me vuelvas en mí?
+SABINA:
+    Quiriendo tú salir della.
+    Amor se deja curar,
+    si es el enfermo obediente.
+LAURENCIA:
+    A tu mano diligente
+    hoy me quiero sujetar.
+    Di, que quiero obedecer
+    la cura en que me pusieres.
+SABINA:
+    Haz lo que muchas mujeres,
+    pues eres también mujer.
+LAURENCIA:
+    ¿Qué he de hacer?
+SABINA:
+    El mismo amor
+    poner en otro sujeto.
+LAURENCIA:
+    Fuerte remedio.
+SABINA:
+    Discreto,
+    el más breve y el mejor.
+LAURENCIA:
+    ¿Si amor fue en mí natural,
+    qué podrá un amor violento?
+SABINA:
+    Ocupar el pensamiento
+    y ir entreteniendo el mal.
+LAURENCIA:
+    ¿A quién tengo de querer?
+    ¿No hay más de decir «yo quiero»?
+SABINA:
+    A quien tu amante primero
+    haga de celos arder.
+LAURENCIA:
+    ¿Quién?
+SABINA:
+    El mismo que ha dejado
+    Elisa, que deste modo
+    te podrás vengar en todo
+    de cuantos te han agraviado.
+    Pon los ojos tiernamente
+    en Carlos, que tú verás
+    qué dolor a Elisa das
+    y lo que tu ingrato siente.
+LAURENCIA:
+    ¿Elisa de Feliciano
+    contenta qué ha de sentir?
+    ¿Ni Feliciano de oír
+    que quiero a Carlos?
+SABINA:
+    Que en vano
+    gasta un discreto el consejo
+    con quien está pertinaz.
+    Haz lo que te digo en paz,
+    que amor es como el espejo,
+    que cuando se compra nuevo
+    no agrada, ni satisface,
+    hasta que el rostro se hace.
+LAURENCIA:
+    Luego si a quererle pruebo,
+    ¿vendrá a parecerme bien,
+    aunque agora no me agrade?
+SABINA:
+    A querer te persüade,
+    que si tus ojos se ven
+    cada día en los de Carlos,
+    tú vendrás a estar segura
+    que retratan tu hermosura
+    y por lo mismo adorarlos.
+LAURENCIA:
+    Ahora bien, dime verdad:
+    ¿hate sucedido a ti?
+SABINA:
+    Estoy por decir que sí,
+    porque tuve voluntad,
+    a quien tan mal me pagó,
+    que en Fisberto la mudé
+    y que ya le amaba hallé
+    cuando el otro me buscó.
+LAURENCIA:
+    Luego ¿vínote a buscar?
+SABINA:
+    Picose y volvió.
+LAURENCIA:
+    ¿Qué espero?
+    Amor es tretas, yo quiero
+    amar o fingir amar.
+    Mas ¿cómo habemos de hacer
+    para que Carlos me entienda?
+    Que puede ser que le ofenda
+    si le comienzo a querer.
+SABINA:
+    Finge que te ha dicho un hombre
+    que es astrólogo y que quieres
+    saber, como otras mujeres,
+    señas, trato, vida y nombre
+    del que ha de ser tu marido.
+    Él negará, tú dirás
+    que lo sabes y que estás
+    cierta de lo que has oído.
+    Darasle luego la mano;
+    creo de su discreción,
+    que aprovecha la ocasión
+    y que no la da de mano.
+    De aquí la tendréis los dos
+    para que el juego se entable.
+LAURENCIA:
+    Carlos es hombre notable,
+    consuelo me das, por Dios.
+    Toma, Sabina, tu manto,
+    vele hablar, habla con él.
+SABINA:
+    Escríbeme tú un papel.
+LAURENCIA:
+    De mi libertad me espanto.
+    Pero amor me da licencia,
+    que con discreción me cure
+    y que el remedio procure
+    que me muestra la experiencia,
+    y el desengaño me avisa.
+    ¿Querrame Carlos?
+SABINA:
+    Sospecho
+    que ha de quererte a despecho
+    de las traiciones de Elisa.
+[Éntrense, y salgan Aurelio, Octavio, Feliciano, Fisberto, Elisa, Paula]
+AURELIO:
+    Toda la corte me ha dado
+    de la boda el parabién.
+FELICIANO:
+    A mí es bien que me le den,
+    pues tanto bien he ganado.
+OCTAVIO:
+    No sé cómo se ha sabido,
+    señor, en tiempo tan breve.
+AURELIO:
+    Como Feliciano debe
+    de ser bien quisto y querido,
+    está en los ojos de todos.
+OCTAVIO:
+    Las escrituras sospecho
+    que también su parte han hecho
+    y cuéntase de mil modos.
+AURELIO:
+    Como quisiere se cuente,
+    ya es mi yerno Feliciano.
+FELICIANO:
+    Todos saben lo que gano.
+ELISA:
+    Yo me pierdo eternamente.
+AURELIO:
+    Tráiganos sillas aquí.
+OCTAVIO:
+    Sillas hay.
+FISBERTO:
+    Ya estás casado.
+FELICIANO:
+    ¡Qué necio, Fisberto, he andado!
+FISBERTO:
+    Luego ¿arrepiénteste?
+FELICIANO:
+    Sí.
+FISBERTO:
+    Pues ¿antes del desposorio
+    te muestras arrepentido?
+FELICIANO:
+    Siento el saber que haya sido
+    a todo el mundo notorio,
+    pues ya estamos empeñados
+    en no deshacer lo hecho.
+FISBERTO:
+    Que te ha de estar bien sospecho.
+FELICIANO:
+    Pocos son seis mil ducados.
+FISBERTO:
+    No es mal dote con Elisa
+    que te aseguro por Dios
+    que la piden más de dos,
+    como dicen, en camisa.
+    Tiene entendimiento y brío,
+    y el valor que viendo estás.
+FELICIANO:
+    Mientras que lo trato más,
+    más, Fisberto, me resfrío,
+    no porque de su hermosura
+    no esté en estremo contento,
+    el modo del casamiento
+    me ha parecido locura.
+    Bueno es que yo venga aquí
+    sólo a ver una mujer
+    y que mía lo ha de ser
+    no más de porque la vi.
+FISBERTO:
+    Si te hallan en su aposento,
+    y es gente tan principal,
+    no sé que procedan mal.
+FELICIANO:
+    Fisberto, la burla siento.
+    Vive Dios, que he sospechado
+    que codiciando mi hacienda
+    me han hecho comprar la prenda
+    al primer precio que he dado.
+    ¿Nunca has visto los roperos
+    que a quien su calle pasó
+    no más de porque miró
+    ya le ha de costar dineros?
+    Que le llaman, y le tiran,
+    y le fuerzan a comprar,
+    pues así me hacen casar.
+FISBERTO:
+    Mira, señor, que te miran,
+    habla a tu esposa, no des
+    ocasión para que entiendan
+    que te pesa.
+FELICIANO:
+    Aunque se ofendan,
+    digo que es poco interés.
+    Si yo esta mujer pidiera,
+    bien es que me contentara.
+FISBERTO:
+    Si Aurelio con más se hallara,
+    no dudes que más te diera.
+    Está de suerte perdido,
+    que aun a la hacienda de Otavio
+    sé yo que ha hecho agravio,
+    puesto que él lo ha consentido
+    por tener tan buen cuñado.
+FELICIANO:
+    ¿Seis mil ducados a mí
+    que con más renta nací
+    que este dote que me han dado?
+    ¿Qué dirán cuantos lo saben?
+FISBERTO:
+    Que has escogido mujer
+    que de un rey lo puede ser,
+    para que todos te alaben.
+[Entra un paje]
+PAJE:
+    Un caballero está aquí
+    que a mi señor quiere hablar.
+AURELIO:
+    Dile que bien puede entrar.
+OCTAVIO:
+    ¿Si es para bien?
+AURELIO:
+    Creo que sí.
+[Entre Carlos y Esteban de soldados de camino]
+CARLOS:
+    Por estar tan de camino,
+    como lo veis en el traje,
+    aunque me dijo este paje
+    lo que en veras imagino,
+    no pude escusar hablaros,
+    suplícoos me perdonéis.
+AURELIO:
+    Aquí una silla tenéis.
+OCTAVIO:
+    En esta podéis sentaros.
+ELISA:
+    ¡Cielos, qué es esto que veo!
+PAULA:
+    ¡Ay, señora! ¿A qué vendrá?
+FELICIANO:
+    Fisberto, Carlos se va.
+FISBERTO:
+    Saber la causa deseo.
+CARLOS:
+    Antes que en mis cosas hable,
+    desto que aquí viendo estoy,
+    parabién, señor, os doy.
+ELISA:
+    ¡Qué atrevimiento!
+PAULA:
+    Notable.
+CARLOS:
+    Gocéis, señor Feliciano,
+    de la que tan vuestra es ya.
+FELICIANO:
+    Para serviros será.
+AURELIO:
+    Buen mozo.
+OCTAVIO:
+    Es muy cortesano.
+CARLOS:
+    Y vos, mi señora Elisa,
+    mil años el desposado.
+ELISA:
+    Los que me habéis deseado
+    viváis.
+CARLOS:
+    Porque estoy de prisa,
+    no encarezco la elección
+    que en amar habéis tenido
+    un hombre tan bien nacido.
+    Suplícoos me deis perdón.
+ELISA:
+    Si en eso tengo de qué,
+    yo os perdono.
+CARLOS:
+    Dios os guarde,
+    digo, Aurelio, porque es tarde,
+    que ya las postas dejé
+    puestas a punto, que yo
+    voy a Flandes, el dinero
+    que tengo entregaros quiero,
+    porque en plata me le dio
+    un mercader de Toledo
+    y no le puedo llevar.
+ELISA:
+    (Éste me viene a matar.
+PAULA:
+    Disimula.
+ELISA:
+    ¿Cómo puedo?)
+CARLOS:
+    Para algún correspondiente,
+    de los que en Flandes tenéis,
+    cédula darme podéis,
+    o pues voy forzosamente
+    por Francia, para cualquiera
+    lugar.
+AURELIO:
+    Fuera dicha mía
+    si el crédito que tenía
+    agora en Flandes tuviera.
+    Poderos, señor, servir,
+    ya ese tiempo se acabó.
+CARLOS:
+    Mi desdicha lo causó.
+ELISA:
+    A no ser fuerza partir
+    esta tarde, yo os dijera
+    quien para Flandes o Francia
+    os lo diera con ganancia.
+CARLOS:
+    Pluguiera a Dios que pudiera
+    detenerme, mi señora.
+ELISA:
+    ¡Deteneos, por vida mía!
+FELICIANO:
+    (¿Es éste el que la servía?
+FISBERTO:
+    Pienso que el partirse agora
+    nace de verla casada.
+FELICIANO:
+    Si por él tanto la quiere,
+    no se vaya, sino espere.
+FISBERTO:
+    ¿Son celos?
+FELICIANO:
+    A la trocada.)
+ELISA:
+    ¿Tan forzosa es la partida
+    que no os podéis detener?
+CARLOS:
+    Impórtame no perder,
+    si me detengo, la vida.
+ELISA:
+    ¿Qué os puede haber sucedido?
+CARLOS:
+    Una desgracia tan fuerte,
+    que aunque el partirme es mi muerte,
+    ha sido el mejor partido.
+ELISA:
+    El deseo de saber
+    es en las mujeres tal,
+    que el dolor de vuestro mal
+    me obliga como a mujer.
+    ¿Puedo saber la ocasión?
+CARLOS:
+    Si os sirvo en que la sepáis,
+    oídme, porque tengáis
+    de mi dolor compasión.
+    Yo tuve en este lugar
+    un amigo que servía
+    de alma al cuerpo en que vivía,
+    que nos pudo amor juntar
+    y era tanto nuestro amor,
+    que el tiempo de estar ausentes,
+    los menores acidentes
+    eran despecho y furor.
+    Comunicábamos juntos
+    los menores pensamientos,
+    hablándonos por momentos,
+    regalándonos por puntos.
+    A veces jurarle oí
+    que ser mi cuerpo quisiera,
+    porque siempre en él viviera
+    sin apartarse de mí,
+    pero a que esto me ofendiese
+    llegar mi afición solía
+    y ser yo el cuerpo quería,
+    para ser el que muriese,
+    pero entre aquestas finezas,
+    quien creerá tal sin razón,
+    hizo tan crüel traición
+    a este amor, a estas ternezas,
+    que fue lo menos dejarme;
+    y de suerte me dejó
+    que a ser dél su cuerpo yo,
+    me muriera por vengarme.
+    Hizo con otro amistad,
+    a quien siempre aborrecí,
+    diole el alma en que viví,
+    y esta injusta deslealtad
+    blasona que es obediencia.
+    Yo por no verlos andar
+    siempre juntos, del lugar
+    hago, como veis, ausencia.
+    Voy a Flandes, donde ruego
+    al cielo que me traspase
+    una bala, porque abrase
+    un fuego con otro fuego.
+    Y para ser desta suerte
+    no tengo más que llegar,
+    pues yo me pondré en lugar
+    que el menos diestro me acierte.
+ELISA:
+    Estraña resolución
+    la vuestra me ha parecido;
+    para partiros no ha sido
+    legítima la ocasión,
+    que el amigo que decís
+    por dicha no os ofendió
+    si obediencia le forzó,
+    como vos mismo advertís.
+    Demás desto, no habéis hecho
+    diligencia por cobrar
+    aquel perdido lugar
+    que tuvistes en su pecho,
+    porque no faltaran medios,
+    noches, puertas, cartas, rejas,
+    si lo que gastáis en quejas,
+    gastárades en remedios.
+    Y que señales más grandes,
+    aunque encarecéis la costa
+    de que amastes por la posta,
+    pues las tomáis para Flandes.
+    Muy colérico amador
+    debéis de ser.
+FELICIANO:
+    Él se entiende
+    y quien de entenderse ofende
+    de una mudanza el rigor.
+    Ni sé yo para qué es bueno
+    mudarse, ni hacer traición,
+    ni a los que inocentes son
+    darles celoso veneno.
+    Mas para injustas mudanzas
+    hizo el cielo las ausencias,
+    por no andar en diligencias
+    de celos y de venganzas.
+    Partid, Carlos, bien hacéis,
+    dad a ese amigo en castigo
+    el iros, que si es amigo
+    ¿qué más venganza queréis?
+FISBERTO:
+    No te declares ansí.
+FELICIANO:
+    Todos tres nos entendemos.
+ESTEBAN:
+    Señor, ya es tarde. ¿Qué hacemos?
+CARLOS:
+    Dices bien, vamos de aquí.
+    Dadme, señores, licencia.
+AURELIO:
+    El cielo os lleve con bien.
+OCTAVIO:
+    Y os vuelva, Carlos, también
+    con salud de aquesta ausencia.
+[Váyanse Carlos y Esteban]
+ELISA:
+    ¡Ah, gentil hombre!
+ESTEBAN:
+    Señora.
+ELISA:
+    Si hoy no fuere la partida,
+    venidme a ver, por mi vida.
+ESTEBAN:
+    Mi dueño dice que agora,
+    mas yo le haré detener.
+ELISA:
+    Una carta os quiero dar.
+PAULA:
+    No sabes disimular.
+ELISA:
+    Paula, quisiera poder.
+AURELIO:
+    Pensó aqueste gentilhombre
+    que trato en Flandes tenía.
+FELICIANO:
+    Sí, señor, sí pensaría.
+AURELIO:
+    ¿Carlos decís que es su nombre?
+FELICIANO:
+    Carlos se llama.
+AURELIO:
+    ¿Por qué?
+FELICIANO:
+    Sacole el Emperador
+    de pila.
+AURELIO:
+    Estraño favor.
+    Pero ¿dónde y cómo fue?
+OCTAVIO:
+    ¿No ves que se está burlando
+    Feliciano?
+AURELIO:
+    Yo entendí
+    que era de veras. Aquí
+    os podéis quedar hablando,
+    en tanto que voy a ver
+    un caballo que he comprado.
+OCTAVIO:
+    Dejemos al desposado,
+    padre, pues ya lo ha de ser,
+    donde con menos recato
+    hable un rato con su esposa.
+AURELIO:
+    Bien dices, pues se desposa
+    mañana, que hoy hable un rato.
+[Vanse Aurelio y Octavio]
+FISBERTO:
+    Señora Paula, pues ya
+    nuestros dueños se han casado,
+    yo quedo muy obligado
+    y Vuesa Merced lo está,
+    a que de la misma suerte
+    nos queramos bien los dos.
+PAULA:
+    Estoy agora, por Dios,
+    poco menos que a la muerte.
+    Déjame, que se me va
+    cierta cosa de los ojos
+    que me ha de causar enojos.
+FISBERTO:
+    Luego ¿deso triste está?
+PAULA:
+    ¿No le parece ocasión?
+FISBERTO:
+    Teníala por mujer
+    de otra estima.
+PAULA:
+    Puede ser.
+FISBERTO:
+    Mal gusto.
+PAULA:
+    ¿Por qué razón?
+FISBERTO:
+    Es aquel hombre de aquellos
+    que se llaman en la corte
+    figuras.
+PAULA:
+    De hablar acorte:
+    ¿en qué le parece dellos?
+FISBERTO:
+    Todo hombre cuya persona
+    tiene alguna garatusa,
+    o cara que no se usa,
+    o habla que no se entona,
+    todo hombre cuyo vestido
+    es flojo o amuñecado,
+    todo espetado o mirlado,
+    todo efetero o fruncido,
+    todo mal cuello o cintura,
+    todo criminal bigote,
+    toda bestia que anda al trote
+    es en la corte figura.
+PAULA:
+    Con malos ojos miró
+    al soldado por los suyos.
+FISBERTO:
+    A mirarle con los tuyos,
+    fuera galán.
+PAULA:
+    ¿Por qué no?
+    Eso que figura llama
+    es un mocito en efeto,
+    entre bellaco y discreto,
+    que de todo tiene fama.
+    Con la mano en el registro
+    hace una guitarra hablar
+    y con la espada callar
+    a todo mortal ministro.
+    Es por lo agudo un milagro
+    y entre engañosas quimeras
+    tiene las burlas y veras
+    como pernil gordo y magro.
+    Es poeta de donaire
+    para seguidillas solas,
+    danza y con mil cabrïolas
+    dará de coces al aire.
+    Por lo que es noble yo salgo,
+    no hay que mirarle a los pies,
+    un don Diego Ordóñez es,
+    que, aunque es pobre, es buen hidalgo.
+FISBERTO:
+    Hablas, Paula, con pasión,
+    que este hombrecillo es un mico.
+PAULA:
+    Reportorio le suplico
+    con los que difuntos son.
+FISBERTO:
+    ¿Cómo difuntos?
+PAULA:
+    Ausentes,
+    que si presente estuviera...
+FISBERTO:
+    Le diera.
+PAULA:
+    ¿Con qué le diera?
+FISBERTO:
+    Con este pomo en los dientes.
+PAULA:
+    ¿Pomo? ¡Jesús! ¿Es de azahar?
+FISBERTO:
+    Por temer a Feliciano.
+PAULA:
+    Bueno está, baje la mano,
+    que no es libro de cantar.
+FISBERTO:
+    A Feliciano he mirado
+    y no habla con su esposa.
+PAULA:
+    Ni ella con él, brava cosa.
+FISBERTO:
+    ¡Buen principio de casado!
+    ¿Qué es esto? Pues ¿cómo estás
+    sin hablar a Elisa ansí?
+FELICIANO:
+    Como ella no me habla a mí,
+    no quiero enfadarla más.
+FISBERTO:
+    Sois los novios de Hornachuelos;
+    eso es «Comed, desposado».
+    ¿No come ella?
+FELICIANO:
+    Estoy turbado,
+    ni sé si es amor, ni celos.
+    Para amor no se lo debo,
+    para celos es temprano.
+    Dad licencia a Feliciano,
+    que cierto negocio llevo
+    para palacio forzoso.
+ELISA:
+    Vos, mi señor, la tenéis.
+FELICIANO:
+    Suplícoos que me mandéis
+    como a esclavo y como a esposo,
+    algo en que conozca yo
+    que el serlo vuestro estimáis.
+ELISA:
+    Para que de mí os sirváis,
+    licencia ese nombre os dio.
+    Id en buen hora y creed
+    que estimo tanto favor.
+FELICIANO:
+    Es muy propio del valor
+    hacer a humildes merced.
+[Váyanse Feliciano y Fisberto]
+PAULA:
+    Ya que Feliciano es ido,
+    te quiero reñir, señora,
+    el haberle hablado agora
+    con rostro tan desabrido;
+    ya sé que nace de ver
+    que Carlos se vaya a Flandes,
+    pero en desdichas tan grandes
+    es el valor menester.
+    ¿En qué piensas? Vuelve en ti.
+ELISA:
+    ¡Ay Paula, mi bien se va!
+    ¿Estará en las postas ya?
+PAULA:
+    Presumo, Elisa, que sí.
+ELISA:
+    Pues ¿qué haré yo que me muero?
+    La vida me ha de costar.
+PAULA:
+    Bien lo puedes estorbar.
+ELISA:
+    Paula, remediarlo quiero.
+    Vaya en buen hora el honor,
+    si es que algún remedio sabes.
+PAULA:
+    Como eso contigo acabes,
+    me ha parecido el mejor
+    dejar esta casa luego,
+    y irte a la de alguna amiga,
+    donde yo que estás le diga.
+ELISA:
+    Iba tan celoso y ciego,
+    que no ha de querer volver.
+PAULA:
+    Sí hará, que te adora el hombre.
+ELISA:
+    Honor, ya por vuestro nombre
+    hice cuanto pude hacer.
+    Perdonad y dad licencia
+    a mi amor.
+PAULA:
+    ¿Adónde irás?
+ELISA:
+    De Laurencia fío más.
+PAULA:
+    Pues cerca vive Laurencia.
+[Vanse y salen Laurencia y Sabina]
+LAURENCIA:
+    Presto, Sabina, le hallaste.
+SABINA:
+    De en cas de Aurelio salía.
+LAURENCIA:
+    ¿Y díjote que vendría?
+SABINA:
+    Hablele como mandaste
+    y leyendo tu papel
+    viene perdido de risa.
+LAURENCIA:
+    Pues baja y ábrele aprisa.
+SABINA:
+    Esteban viene con él.
+LAURENCIA:
+    No es Esteban de importancia.
+SABINA:
+    Ellos entran.
+LAURENCIA:
+    Tiemblo toda.
+    Sillas y estrado acomoda.
+[Entre Carlos y Esteban]
+LAURENCIA:
+    ¿De camino?
+CARLOS:
+    Voy a Francia.
+    Y en ninguna cosa veo
+    cuán desconocido estoy,
+    como en que digáis que soy
+    cosa que apenas la creo,
+    ¿quién Laurencia os ha engañado?
+LAURENCIA:
+    Estoy de vuestra partida
+    tan helada, que en mi vida
+    me he visto en mayor cuidado.
+    ¿Cómo o por qué causa os vais?
+    ¿Es por celos esta ausencia?
+    Que ya sin saber Laurencia
+    la ciencia que profesáis
+    adivina la ocasión.
+CARLOS:
+    Para con vos lo he fingido,
+    por dar pena a quien ha sido
+    la causa.
+LAURENCIA:
+    Tenéis razón.
+    Y con saber que no os vais,
+    Carlos, tan contenta quedo,
+    que diera albricias.
+CARLOS:
+    No puedo
+    pensar por qué me llamáis
+    para consultar comigo
+    vuestras bellas manos hoy.
+    ¿Quién os ha dicho que soy
+    quien buenas venturas digo
+    teniéndola yo tan mala?
+LAURENCIA:
+    Carlos, no me lo neguéis,
+    que bien sé que lo sabéis,
+    y que ninguno os iguala.
+CARLOS:
+    Esteban.
+ESTEBAN:
+    Señor.
+CARLOS:
+    ¿Qué es esto?
+ESTEBAN:
+    ¡Qué desatinado estás!
+    Pues ¿conocido no has
+    lo que esta pretende en esto?
+    Como a Feliciano amó
+    que por Elisa la deja
+    y tú della tienes queja,
+    pues que por él te dejó,
+    con este achaque ha querido
+    que juntéis venganza y celos.
+CARLOS:
+    No han hecho animal los cielos
+    tan agudo y entendido.
+ESTEBAN:
+    Toma la mano a Laurencia
+    y lo que piensa adivina,
+    mientras le digo a Sabina
+    otro poco desta ciencia,
+    que en amarla tomarás
+    gran venganza de los dos.
+CARLOS:
+    Bien me aconsejas, por Dios.
+    No quiero negaros más
+    lo que desta ciencia entiendo,
+    pero ha de ser condición,
+    el silencio, que es razón
+    porque en estremo me ofendo
+    de que entiendan que adivino.
+LAURENCIA:
+    A todo, Carlos, me allano.
+CARLOS:
+    Dadme, señora, la mano.
+LAURENCIA:
+    Veisla aquí.
+CARLOS:
+    ¡Favor divino!
+    Hago la cruz y la beso.
+LAURENCIA:
+    ¡Quedo! ¿La mano besáis?
+CARLOS:
+    ¿La cruz no más?
+LAURENCIA:
+    Bien entráis.
+CARLOS:
+    ¡Jesús, qué estraño suceso!
+    Aquí se ve claramente
+    que un hombre en estremo amáis
+    de quien mal pagada estáis...
+LAURENCIA:
+    ¡Qué ingenio!
+CARLOS:
+    Es cosa excelente.
+    Esta raya que atraviesa
+    es que otra mujer llegó
+    y este galán os quitó.
+LAURENCIA:
+    Y aun pienso que a vos os pesa.
+CARLOS:
+    Pesábame, pero ya
+    que desta mano me así,
+    la que por celos perdí
+    hoy la venganza me da.
+LAURENCIA:
+    ¿Qué decís?
+CARLOS:
+    Que aquí se ve
+    que vengaros intentáis
+    con otro hombre.
+LAURENCIA:
+    Y vos pensáis
+    que si lo intento podré.
+CARLOS:
+    Ya lo estoy aquí mirando,
+    y me parece que sí.
+LAURENCIA:
+    Miraldo en vos, porque en mí
+    ya está mirado.
+CARLOS:
+    ¿En vos, cuándo?
+LAURENCIA:
+    Antes que os diese ocasión
+    para adivinar mi gusto.
+CARLOS:
+    Que hablemos aparte es justo.
+LAURENCIA:
+    Hablemos.
+CARLOS:
+    ¡Brava invención!
+ESTEBAN:
+    ¿Y ella, señora Sabina,
+    no sabe que soy crïado
+    del astrólogo?
+SABINA:
+    ¿Ha tomado
+    algo de aquella dotrina?
+    Porque deseo saber
+    más de mil cosas.
+ESTEBAN:
+    Yo soy
+    el que malas vueltas doy,
+    mas quiero darle a entender
+    que en Valladolid había
+    un astrólogo estudioso,
+    que un pronóstico famoso
+    todos los años hacía.
+    Este tenía un crïado
+    que todo al revés de aquel
+    escribía otro papel,
+    y era siempre el acertado.
+    Murió el astrólogo en fin,
+    y el crïado no escribió,
+    y a quien se lo preguntó,
+    confesó que era un rocín,
+    y que acertaba después
+    que al amo contradecía,
+    que alquimia y astrología
+    se han de entender al revés.
+SABINA:
+    Nuestros amos me parece
+    que con gran contento están.
+ESTEBAN:
+    Vengarse los dos querrán.
+SABINA:
+    Ansí en el mundo acontece.
+ESTEBAN:
+    También tenemos los dos
+    de qué vengarnos.
+SABINA:
+    Fisberto
+    me deja.
+ESTEBAN:
+    Vuestro concierto
+    habemos visto los dos.
+    A mí Paula me ha dejado;
+    si me quieres, aquí estoy.
+SABINA:
+    ¡Ay, mi Esteban, tuya soy!
+LAURENCIA:
+    Carlos, verdad te he contado,
+    yo te comienzo a querer
+    por venganza y por furor,
+    pero acabará en amor
+    y en que seré tu mujer.
+CARLOS:
+    Cuando no fueras quien eres,
+    por vengarme te adorara,
+    tuyo he de ser.
+LAURENCIA:
+    Pues repara
+    en que mi honor consideres.
+CARLOS:
+    ¿Llamaron?
+LAURENCIA:
+    Pienso que sí.
+[Entra Maese Juan, que es el Escudero primero]
+ESCUDERO 1:
+    Aquí está Elisa, señora.
+CARLOS:
+    ¿Elisa aquí?
+LAURENCIA:
+    ¿Elisa agora?
+CARLOS:
+    Sabe que te ofende a ti,
+    y querrase disculpar.
+LAURENCIA:
+    ¿Qué haré, que es fuerza esconderte?
+CARLOS:
+    Esconderme fue mi muerte,
+    mas no se puede escusar.
+LAURENCIA:
+    Ponte detrás dese paño.
+CARLOS:
+    ¿Amor niño qué ha de hacer?
+    ¿Juega y juega al esconder,
+    cuando más descubre el daño?
+    Ponte, Esteban, a este lado,
+    veamos esta invención.
+ESTEBAN:
+    No es mucho si toros son
+    que andemos siempre en tablado.
+[Escóndense y salen Elisa y Paula]
+ELISA:
+    Porque de mí tendrás, Laurencia hermosa,
+    formada justa queja, no he querido
+    valerme de otra casa, ni a otra amiga
+    descubrir el secreto de mi honra.
+    Dirás que me he casado con tu esposo,
+    dirás que te he quitado a Feliciano.
+    Mi padre me forzó, mi humilde pecho
+    por su obediencia aventuró su gusto,
+    determineme a ser hija obediente,
+    verdad es que forzada obedecía.
+    Mas viendo que mi bien se parte a Flandes,
+    por no me ver casar y tan a prisa
+    que ya queda en la posta, mis entrañas
+    se han de manera enternecido, y tanto
+    pudo el ver en sus ojos una lágrima,
+    que loca sin honor, sin alma vengo
+    a pedirte que envíes quien le llame,
+    que aquí en tu casa le daré la mano
+    y eternamente quedaré por suya.
+LAURENCIA:
+    Elisa mía, ya acordaste tarde,
+    Carlos se fue, yo vi pasar las postas,
+    y desde estas ventanas admirada
+    le pregunté la causa por que hacía
+    tan súbita jornada, y respondiome:
+    «Por no aguardar que goce Feliciano,
+    Laurencia amiga, el bien mayor que tuve».
+    Diciendo ansí, cubrió los ojos Carlos
+    de un lienzo, y con dolor picó la posta,
+    de suerte que pasó cual suele el rayo,
+    que apenas de la vista se percibe.
+ELISA:
+    ¡Que es ido Carlos y que Elisa vive!
+    ¡Desventurada de mí
+    tan tarde a buscarle vine,
+    alma loca, pies cobardes,
+    qué tan poca prisa os distes!
+    ¡Qué obediencia fue la mía!
+    ¿El alma no nació libre,
+    Dios no me dio libertad,
+    pues qué es lo que dije y hice?
+    ¿Adónde hallaré mi bien?
+    ¿Por dónde podré seguirle?
+    ¡Cielos! ¿Si el alma me deja,
+    el cuerpo de qué me sirve?
+    ¡Oh, notable imposible,
+    que es ido Carlos y que Elisa vive!
+    Plega a Dios que si volviere
+    donde mi padre me obligue
+    a obedecerle jamás,
+    que antes la vida me quite.
+    Ve, amiga, y di que soy muerta,
+    di a mi padre que me viste
+    hacer pedazos. ¿Qué aguardas?
+PAULA:
+    Señora, tarde te afliges.
+    Advierte...
+ELISA:
+    ¿Qué he de advertir?
+PAULA:
+    Mira...
+ELISA:
+    ¿Qué quieres que mire?
+PAULA:
+    Laurencia, ayúdame.
+LAURENCIA:
+    ¿Cómo?
+ELISA:
+    ¿Que no le he de ver? ¡Ay, triste!
+    Que le dije que se fuese,
+    que pudieron divirtirse
+    dos almas que junta el cielo.
+    ¡Ah, Carlos! ¿Dónde te fuiste?
+    ¡Oh, notable imposible,
+    que es ido Carlos y que Elisa vive!
+CARLOS:
+    No puedo sufrir, Esteban,
+    aunque más celos me animen,
+    ni las lágrimas que llora,
+    ni las palabras que dice.
+    Salir quiero.
+ESTEBAN:
+    Tente un poco.
+CARLOS:
+    Que me tenga no es posible.
+    ¿No ves que me está adorando?
+ESTEBAN:
+    Ya que sabes que es tan firme,
+    véngate, ensánchate.
+CARLOS:
+    ¡Ah, cielos
+    que se me muere aquel cisne!
+    ¡Ay, cuán dulcemente canta!
+    Déjame que resucite
+    aquella Fenis de amor.
+ELISA:
+    ¿Cómo los cielos permiten
+    que viva Elisa muriendo
+    cuando Carlos se despide?
+    Pero verá el mundo agora,
+    que, si es Píramo, soy Tisbe.
+    ¡Oh, notable imposible,
+    que es ido Carlos y que Elisa vive!
+[Salen Octavio y Feliciano, tápense y escóndanse Elisa y Paula]
+OCTAVIO:
+    Mis partes has de hacer como cuñado.
+LAURENCIA:
+    (Elisa, este es Octavio y tu marido
+    viene con él, atápate y escóndete.
+ELISA:
+    Válame Dios.
+LAURENCIA:
+    Poneos las dos los mantos.
+ELISA:
+    Aquí detrás me escondo.)
+OCTAVIO:
+    ¿Por qué causa,
+    Laurencia, se escondieron estas damas?
+LAURENCIA:
+    Vienen de Atocha y por aquí se entraron,
+    que vienen por tocar y las mujeres
+    no quieren que las vean en bosquejo.
+    Mas ¿qué es la causa de que en esta casa
+    tengas esta licencia, Feliciano?
+FELICIANO:
+    Yo, Laurencia, no pienso que tuviera
+    atrevimiento de venir a verte,
+    menos que por hacerte este servicio.
+    No cree Octavio que te tengo hablado,
+    soy su cuñado y obligado amigo,
+    su bien deseo y lo será muy grande
+    para los dos, que con mi Elisa vivas.
+    Concluyamos aquesto, si te agrada,
+    pues de sus partes todo el mundo tiene
+    tanta satisfación. ¿Qué me respondes?
+LAURENCIA:
+    Que estoy casada.
+FELICIANO:
+    ¿Tú? ¿Con quién?
+LAURENCIA:
+    Con Carlos.
+OCTAVIO:
+    ¿Qué Carlos?
+LAURENCIA:
+    ¿No conoces a quien digo?
+OCTAVIO:
+    El Carlos que conozco es ido a Flandes.
+FELICIANO:
+    Dice muy bien Octavio, ese mancebo
+    tomó la posta agora.
+LAURENCIA:
+    Fue fingido
+    por cosas que le importan, mas lo cierto
+    es, que Carlos, Octavio, es mi marido,
+    yo soy mujer de Carlos.
+FELICIANO:
+    ¿A quién piensas,
+    Laurencia, que das celos con mentiras?
+LAURENCIA:
+    Si son mentiras lo verás mañana,
+    primera monición de nuestras bodas.
+OCTAVIO:
+    Feliciano, yo estoy sin seso, vamos
+    donde me informe si verdad nos dice.
+FELICIANO:
+    Digo que es ido Carlos por la posta.
+LAURENCIA:
+    Digo que está muy cerca de mí Carlos.
+OCTAVIO:
+    Vamos, por Dios, que yo sé dónde vive.
+FELICIANO:
+    Vamos, porque sosiegues, mas yo creo
+    que por dar pesadumbre, por dar celos,
+    Laurencia finge lo que no es posible.
+OCTAVIO:
+    ¡Ay, triste yo, si fuese verdad esto!
+    ¿De qué cielo he caído a tanta pena,
+    cuando más esperanza sustenía
+    la vida que guardé para Laurencia?
+FELICIANO:
+    No voy menos picado y afligido,
+    que no la quiero menos, que venganza
+    ha tomado de mí si fuese cierto.
+SABINA:
+    Con una piedra misma los has muerto.
+[Vanse Octavio y Feliciano, y salgan descompuestos Carlos, Elisa, Esteban y Paula]
+CARLOS:
+    Detente y no seas estraña,
+    que me quitaré la vida.
+ELISA:
+    Detente tú, y no me toques,
+    porque daré voces.
+CARLOS:
+    Mira
+    que soy tu Carlos, mi bien.
+ELISA:
+    ¿Tú mi Carlos?
+CARLOS:
+    Sí, mi Elisa.
+ELISA:
+    Tú mi muerte, tú mi infierno,
+    que tú mi bien, es mentira.
+CARLOS:
+    ¿Eres tú, Elisa del alma,
+    la que a buscarme venías,
+    como la cierva las aguas
+    de la ardiente yerba herida?
+    Pues ¿cómo, si me has hallado,
+    huyes de mí?
+ELISA:
+    Más me incitas
+    con ver que negar no puedes
+    el amor que me debías.
+    Cuando yo vengo a buscarte,
+    alma, fama, honra y vida
+    perdidas, te hallo escondido
+    a donde yo me escondía
+    de mi hermano y de mi esposo.
+    No más, hoy verás a Elisa
+    casada con Feliciano.
+CARLOS:
+    Mi bien, escucha.
+ELISA:
+    No digas
+    palabra, que no hay disculpa.
+    ¡Oh, qué graciosa partida,
+    qué lindas postas a Flandes!
+CARLOS:
+    Elisa, Elisa divina,
+    dulce Elisa de mis ojos,
+    estrella y luz de sus niñas...
+ESTEBAN:
+    Fuese, no te canses más,
+    aguarda, Paula querida,
+    Paula, Paula, de mis ojos,
+    lagaña de sus orillas,
+    oye.
+PAULA:
+    Váyase el picaño
+    con la señora Sabina,
+    pues que le escondió en su casa.
+[Vanse Elisa y Paula]
+CARLOS:
+    Dame licencia que siga
+    esta crüel.
+LAURENCIA:
+    Oye, Carlos.
+CARLOS:
+    Tu discreción me permita
+    que la detenga.
+SABINA:
+    Oye, Esteban.
+ESTEBAN:
+    Harele el rostro una criba.
+[Vanse]
+LAURENCIA:
+    Buenas habemos quedado.
+    ¡Oh, qué mala astrología!
+    Mas yo buscaré remedio,
+    que quien ama y solicita
+    todo cuanto quiere alcanza.
+SABINA:
+    Luego ¿ya Carlos te pica?
+LAURENCIA:
+    Si te digo lo que siento,
+    «quien bien ama, tarde olvida»,
+    mi verdad es Feliciano,
+    si me le dejase Elisa.
+
+JORNADA 3
+
+[Salen Feliciano y Fisberto]
+FISBERTO:
+    ¿Eso le dijiste?
+FELICIANO:
+    Sí,
+    este medio imaginé,
+    con que fuera le dejé
+    del casamiento y de sí.
+FISBERTO:
+    En efeto le pediste
+    cuatro mil ducados más.
+    Pues ¿cómo volviste atrás
+    la palabra que le diste?
+FELICIANO:
+    Celos de Laurencia son.
+FISBERTO:
+    Señor, en tu honor repara.
+FELICIANO:
+    «Más vale vergüenza en cara
+    que mancilla en corazón».
+FISBERTO:
+    No pienso que has acertado.
+FELICIANO:
+    ¿Por qué?
+FISBERTO:
+    Porque estando escrito
+    es, en ley de hombres, delito
+    y infamia en el que es honrado.
+    Cuando la palabra dieras
+    solamente, Feliciano,
+    en posesión de villano
+    quedaras, si la rompieras.
+    ¡Cuánto más una escritura!
+FELICIANO:
+    Eso fue en tiempos atrás,
+    que agora ¿dónde hallarás
+    fe ni palabra segura?
+    La firma, el prometimiento
+    son como nubes o espumas,
+    porque palabras y plumas
+    dicen que las lleva el viento.
+FISBERTO:
+    Esas plumas y palabras
+    no son las que a ti te obligan,
+    porque estas prenden y ligan
+    cuando bien los ojos abras.
+    El amigo que promete
+    por palabra o por papel
+    ser a su amigo fiel
+    desde una vez hasta siete
+    y no lo cumple, no importa;
+    el príncipe y el señor
+    que promete hacer favor
+    y en la ocasión se reporta,
+    mal hace, mas es costumbre;
+    el jüez y el escribano
+    que os promete dar la mano
+    y os da después pesadumbre,
+    no es del honor detrimento
+    que os haga prender después;
+    no es maravilla, pues es
+    vara sutil, pluma al viento,
+    que pretendiendo el que ama,
+    escriba y diga mil cosas,
+    y otras tantas fabulosas
+    al mismo amante la dama,
+    es negocio que se usa.
+    Que un sastre, que un oficial
+    mienta es cosa natural
+    porque con mentir se escusa,
+    pero que, habiendo firmado
+    una escritura, algún hombre
+    en infamia de su nombre
+    la niegue, no es hecho honrado,
+    demás de que le podrán
+    por justicia convencer.
+FELICIANO:
+    En cosas que entra mujer
+    mayor licencia nos dan,
+    que hasta dar un hombre el sí
+    delante de un sacerdote,
+    no hay infamia que le note,
+    ni fuerza a cumplirlo ansí.
+    Ya sabes que es ordinario
+    el no hacerse un casamiento.
+FISBERTO:
+    Que le hayas dejado siento.
+FELICIANO:
+    Dirán que soy hombre vario
+    y fundado en interés,
+    pero a lo que ves me esfuerza
+    querer casarme por fuerza,
+    que es muy mal hecho.
+FISBERTO:
+    No es,
+    pues dejaron el concierto
+    en tus manos, aunque viste
+    que hallado en su casa fuiste.
+FELICIANO:
+    Ya estás muy necio, Fisberto.
+    No ha de apretar al señor
+    de esa manera el crïado.
+FISBERTO:
+    Gente por la calle ha entrado.
+FELICIANO:
+    Rebózate.
+FISBERTO:
+    ¿No es mejor
+    entrar en cas de Laurencia?
+FELICIANO:
+    Es tarde para visita.
+FISBERTO:
+    Pues desta puerta le quita,
+    no obligues que la paciencia
+    de Otavio se vuelva en furia.
+FELICIANO:
+    ¿Qué me puede hacer Otavio?
+FISBERTO:
+    Sentir de Elisa el agravio
+    y satisfacer su injuria.
+[Entra Carlos  y Esteban, de noche]
+CARLOS:
+    Mira que hay gente en la calle.
+ESTEBAN:
+    Arrímate por ahí,
+    dos hombres están aquí.
+CARLOS:
+    ¿De qué talle?
+ESTEBAN:
+    De buen talle.
+CARLOS:
+    Mas ¿si fuese el desposado?
+ESTEBAN:
+    ¿Quieres que le dé un paseo?
+CARLOS:
+    Ver tu buen pecho deseo.
+ESTEBAN:
+    Voy.
+CARLOS:
+    Ve alerta y embozado,
+    pon de manera la capa
+    que no te estorbe al broquel
+    porque hay antuvión crüel
+    si ven que un hombre se escapa.
+ESTEBAN:
+    Ya estoy en mortal postura.
+CARLOS:
+    Camina, que aquí te espero.
+FISBERTO:
+    Aquí viene un caballero,
+    encubrirte bien procura.
+FELICIANO:
+    ¡Oh, cómo viene arrogante!
+FISBERTO:
+    ¡Él parece, o es malicia,
+    espía de la justicia
+    destos que vienen delante!
+ESTEBAN:
+    ¿Quién son?
+FELICIANO:
+    Decid vos primero,
+    quién sois, que lo preguntáis.
+ESTEBAN:
+    ¿No me ven?
+FELICIANO:
+    De espacio estáis.
+    ¿Quién sois?
+ESTEBAN:
+    Soy un caballero.
+FELICIANO:
+    ¿Pues por qué os toca saber
+    quién soy o cómo me llamo?
+ESTEBAN:
+    Porque lo manda mi amo.
+    (Creo que lo eché a perder.)
+FELICIANO:
+    Justicia es ésta, camina,
+    que aunque son principal gente,
+    el que sale impertinente
+    al más cuerdo desatina.
+FISBERTO:
+    Cierto que es tenerla en poco,
+    siendo de tan alto precio,
+    porque es la vara en un necio
+    palo en ciego, espada en loco.
+[Váyanse Feliciano y Fisberto]
+ESTEBAN:
+    ¿Qué te parece?
+CARLOS:
+    ¿Qué has hecho?
+ESTEBAN:
+    Llegué como un paladín
+    a estos hombres, porque en fin
+    importa mostrar buen pecho.
+    Y díjeles: «¡Caballeros!»,
+    y por mostrarme crüel,
+    hice sonar el broquel
+    con los temidos aceros.
+    «Yo he menester esta calle,
+    o matarlos a los dos.»
+    «Tomalda, señor, por Dios»,
+    dijo aquel de mejor talle,
+    «y dejadnos ir en paz.»
+    «Váyanse», dije, «a sus casas
+    y acuéstense.»
+CARLOS:
+    El mundo abrasas.
+    ¡Oh, cuánto encubre un disfraz!
+ESTEBAN:
+    ¿Qué es lo que habemos de hacer?
+CARLOS:
+    ¿No dices que has concertado
+    hablar con Paula?
+ESTEBAN:
+    He pensado
+    que te podrán conocer.
+CARLOS:
+    No harán, que estaré escondido,
+    aunque mucho mejor fuera
+    que yo ser tú me fingiera
+    y hablara a Paula atrevido.
+ESTEBAN:
+    ¿No podré decirle yo
+    lo que tú le has de decir?
+CARLOS:
+    ¿No lo sabrás tú sentir?
+    ¿Abrió la ventana?
+ESTEBAN:
+    Abrió.
+CARLOS:
+    Apártate, como que eres
+    yo, que estoy allí arrimado.
+ESTEBAN:
+    Habla como yo embozado,
+    ya que ser lo que soy quieres.
+[Elisa y Paula a lo alto]
+ELISA:
+    Aquí dijo que vendría
+    Esteban a hablarte agora.
+PAULA:
+    Esto me dijo, señora,
+    hoy que le hablé a mediodía.
+ELISA:
+    Gente a nuestra puerta veo,
+    que soy tú quiero fingir.
+PAULA:
+    ¿No le sabré yo decir
+    lo que tú tienes deseo?
+ELISA:
+    Desvíate, que ya llega.
+    ¿Es Esteban?
+CARLOS:
+    ¿Y tú a caso
+    eres Paula?
+ELISA:
+    (¡Estraño caso!
+    ¡Oh, cuánto amor puede y ciega!
+    En la voz he conocido
+    a Carlos.
+CARLOS:
+    Elisa es esta,
+    que la voz lo manifiesta,
+    aunque la voz ha fingido).
+ELISA:
+    Esteban ¿dónde ha quedado
+    aquel tu dueño crüel?
+    Mas ¿qué pregunto por él
+    si sé dónde le has dejado?
+    Estará con su Laurencia,
+    tú entre tanto a verme vienes.
+CARLOS:
+    Buena disculpa te tienes,
+    después que sabes su ausencia,
+    Carlos nunca tuvo amor,
+    ni aun pensamientos de amar
+    a Laurencia.
+ELISA:
+    Si negar
+    obliga a tanto furor,
+    lo que se sabe que es cierto,
+    lo que se ve ¿qué será?
+CARLOS:
+    Ya que ella casada está
+    y tú quieres a Fisberto
+    ¿para qué pueden ser buenos
+    los celos a sangre fría?
+ELISA:
+    Ni ella lo está, ni aun querría,
+    ni yo a Fisberto a lo menos.
+    Pero Carlos a Laurencia
+    bien sabemos que la adora.
+CARLOS:
+    ¿Cómo la adora, si agora
+    emprende tan larga ausencia?
+ELISA:
+    Que no se irá.
+CARLOS:
+    ¿Cómo no,
+    si esta tarde se ha partido?
+ELISA:
+    ¿Carlos es ido?
+CARLOS:
+    Ya es ido.
+ELISA:
+    ¿Se partió?
+CARLOS:
+    Ya se partió.
+ELISA:
+    Pues ¿a qué te deja a ti?
+CARLOS:
+    A despachar lo que lleva.
+ELISA:
+    Basta que le engaño y prueba
+    Carlos a engañarme a mí.
+CARLOS:
+    (¡Qué lindo picón le he dado,
+    que piensa que estoy ausente!)
+ELISA:
+    (Éste piensa llanamente
+    que su ausencia me ha picado,
+    y véole desde aquí).
+CARLOS:
+    Ahora bien ¿qué le diré,
+    porque mañana me iré?
+ELISA:
+    Lo que quisieres le di,
+    que yo sé que mi señora
+    viendo que quiere a Laurencia,
+    no sólo siente su ausencia,
+    pero que me dijo a mí
+    que mañana se casaba.
+CARLOS:
+    Fuego del cielo en Elisa.
+    ¡Oh, qué bien dice esa prisa
+    con la que a Carlos amaba!
+    Plega al cielo que casada
+    quede con tal mala estrella
+    que se haya dicho por ella
+    la bella mal maridada.
+    Plega al cielo que su esposo
+    sea siempre perseguido
+    de un cobarde bien nacido
+    y de un bajo poderoso.
+    Que el bien nacido cobarde
+    compra y busca algún traidor
+    y el humilde con favor
+    hace mal temprano o tarde.
+    Plega al cielo...
+ELISA:
+    Poco a poco,
+    que es mucho, señor lacayo.
+CARLOS:
+    Soy Carlos, soy furia y rayo
+    soy… ¿Qué soy? Basta ser loco.
+ELISA:
+    ¿Carlos, pues, no estaba ausente
+    porque a Laurencia no amaba?
+CARLOS:
+    Ausente de Elisa estaba
+    puesto que estaba presente.
+    Que ausencia como el olvido
+    ausente está el olvidado.
+    Mas tú que me has escuchado,
+    dile que mi muerte ha sido;
+    dile que es fiera crüel,
+    dile que es ira del cielo,
+    dile que no tiene el suelo
+    hoja, pluma, flor, papel
+    más ligera ni mudable,
+    dile...
+ELISA:
+    Paso, que soy yo.
+CARLOS:
+    Ya el alma te conoció,
+    luna veloz, mar instable.
+    Hasta agora no tenía
+    pensamiento de partirme,
+    que soy hombre, que soy firme
+    y era verdad mi porfía.
+    Pero agora desde aquí
+    pienso salir del lugar,
+    pero quiérome vengar.
+    Oye.
+ELISA:
+    Lo que quieres di.
+CARLOS:
+    Estos tus papeles son,
+    tus retratos y cabellos,
+    ni yo iré con ellos, ni ellos
+    conmigo en esta ocasión.
+ESTEBAN:
+    Tente, señor.
+CARLOS:
+    ¿Tú me tienes?
+ESTEBAN:
+    Porque te has de arrepentir,
+    que no has de poder vivir
+    si a hallarte sin ellos vienes.
+    Que por lo demás, no hay cosa
+    más discreta que rasgallos
+    por no ver después tocallos
+    una mano escrupulosa
+    que sin ver sus mocedades
+    dirá que son desatinos
+    porque siempre en los vecinos
+    se ven más las liviandades.
+    Da ese retrato al demonio,
+    no diga algún mentecato
+    que adoras en un retrato
+    y te ponga un testimonio
+    en ocasión de perderte.
+CARLOS:
+    ¿Tienes un papel ahí?
+    Fingiré que los rompí.
+ESTEBAN:
+    Buena industria.
+CARLOS:
+    Amor me advierte.
+ESTEBAN:
+    Si a darte otra cosa vengo
+    tan buena, no has de enojarte.
+CARLOS:
+    No haré.
+ESTEBAN:
+    Pues escucha aparte.
+    Diez o doce naipes tengo.
+CARLOS:
+    ¿Naipes?
+ESTEBAN:
+    Son para encajar
+    si necesidad se ofrece.
+CARLOS:
+    Muestra.
+ESTEBAN:
+    Lástima parece.
+CARLOS:
+    Estotros puedes guardar.
+    Elisa, hoy te dejo rota,
+    hoy rompo.
+ESTEBAN:
+    Y pudiera ser
+    si fuera mala mujer
+    y rompes alguna sota.
+CARLOS:
+    Tu retrato, que es razón
+    por figura, que del alma
+    te rompe ausencia y desalma,
+    la emprenta del corazón.
+    Rasgo estos falsos papeles
+    de la manera que miras,
+    para rasgar las mentiras
+    que escribir y decir sueles.
+    Rasgo amores y locuras,
+    y encarecimientos vanos.
+    ¡Ay, quién tuviera en las manos
+    esas tus entrañas duras!
+    Mas no quiero enternecerme
+    ni quiero volver a hablarte,
+    partirme quiero y dejarte.
+ELISA:
+    Oye mi bien, vuelve a verme.
+    Una palabra me escucha.
+CARLOS:
+    No hay palabra a quien las quiebra.
+PAULA:
+    ¡Esteban, Esteban!
+ESTEBAN:
+    Cebra
+    salmonada como trucha,
+    quínola soy sin descarte.
+[Vanse los dos]
+PAULA:
+    Fuéronse.
+ELISA:
+    Si no supiera
+    que no es ésta la primera
+    que se queda y que se parte,
+    perdiera el seso, mas creo
+    que no se irá del lugar.
+PAULA:
+    Tanto partir y quedar
+    fue siempre de amor rodeo.
+    Parece el cielo nublado
+    que no acaba de llover.
+ELISA:
+    Eso que pudo romper
+    me ha dado, Paula, cuidado.
+    Llama a ese viejo y deciende
+    con una vela a la calle
+    y, porque ninguno halle
+    mi letra, el papel enciende,
+    que puede ser que mi hermano
+    o mi padre entiendan esto.
+PAULA:
+    Yo bajo a llamarle presto.
+ELISA:
+    Yo espero.
+PAULA:
+    Esperas en vano.
+[Vase Paula]
+ELISA:
+    Qué propio es en amor, como lo cantan,
+    ir y quedarse, y con quedar partirse.
+    ¡Oh, cuántos pensamientos quieren irse
+    que al primer paso del partir se espantan!
+    Los pies con el agravio se adelantan
+    a la tierna piedad del despedirse.
+    Mas suele amor al mismo agravio asirse,
+    y sentarse donde ellos se levantan.
+    Si amor es un colérico acidente,
+    no puede hacer efetos de cobarde,
+    que es fuego, es ira, es furia, es rayo ardiente.
+    Mal huye quien de amor se abrasa y arde,
+    que como amor se precia de valiente,
+    vuelve la espalda a su enemigo tarde.
+[Salgan Paula y Marquina, que es el Escudero , con una linterna]
+MARQUINA:
+    ¿No me dejarás vestir?
+PAULA:
+    ¡Qué bueno para la prisa
+    que nos está dando Elisa!
+MARQUINA:
+    ¿Qué bestia podrá sufrir
+    tan estraño madrugar?
+PAULA:
+    ¿Si ella está ya levantada,
+    en qué os hace agravio?
+MARQUINA:
+    En nada.
+ELISA:
+    ¿Aún no acabáis de buscar?
+MARQUINA:
+    ¿Quién es?
+PAULA:
+    Mi señora es,
+    que está en la ventana.
+MARQUINA:
+    Admira
+    su cuidado.
+PAULA:
+    El papel mira.
+MARQUINA:
+    Vesle aquí, junto a tus pies.
+PAULA:
+    ¿Rasgolos todos aquí
+    Carlos cuando se partió?
+ELISA:
+    Sí.
+MARQUINA:
+    Solos naipes hallo yo.
+PAULA:
+    ¿Cómo?
+MARQUINA:
+    Naipes.
+PAULA:
+    ¿Naipes?
+MARQUINA:
+    Sí.
+PAULA:
+    Mira no sea el retrato
+    que está en naipe.
+MARQUINA:
+    La que ves
+    la sota de bastos es:
+    jugó, perdió y dio barato.
+PAULA:
+    Mira que el revés será.
+MARQUINA:
+    Por acá no hay otra cosa.
+PAULA:
+    ¡Hay industria más graciosa!
+    Mira si por dicha está
+    entre ellos algún papel.
+MARQUINA:
+    La guarnición está aquí
+    del as de espadas.
+PAULA:
+    Que ansí
+    nos burle aqueste crüel,
+    costándonos tantos lloros.
+    Vuelve estas espaldas blancas.
+MARQUINA:
+    Vuelvo.
+PAULA:
+    ¿Es papel?
+MARQUINA:
+    Son las ancas.
+PAULA:
+    ¿De quién?
+MARQUINA:
+    Del caballo de oros.
+PAULA:
+    Brujulea aquestos dos.
+MARQUINA:
+    Este el dos de copas es.
+PAULA:
+    ¿Que no hay papel?
+MARQUINA:
+    ¿No lo ves?
+PAULA:
+    Notable enredo, por Dios.
+ELISA:
+    ¿Qué es eso, Paula?
+PAULA:
+    Ha rompido
+    este amador de ventaja
+    por vengarse una baraja.
+ELISA:
+    La baraja de Cupido
+    billetes dicen que son.
+PAULA:
+    Esta tiene, en mi conciencia,
+    de su majestad licencia.
+ELISA:
+    No ha sido mala invención.
+    Éntrate, Paula, acostar.
+PAULA:
+    ¿Cómo acostar, si amanece?
+ELISA:
+    ¿Es ya el día?
+MARQUINA:
+    El día y crece.
+ELISA:
+    Ansí me pienso quedar.
+[Entra Elisa]
+PAULA:
+    Ya no sois más menester.
+MARQUINA:
+    Pues a componer me voy.
+PAULA:
+    ¿Qué tenéis que escrebir hoy?
+MARQUINA:
+    Nunca me falta que hacer
+    un villancico a un mezquino
+    que no mira por su casa
+    y corrige lo que pasa
+    en casa de su vecino.
+PAULA:
+    No os prendan.
+MARQUINA:
+    La torre es alta,
+    seguro estoy del papel,
+    pues no le prenden a él
+    que es el que tiene la falta.
+[Vanse, y salen Aurelio y Octavio]
+AURELIO:
+    No me consueles, porque no es posible.
+OCTAVIO:
+    ¿Es posible que tanto entendimiento
+    no pueda hallar remedio convenible?
+AURELIO:
+    Ningún remedio en mis desdichas siento.
+    Que agora pida cuatro mil ducados,
+    lleno todo el lugar del casamiento.
+    ¿Estos tienes por términos honrados?
+    Los que miran el oro y no la esposa
+    suelen después vivir desesperados.
+OCTAVIO:
+    Pienso, señor, que de Laurencia hermosa
+    debe de estar prendado Feliciano
+    y que esta ha sido treta cautelosa.
+    Déjale estar, que tiene de villano
+    algo, que por la corte se murmura.
+AURELIO:
+    Él por lo menos es hombre liviano.
+    Mal haya la sospecha mal segura
+    que tuve de mi Elisa, pues por ella
+    quise, Octavio, intentar tanta locura.
+    Casárase mejor con Carlos ella,
+    pobre en efeto, pero bien nacido,
+    y que hoy presumo yo que adora en ella.
+OCTAVIO:
+    Pues ¿tú qué piensas que la causa ha sido
+    para irse a Flandes?
+AURELIO:
+    Este casamiento
+    de Feliciano debe de haber sido.
+    Llama a Elisa, digámosle su intento.
+OCTAVIO:
+    ¿Estará levantada?
+AURELIO:
+    Sí, que sale
+    Paula vestida ya de su aposento.
+OCTAVIO:
+    Con el espejo entró.
+AURELIO:
+    Pues entra y dale
+    la nueva del deshecho trato nuestro.
+OCTAVIO:
+    Yo voy.
+AURELIO:
+    ¿Qué pena habrá que a tanta iguale?
+[Vase Octavio]
+    Si a Otavio los deseos no le muestro
+    que de vengarme tengo deste agravio
+    es porque estoy en el sufrillos diestro,
+    porque es mejor que no perder a Octavio.
+[Salen Elisa y Octavio]
+ELISA:
+    ¿Qué dices?
+OCTAVIO:
+    Que no te casas,
+    que pide otros cuatro mil
+    sobre los seis.
+ELISA:
+    Hombre vil.
+OCTAVIO:
+    Elisa, ya en eso pasas
+    del ánimo varonil.
+    ¿Qué se te da de perder
+    un hombre que más estima
+    el oro que tal mujer?
+AURELIO:
+    Pues, Elisa, ¿ansí me anima
+    tu discreto proceder?
+    ¿Llorando vienes a verme
+    cuando tu consuelo espero?
+ELISA:
+    Si acaba de sucederme
+    tanto mal, rigor tan fiero,
+    que ha de acabarme y perderme,
+    ¿qué te espanta el sentimiento?
+AURELIO:
+    ¿Piensas que te ha de faltar
+    más honrado casamiento?
+ELISA:
+    El ver mi honor murmurar,
+    señor, solamente siento.
+    ¿Qué dirán todos de mí,
+    sino que de un hombre fui
+    por defetos despreciada?
+AURELIO:
+    No será persona honrada
+    quien lo presuma de ti.
+ELISA:
+    ¿Cómo no, si estando hecho
+    y cerca de ejecutar
+    queda, como ves, deshecho?
+AURELIO:
+    Contra el rigor popular
+    no hay defensa de provecho.
+    Muchos tratan de casarse
+    que no llega a ejecución.
+ELISA:
+    Cuando es no más de tratarse
+    no suele quedar razón
+    para que puedan quejarse.
+    Mas cosa tan recibida,
+    tan hecha, tan admitida
+    de amigos y de parientes
+    ¿cómo, di Aurelio, no sientes
+    que me ha de costar la vida?
+    Pues bien creerás que no son
+    nacidas estas razones
+    de tenerle yo afición.
+AURELIO:
+    Con verte triste me pones,
+    Elisa, en más confusión.
+    ¿Qué puedo yo hacer en esto,
+    si este mancebo se ha puesto
+    en tener el dote en más
+    que tu virtud?
+ELISA:
+    Bien podrás
+    tomar un partido honesto,
+    dale deso que ha pedido
+    la mitad.
+AURELIO:
+    No ha de querer.
+ELISA:
+    Dalo todo.
+AURELIO:
+    ¿Tú has sabido
+    lo que he perdido?
+ELISA:
+    El perder
+    no es hacienda.
+AURELIO:
+    Hacienda ha sido.
+ELISA:
+    Pues diferente valor
+    tiene el honor.
+AURELIO:
+    Pues ¿qué honor
+    pierdes?
+ELISA:
+    Decir que me deja
+    por algún defeto.
+AURELIO:
+    Es queja
+    de poca fuerza en rigor.
+    Yo no tengo este dinero,
+    si no vendo hasta la casa
+    en que vivo.
+ELISA:
+    En mal tan fiero
+    la casa la hacienda abrasa,
+    y guarda el honor primero.
+AURELIO:
+    Tiene Octavio parte aquí.
+ELISA:
+    Octavio es hombre y por mí
+    se quedará sin hacienda.
+OCTAVIO:
+    Digo que se empeñe y venda
+    mi hacienda, Elisa, por ti.
+    Yo iré a buscar en la guerra
+    la muerte o la vida.
+ELISA:
+    Hermano,
+    tuya soy, mi rostro hierra.
+OCTAVIO:
+    Por casar a Feliciano
+    quedaré pobre en mi tierra.
+    Que lo que yo gano aquí,
+    es, que si él queda casado,
+    me queda Laurencia a mí.
+AURELIO:
+    Que Octavio sea soldado
+    por darte remedio a ti,
+    es cosa puesta en razón.
+    Mas ¿yo con qué viviré?
+ELISA:
+    Padre, a mi honor y opinión
+    remedio agora se dé,
+    pues las importantes son
+    que vos viviréis conmigo.
+AURELIO:
+    Ahora bien, pues quieres darte
+    a quien ha usado contigo
+    ese término y no es parte
+    ver que a ser pobre me obligo,
+    para no dar tu belleza
+    a quien con tanta bajeza
+    ha tratado tu valor,
+    y hombre, en fin, que puso amor
+    no en ti, sino en tu riqueza.
+    Yo digo que soy contento
+    de pasar lo que me queda
+    de vida, en un aposento
+    pobre porque hacerse pueda,
+    Elisa, tu casamiento.
+    ¿Si quien comienza a vivir,
+    como Octavio, está animoso,
+    yo tan cerca de morir,
+    por qué he de estar temeroso,
+    sino esforzarme y sufrir?
+    Ve, Octavio, y di a tu cuñado
+    que a los seis mil, cuatro añado,
+    y que diez mil le daré.
+OCTAVIO:
+    Yo voy.
+ELISA:
+    El cielo te dé,
+    por el remedio que has dado
+    a mi honor, tan larga vida,
+    que alcances los casamientos
+    de tus nietos.
+AURELIO:
+    Si ofendida
+    de los bajos pensamientos
+    de quien no fuiste querida,
+    me pones en tal rigor,
+    que ruegues será mejor,
+    que abrevie el cielo mis años.
+ELISA:
+    Tú verás mil desengaños
+    de los engaños de amor.
+[Váyanse, y salgan Feliciano, Laurencia, Fisberto y Sabina]
+LAURENCIA:
+    ¿Que te atrevas desa suerte
+    a entrar donde estoy?
+FELICIANO:
+    ¿Laurencia,
+    quién podrá hacer resistencia
+    a un enemigo tan fuerte?
+    Y yo no viniera aquí
+    si no te hubiera obligado.
+LAURENCIA:
+    ¿Cómo? ¿Habiéndote casado?
+FELICIANO:
+    ¿No me he casado por ti?
+LAURENCIA:
+    ¿Por mí? ¡Qué gracioso engaño!
+FELICIANO:
+    ¿Engaño llamas, señora,
+    el venir mi amor agora
+    a traerte el desengaño?
+LAURENCIA:
+    ¿Tú, desengaños a mí?
+FELICIANO:
+    Luego ¿pueden ser mayores?
+FISBERTO:
+    Laurencia, porque no ignores
+    que todo ha sido por ti,
+    yo quiero satisfacerte,
+    ya el casamiento cesó
+    y quien ayer te ofendió
+    hoy vuelve rendido a verte.
+    Ya queda todo acabado,
+    no tienes más que temer.
+LAURENCIA:
+    Pues ¿puédese deshacer
+    jurado, escrito y firmado?
+FISBERTO:
+    De común consentimiento
+    se deshizo.
+LAURENCIA:
+    Luego ya
+    Carlos seguro podrá
+    proseguir su pensamiento.
+FISBERTO:
+    Carlos se fue ayer, no creo
+    que le verá Elisa más.
+LAURENCIA:
+    ¿Cierto?
+FELICIANO:
+    Basta que me das
+    celos por lindo rodeo.
+    Carlos es ido. ¿Qué quieres?
+LAURENCIA:
+    ¿Que Carlos sin verme es ido?
+FELICIANO:
+    Fingirás que le has querido.
+FISBERTO:
+    El día que las mujeres
+    pueden vengarse de quien
+    la dio celos, no hay tratar
+    de que sabrán perdonar,
+    y más si buscarlas ven.
+    Laurencia, pues Feliciano
+    tus celos ha satisfecho,
+    vuelve su amor a tu pecho,
+    y no le abrases en vano.
+    Deja de decir que quieres
+    a Carlos ausente ya;
+    háblale, pues ves que está
+    rendido.
+LAURENCIA:
+    ¡Qué estraño eres!
+    Váyase a buscar a Elisa,
+    déjeme estar en mi casa.
+FELICIANO:
+    Da celos, castiga, abrasa,
+    mátame, véngate a prisa.
+    Pues vive Dios que he de ser
+    otro Carlos y irme a Flandes.
+FISBERTO:
+    Háblale.
+LAURENCIA:
+    No me lo mandes.
+FISBERTO:
+    ¡Qué temeraria mujer!
+    Mira que está reventando
+    por llorar.
+LAURENCIA:
+    Descanse un poco.
+FISBERTO:
+    ¿Quieres que se vuelva loco?
+FELICIANO:
+    Deja de estarla rogando,
+    no le digas más, Fisberto,
+    aprestemos la jornada,
+    pues queda desengañada
+    y yo de su engaño cierto.
+    Bien te dije yo mil veces
+    que era todo falsedad,
+    ¿que mujer trata verdad?
+LAURENCIA:
+    ¿Qué mejor trato mereces?
+FELICIANO:
+    Quédate, Laurencia, adiós.
+LAURENCIA:
+    ¿Vase de veras?
+FELICIANO:
+    ¡Qué bien!
+LAURENCIA:
+    ¿A Flandes?
+FELICIANO:
+    ¿Pues no?
+SABINA:
+    ¿Y también
+    Fisberto?
+FISBERTO:
+    También.
+SABINA:
+    ¿Los dos?
+FISBERTO:
+    Los dos, pues que tú nos dejas.
+SABINA:
+    ¿No ves que es tierra muy fría?
+FISBERTO:
+    Llevar desta se podría
+    Sabina, algunas pellejas.
+SABINA:
+    No, sino algunas albardas.
+LAURENCIA:
+    Quiero parecer mujer.
+FELICIANO:
+    ¿En qué, Laurencia?
+LAURENCIA:
+    En creer.
+FELICIANO:
+    ¿Si de mi fe te acobardas,
+    en quién la tendrás?
+LAURENCIA:
+    Que soy
+    por quien has dejado a Elisa.
+FELICIANO:
+    Mi bien todo es burla y risa.
+    Esta palabra te doy
+    de ser tuyo hasta la muerte.
+LAURENCIA:
+    Diga mal della.
+FELICIANO:
+    No es justo,
+    que es mujer.
+LAURENCIA:
+    Deme este gusto.
+FELICIANO:
+    Pues ¿querrasme?
+LAURENCIA:
+    Mucho.
+FELICIANO:
+    Advierte.
+    Digo que es necia y que es fea.
+[Abrácense]
+LAURENCIA:
+    No digas más «tuya soy».
+FISBERTO:
+    ¿Y yo voime o no me voy?
+SABINA:
+    ¿Cómo quiere que le crea?
+FISBERTO:
+    Porque te quiero.
+SABINA:
+    ¿Él a mí?
+FISBERTO:
+    Pues ¿no ves que estoy mortal?
+SABINA:
+    Dígame de Paula mal.
+FISBERTO:
+    ¿Querrame?
+SABINA:
+    Digo que sí.
+FISBERTO:
+    Digo que es un estropajo.
+SABINA:
+    Y yo que soy tuya.
+FISBERTO:
+    Tente,
+    que siento en la sala gente.
+SABINA:
+    Bien dices, hablemos bajo.
+[Entra Octavio]
+OCTAVIO:
+    Un paje tuyo que en la calle espera,
+    me dijo Feliciano que aquí estabas
+    y, con licencia de Laurencia, quiero
+    hablarte dos palabras.
+LAURENCIA:
+    Como sean
+    en mi presencia, yo la doy, Octavio.
+OCTAVIO:
+    Poco importa, Laurencia, que las sepas.
+FELICIANO:
+    Prosigue, Octavio, y di lo que me quieres.
+OCTAVIO:
+    Firmados los conciertos y escrituras
+    del casamiento de mi Elisa y tuyo,
+    pediste nuevamente, Feliciano,
+    que a los seis mil ducados te añadiesen
+    otros cuatro. Mi padre, alborotado,
+    se enojó de aquel término, mas viendo
+    lo que pierde en perderte y lo que gana
+    en ganarte, ha hecho cuenta con su hacienda
+    y halla que puede darte lo que pides
+    ayudándose un poco de la mía;
+    por mí te ofrece los diez mil ducados
+    y para aquesta noche tiene juntos
+    a todos sus amigos y parientes.
+    Vente conmigo y bésale las manos,
+    que ya queda la novia componiéndose
+    y toda nuestra casa alborotada.
+FELICIANO:
+    ¿Qué dices desto?
+LAURENCIA:
+    ¿Yo? Pues ¿a qué efeto
+    me pides parecer?
+FELICIANO:
+    Laurencia hermosa,
+    estas son cosas de honra y de tal suerte
+    que si dijese no, no pongas duda
+    de que nuestros linajes se perdiesen,
+    y que en mi vida...
+LAURENCIA:
+    Paso, no prosigas,
+    quieres decir que por diez mil ducados
+    no dejarás a Elisa.
+FELICIANO:
+    Pues ¿tú piensas
+    que me mueve interés?
+LAURENCIA:
+    ¿Y no está claro?
+FELICIANO:
+    Laurencia, las mujeres que no entienden
+    lo que es palabra, que jamás la guardan,
+    lo que es espada que no ven, ni ciñen,
+    piensan que todo...
+LAURENCIA:
+    Ya lo entiendo todo,
+    ya sé que es ley entre hombres la palabra,
+    ya sé que con espadas se defienden,
+    vete con Dios, y cásate.
+FELICIANO:
+    ¡Pues oye!
+LAURENCIA:
+    ¿Qué tengo ya que oír? Vete en buenhora,
+    que te aguarda la novia y se resfría.
+FELICIANO:
+    Si pudiera escusarlo, sabe el cielo
+    que tú fueras mi dueño. Ven, Octavio.
+OCTAVIO:
+    Mía serás, Laurencia, aunque te pese.
+FISBERTO:
+    Sabina, ya tú sabes que danzamos
+    los crïados al son de nuestros dueños:
+    él vuelve a Elisa y yo me vuelvo a Paula.
+    Dios sabe que me pesa.
+SABINA:
+    Yo lo creo.
+    Maldiga Dios la loca que se arroja
+    a quereros, bellacos socarrones.
+FISBERTO:
+    Tienes razón, pero, por vida mía,
+    que os sabéis esquitar famosamente
+    el día que tenéis la vuestra enfrente.
+[Vanse, y quedan Laurencia y Sabina]
+SABINA:
+    Feas habemos quedado.
+LAURENCIA:
+    Perdiendo el juïcio estoy,
+    pues que tal venganza doy
+    después de haberme vengado.
+    ¡Qué mal acuerdo tomé!
+    ¡Oh, quién esto adivinara
+    y a Feliciano le hablara
+    como al principio le hablé!
+    Somos mujeres, no hay duda,
+    la que más piensa que sabe
+    tiene el corazón sin llave
+    y toda el alma desnuda.
+    Pero sobre todo siento
+    que Carlos se haya partido,
+    que pienso que hubiera sido
+    contracifra de su intento.
+    ¡Oh, como soy desdichada!
+    Sin remedio estoy. ¿Qué haré?
+SABINA:
+    Que Carlos, en fin, se fue
+    para tan larga jornada.
+    También yo pierdo con él
+    mi poquito de venganza.
+LAURENCIA:
+    Ya no me queda esperanza
+    de poder tomarla dél.
+[Salen Carlos y Esteban]
+CARLOS:
+    Laurencia nos dirá bien
+    cómo ha sido el desconcierto.
+SABINA:
+    ¿Es Carlos?
+LAURENCIA:
+    Carlos, es cierto.
+SABINA:
+    ¿Y Esteban también?
+LAURENCIA:
+    También.
+CARLOS:
+    Dios te guarde.
+LAURENCIA:
+    ¿Carlos mío,
+    no eras partido?
+CARLOS:
+    Fingí
+    partirme, ya te advertí
+    de mi loco desvarío.
+    Pero agora lo estoy más
+    porque se ha desconcertado
+    el casamiento tratado,
+    de que albricias me darás
+    por Feliciano y yo a ti
+    por Elisa.
+LAURENCIA:
+    De tu engaño
+    viene a resultar mi daño,
+    que agora se van de aquí
+    Feliciano y su cuñado
+    tan vueltos a concertar,
+    que esta noche ha de quedar...
+CARLOS:
+    No me lo digas.
+LAURENCIA:
+    Casado.
+CARLOS:
+    Pues ¿danle lo que pedía?
+LAURENCIA:
+    Es rico, en nada reparan.
+CARLOS:
+    Hoy mis esperanzas paran,
+    si alguna en mi amor tenía.
+    Hasta perderse una cosa
+    parece que da dolor,
+    pero perdida es menor
+    porque ya el alma reposa.
+    No quiero hacer desatinos,
+    no quiero decir tampoco
+    despechos de amante loco
+    y de un hombre honrado indinos.
+    Pues Elisa se consuela,
+    quiérome yo consolar.
+LAURENCIA:
+    Y yo aprender a callar,
+    Carlos, de tan buena escuela.
+    Si te consuelas de Elisa,
+    de Feliciano lo estoy.
+CARLOS:
+    Sus firmas al viento doy
+    con mucho contento y risa.
+    Ya sus papeles cancelo,
+    sus obligaciones rasgo.
+LAURENCIA:
+    Basta, que este amor es trasgo,
+    ya es de fuego, ya es de hielo,
+    ya está aquí, ya no está aquí,
+    ya asoma por otra parte.
+    ¿Carlos, si yo quiero amarte,
+    querrás tú quererme a mí?
+CARLOS:
+    Eso rogarte querría
+    y que esta noche embozados
+    vamos a ver los casados.
+LAURENCIA:
+    ¿Qué mayor venganza mía?
+    Yo me pondré de disfraz.
+CARLOS:
+    Yo iré a tu lado también.
+SABINA:
+    ¿Y él quiere quererme bien?
+ESTEBAN:
+    Es un trasgo este rapaz:
+    ya conserva lo que topa,
+    ya pone en mortal destierro,
+    ya da con mano de hierro,
+    ya da con mano de estopa.
+    Pero rogarte querría
+    que me tuvieses amor.
+SABINA:
+    Hoy me vengo de un traidor,
+    tuya soy.
+ESTEBAN:
+    ¿Que tú eres mía?
+CARLOS:
+    Yo, Laurencia, estoy cansado
+    de sufrir competidores,
+    de ver amigos traidores
+    a mi mesa y a mi lado.
+    Todo es envidia y mentira,
+    todo es tratar con engaño,
+    quien más puede hace más daño:
+    dichoso el que se retira.
+    Contigo lo quiero estar.
+LAURENCIA:
+    Y yo ser tuya, mi bien.
+CARLOS:
+    Pues yo soy tuyo también.
+LAURENCIA:
+    La mano quiero obligar.
+CARLOS:
+    Ven conmigo.
+LAURENCIA:
+    Voy contigo.
+[Vanse los dos]
+ESTEBAN:
+    Sabina, yo estoy cansado
+    de ser paje mesurado
+    del señor hijo prodigo.
+    Yo me quiero retirar,
+    dame esa mano.
+SABINA:
+    Soy tuya.
+ESTEBAN:
+    Para que esto se concluya
+    y nos podamos casar,
+    ven conmigo a ver a Paula.
+SABINA:
+    ¿A quién te parezco, di?
+ESTEBAN:
+    A Orïana. ¿Yo a ti?
+SABINA:
+    Al mismo Amadís de Gaula.
+[Váyanse, y entren Aurelio y Otavio, Elisa muy gallarda de novia, Paula, Marquina, que es Escudero segundo, y músicos]
+AURELIO:
+    Llegad las sillas, tú, querida Elisa,
+    ocupa esa almohada.
+[Siéntense]
+OCTAVIO:
+    Ya pareces
+    novia en estar turbada y vergonzosa.
+AURELIO:
+    De la virtud es hija la vergüenza.
+MARQUINA:
+    ¿Quien no tiene vergüenza, qué bien tiene?
+AURELIO:
+    Cantad alguna letra mientras viene.
+MÚSICOS:
+    Es la letra de Marquina,
+    no sé si os ha de agradar.
+MARQUINA:
+    Puédela el Sofí cantar.
+OCTAVIO:
+    ¿Qué verso?
+MARQUINA:
+    Ciento pesina.
+AURELIO:
+    No la cantéis, que no habrá
+    noche en que pueda caber.
+AURELIO:
+    Hachas podéis encender.
+[Sale un paje.]
+PAJE:
+    Aquí Feliciano está.
+AURELIO:
+    ¿Viene acompañado?
+PAJE:
+    Viene
+    con sus deudos.
+AURELIO:
+    Entre, pues.
+[Entra Feliciano, de boda, y Fisberto]
+FELICIANO:
+    Dadme, señor, esos pies.
+AURELIO:
+    Mi pecho estos brazos tiene.
+OCTAVIO:
+    Aquí están también los míos.
+FELICIANO:
+    ¡Oh, hermano!
+OCTAVIO:
+    Hablad a vuestra esposa.
+FELICIANO:
+    Dad licencia, Elisa hermosa,
+    a que os diga desvaríos
+    que a los desposados dan
+    licencia para ser necios.
+ELISA:
+    Hoy queréis ganar dos precios:
+    de discreto y de galán.
+AURELIO:
+    Sentaos, por mi vida, aquí,
+    hasta que venga Lisardo.
+OCTAVIO:
+    Aqueste lugar os guardo,
+    vos solo estáis bien aquí.
+FELICIANO:
+    Bésoos mil veces las manos,
+    que como hermano me honráis.
+    ¿Por qué, señora, calláis?
+ELISA:
+    La lengua espera a las manos,
+    en tomándolas diré
+    lo que siento y, antes, no.
+[Entran Carlos y Laurencia, Esteban y Sabina, ellas con capotillos y sombreros, y ellos embozados]
+CARLOS:
+    Embózate como yo.
+LAURENCIA:
+    ¡A qué buen tiempo llegué!
+CARLOS:
+    Bizarra la novia está.
+LAURENCIA:
+    ¿Tú no ves que me das celos?
+CARLOS:
+    No han hecho cosa los cielos
+    que iguale contigo ya.
+ESTEBAN:
+    ¿No ves a Paula gallarda?
+SABINA:
+    ¿Quiéresme dar pesadumbre?
+CARLOS:
+    ¿Qué aguardan?
+LAURENCIA:
+    Lo que es costumbre.
+    A la bendición se aguarda.
+CARLOS:
+    Esteban.
+ESTEBAN:
+    Señor.
+CARLOS:
+    Por Dios,
+    que de mirarla me muero.
+ESTEBAN:
+    Tente firme.
+CARLOS:
+    Considero
+    qué gloria tendrán los dos.
+ESTEBAN:
+    ¿Qué gloria podrán tener,
+    que a dos días no sea infierno?
+CARLOS:
+    Yo le tomara y eterno,
+    al lado de tal mujer.
+ESTEBAN:
+    ¿Cuál dices?
+CARLOS:
+    El de casado.
+ESTEBAN:
+    Que no el de fuego.
+CARLOS:
+    Eso no,
+    aunque aquí le tengo yo
+    en mis entrañas cifrado.
+ESTEBAN:
+    Considera una mujer
+    a tu lado al acostar,
+    a tu lado al levantar,
+    y al mismo lado al comer.
+    Luego otra noche a tu lado
+    si el pie alargas, mujer topa;
+    si quieres tirar la ropa,
+    mujer te gana el cuidado;
+    si echas un brazo, mujer;
+    si miras, a mujer miras;
+    en mujer das si respiras
+    y aun te sabrá responder.
+    Considérala también
+    con dos mil imperfeciones,
+    que no caben en razones
+    ni en bocas de hombre de bien.
+    Y verás que esta Dïana,
+    que hoy como el sol maravilla,
+    por cualquiera fregoncilla
+    querrá trocarla mañana.
+[Entra Lisardo, viejo]
+LISARDO:
+    Gocéis los novios mil años,
+    mi querido hermano Aurelio,
+    y ellos os gocen a vos
+    con daros hermosos nietos.
+AURELIO:
+    ¡Oh, Lisardo! ¿Viene ya
+    el señor dotor?
+LISARDO:
+    Ya entiendo
+    que se quedaba aprestando.
+    Levantaros podéis luego,
+    que no tardará un instante.
+[Todos en pie]
+FELICIANO:
+    Mil años será un momento
+    de tocar tu hermosa mano,
+    bella Elisa.
+CARLOS:
+    ¡Oh, fieros celos!
+    ¿No sabrás tú hacer, Esteban,
+    aquí agora algún enredo
+    con que no puedan casarse?
+ESTEBAN:
+    ¿Cómo enredo?
+CARLOS:
+    Un fingimiento.
+ESTEBAN:
+    ¿Son a propósito aquí
+    unas cuchilladas?
+CARLOS:
+    Bueno.
+ESTEBAN:
+    ¿Con quién tengo de reñir?
+CARLOS:
+    Conmigo.
+ESTEBAN:
+    ¿No eres más necio?
+    Pondrannos estos en paz,
+    vendrán dos grifos de aquestos,
+    que llaman «campo» una sala,
+    y «desafío» un «teneos».
+    Llevarannos a la cárcel,
+    harannos tanto proceso,
+    y entre tanto los dos novios
+    cenarán diez huevos frescos,
+    dormirán en seis colchones
+    y nosotros al sereno.
+CARLOS:
+    Pues llega y dile «señora,
+    aquí está Carlos».
+ESTEBAN:
+    Si puedo,
+    yo llegaré por detrás;
+    ten tú cuenta como herrero,
+    que mientras los fuelles soy
+    pongas en la fragua el hierro.
+AURELIO:
+    Aquí pudieran tomarse
+    las manos, que después desto
+    viniera lo que esperamos
+    y fuéranse nuestros deudos.
+LISARDO:
+    Muy bien dice Aurelio.
+[Ase Esteban por detrás a Elisa]
+ESTEBAN:
+    Elisa,
+    Elisa ¿qué digo?
+ELISA:
+    ¡Ay, cielos!
+ESTEBAN:
+    Quedo.
+ELISA:
+    ¿Quién es?
+ESTEBAN:
+    ¿No lo ves?
+ELISA:
+    ¿Quién?
+ESTEBAN:
+    Estebanico.
+ELISA:
+    ¡Oh, perro!
+    ¿Tú has osado entrar aquí?
+ESTEBAN:
+    Aquel príncipe encubierto
+    de pluma y centillo de oro
+    es Carlos.
+ELISA:
+    ¿Quién dices?
+ESTEBAN:
+    ¡Bueno!
+ELISA:
+    ¿Cuál Carlos?
+ESTEBAN:
+    ¿Cuál? Carlos Quinto,
+    aunque más quisiera el sexto.
+ELISA:
+    Dile que de aquí se vaya,
+    dile que se salga luego.
+ESTEBAN:
+    Resolviose.
+CARLOS:
+    ¿Qué hay, Esteban?
+ESTEBAN:
+    Ea, que todo está hecho.
+CARLOS:
+    Besarte quiero en la cara.
+ESTEBAN:
+    Ten a las barbas respeto,
+    si no quieres que los dos
+    parezcamos en el beso
+    tú a Ganasa y yo a Trastulo.
+CARLOS:
+    ¿Qué es lo que dice en efeto?
+ESTEBAN:
+    Que te vayas y no pares
+    diez leguas deste aposento.
+CARLOS:
+    Mal te hagan mis desdichas.
+ESTEBAN:
+    Siempre esas albricias medro.
+AURELIO:
+    Para que quede entendido,
+    antes, hijos, que os casemos,
+    que esta es vuestra voluntad,
+    el sí de los dos espero.
+    ¿Queréis, Feliciano, a Elisa?
+FELICIANO:
+    Sí, señor.
+AURELIO:
+    ¿Es cierto?
+FELICIANO:
+    Cierto.
+AURELIO:
+    ¿Vos Elisa, a Feliciano?
+ELISA:
+    No, señor.
+AURELIO:
+    ¿Qué dices?
+ELISA:
+    Esto.
+AURELIO:
+    ¿Pues cómo, públicamente,
+    dices que no?
+ELISA:
+    Porque puedo.
+    ¿Si le quiero, no preguntas?
+    Pues digo que no le quiero,
+    que hombre que en dinero mira
+    y que se vendió por precio
+    más parece bestia que hombre
+    y bestia ¿para qué es bueno?
+    En seis mil ducados era
+    del casamiento el concierto,
+    pidió otros cuatro y si dije
+    que se los diese Aurelio
+    fue porque públicamente
+    supiesen lo que merezco
+    y el término deste hidalgo...
+FELICIANO:
+    Señora...
+ELISA:
+    Calla, grosero.
+AURELIO:
+    Hija, mira lo que pierdes.
+ELISA:
+    Señor, si este hidalgo pierdo,
+    tú ganas diez mil ducados.
+AURELIO:
+    ¿Cómo?
+ELISA:
+    Porque esposo tengo
+    que sin dineros me quiere.
+OCTAVIO:
+    ¿Adónde está?
+ELISA:
+    Yo le veo.
+AURELIO:
+    ¿Es acaso el embozado?
+ELISA:
+    Desembozaos, caballero.
+CARLOS:
+    Carlos soy.
+ELISA:
+    ¿Quiéresme?
+CARLOS:
+    Sí.
+ELISA:
+    La mano.
+CARLOS:
+    El alma y el pecho.
+LAURENCIA:
+    ¿Para aquesto me trujiste,
+    Carlos?
+CARLOS:
+    Cumplo lo que debo.
+FELICIANO:
+    ¿Es Laurencia?
+LAURENCIA:
+    Soy Laurencia.
+FELICIANO:
+    Has venido al mejor tiempo
+    del mundo, dame esa mano.
+LAURENCIA:
+    Tengo dueño.
+FELICIANO:
+    ¿Cómo dueño?
+LAURENCIA:
+    ¿Quiéresme, Octavio?
+OCTAVIO:
+    Pues ¿no?
+FISBERTO:
+    ¡Bueno quedas!
+FELICIANO:
+    Bueno quedo.
+SABINA:
+    Luego ¿yo seré de Esteban?
+ESTEBAN:
+    Mejor es que de Fisberto
+    porque soy de Paula yo.
+AURELIO:
+    ¡Qué valor!
+LISARDO:
+    ¡Famoso hecho!
+FELICIANO:
+    Ahora bien seré padrino
+    ya que otra cosa no llevo.
+CARLOS:
+    El ausente en el lugar
+    se queda en él y contento
+    da fin y os pide perdón
+    de sus faltas y sus celos.

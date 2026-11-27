@@ -1,0 +1,4440 @@
+# Del mal lo menos
+Autor: Lope de Vega
+
+JORNADA 1
+
+[Salen don Juan de Mendoza y Monzón, lacayo, de camino]
+DON JUAN:
+    Hoy hablo al Rey.
+MONZÓN:
+    Bien harás,
+    que ya se acaba el dinero.
+DON JUAN:
+    Presto las letras espero.
+MONZÓN:
+    Tarde letrado serás.
+DON JUAN:
+    El día que yo salí,
+    Monzón, de España, me dieron
+    esta palabra.
+MONZÓN:
+    Sí hicieron
+    y della testigo fui.
+    Mas ¿qué palabra se dio
+    en materia de dinero
+    que se cumpliese?
+DON JUAN:
+    Hoy le espero.
+MONZÓN:
+    ¿Hoy le esperas?
+DON JUAN:
+    Sí.
+MONZÓN:
+    Yo no.
+DON JUAN:
+    ¿Por qué?
+MONZÓN:
+    Porque no hay amigo
+    en las desdichas leal
+    y porque no viene mal
+    sin ser de otro mal testigo.
+    Pues es verdad que tendremos
+    orden de volver a España.
+DON JUAN:
+    En fortuna tan estraña
+    probé, Monzón, los estremos.
+    Ya, en efeto, me ausenté
+    y a Nápoles he llegado.
+    Don Tello quedó afrentado;
+    su necio mentís vengué.
+    Consejo fue el ausentarme
+    de quien no me quiere mal
+    porque de peligro tal
+    era imposible guardarme.
+    El tiempo lo hará mejor,
+    que es el que lo cura todo.
+MONZÓN:
+    Si no lo pone de lodo,
+    que es lo más cierto, señor.
+DON JUAN:
+    ¿Era mejor que aguardara
+    a una prisión? ¿O que diera
+    lugar que lavar pudiera
+    Tello su ofendida cara
+    con mi sangre?
+MONZÓN:
+    No lo apruebo.
+    Bien en Nápoles estás
+    que antes el no volver más
+    a España en los ojos llevo.
+    ¿Qué terribles leyes son
+    las del mundo? Por un tris
+    ha de haber luego un mentís,
+    y al mentís, un bofetón.
+DON JUAN:
+    El bofetón es afrenta
+    terrible y determinada
+    a un mentís; bien ordenada
+    al decir que un hombre mienta,
+    porque es la infamia mayor
+    y la mayor calidad
+    de un noble tratar verdad.
+MONZÓN:
+    Loco está el mundo, señor,
+    porque si el mentir afrenta
+    ¿cómo tantos hombres mienten?
+DON JUAN:
+    Porque está en que los afrenten
+    que un hombre la afrenta sienta.
+MONZÓN:
+    De suerte que el daño obliga,
+    para que se satisfaga,
+    no que la infamia se haga
+    sino que el otro lo diga.
+    Miente el que trata la dama
+    del amigo y la mujer;
+    miente el que le viene a ver
+    y a sus espaldas le infama;
+    miente el que dice que sabe
+    una cosa que no entiende;
+    miente el que calla y ofende
+    lo que era razón que alabe;
+    miente el que promete dar
+    y no da lo que promete;
+    miente el que juega, si mete
+    ayudas para ganar;
+    miente el que sustenta coche
+    sin renta ni señoría,
+    y el hipócrita de día
+    que quita capas de noche;
+    miente el que el pleito sustenta
+    donde no tiene justicia;
+    miente el que por la milicia,
+    sin servicios, pide renta;
+    miente el que, siendo una dueña,
+    raja, derriba y deshace,
+    y miente aquel que no hace
+    lo que a los otros enseña;
+    miente una dama que engaña
+    al que le da su dinero;
+    miente el papel lisonjero
+    con que a tantos enmaraña;
+    miente la que es roja y blanca
+    a puro afeite y color
+    y miente fingiendo honor
+    cuando de su gusto es franca;
+    miente si, tratando a dos,
+    uno a los hijos sustenta
+    y la que en años cincuenta
+    jura que son treinta y dos,
+    y yo miento, como ves,
+    a costa de tu caudal,
+    pues de lo que cuesta un real
+    te pongo en tu cuenta tres.
+DON JUAN:
+    No pensé que hoy acabaras,
+    que, en materia de mentir,
+    mucho se puede decir.
+MONZÓN:
+    Píntanle al mundo dos caras
+    y, si está tan recebido
+    el mentir como decís,
+    ¿por qué es afrenta el mentís?
+DON JUAN:
+    Porque anda el mundo fingido
+    y sólo el decirlo obliga
+    al que lo quiere encubrir;
+    que todos quieren mentir
+    y que nadie se lo diga.
+MONZÓN:
+    ¡El Rey!
+DON JUAN:
+    Allí te desvía,
+    que es ésta buena ocasión.
+MONZÓN:
+    ¿Y las cartas?
+DON JUAN:
+    Éstas son.
+MONZÓN:
+    No te turbes.
+DON JUAN:
+    No querría.
+[Salen el rey de Nápoles, la reina Beatriz, Casandra, prima del Rey, y Silvia, dama; el marqués Octavio y el conde Fabricio]
+REY:
+    Por vos quiero dejar esta jornada.
+REINA:
+    Oblígame en estremo Vuestra Alteza.
+MONZÓN:
+    (Llega. ¿De qué te turbas?
+DON JUAN:
+    Bien pareces
+    hombre ignorante, que los reyes turban
+    con la gran majestad que representan.
+MONZÓN:
+    Imagínale un hombre.
+DON JUAN:
+    Fuera un bárbaro,
+    que se ha de imaginar que representa
+    una imagen de Dios y, con respeto,
+    poner los ojos en sus pies. Yo llego.)
+    Dame a besar, señor, tus leales manos.
+REY:
+    ¿Quién eres, español?
+DON JUAN:
+    Un caballero,
+    no de los inferiores de Castilla,
+    que con deseo de servirte viene
+    desde su corte.
+REY:
+    ¿Pasas adelante?
+DON JUAN:
+    No, gran señor, que vengo, como digo,
+    sólo a servirte y creo que estas cartas
+    dirán la causa y el intento mío.
+[Lea el Rey]
+DON JUAN:
+    A Vuestra Alteza escribe la Duquesa.
+REINA:
+    Leeré de espacio lo que aquí me escribe.
+    ¿Quedaba con salud?
+DON JUAN:
+    Para serviros,
+    recién parida de un hermoso niño.
+REINA:
+    Dios se le guarde. ¿Dónde queda ahora?
+DON JUAN:
+    Queda en Valladolid, mas de partida
+    para Medina de Ruiseco.
+REINA:
+    Tengo
+    obligación de hacer por vos.
+DON JUAN:
+    Merece
+    la Duquesa el favor de Vuestra Alteza.
+REY:
+    Don Juan...
+DON JUAN:
+    Señor.
+REY:
+    ¿Qué pleitos son aquéstos?
+    ¿Importará que yo a mi primo escriba?
+DON JUAN:
+    Señor, no por agora, que es muy presto
+    porque es cierto disgusto que tuvimos
+    un caballero y yo.
+REY:
+    ¿Quedó afrentado?
+DON JUAN:
+    Era descolorido y algo libre
+    y púsele colores en la cara.
+CASANDRA:
+    (No es necio el español.
+SILVIA:
+    Ni de mal talle.)
+REY:
+    No tengas pena, que en mi casa tienes
+    patria, señor y amigo.
+DON JUAN:
+    Dios te guarde.
+REINA:
+    En ella quedas ya y en nuestro amparo.
+DON JUAN:
+    ¿Qué puedo yo temer, favorecido
+    de vuestras manos?
+CASANDRA:
+    (¡Qué españoles bríos!)
+[Éntrense los reyes y los demás y don Juan detenga cortésmente a Casandra]
+DON JUAN:
+    Suplico a Vuestra Excelencia
+    me escuche.
+CASANDRA:
+    ¿Decís a mí?
+DON JUAN:
+    Sí señora.
+CASANDRA:
+    Hablad.
+DON JUAN:
+    Aquí
+    me turba vuestra presencia,
+    que os confieso no haber visto
+    mayor belleza.
+CASANDRA:
+    Ya sé
+    vuestras lisonjas.
+DON JUAN:
+    ¿Podré,
+    si a tanta luz me resisto,
+    daros algunos recados
+    de deudos que allá tenéis?
+    Mas en sus cartas veréis
+    mis deseos y cuidados;
+    digo los que allá tenían
+    de vuestra salud.
+CASANDRA:
+    Creed
+    que os haré toda merced.
+DON JUAN:
+    Lo mismo de vos confían
+    y lea Vuestra Excelencia
+    la de la Duquesa sola.
+CASANDRA:
+    (La libertad española
+    se turba de mi presencia.
+    Pues no parece encogido
+    el español. He pensado
+    que es gala hacerse turbado
+    y que es respeto fingido.)
+[Abra la carta y lea entre sí]
+DON JUAN:
+    (¡Con qué gracia rompe el pliego!
+    Y no la tiene menor
+    en abrir puerta al amor.
+    ¡Con qué nieve enciende fuego!
+    Por cierto que allá en España
+    fue la fama desigual:
+    de que es prenda celestial
+    con la vista desengaña.
+    Si prima del Rey no fuera
+    y tan alto casamiento,
+    pienso que a mi atrevimiento
+    licencia de amarla diera.
+    ¡Oh, cuánto el alma goza
+    de aqueste dulce cuidado!)
+CASANDRA:
+    Yo he leído.
+DON JUAN:
+    Habeisme honrado.
+CASANDRA:
+    ¿Sois vos don Juan de Mendoza,
+    el que llaman en Castilla
+    el Alanceador?
+DON JUAN:
+    Yo soy
+    el que de veros estoy.
+CASANDRA:
+    ¿Que vos sois la maravilla
+    de las damas españolas?
+DON JUAN:
+    No crea Vuestra Excelencia
+    más de lo que ve en presencia
+    y en ella dos cosas solas
+    que son: un alto deseo
+    y un conocimiento igual.
+CASANDRA:
+    No es, Mendoza, desigual
+    a la opinión lo que veo.
+    Id con Dios, que yo hablaré
+    a la Reina mi señora
+    por vos.
+DON JUAN:
+    Y yo desde agora
+    hechura vuestra seré.
+    Guárdeos mil años el cielo.
+[Al entrarse con grandes reverencias, se venga enderezando el lacayo hacia Casandra]
+MONZÓN:
+    Conozca en esta ocasión,
+    Vuesa Excelencia, a Monzón.
+    ¡Quedo! ¿De qué es el recelo?
+CASANDRA:
+    ¿Quién sois?
+MONZÓN:
+    Un quien de aquél
+    por quien anda en quien yo ensillo.
+CASANDRA:
+    Ya os conozco.
+MONZÓN:
+    Y monacillo
+    de sus responsos también.
+    Soy un terrestre animal
+    que voy abriendo camino
+    al hombre más peregrino
+    que vio el curso celestial.
+    Soy de su taberna el ramo,
+    la tabla de su mesón,
+    de su tablero peón,
+    y el lucero de mi amo,
+    porque como él va delante
+    siempre que amanece el sol,
+    yo, deste sol español,
+    soy precursor caminante.
+CASANDRA:
+    Ya os conozco y me agradáis
+    por hombre de buen humor,
+    mas quién es vuestro señor
+    os ruego que me digáis.
+MONZÓN:
+    Éste es hijo natural,
+    si verdad, señora, os digo,
+    del famoso Rodrigo
+    Enríquez y al padre igual
+    en cuantas gracias le dio
+    el cielo. El padre es hermano
+    del Almirante.
+CASANDRA:
+    La mano
+    naturaleza templó
+    en la celeste armonía
+    formando a vuestro señor
+    –tal es su fama y valor,
+    su virtud y valentía–
+    y que sea natural
+    no pienso que es gran defeto.
+MONZÓN:
+    Guardara, a serlo, secreto,
+    como crïado leal,
+    mas no es cosa que desdora
+    la calidad de don Juan,
+    porque por madre le dan
+    una principal señora,
+    fuera de que allá en Castilla,
+    ya lo sabéis, esto basta.
+CASANDRA:
+    Mucho su virtud contrasta.
+MONZÓN:
+    Es espanto, es maravilla
+    de los moros granadinos;
+    es el jardín de las damas;
+    es árbol de cuyas ramas
+    se esperan frutos divinos.
+    El día que mi señor
+    salía con lanza al coso,
+    el toro más animoso
+    era un ciervo de temor.
+    No quedaba quien no alzase
+    la voz y le bendijese,
+    mujer que no le quisiese,
+    hombre que no le envidiase.
+    Es tan franco y liberal,
+    que da a todos, de manera
+    que, por dar, que nunca diera,
+    andamos en tanto mal.
+CASANDRA:
+    ¿Tanto ha dado?
+MONZÓN:
+    A un caballero
+    dio un bofetón tan bien dado,
+    que a Nápoles ha llegado
+    con este pobre escudero,
+    donde, si no es que provean
+    los Reyes sus desatinos,
+    nos iremos peregrinos
+    donde gentes no nos vean.
+CASANDRA:
+    ¿Fue sobre amores, acaso?
+MONZÓN:
+    En su vida tuvo amor.
+    Sólo he visto a mi señor,
+    y esto que digo de paso,
+    hablar bien en un retrato
+    de una Casandra, que es prima
+    deste Rey. Sólo éste estima
+    y es porque le halló barato
+    en una rica almoneda
+    y dejámonosle allá
+    por ser grande.
+CASANDRA:
+    Pues ya está
+    donde ver el vivo pueda.
+    Yo soy la prima del Rey.
+    Yo soy Casandra. Yo estoy
+    donde me veis.
+MONZÓN:
+    Y yo soy
+    un mulo, una bestia, un buey.
+    Perdonad mi descortés
+    término, que soy un loco.
+CASANDRA:
+    Ni tengo a don Juan en poco,
+    ni a quien su crïado es.
+    Venidme a ver, que no soy
+    mala para amiga.
+MONZÓN:
+    Beso
+    vuestros pies.
+[Vase Casandra]
+    Hay tal suceso...
+    ¡Oh cielo, gracias te doy
+    por el talle y proceder,
+    pues que no me ve mujer
+    que no diga «tuya soy»!
+    Estimarme desde aquí
+    por galán es justa ley,
+    pues una prima de un rey
+    se muere de amor por mí.
+[Vase y entra el conde Fabricio y el marqués Octavio]
+OCTAVIO:
+    ¿Que su ayuda de cámara le ha hecho?
+FABRICIO:
+    Ansí lo dicen, porque se ha informado
+    y, de sus calidades satisfecho,
+    lo más conforme al español le ha dado:
+    es pobre caballero y sin derecho
+    a la hacienda del padre.
+OCTAVIO:
+    Habéis hallado
+    un término bien nuevo, que disfraza
+    la bastardía pública en la plaza.
+FABRICIO:
+    Paréceme que habláis apasionado.
+OCTAVIO:
+    No. Lo he mirado bien y estoy contento
+    que el Rey humildemente le haya honrado.
+FABRICIO:
+    El español no muestra sentimiento.
+OCTAVIO:
+    ¿No os mueve a risa verle tan hinchado,
+    siendo un pobre escudero?
+FABRICIO:
+    Todo es viento
+    la arrogancia española. ¿Quién osara
+    mostrar a un rey tan arrogante cara?
+    Si fuera el Almirante o, cuando fuera
+    cabeza de Mendozas y Guzmanes,
+    no pienso que más grave respondiera
+    ni con más estudiados ademanes.
+    ¿Vistes el vestidillo?
+OCTAVIO:
+    Y le quisiera
+    preguntar si en España los galanes
+    entran en aquel traje a hablar los reyes.
+FABRICIO:
+    Con la necesidad, Marqués, no hay leyes.
+    Es como embajador, porque andar puede
+    en el traje que quiere, y le da gusto.
+OCTAVIO:
+    ¿Y no queréis que muy corrido quede?
+    Pues siendo un escudero fuera justo
+    reconocer quién somos.
+FABRICIO:
+    Eso excede
+    de lo que entonces fue común disgusto:
+    yo hablo de las galas y el lacayo.
+OCTAVIO:
+    De pensar en las calzas me desmayo.
+    Muerto de risa en ver, con el toldillo
+    que se quitaba muy a lo discreto
+    después de entrado el Rey, el sombrerillo
+    para engendrar de sí mayor conceto.
+FABRICIO:
+    Costoso era, por Dios, el vestidillo.
+OCTAVIO:
+    La maleta y las postas, en efeto,
+    le deslucieron. Llegarán baúles
+    con galas blancas, nácares y azules.
+FABRICIO:
+    ¿Para qué trata el Rey el casamiento
+    de Casandra y del rey de Dinamarca,
+    pudiéndola casar con este viento
+    que los dos polos con soberbia abarca?
+OCTAVIO:
+    Pues dicen que la habló.
+FABRICIO:
+    ¡Qué atrevimiento!
+OCTAVIO:
+    Fabricio, España es del diluvio el arca:
+    no hay sabandija que no se halle en ella.
+FABIO:
+    A Silvia he visto y a Casandra bella.
+[Salen a lo alto Silvia y Casandra]
+SILVIA:
+    (Fabricio está en el terrero.
+CASANDRA:
+    Y el Marqués está con él.)
+OCTAVIO:
+    (Hablar a Casandra quiero.
+FABRICIO:
+    Yo a Silvia, si amor crüel
+    me da licencia primero.)
+OCTAVIO:
+    ¿Qué manda Vuestra Excelencia
+    a Octavio, que en su presencia
+    no puede estar sin mostrar
+    a lo que puede llegar
+    un sentimiento de ausencia?
+CASANDRA:
+    ¿En qué ha parado, Marqués,
+    el concierto del torneo?
+OCTAVIO:
+    Si de vuestro gusto es,
+    mantendrale mi deseo
+    al poder y al interés.
+FABRICIO:
+    Señora Silvia, creed
+    que me va muy mal ausente…
+SILVIA:
+    Paciencia, Conde, tened.
+FABRICIO:
+    Porque me dice la gente
+    que ya no me hacéis merced.
+SILVIA:
+    Pedir más demostraciones
+    no cabe en gala, ni es justo
+    que ande el gusto en opiniones.
+FABIO:
+    Las opiniones del gusto
+    no se fundan en razones,
+    pero las quejas lo son.
+[Sale don Juan y Monzón]
+DON JUAN:
+    Espántame la razón,
+    si no es que la entiendo mal.
+MONZÓN:
+    ¿Persona tan desigual
+    ha de mostrarte afición?
+DON JUAN:
+    «No tengo a don Juan en poco»,
+    ¿no dijo?
+MONZÓN:
+    Sí dijo.
+DON JUAN:
+    ¿Pues?
+MONZÓN:
+    ¿Pues qué entiendes?
+DON JUAN:
+    Que estoy loco.
+MONZÓN:
+    «Ni a quien su crïado es»
+    ¿no es nada?
+DON JUAN:
+    Pienso que toco
+    las estrellas con la mano
+    en tan loco atrevimiento.
+    Pero el pensamiento humano
+    es libre y vuela en el viento,
+    que es Fénix del viento vano.
+    Allí nace y allí muere
+    y allí otra vez resucita.
+    En fin, Monzón, saber quiere
+    quién soy.
+MONZÓN:
+    Tu cuidado imita
+    y en ser mujer te prefiere.
+DON JUAN:
+    ¿Dijístele que no era
+    legítimo?
+MONZÓN:
+    Lo primero.
+DON JUAN:
+    ¡Mal te haga Dios!
+MONZÓN:
+    Oye, espera.
+DON JUAN:
+    ¿Qué he de esperar, majadero?
+MONZÓN:
+    ¿Pues no es mejor que te quiera
+    con tus tachas, como mula?
+DON JUAN:
+    Mucho el amor disimula,
+    pero hay gran desigualdad.
+MONZÓN:
+    Con eso la voluntad
+    come los viernes sin bula.
+    Pues también me preguntó
+    si amabas, muy colorada.
+DON JUAN:
+    ¿Cierto?
+MONZÓN:
+    Y respondile yo:
+    «ama una dama pintada
+    y esto porque la compró
+    barata en una almoneda».
+DON JUAN:
+    ¿Dijiste el nombre?
+MONZÓN:
+    Sí.
+DON JUAN:
+    ¡Bueno mi honor por ti queda,
+    necio! ¿Qué dirá de mí?
+MONZÓN:
+    ¿Quién hay que sufrirte pueda?
+    Di agora que has de querer
+    mujer que ha de ser mujer
+    de un hombre de más de marca.
+DON JUAN:
+    ¿Quién?
+MONZÓN:
+    El rey de Dinamarca.
+DON JUAN:
+    Luego ¿amar no puede ser?
+MONZÓN:
+    ¿Hay amor sin esperanza?
+DON JUAN:
+    El mío.
+MONZÓN:
+    Reírme quiero
+    de tu amor y tu mudanza.
+DON JUAN:
+    Damas hay en el terrero.
+MONZÓN:
+    Pues alto un bocado alcanza,
+    como mula de camino
+    cuando pasa por el prado.
+DON JUAN:
+    Yo intento un gran desatino.
+    ¿Voy bien?
+MONZÓN:
+    Algo corcovado.
+DON JUAN:
+    Es que a Casandra me inclino.
+    Aquí un español tenéis
+    para que dél os sirváis.
+[Azóranse los dos]
+OCTAVIO:
+    Español ¿qué pretendéis?
+DON JUAN:
+    Hablar, señor, donde habláis
+    y ver el cielo que veis.
+OCTAVIO:
+    ¿Quién os ha dado licencia?
+DON JUAN:
+    ¿Quién a los dos os la dio?
+OCTAVIO:
+    ¡Qué graciosa impertinencia!
+    Haceos allá.
+DON JUAN:
+    Yo soy yo,
+    y a no ser por Su Excelencia…
+FABIO:
+    Ea, que es descompostura.
+    Ya sabemos quién sois.
+DON JUAN:
+    Soy
+    tan bueno que me asegura
+    el mismo sol donde estoy,
+    pues no me abrasa y me apura.
+    Cuando el señor don Rodrigo
+    no fuera mi padre, digo
+    que por mí mismo soy tal,
+    que ningún hombre es igual
+    del Rey abajo conmigo,
+    y que puedo estar aquí,
+    en palacio y donde quiera
+    que me diere gusto a mí.
+OCTAVIO:
+    No respondo, aunque quisiera.
+DON JUAN:
+    ¡Quiera o quítese de ahí!
+FABIO:
+    ¿La espada empuñáis?
+DON JUAN:
+    Pues ¿qué
+    traigo alguna rueca al lado,
+    como alguna que se ve?
+FABIO:
+    ¡Si es loco!
+OCTAVIO:
+    Ansí lo he pensado.
+FABIO:
+    Vamos.
+OCTAVIO:
+    Yo me vengaré.
+[Vanse]
+DON JUAN:
+    ¡Gallinas! ¡Viven los cielos!
+SILVIA:
+    (Bravo anduvo el español.)
+MONZÓN:
+    Espérate y seguirelos.
+DON JUAN:
+    ¡Detente! –esto puedes, sol,
+    cuando me abrasas de celos–.
+MONZÓN:
+    Las gallinillas mojadas,
+    con las alas envainadas...
+    ¿No me dejarás?
+DON JUAN:
+    No más.
+SILVIA:
+    (Suspensa, Casandra, estás.
+CASANDRA:
+    Desmáyome en viendo espadas.
+    Vámonos de aquí. ¡Al revolver
+    el guante se me cayó!
+SILVIA:
+    Pídele.
+CASANDRA:
+    No puede ser.
+SILVIA:
+    Pues el español le alzó.
+CASANDRA:
+    Silvia ¿qué le puede hacer?
+SILVIA:
+    Cosa que a favor lo mida,
+    que es español y arrogante.
+CASANDRA:
+    Razón habrá que lo impida,
+    que es pobre y es darle guante
+    para que limosna pida.)
+[Quítanse]
+DON JUAN:
+    ¿Hay ventura igual?
+MONZÓN:
+    Dirás
+    que el guante es grande ventura.
+DON JUAN:
+    Pues, necio, ¿puede ser más?
+MONZÓN:
+    Dí «puede ser más locura»,
+    que pienso que acertarás.
+    Haz, por tu vida, un soneto
+    a este guante.
+DON JUAN:
+    Dentro está
+    un papel.
+MONZÓN:
+    Muestra a qué efeto.
+DON JUAN:
+    Yo te digo que tendrá
+    algún notable conceto.
+    No son más que dos razones.
+MONZÓN:
+    ¿Qué dicen?
+DON JUAN:
+    ¡Qué confusiones!
+[Lea]
+    «España, doce, jardín,
+    que sin principio no hay fin».
+MONZÓN:
+    Qué dices: ¿pares o nones?
+DON JUAN:
+    «España, doce, jardín,
+    que sin principio no hay fin».
+    ¿Qué te ríes, majadero?
+MONZÓN:
+    Quedo, declararle quiero.
+DON JUAN:
+    ¿Qué ingenio?
+MONZÓN:
+    Soy un rocín.
+    «España» y «doce» es mostrar
+    que un español a las doce
+    está por desayunar.
+    «Jardín» que a nadie conoce
+    y que se vaya a cavar.
+    «Que sin principio no hay fin»
+    es que sin trabajo humano
+    no hay comer, ni hay un cuatrín.
+DON JUAN:
+    Hablaste como villano,
+    tu oficio imitaste, en fin.
+    Yo lo entiendo de otra suerte.
+MOZÓN:
+    ¿Cómo?
+DON JUAN:
+    «España» y «doce» advierte
+    que a las doce el español
+    por el jardín hable al sol.
+MONZÓN:
+    ¿Tú intentas buscar tu muerte?
+DON JUAN:
+    Sin duda a hablarla me anima
+    por el jardín, y a este fin
+    dice Casandra en su enima:
+    «España, doce, jardín».
+    Y el fin del principio estima,
+    porque quien no se atreviere
+    al principio, dice, en fin,
+    que ningún remedio espere,
+    «que sin principio no hay fin»,
+    y ha de buscarle el que quiere.
+    Ea, toma una rodela
+    y esta noche al jardín vamos.
+MONZÓN:
+    Lindo engaño te desvela.
+    Tú verás si no llevamos,
+    como muchachos de escuela.
+    «España» y «doce» es, en fin,
+    pues no hay esperar regalos
+    de un jardín donde hay mal fin,
+    que nos darán doce palos
+    con la tranca de un jardín.
+[Váyanse y entren la Reina y Casandra]
+CASANDRA:
+    Esta merced me has de hacer.
+REINA:
+    ¿Qué te obliga?
+CASANDRA:
+    Haberme escrito
+    a quien yo quiero infinito
+    y a quien debo agradecer
+    otros oficios mayores
+    que hace en España por mí.
+REINA:
+    Mejor lo hará el Rey por ti.
+CASANDRA:
+    Haz que me salgan colores.
+    El Rey es mi primo hermano
+    pero tú del Rey mujer,
+    sin esto puedes creer
+    que merecimiento humano
+    no llega al de este español.
+    Es deudo del Rey y es hombre
+    que tiene puesto su nombre
+    entre los rayos del sol.
+    ¿Nunca has oído decir
+    don Juan el Alanceador?
+REINA:
+    Yo le haré todo favor.
+CASANDRA:
+    Pues esto le has de pedir,
+    que a tanto merecimiento
+    oficio de ayuda es poco.
+REINA:
+    Tú verás que le provoco
+    a toda merced.
+CASANDRA:
+    No intento
+    esto con más interés
+    que servir a quien me escribe.
+REINA:
+    Basta que en tu amparo vive.
+CASANDRA:
+    Don Juan de Mendoza es
+    de lo mejor de Castilla.
+REINA:
+    Todo lo entiendo muy bien.
+CASANDRA:
+    Que tan corto oficio den
+    al monstruo, a la maravilla
+    del mundo, ofende el valor
+    de tan generosos reyes,
+    porque también tienen leyes
+    de hacer merced y favor.
+REINA:
+    Vete y fíate de mí.
+CASANDRA:
+    Advierte bien que a don Juan
+    en otras partes le dan
+    más favor que tiene aquí.
+REINA:
+    Digo, Casandra, que haré
+    lo que por mi propio hermano.
+CASANDRA:
+    Es don Juan gran cortesano.
+REINA:
+    Sí, Casandra, ya lo sé.
+CASANDRA:
+    Ha de ser muy efectivo
+    este ruego con tu esposo;
+    efectivo y cuidadoso.
+REINA:
+    Digo que ya me apercibo.
+    Bien puedes irte; no creas
+    que ha de haber descuido en mí,
+    que basta agradarte a ti
+    para que servida seas.
+CASANDRA:
+    Pues advierte que el Rey viene.
+REINA:
+    Hoy tendrá tu gusto efeto.
+CASANDRA:
+    ¿Díjete que era discreto
+    y el buen donaire que tiene?
+REINA:
+    Estraña estás ya, cuñada.
+    Que es un ángel entendí;
+    que lo que me obliga a mí
+    es el saber que te agrada.
+    El Rey viene, aguarda un poco.
+CASANDRA:
+    (¡Qué mal se encubre el amor,
+    porque es su oficio y rigor
+    volver al más cuerdo loco!)
+[Sale el Rey y vase Casandra]
+REY:
+    Dareisme esos memoriales
+    cuando tenga más lugar.
+    Señora...
+REINA:
+    Yo os vengo a hablar.
+REY:
+    Ya lo he visto en las señales
+    del regocijo que ha hecho
+    el alma en que la mandéis.
+REINA:
+    Cuántas mercedes me hacéis,
+    tan dignas de vuestro pecho
+    no igualan con las que ahora
+    os vengo a pedir.
+REY:
+    Pues creo
+    que conocéis mi deseo;
+    no lo dilatéis, señora.
+    Mandadme, que obedeceros
+    hace, y aun es justa ley,
+    que me alegre de ser rey
+    porque, después de quereros,
+    se ha de seguir el serviros,
+    y serviros sin poder
+    me había de entristecer.
+REINA:
+    Luego bien podré deciros
+    con mucha seguridad
+    lo que quiero.
+REY:
+    Y de tal suerte
+    que me ofreceré a la muerte
+    por mostraros voluntad.
+REINA:
+    Mil años el cielo os guarde.
+    Don Juan de Mendoza tiene,
+    como el que estranjero viene,
+    atrevimiento cobarde
+    para deciros que es poco
+    el oficio que le dais.
+REY:
+    Señora, engañada estáis
+    cuanto él arrogante y loco.
+    ¿Sabéis bien su calidad?
+REINA:
+    ¿No basta ser forastero?
+REY:
+    Su padre es gran caballero
+    y yo le tengo amistad,
+    pero llaman en Castilla
+    a estos hijos «de ganancia».
+REINA:
+    Que sea en Castilla o Francia
+    ¿no es milagro o maravilla?
+    Que no todos los que han sido
+    reyes legítimos son,
+    ni es en don Juan ocasión
+    para ser mal admitido,
+    que es hombre cuyo valor
+    único celebra España
+    y a todo un reino no engaña,
+    sin méritos, el amor.
+    ¿Jamás oíste decir
+    «el Alanceador Mendoza»?
+REY:
+    Su fama ese nombre goza.
+    Pienso que lo pude oír.
+    ¿Pero qué tiene que ver
+    con que vos mostréis pasión?
+REINA:
+    Ser lo que digo razón
+    y tan posible de hacer...
+    Cuando levantan los reyes
+    a quien quieren desde el suelo
+    a las estrellas del cielo,
+    ¿con qué razón, con qué leyes
+    más que ser tu voluntad?
+    ¿Qué disculpa dan si es culpa?
+REY:
+    No dan los reyes disculpa,
+    que es libre la majestad.
+    Y hacer hombres de la tierra
+    es en lo que imita el rey
+    a Dios.
+REINA:
+    Luego es justa ley.
+REY:
+    (Esto algún misterio encierra.)
+REINA:
+    Es gallardo este español.
+    Es deudo del Rey y es hombre
+    que tiene puesto su nombre
+    entre los rayos del sol.
+    Y a tanto merecimiento
+    oficio de ayuda es poco.
+REY:
+    (Casi a enojo me provoco.)
+REINA:
+    Mudad, por mi vida, intento
+    y haced a don Juan merced.
+REY:
+    (¡Válame Dios! ¿Qué será?)
+REINA:
+    ¿Qué decís?
+REY:
+    (¡Qué necia está!)
+REINA:
+    Que no es mi interés creed.
+REY:
+    (Su afición me maravilla;
+    no habla sin interés.)
+REINA:
+    Don Juan de Mendoza es
+    de lo mejor de Castilla.
+REY:
+    Digo que lo creo ansí.
+REINA:
+    Cualquier príncipe le hiciera
+    merced, si ampararse fuera
+    de su reino, como aquí
+    a vuestra grandeza viene.
+REY:
+    Todo lo entiendo, en efeto.
+REINA:
+    ¿Heos dicho cómo es discreto
+    y el buen donaire que tiene?
+REY:
+    Yo lo tengo visto bien.
+    Bien os podéis ir, señora,
+    que aunque no le den ahora
+    de otro aumento el parabién,
+    por vos le tendrá muy presto.
+REINA:
+    Guárdeos muchos años Dios,
+    que yo sé bien que los dos
+    tenemos ganancia en esto.
+[Váyase]
+REY:
+    Qué estrañas confusiones, qué desvelos
+    causa en amor una pregunta incierta
+    que, como el alma está tan encubierta,
+    sólo puede el temor correr sus velos.
+    Igual hicieron el amor, los cielos
+    y la primer sospecha descubierta
+    a no cerrarles el amor la puerta.
+    Donde sale el valor, entrarán celos.
+    Qué poco la grandeza le aprovecha
+    a la sospecha del honor tirano,
+    si tiene el miedo la opinión deshecha.
+    ¿Qué sirve el cetro en poderosa mano?
+    Que poderse librar de una sospecha
+    no cabe en fuerzas del poder humano.
+[Vase y entra don Juan y Monzón, de noche, con rodela]
+DON JUAN:
+    ¿Entiendes algo del cielo?
+MONZÓN:
+    Soy la misma astrología.
+DON JUAN:
+    ¿Qué horas serán?
+MONZÓN:
+    Las once.
+DON JUAN:
+    ¿Quién lo dice?
+MONZÓN:
+    Las cabrillas.
+DON JUAN:
+    ¿Las cabrillas? ¿De qué modo,
+    que pienso que desatinas?
+MONZÓN:
+    ¿No tiene el carro del norte
+    cuatro mulas que lo tiran?
+    ¿Las cabrillas no son siete,
+    con la que a lo escuro pintan?
+    ¿Cuatro y siete no son once?
+    Pues las once son. ¿Qué miras?
+DON JUAN:
+    ¿Hay locura semejante?
+MONZÓN:
+    ¿Y es la primera, por dicha,
+    que los astrólogos dicen
+    en las cosas que adivinan?
+DON JUAN:
+    Esos son los judiciarios,
+    que, cuando la astronomía
+    es matemática ciencia,
+    toda verdad se averigua.
+MONZÓN:
+    No sé, pardiez. No lo entiendo.
+    Allá en el cielo imaginan
+    perros, culebras, lagartos,
+    osos, liebres, peces, liras,
+    dragones, carneros, cancros
+    y cosas tan peregrinas,
+    que han hecho su claro espejo
+    camarín de sabandijas.
+DON JUAN:
+    En fin, ¿no serán las doce
+    por tu ciencia y por la mía?
+MONZÓN:
+    Mirarelo más de espacio.
+    Muy cerca son. Dadme albricias
+    desto y de que dice el signo
+    capricornio que, si pisas
+    este jardín, cogeremos
+    fruto a palos como encinas,
+    mas que librarnos podemos
+    me ha dicho el signo de libra,
+    si nos vamos acostar.
+DON JUAN:
+    Tú, que de miedo suspiras.
+    Yo no, que el signo león
+    tal influencia me inspira,
+    que he de serlo en conquistar
+    esta bella Sofonisba.
+MONZÓN:
+    ¡Oh, qué mal traída historia!
+    Pues no hay aquí Masinisa
+    ni romano Scipïón.
+DON JUAN:
+    ¡Calla, bestia, romancista!
+MONZÓN:
+    Oh, tú debes saber
+    hablar con ortografía.
+    Como si no hubiese bestias
+    entre estos que latinizan.
+    Hay mil hombres como ovejas
+    que se les pasan los días
+    sólo en decir «be, be, be»,
+    llena la boca de harina
+    y no hay, al cabo del año,
+    ni cosa dicha, ni escrita,
+    ni hay más de «yo sé, yo sé»
+    hasta que acaben la vida.
+DON JUAN:
+    ¡Calla, maldígate Dios!
+    que siento en las celosías
+    del jardín una mujer.
+MONZÓN:
+    Tienes razón ¡y qué linda!
+    ¿Hay hombre más importuno?
+    ¡Que des en esta porfía…!
+    Desde que ayuda te hicieron
+    te sufro por melecina.
+DON JUAN:
+    Quedo. ¿No ves que los lirios
+    suben el olor, que espiran
+    las alejandrinas rosas
+    y retamas amarillas?
+    ¿No ves el azahar más fuerte?
+    ¿Y no ves las fuentes frías
+    hacer música en los cuadros,
+    en arroyuelos partida,
+    y que, quebrada en las piedras,
+    hacen divina armonía
+    los tiples en las arenas,
+    los tenores en las guijas?
+MONZÓN:
+    Me quemen si tal he visto;
+    antes pienso que en mi vida
+    tan gran disparate ha dicho
+    la fabulosa poesía.
+DON JUAN:
+    No estuviera aquí conmigo
+    un hombre de ingenio… Mira
+    que en el amor estas cosas
+    son divinas energías...
+MONZÓN:
+    Herejías, pienso yo.
+DON JUAN:
+    ¿Hablan?
+MONZÓN:
+    Las fuentes serían
+    que de ver tus necedades
+    se están cayendo de risa.
+DON JUAN:
+    Dancen esas blancas perlas,
+    fuentes puras, cristalinas,
+    que del aurora que viene
+    no es mucho que deis albricias.
+[Asómase Casandra]
+CASANDRA:
+    ¡Ce! ¿Quién es?
+DON JUAN:
+    (Hablaron.
+MONZÓN:
+    Sí.
+    O es ella o alguna ninfa
+    mármol de esas fuentes.
+DON JUAN:
+    Calla.)
+CASANDRA:
+    ¡Ce! ¿Quién es?
+DON JUAN:
+    (¡Ay, voz divina!)
+    Un español que a las doce
+    de la noche de su día
+    viene a este jardín a dar
+    principio a impresa tan rica,
+    porque no hay fin sin principio.
+CASANDRA:
+    Ya que de vos entendida
+    y de la noche ayudada,
+    de mi vergüenza contina
+    puedo hablar. ¿Cómo os diré
+    a lo que el veros me obliga?
+DON JUAN:
+    Y yo ¿cómo diré mis pensamientos
+    si estoy, señora, de esperanzas falto
+    por verme sin tener merecimientos
+    en el principio ya de un bien tan alto,
+    que apenas los primeros movimientos
+    dan a los muros deste cielo asalto
+    cuando más abrasado que Faetonte
+    caigo en el mar del estrellado monte?
+    Vine de España huyendo mi fortuna
+    y di en la esfera de mi propio fuego,
+    pues sin remedio de esperanza alguna
+    por el mar de mis lágrimas navego.
+    Pluguiera a Dios que la primera cuna,
+    o la segunda, me sirviera luego
+    de sepultura, o que la mar de España
+    me diera fin y no la tierra estraña.
+    Si habéis de ser mujer de un rey, señora
+    ¿qué pretende mi loco pensamiento?
+    Si para estrado al sol nace la aurora
+    ¿qué es lo que siendo humilde noche intento?
+    Mas con la muerte que me espera agora
+    vos quedaréis vengada y yo contento,
+    que en tanta pena, en confusión tan fuerte,
+    también para los tristes hubo muerte.
+CASANDRA:
+    Don Juan, lo que conciertan las estrellas
+    no ha menester palabras escusadas.
+    Yo pienso que esto ha sido fuerza dellas
+    y que están en mi muerte conjuradas.
+    Amé en tu ausencia las virtudes bellas
+    de la fama en Italia celebradas
+    con que tu nombre al mundo dilataste
+    y sin ver tus verdades me obligaste.
+    No se espante, si es hombre, el que supiere
+    que yo te hablo ansí, que amor no espanta,
+    y si es mujer, temiendo considere
+    que puede verse en desventura tanta.
+    No porque yo, don Juan, gozarte espere,
+    testimonio que el alma se levanta,
+    que si esperara ser tu mujer, creo
+    que no vieras tan fácil mi deseo.
+    Háblote ansí porque vendrán mañana,
+    por ventura, por mí y aunque quisiera
+    resistirme a mi primo y de liviana
+    el nombre por tu gusto mereciera,
+    cuanto un amor desatinado allana,
+    que tus heroicas partes considera
+    ser tan humilde tú me dificulta
+    de donde el daño de los dos resulta.
+[Salen el conde Fabricio y el marqués Octavio, con rodela]
+DON JUAN:
+    Ya no puedo responderos,
+    que viene gente a la calle.
+OCTAVIO:
+    Él parece de buen talle
+    y no de malos aceros.
+FABRICIO:
+    Pues ¿por el jardín, galán?
+OCTAVIO:
+    Si es acaso el desposado,
+    que dicen que disfrazado
+    licencia de hablar le dan.
+DON JUAN:
+    ¿Qué es esto, Monzón?
+MONZÓN:
+    Dos hombres.
+DON JUAN:
+    Dales vuelta, el rostro en capa.
+MONZÓN:
+    Si dijeras «huye», «escapa»,
+    acertaras con los nombres.
+DON JUAN:
+    ¿Pues cuándo fuiste cobarde?
+MONZÓN:
+    Aquesto no es cobardía,
+    sino el saber que aquí había
+    peligro, así Dios te guarde.
+    «España, doce, jardín»:
+    cata aquí doce en campaña
+    deste jardín contra España.
+DON JUAN:
+    Habrá «cierra España». En fin,
+    que estoy ya favorecido.
+OCTAVIO:
+    ¿Qué nos quieren, embozados?
+    Caballeros o crïados:
+    ¿qué quieren?
+MONZÓN:
+    (Miedo han tenido.
+DON JUAN:
+    Dales, Monzón, otra vuelta.
+    Mira si conoces algo.
+MONZÓN:
+    Tiemblan, por la fe de hidalgo.)
+FABRICIO:
+    (Aquésta es gente resuelta.
+    ¿Qué haremos?
+OCTAVIO:
+    Sacar la espada.)
+FABRICIO:
+    ¿Qué quieren?
+DON JUAN:
+    Saber quién son.
+OCTAVIO:
+    (Díganlo ellos, que es razón.)
+MONZÓN:
+    Mienten, dije, y que son nada.
+DON JUAN:
+    (A ellos Monzón.
+MONZÓN:
+    Yo basto.
+    Vuélvete a tu puesto.
+DON JUAN:
+    Voy.)
+[Huyen y va tras ellos Monzón]
+    Bravos, a fe de quien soy,
+    poco de la sangre basto.
+    Si son ansí los demás
+    que este terrero pasean...
+CASANDRA:
+    ¡Ah, caballero! ¿Quién soys?
+DON JUAN:
+    (Ya se os olvidan las señas.)
+    Un crïado de don Juan
+    de la española braveza,
+    que de una mortal herida
+    tiñe de sangre la hierba.
+CASANDRA:
+    ¿Es sin duda?
+DON JUAN:
+    ¿No escucháis
+    con qué lástima se queja?
+CASANDRA:
+    ¿Qué aguardas, cobarde vida,
+    pues yace a tu causa muerta
+    la del mejor español
+    que las historias celebran?
+    ¡Ay de mí!
+DON JUAN:
+    Quedo, señora.
+    No lloréis de esta manera.
+    Don Juan es vivo, yo soy.
+CASANDRA:
+    Mil veces, don Juan, lo seas.
+    Pero no te puedo hablar,
+    que viene gente a las rejas.
+    Adiós.
+DON JUAN:
+    Acordaos de mí.
+    Dadme, señora, una prenda.
+CASANDRA:
+    El guante que me quedó
+    te doy para que lo sea,
+    que pues no tienes las manos,
+    bien es que las cajas tengas.
+[Vase]
+DON JUAN:
+    ¿Qué es esto, fortuna mía?
+    ¿Para qué conmigo vuelas
+    de tu rueda a los estremos,
+    si ha de bajarme tu rueda?
+    Pero gente viene aquí.
+[Entre Monzón rebozado con tres capas: la suya y las dos de los que huyeron]
+    Un hombre hacia mí llega
+    con una capa con ojo.
+    Pues si es el que huyó, no vuelva,
+    que si le traté de burlas,
+    ya le emprenderé de veras.
+    ¿Quién es? ¿No responde? Bueno.
+    ¿Quién es? ¿No habla? Es de piedra.
+    Pues quitarele el rebozo.
+[Quítale un rebozo]
+    Bien, por Dios. Otro le queda.
+    ¿Qué es esto, hidalgo? ¿Quién sois?
+    ¿Cómo sufrís esta afrenta?
+    ¿Sois noble? ¿Por qué calláis?
+    ¿Si es el Rey? ¿Qué enima es esta?
+    Sea quien fuere, que otra vez
+    y otras muchas, como fuera
+    necesario, os le quitara.
+[Quítale otro rebozo]
+    Bien, por Dios. ¡Otro le queda!
+    Válame Dios, si es difunto
+    que pena por estas huertas
+    delitos que en ellas hizo.
+    Pero lo que fuere que sea
+    otra vez le he de quitar
+    el rebozo.
+[Quítele el rebozo y ríase mucho Monzón]
+MONZÓN:
+    ¡Gran braveza!
+DON JUAN:
+    ¿Quién es?
+MONZÓN:
+    Monzón, ¿no lo ves?
+DON JUAN:
+    ¿Estás en tu seso, bestia?
+MONZÓN:
+    Dejaron aquellos dos
+    las capas en la pendencia
+    y por no me resfrïar
+    las traigo desta manera.
+DON JUAN:
+    ¿Quién serían?
+MONZÓN:
+    Dos gallinas.
+DON JUAN:
+    ¿Cómo te ha ido?
+MONZÓN:
+    Allá fuera
+    te diré lo que ha pasado.
+DON JUAN:
+    Que si tú dos capas llevas,
+    yo llevo, Monzón, dos guantes
+    de otra pendencia más tierna.
+MONZÓN:
+    Basta, que ha sido esta noche
+    de cuatro capas la fiesta.
+
+JORNADA 2
+
+[Salen Fabio y el Rey]
+REY:
+    Mira Fabio si por dicha
+    está en el retrete Octavio.
+FABIO:
+    Yo voy.
+[Vase Fabio]
+REY:
+    Yo mismo me agravio.
+    ¿Puede haber mayor desdicha?
+    Apenas después de dicha,
+    una afrenta del honor
+    debe creerla el valor,
+    y yo, sin que nadie advierta
+    mis celos, abro la puerta
+    a mil temores de amor.
+    Esto sin duda es querer
+    a Beatriz con tal estremo,
+    que mis propios miedos temo
+    y no lo que puede ser.
+    Dice el temor que es mujer,
+    mas dice el amor que es mía;
+    dice el temor que podría
+    tener a don Juan amor,
+    y entre el valor y el temor
+    crece el amor la porfía.
+    ¿Posible es que ha entrado en mí
+    tan extraño pensamiento?
+    ¿Qué es lo que pienso? ¿Qué intento?
+    ¿Qué entendí? ¿Qué vi? ¿Qué oí?
+[Salen Fabio y Octavio]
+FABIO:
+    Señor, Octavio está aquí.
+REY:
+    Retírate un poco, Fabio.
+OCTAVIO:
+    ¿Qué es lo que mandas a Octavio?
+REY:
+    (De la cifra de un torneo
+    celos sacaron deseo
+    para averiguar mi agravio.
+    Pero sin más declararme
+    que lo que basta a mi intento,
+    quiero de mi pensamiento
+    fingidamente informarme.
+    Que pueda amor obligarme
+    a tan injustos desvelos...
+    Pero como son los cielos
+    difíciles de entender
+    eso debió de querer
+    decir quien os llama celos.)
+    Marqués, yo estoy muy servido
+    de vos en este torneo.
+OCTAVIO:
+    Sólo agradarte deseo.
+REY:
+    Fiesta como vuestra ha sido;
+    sobre todos ha lucido
+    vuestro valor.
+OCTAVIO:
+    Es agravio
+    de muchos y honor de Octavio.
+REY:
+    Las empresas no entendí.
+OCTAVIO:
+    Yo, señor, las aprendí
+    de una relación de Fabio.
+REY:
+    Holgareme de sabellas.
+OCTAVIO:
+    Diré las que me acordare
+    y Vuestra Alteza repare
+    que son de amor las más dellas.
+    Sacó Arnaldo tres estrellas
+    con tres letras en las tres:
+    «i», «c» y «f», que de Inés,
+    Celia y Fenicia serían
+    nombres.
+REY:
+    ¿Qué versos?
+OCTAVIO:
+    Decían:
+    «Felice quien vuestro es».
+REY:
+    Pues ese mismo es el nombre;
+    así su dama se llama.
+OCTAVIO:
+    Sacó Leonelo una rama
+    de ciprés, tan gentil hombre
+    de negro, que ningún hombre
+    le aventajó.
+REY:
+    Bien. Por cierto:
+    ¿qué letra?
+OCTAVIO:
+    «Un triste ya es muerto».
+REY:
+    Significolo el ciprés;
+    árbol de difunto es.
+OCTAVIO:
+    Sacó una esfinge, Roberto.
+REY:
+    Ya la vi. ¿Qué alma le dio?
+OCTAVIO:
+    Medio verso del Petrarca
+    que todo el sentido abarca.
+REY:
+    ¿Cómo?
+OCTAVIO:
+    «Intendame chi pò».
+REY:
+    Bien su secreto mostró,
+    que para sí le reserva.
+OCTAVIO:
+    Celio, un volcán que conserva
+    su fuego en nieve.
+REY:
+    Era amor.
+OCTAVIO:
+    Díjolo el verso mejor.
+REY:
+    ¿Cuál?
+OCTAVIO:
+    «Latet anguis in herba».
+    Lidio una devanadera
+    en un pie firme traía.
+REY:
+    ¿Qué es lo que decir querría?
+OCTAVIO:
+    Que firme en sus cosas era
+    cuanto su dama ligera.
+REY:
+    ¿En qué letra lo mostró?
+OCTAVIO:
+    «Lo alto, vos; lo bajo, yo».
+REY:
+    ¿Premiáronla?
+OCTAVIO:
+    No.
+REY:
+    Mal hecho.
+OCTAVIO:
+    Fabio, jamás satisfecho,
+    una lechuza sacó.
+REY:
+    ¿Sola?
+OCTAVIO:
+    No, que un sol traía
+    por lo alto.
+REY:
+    ¿Y qué blasón?
+OCTAVIO:
+    Griego.
+REY:
+    Cuál.
+OCTAVIO:
+    «Gnothi seauton».
+REY:
+    Conócete a ti, diría,
+    Que, como ver pretendía
+    al sol, que no puede ver,
+    dio a entender que la mujer
+    que sirve es igual al sol.
+OCTAVIO:
+    Ahora viene el español.
+REY:
+    Éste pretendo saber.
+OCTAVIO:
+    Dos guantes, señor, traía
+    en un escudo, y dos manos
+    entre nubes y aires vanos,
+    como que allá las perdía.
+REY:
+    ¿Y la letra qué decía?
+OCTAVIO:
+    «Las manos no merecí
+    y los guantes sí».
+REY:
+    Yo vi
+    esa empresa con cuidado.
+    Algunos guantes le han dado...
+OCTAVIO:
+    Yo lo imaginaba ansí.
+REY:
+    ¿Qué quiere dar a entender
+    en las manos en el viento?
+OCTAVIO:
+    Que ha puesto su pensamiento
+    en lo más que puede ser
+    y que no ha de merecer
+    manos tan altas jamás.
+REY:
+    Octavio en lo cierto das.
+    Poco el español me agrada.
+OCTAVIO:
+    A muchos, señor, enfada.
+REY:
+    (Tente, sospecha, no más.
+    Mira que pones mi honor
+    en temeraria aventura).
+    ¡Octavio!
+OCTAVIO:
+    Señor...
+REY:
+    (Locura
+    parece tener temor.
+    ¿Adónde está mi valor?)
+    ¿Diéronle premio a don Juan?
+OCTAVIO:
+    El de más galán le dan.
+REY:
+    Ansí la Reina le dio.
+OCTAVIO:
+    Harto, diciendo, le honró:
+    «hasta en esto sois galán».
+REY:
+    ¡Buen favor!
+OCTAVIO:
+    Fue gran favor.
+REY:
+    Venme a ver después, Octavio.
+OCTAVIO:
+    Beso tus pies.
+[Vase Octavio]
+REY:
+    Hombre sabio,
+    ¿tuvo sin celos amor?
+    Pues ¿qué me importa el valor
+    si tengo amor, y los celos,
+    son su sombra y son los velos
+    que le sirven de cortina,
+    noche en que el alma adivina
+    la luz que encubre a los cielos?
+    Son celos imaginar
+    y no acabar de entender.
+    Y si envidia pueden ser,
+    también tengo que envidiar.
+    Son celos temer y amar:
+    si temo y amo, bien puedo
+    estar celoso del miedo,
+    ya que no lo esté de agravio.
+[Sale don Juan]
+DON JUAN:
+    Que me llamas, dijo Octavio.
+REY:
+    En mayor confusión quedo.
+    Yo don Juan no te llamé.
+    Octavio mal entendió,
+    pero pues él te llamó,
+    para que te honrase fue.
+    Muy justamente te dieron,
+    don Juan, premio de galán,
+    pero confusas están
+    las damas y me dijeron
+    que te pregunte el blasón
+    que sacaste en el torneo.
+DON JUAN:
+    (¿Si sabe el Rey mi deseo?
+    Indicios notables son,
+    mal hice en sacar empresa
+    tan clara. ¿Qué amante es sabio?)
+REY:
+    Díjome la letra Octavio.
+DON JUAN:
+    (Dios sabe lo que me pesa.)
+    Saqué, señor, unas manos
+    en un cielo y en la tierra
+    unos guantes.
+REY:
+    «Que mereces
+    los guantes –dice la letra–,
+    pero que las manos no».
+DON JUAN:
+    Una dama de la Reina
+    amé, señor, en España.
+    Casose, porque yo era
+    desigual a su valor
+    y cuando entraba en la Iglesia
+    dejó caer unos guantes.
+    Alcelos sin que me vieran,
+    aunque no faltó una espía
+    que andaba en mi competencia,
+    por quien he perdido a España.
+    Embarqueme con tal pena,
+    que han sido estos guantes solos
+    santelmo de mis tormentas.
+    Hizo el Marqués el torneo;
+    yo, que mis guantes quisiera
+    hacer en el cielo signos
+    y coronarlos de estrellas,
+    retratélos en mi escudo
+    diciendo en aquella letra
+    «que los guantes merecí
+    pero no las manos bellas»,
+    porque, después de casadas,
+    bien sabes que eran ajenas.
+REY:
+    (Cuanto más saber procura
+    la verdad de mi sospecha,
+    más testigos, más indicios
+    voy hallando contra ella.
+    Dice aquéste que las manos
+    no mereció, en que confiesa
+    que la Reina puede amar
+    y sin culpa de la Reina.
+    Mas si ella le dio los guantes,
+    ya es culpa en tanta grandeza.
+    Y que no es dama de palacio
+    lo tengo por cosa cierta,
+    pues me dice que casadas
+    eran las manos ajenas.
+    ¿Hay tan crüel pensamiento?
+    ¿No puede ser que esto sea
+    cosa que pase en España?
+    Pues ¿es razón que me tenga
+    puesto en tanta confusión
+    lo que en España suceda?
+    ¡Oh, amor de Beatriz! ¿Qué es esto?
+    Si es quien es, ¿qué me atormentas?)
+    Don Juan, a decirles voy
+    a Casandra, Emilia y Celia
+    que ese blasón de los guantes
+    fue en España como cuentas,
+    porque sé que han de holgarse
+    de que en España suceda.
+[Vase el Rey]
+DON JUAN:
+    ¿Qué diversiones, qué indicios
+    y preguntas son éstas?
+    ¿Si ama el Rey alguna dama,
+    cosa que su prima sea,
+    y que, celoso de mí,
+    ande con estas quimeras?
+    Ya, celos, me dais asalto,
+    ya embestís mi fortaleza.
+    Y celos de un rey... ¡Ah, cielos!
+    ¿Quién navegó sin tormenta?
+    ¿Quién no hizo sombra al sol?
+    ¿Quién tuvo gloria sin pena
+    y quién sin celos amor?
+    Perdona, Casandra bella,
+    que esto no es culpa tuya.
+[Sale Monzón]
+MONZÓN:
+    De tal manera te dejas
+    llevar, en entrando aquí,
+    de tus pretensiones ciegas,
+    que me obligas, por buscarte,
+    a que a las salas me atreva
+    donde sólo pisan grandes
+    con debida reverencia.
+DON JUAN:
+    ¡Ay, Monzón! Todo es perdido.
+MONZÓN:
+    Ea ¿tenemos troneras?
+    ¡Ay, celi celorum…! Pues,
+    ¿qué tienes que te lamentas?
+DON JUAN:
+    El Rey...
+MONZÓN:
+    ¡Válame San Pedro!
+DON JUAN:
+    El Rey…
+MONZÓN:
+    Dos reyes.
+DON JUAN:
+    No acierta
+    el alma. El Rey...
+MONZÓN:
+    Otro rey.
+    ¿Pero a qué efeto me cuentas
+    la historia de los tres reyes?
+DON JUAN:
+    El Rey pienso que requiebra
+    a Casandra.
+MONZÓN:
+    «Pienso» dices.
+    Húrtasme el nombre, si piensas.
+    Pero cuando sea verdad,
+    todo, señor, se remedia
+    con este papel.
+DON JUAN:
+    ¿Papel?
+    ¿Papel?
+MONZÓN:
+    Papel o papela.
+DON JUAN:
+    ¡Muestra!
+MONZÓN:
+    ¡Que no es de Casandra!
+    ¿No lo miras por la muestra?
+DON JUAN:
+    ¡Qué letras son éstas, di!
+MONZÓN:
+    Tú las verás cuando leas.
+DON JUAN:
+    ¡Es cartel!
+MONZÓN:
+    Esta mañana
+    en plazas, calles e iglesias
+    amanecieron pegados.
+DON JUAN:
+    ¡Muestra! ¿Y esto me remedia?
+[Lea]
+    «Venga a noticia de todos
+    cuantos hoy viven, y venga
+    a la de don Juan que llaman
+    el Alanceador...»
+MONZÓN:
+    ¿Que tiemblas?
+DON JUAN:
+    «...que en la corte de París
+    don Tello Vázquez le espera,
+    de sol a sol en su plaza,
+    a catorce del mes que entra».
+MONZÓN:
+    Y que estas mismas palabras
+    hoy amanecieron puestas
+    en Alemania, en Hungría,
+    Francia, España, Ingalatierra…
+DON JUAN:
+    Pues pesia a quien te parió,
+    Monzón. ¿Con esto se remedia
+    los celos que del Rey tengo?
+MONZÓN:
+    Pues si es forzosa la ausencia
+    y para caso tan grave,
+    ¿qué celos hay que te duelan?
+DON JUAN:
+    Bien dices; éste es mi honor.
+    ¡Quedo, que Casandra es ésta!
+[Sale Casandra]
+DON JUAN:
+    Bien puede hablaros atrevidamente
+    quien se parte de vos y sin recato
+    de la malicia y lengua de la gente.
+CASANDRA:
+    ¿Qué es aquesto, don Juan?
+DON JUAN:
+    Seros ingrato.
+CASANDRA:
+    ¿Ingrato vos a mí?
+DON JUAN:
+    Forzosamente.
+    Mirad, señora, si verdad os trato.
+CASANDRA:
+    ¿Vienen por mí de Dinamarca?
+DON JUAN:
+    Fuera
+    mi muerte entonces esta ausencia fiera.
+    Toda Nápoles hoy pero ¿qué digo?
+    Francia, Alemania, España, Ingalatierra,
+    saben cómo me espera mi enemigo
+    y que me llama a desafío y guerra.
+    Este cartel os doy para testigo,
+    cuya satisfacción la suya encierra.
+    En los casos de honor, señora mía,
+    no hay poder ni hay amor ni hay cortesía.
+    Turbarse los contrarios elementos,
+    mezclarse el agua con la eterna lumbre
+    y de sus estelíferos asientos
+    mudarse la celeste pesadumbre,
+    vestirse de impresiones mil los vientos,
+    y bajar de las alas de su cumbre
+    en rayos las terrestres sequedades,
+    sorberse el mar los campos y ciudades
+    no fueran parte a permitir ausencia
+    de vuestros ojos. Sólo honor fue parte
+    para que os pida para un mes licencia,
+    aunque de vos el alma no se parte.
+CASANDRA:
+    Pues ¿con tanto rigor, con tal violencia?
+    No porque yo de vos, español Marte,
+    tema siniestro caso en desafío,
+    pero por ser tan vuestro el honor mío.
+    Pero ¿quién ha tenido atrevimiento
+    para ausentarse por razón ninguna
+    y estima en más su honor que mi contento,
+    principio ilustre de una gran fortuna?
+    No vuelva eternamente, ni consiento
+    que carta suya ni memoria alguna.
+    Vete, español ingrato, que algún día
+    has de llorar tu loca valentía.
+DON JUAN:
+    Señora ¡ah, mi señora!
+CASANDRA:
+    ¿Qué me quieres?
+DON JUAN:
+    Mire Vuestra Excelencia que es disculpa
+    todo mi honor.
+CASANDRA:
+    No, mas ingrato eres,
+    que honor más que mi gusto te disculpa.
+    ¿Estímanse en España las mujeres
+    desta manera?
+DON JUAN:
+    Si he tenido culpa
+    en irme por mi honor, ya por tu gusto
+    vuelvo.
+CASANDRA:
+    Si vuelves, perdonarte es justo.
+DON JUAN:
+    ¿Mas cómo quedará mi honor, señora?
+CASANDRA:
+    Haré yo al Rey que te detenga en tanto
+    que escribe a España que las paces traten
+    y que tome en su honor el de don Tello;
+    pues en tanto que un rey las paces trata,
+    no es justo que tú trates desafío.
+    Y fuera de que aquesto te disculpa
+    y que cumple don Tello con su honra
+    –pues, en efeto te ha desafïado–,
+    ¿qué pierdes tú, pues quedas siempre honrado?
+DON JUAN:
+    Mi voluntad es tuya. Mi albedrío,
+    mi ser, mis pensamientos, mis acciones,
+    disponlos a tu gusto.
+CASANDRA:
+    El Rey sospecho
+    que te tiene afición y es, muy sin duda,
+    que ha de gustar de detenerte. Vete,
+    que quiero hablar la Reina, mi señora.
+DON JUAN:
+    Su Alteza viene, a muy buen tiempo, ahora.
+[Vase don Juan y sale la reina Beatriz]
+REINA:
+    ¿Íbase de aquí don Juan?
+CASANDRA:
+    De aquí, señora, se fue.
+REINA:
+    ¿Sabe el cartel?
+CASANDRA:
+    Y yo sé
+    que un grande servicio harán
+    Vuestras Altezas a Dios
+    en tratar aquestas paces.
+REINA:
+    Tú sola sus paces haces.
+CASANDRA:
+    Mejor las haréis los dos
+    en no sufrir desafíos
+    como príncipes cristianos.
+REINA:
+    Bien saben los soberanos
+    cielos los intentos míos
+    y, si escribiendo al de España
+    que ponga en esto remedio,
+    te parece a ti buen medio
+    y que a don Juan no le daña
+    ni pierde reputación,
+    tratarelo con el Rey.
+CASANDRA:
+    No hay en el duelo tal ley,
+    aunque tan injustas son,
+    que mientras el Rey compone
+    las paces de dos contrarios
+    y con medios necesarios
+    las voluntades dispone,
+    no obliga al desafïado,
+    aunque llegue a su noticia,
+    salir, ni pierde justicia
+    el honor del agraviado.
+    Al Rey ha de suplicar
+    Vuestra Alteza que detenga
+    a don Juan, mientras que venga
+    respuesta para tratar
+    las paces, con prevención
+    de que haces esto por mí.
+REINA:
+    Hoy verás, Casandra, aquí
+    mi cuidado y afición.
+CASANDRA:
+    Pues él viene, haz por tu vida
+    que se detenga, que es hombre
+    que, por lo que debe al nombre
+    de que su sangre apellida,
+    irá a dos mil desafíos.
+[Vase Casandra]
+REINA:
+    ¿Qué será tanto cuidado?
+    Sospechas ha dispertado
+    en los descuidados míos.
+[Sale el Rey leyendo una carta]
+    Señor...
+REY:
+    Dulce prenda mía...
+REINA:
+    Huélgome que estéis galán,
+    que una cosa por don Juan
+    pediros, mi bien, querría.
+REY:
+    ¿Por el español?
+REINA:
+    Está
+    el español de partida.
+    Detenedle, por mi vida,
+    que me dicen que hoy se va
+    a la corte de París,
+    al plazo del desafío,
+    y un crïado vuestro y mío,
+    y de quien por mí os servís,
+    en vuestra cámara ya
+    con nombre de gentilhombre,
+    no es bien que aventure el nombre,
+    que en tanto peligro está
+    en desafíos vedados
+    por el Pontífice. Vos
+    podéis hacer que los dos
+    queden amigos y honrados,
+    porque si a España escribís,
+    que por buen celo y cristiano
+    ponéis en esto la mano,
+    no hay a qué vaya a París.
+    Fuera de hacerlo, por Dios,
+    os obliga. Que ha venido
+    a serviros, pues ha sido
+    para ampararse de vos.
+    ¿Qué decís, que estáis suspenso?
+REY:
+    Digo que lo haré, señora.
+    (¿Qué aguardo? ¿Qué miro ahora?
+    ¿Qué me defiendo? ¿Qué pienso?
+    Que cierto debe de ser
+    que ya su amor agradece.)
+REINA:
+    Si difícil os parece
+    cosa tan fácil de hacer,
+    detened vos a don Juan,
+    que yo a España escribiré.
+REY:
+    No, señora, yo lo haré.
+    Sólo me pesa que están
+    los papeles publicados.
+REINA:
+    Publicad vos que tenéis
+    hechas las paces que hacéis
+    y que están medio amistados.
+REY:
+    Id en buen hora y decid
+    a Casandra que esta carta
+    me obliga a que luego parta
+    y que es tan presto, advertid,
+    que hoy llegan aquí seis naves.
+REINA:
+    ¿Quién viene por ella?
+REY:
+    Un hombre
+    más claro que por su nombre,
+    por tantas hazañas graves,
+    que es el condestable noble
+    de Dinamarca.
+REINA:
+    Yo voy
+    por las albricias.
+[Vase la Reina]
+REY:
+    Ya estoy,
+    celos, oprimido al doble.
+    No en balde por vos me pinto
+    en un laberinto fiero,
+    pues, mientras más saber quiero,
+    más entro en el laberinto.
+    ¿Qué tengo ya que dudar,
+    pues quiere que la partida
+    con el temor de su vida
+    venga yo propio a estorbar?
+    ¿Hay más declarado amor?
+    Pero yo la culpa tengo,
+    pues, ya que a entenderlo vengo,
+    no doy descanso a mi honor.
+    Ahora bien, el hombre muera,
+    que es razón de Estado clara,
+    no porque el honor repara
+    en que ofenderme pudiera,
+    mas sólo porque ha ofendido
+    a un rey la imaginación
+    y a un ángel la opinión
+    con que de quien es me olvido.
+    Mas mejor será ausentalle
+    que matalle. Mas no es sabio
+    quien deja vivo el agravio.
+    Pero ¿qué tiene que calle?
+    ¿Tiene más que el pensamiento?
+    Ahora bien, vaya a llevar
+    a mi prima por la mar.
+    Buena ocasión; justo intento.
+[Entra don Juan]
+DON JUAN:
+    (Aquí está el Rey. Bien será
+    pedirle licencia.)
+REY:
+    Ansí
+    podré apartarle de mí
+    y nunca vuelva de allá.
+    ¿Es don Juan?
+DON JUAN:
+    Yo soy, señor.
+REY:
+    ¿Qué quieres?
+DON JUAN:
+    El honor mío
+    está puesto en desafío.
+    Yo precio tanto mi honor,
+    que para volver por él
+    te vengo a pedir licencia.
+REY:
+    Cosas de tanta prudencia
+    no se han de hacer de tropel.
+    Yo te quiero bien, don Juan,
+    y desde que te amparaste
+    de mí, en mis hombros dejaste
+    las que cuidado te dan.
+    Yo he escrito a España y allá
+    trata tus paces mi tío,
+    y salir al desafío
+    hacerme agravio será.
+    Demás que me has de servir
+    cuando Casandra se parta,
+    que hoy sé por aquesta carta
+    que ya es forzoso partir.
+    A vista de la ciudad
+    está ya el dinamarqués
+    que viene por ella, y es
+    hombre de gran calidad.
+    ¿Y a quién puedo confialla?
+    Pero parece mejor
+    que un hombre de tu valor
+    vaya a servilla y honralla.
+    Esto has de hacer y ansí luego
+    te apresta para el camino.
+DON JUAN:
+    A tu voluntad me inclino
+    y a mi propio honor me niego.
+[Vase el Rey]
+    ¡Ay de mí! ¿Qué mayor mal
+    me pudiera suceder?
+    ¡Como qué tengo de ser,
+    oh, Casandra celestial,
+    quien te lleve a mi enemigo,
+    quien tus bodas acompañe!
+[Sale Casandra]
+CASANDRA:
+    Ya que no hay mal que me dañe,
+    muera yo hablando contigo.
+    ¡Ay, don Juan! ¿Qué desventura
+    es ésta?
+DON JUAN:
+    No sé, que agora
+    me dio la nueva, señora,
+    el Rey. ¡Qué poco el bien dura!
+    Pues después que me avisó
+    de que a España escrito había
+    y que mis paces hacía,
+    la guerra me publicó.
+    Dice que vaya contigo,
+    Casandra, en esta jornada.
+    Mejor será que a la espada
+    de mi español enemigo.
+    Máteme Tello en París
+    y no en Dinamarca, al ver
+    que eres de Carlos mujer.
+CASANDRA:
+    Ojos, que aquesto sufrís
+    ¿ya no os deshacéis llorando?
+    Desdichado corazón,
+    si no es ésta la ocasión,
+    pregúntale al alma cuándo.
+    La Reina me dijo a mí
+    lo que a ti el Rey.
+DON JUAN:
+    Y yo agora
+    pido licencia, señora,
+    para apartarme de ti.
+    A París voy y está cierta
+    que nunca este brazo mío
+    se defienda al desafío
+    que mi contrario concierta.
+    Yo daré presto lugar
+    para que me rompa el pecho.
+CASANDRA:
+    Si mi llanto es de provecho
+    para poderte obligar,
+    por él ruego, español,
+    me acompañes en la nave.
+    No permitas que se acabe
+    tan presto a su lumbre el sol.
+    Vente conmigo a embarcar,
+    que en llegando a las riberas,
+    juntos, como tú lo quieras,
+    nos echamos a la mar.
+DON JUAN:
+    No es, mi señora, no es justo
+    que esa vida aventuréis.
+    Mas como vos estiméis
+    la mía por vuestro gusto,
+    haced de suerte, pues vale
+    la industria donde faltó
+    fuerza. Que no os pierda yo
+    y que este amor nos iguale.
+    Fingid una enfermedad.
+    Quedaos por agora aquí,
+    puesto que perdáis por mí
+    ser reina, ser majestad,
+    que yo perdiera por vos
+    los imperios de la tierra
+    y cuanto en su centro encierra
+    y todo lo que no es de Dios.
+CASANDRA:
+    ¿Enfermedad?
+DON JUAN:
+    ¿Por qué no?
+CASANDRA:
+    Sospecho que dices bien,
+    mas hay un daño también.
+DON JUAN:
+    ¿Daño, no perdiéndoos yo?
+CASANDRA:
+    Pues no si estando en la cama
+    no tengo de verte.
+DON JUAN:
+    Puedes
+    verme como sola quedes
+    fïando de alguna dama
+    este pensamiento mío
+    y entrar yo de noche a verte.
+CASANDRA:
+    ¡Oh, amor que vences la muerte!
+    Terribles cosas te fío.
+    Ahora bien, voyme a enfermar.
+DON JUAN:
+    Y a decirlo a Silvia todo.
+CASANDRA:
+    ¿Y de escribirme habrá modo?
+DON JUAN:
+    Di que te quieres sangrar
+    y entrará dentro Monzón,
+    siempre que a llamarle envíes,
+    para que en sus manos fíes
+    el papel del corazón.
+CASANDRA:
+    ¿Sabralo fingir?
+DON JUAN:
+    Muy bien.
+CASANDRA:
+    Dile que aprenda a sangrar
+    porque me puede obligar
+    a ejecutarlo también.
+DON JUAN:
+    Vete. Adiós, enferma mía.
+    Mas ¿fuera mucho que viera
+    el pulso?
+CASANDRA:
+    Todo me altera
+    y todo amor lo confía.
+    Mírale, que yo te juro
+    que está en él el corazón.
+DON JUAN:
+    Los dos dedos pocos son
+    para ver lo que procuro.
+CASANDRA:
+    Acaba. Toma la mano
+    que no es cuenta de perdones,
+    que no es bien que en ocasiones
+    se pierda el honor en vano.
+    Ya la mano has merecido,
+    pues ya es imposible ser
+    de otro en el mundo mujer:
+    sólo serás mi marido.
+[Vase]
+DON JUAN:
+    ¡Oh sumo bien! ¡Oh gloria inestimable!
+    Bien empleado y justo atrevimiento.
+    Amor es Dios, en fin la prueba siento
+    en lo que quiere ser comunicable.
+    ¡Oh fortuna inconstante, agora estable
+    en la inquietud del mismo pensamiento!
+    Si fueses en mis bienes firmamento,
+    fábula ha sido el nombre de mudable.
+    ¡Oh amor! Perdone tu real decoro
+    las dulces quejas, las infamias dichas
+    a tu grandeza, que desde hoy adoro.
+    Prometa el eco a mis desdichas dichas,
+    que, como se quilata en cobre el oro,
+    se conoce el amor en las desdichas.
+[Éntrese y salgan el marqués Octavio y Fabricio]
+FABRICIO:
+    Maravillado estoy de lo que dices.
+OCTAVIO:
+    Yo fui el que puse anoche los carteles
+    por ausentar al español de Nápoles
+    y matarle, Fabricio, en el camino.
+    Mas mire cuán en vano se fatiga
+    la envidia contra aquel que favorece
+    con ánimo gallardo la fortuna,
+    pues cuando ya aprestaba el viaje,
+    el Rey le ha detenido y le ha mandado
+    que acompañe su prima a Dinamarca.
+FABRICIO:
+    El Condestable dicen que ha venido
+    y la salva que han hecho lo publica.
+    Pero pienso, Marqués, que se dilate
+    la jornada si el mal que de improviso
+    a Casandra le dio pasa adelante,
+    con tan grandes desmayos y tristezas
+    que da que sospechar a cuantos saben
+    que no gusta de aqueste casamiento.
+OCTAVIO:
+    ¿De ser reina no gusta?
+FABRICIO:
+    No lo entiendo,
+    pero parece que es el mal fingido.
+OCTAVIO:
+    Fingido o cierto, de su mal resulta
+    todo mi bien, que en su partida tengo
+    el fin determinado de mi vida.
+FABRICIO:
+    La venida fue cierta: el Rey es éste
+    y el Condestable.
+OCTAVIO:
+    ¡Oh, cielos! Si es posible
+    que a quien se quiere bien, mal se desee,
+    crezca el mal de Casandra, que más quiero
+    que la goce la muerte en tierra propria
+    que un estranjero rey en reino estraño,
+    pues deso me resulta menos daño.
+[Sale el condestable de Dinamarca, el Rey y acompañamiento]
+CONDESTABLE:
+    Parece que en suerte mía
+    esta desdicha sucede.
+REY:
+    El mal, Condestable, excede
+    y aquel frenesí porfía,
+    mas, como fue de improviso,
+    podemos imaginar
+    que ansí la puede dejar.
+CONDESTABLE:
+    ¿Diole Vuestra Alteza aviso
+    de que en Nápoles estoy?
+REY:
+    Eso le ha dado alegría.
+CONDESTABLE:
+    Verla, gran señor, querría.
+REY:
+    Licencia de verla os doy
+    luego que un poco sosiegue.
+[Sale Fabio]
+FABIO:
+    (Creciendo va el mal.)
+REY:
+    ¿Qué hay, Fabio?
+FABIO:
+    Ten paciencia, como sabio,
+    aunque el dolor te lo niegue
+    porque el mal pasa adelante.
+REY:
+    Haz cuenta que a mí me ha dado.
+CONDESTABLE:
+    No, sino a mí, que he llegado
+    en ocasión semejante.
+FABIO:
+    Dame licencia, que voy
+    a llamar un cirujano
+    que ha venido, castellano.
+REY:
+    Licencia, Fabio, te doy,
+    con la tristeza que puedo.
+    ¿Manda el médico sangralla?
+FABIO:
+    Piensan que quiere ahogalla
+    el mal.
+REY:
+    De eso tengo miedo.
+CONDESTABLE:
+    Será abundancia de humor.
+    Allá estará buena luego.
+FABIO:
+    Escribiendo queda un pliego
+    al Rey con mucho dolor.
+REY:
+    ¿Quién tendrá en esto paciencia?
+    Ve corriendo.
+FABIO:
+    Voy volando.
+[Vase Fabio]
+CONDESTABLE:
+    Si está escribiendo y hablando,
+    dame de verla licencia.
+REY:
+    Entrad solo.
+CONDESTABLE:
+    El cielo guarde
+    tus años. A verla voy.
+[Vase el Condestable]
+REY:
+    En más confusión estoy;
+    más sospechoso y cobarde.
+    Ya se queda aquí don Juan.
+    Pues si yo a Francia le envío
+    a intentar el desafío
+    donde esperándole están,
+    la Reina vendrá a tener
+    sospecha destos recelos,
+    y dar a entender los celos
+    es infamar la mujer
+    como hasta verle desnuda.
+    Más que en el mismo tormento
+    niega y tiene firme intento
+    y pone el secreto en duda,
+    así la mujer es buena
+    hasta que la pidan celos,
+    que, corridos estos velos,
+    corre el agravio sin pena.
+    Matarle es más acertado
+    y esto fïarlo de mí,
+    pues con ánimo nací
+    valiente y determinado.
+    De noche o en la campaña,
+    fingiendo caza o camino,
+    darle muerte determino
+    y enviarle en cartas a España.
+    Don Juan de Mendoza, cielos,
+    que llaman Alanceador,
+    viene a darlas en mi honor
+    con el hierro destos celos.
+    No más; esto se ha de hacer
+    de una vez y por mí mano.
+    ¡Octavio!
+OCTAVIO:
+    Señor...
+REY:
+    (¡Qué en vano
+    calla el agravio el poder!)
+    Tristezas me dan dolor;
+    vamos al campo una tarde.
+OCTAVIO:
+    No tengas, que Dios te guarde,
+    pena deste mal, señor,
+    que pienso que el alegría
+    del dichoso casamiento
+    hará que mude aposento
+    tan triste melancolía.
+    ¿Qué hay del español don Juan?
+REY:
+    Paces trato con don Tello.
+OCTAVIO:
+    Y el español viene en ello.
+REY:
+    Mientras tratándose están,
+    no pierde don Juan honor
+    en no ir al desafío.
+[Sale don Juan]
+DON JUAN:
+    Mal puede el cuidado mío
+    dormirse, siendo de amor.
+REY:
+    (Disimula, que está aquí,
+    y vente conmigo, Octavio.
+    Hasta de verle me agravio.)
+[Vanse el Rey y Octavio]
+DON JUAN:
+    El Rey se esconde de mí.
+    Sin duda que le doy celos
+    de Casandra y que la adora.
+    ¿Cómo sabré della agora?
+    ¡Abridme camino, cielos!
+    ¿Pero quién sale de allá?
+[Dos pajes, uno con una fuente y otro echando agua a Monzón, que viene en cuerpo, lavando una lanceta y un listón en la pretina]
+MONZÓN:
+    Vaya echando poco a poco.
+PAJE:
+    ¡Lindo barbero español!
+[PAJE] 2:
+    Vos habéis sangrado al sol.
+MONZÓN:
+    Estoy de contento loco.
+    ¿Han visto mejor sangría?
+DON JUAN:
+    (¡Cielos! Aquéste es Monzón.
+    Si puso en ejecución
+    lo que Casandra decía...)
+PAJE:
+    Dalde vos esa toalla.
+MONZÓN:
+    Bizarro oficio es barbero,
+    pues, siendo un pobre escudero,
+    paje del Rey viene a dalla.
+DON JUAN:
+    (Sin duda que la sangró.
+    ¿Qué lo dudo? Hay tal locura,
+    y mejor diré ventura...
+    Si no la mancó o mató.)
+[Sale Silvia, dama]
+PAJE:
+    Tomad la capa y sombrero.
+MONZÓN:
+    Todo es honrar la sangría.
+SILVIA:
+    Maestro...
+MONZÓN:
+    Señora mía...
+SILVIA:
+    Aquí aparte hablaros quiero.
+[Dale un papel]
+    Esto, y no por paga, os da
+    la reina de Dinamarca.
+MONZÓN:
+    ¡Jesús! No, no.
+[PAJE] 2:
+    (Bien lo abarca.
+PAJE:
+    Joya, sin duda, será,
+    pues en la mano cabe.)
+SILVIA:
+    Adiós.
+MONZÓN:
+    Él os guarde a vos.
+[PAJE] 2:
+    Maestro, adiós.
+MONZÓN:
+    A los dos
+    guarde. ¿Hay suceso más grave?
+[Vanse los pajes y Silvia]
+DON JUAN:
+    ¡Ce, ce, Monzón!
+MONZÓN:
+    ¿Quién es?
+DON JUAN:
+    Yo.
+MONZÓN:
+    Apenas tengo la risa.
+    Llega presto, llega aprisa.
+DON JUAN:
+    ¿Sangrose?
+MONZÓN:
+    Ya se sangró.
+DON JUAN:
+    ¿Qué dices?
+MONZÓN:
+    Que no se pudo
+    humanamente escusar.
+DON JUAN:
+    ¿Y supístela sangrar?
+MONZÓN:
+    ¿Cómo? Que por Dios que dudo
+    que con una ballestilla
+    me pueda albéitar ganar,
+    y allá todo es alabar
+    al barbero de Castilla.
+DON JUAN:
+    Celebrar a los estraños
+    es muy propio de señores,
+    que más quieren sus errores
+    que los propios desengaños.
+    En siendo estranjero un hombre,
+    es oficial excelente;
+    libro en lengua diferente
+    siempre tiene mayor nombre.
+    Pero di ¿cómo tomaste
+    aquel brazo celestial?
+    ¿Cómo aquel rojo coral
+    del blanco cristal sacaste?
+    ¿No te turbaste?
+MONZÓN:
+    ¿De qué,
+    yendo tan bien enseñado?
+    Trece mozos he sangrado
+    y a los catorce manqué.
+    Corra por tu cuenta el daño,
+    que me enseñaste a barbero.
+DON JUAN:
+    Dímelo todo primero.
+MONZÓN:
+    Fuera detenerme un año.
+    Llegué. Diéronme el listón,
+    las vendas y el cabezal.
+    Así el brazo de cristal
+    y echele la bendición;
+    llamé la sangre.
+DON JUAN:
+    ¡Ay de mí,
+    que me has llamado la mía!
+MONZÓN:
+    Muestra, harete una sangría.
+DON JUAN:
+    No está el corazón aquí.
+MONZÓN:
+    «Gran reina de Dinamarca»
+    dije, «volved las estrellas».
+    Y pregunté a las doncellas:
+    «¿qué vena?». Y dijo «del arca»
+    una ninfa que alumbraba,
+    más flaca que una bujía
+    Ya la vena azul se vía;
+    ya la sangre me llamaba.
+    Tris, pico y dijo «¡oh, qué bien!»;
+    luego una dueñaza anciana
+    aplicó una porcelana
+    de la China, y yo también,
+    y vieras salir claveles
+    de entre aquel jardín nevado.
+    Yo, entonces, más asombrado
+    que un gato con cascabeles,
+    mido cinco onzas al ojo,
+    mojo el limpio cabezal,
+    ato la venda al cristal
+    y voy cogiendo el despojo.
+    Salgo; lávome. Salió
+    Silvia a pagar la sangría
+    y cuando el cinco ponía
+    este papel me encajó.
+DON JUAN:
+    Muestra, historiador famoso;
+    muestra, poeta gentil
+    de aquel trágico marfil
+    y aquel coral vergonzoso;
+    muestra y dame aquel listón,
+    zodíaco de aquel cielo,
+    que fue pretina del hielo
+    que me abrasa el corazón.
+MONZÓN:
+    Éste es el listón, mas mira
+    que importa luego leer.
+[Lea]
+DON JUAN:
+    «Pienso que bien se ha de hacer,
+    bien mío, nuestra mentira,
+    supuesto que estoy con pena,
+    si Monzón me ha de sangrar.
+    Pero ¿qué me puede dar
+    pena, si mi bien lo ordena?
+    Esta noche acudirás
+    a la puerta del jardín».
+    ¡Ay, ángel! ¡Ay, serafín!
+    ¿Qué diga, ni escriba más?
+MONZÓN:
+    No, por cierto. ¡Quedo, quedo,
+    no beses tanto el papel!
+DON JUAN:
+    Haré locuras con él.
+MONZÓN:
+    Tengo a que le rasgues miedo.
+    Pero mira que anochece
+    y es menester acudir.
+DON JUAN:
+    Hoy, Monzón, has de morir.
+MONZÓN:
+    ¿Dónde?
+DON JUAN:
+    ¿Dónde te parece?
+MONZÓN:
+    Diría yo que a la puerta
+    del jardín, si alguien nos siente.
+DON JUAN:
+    Hoy veré, Monzón valiente,
+    si tu voluntad concierta
+    con la que te tengo a ti.
+MONZÓN:
+    Vamos y déjame hacer.
+DON JUAN:
+    Casandra es ya mi mujer.
+MONZÓN:
+    ¿Cierto?
+DON JUAN:
+    Ella dice que sí.
+[Vanse y salen Silvia, dama, y un jardinero]
+SILVIA:
+    Vos me habéis de recoger
+    todos esos jardineros.
+JARDINERO:
+    Andan algo placenteros
+    y no sé cómo ha de ser,
+    pero, de cualquïer modo,
+    no quedará en esta huerta
+    labrador de puerta a puerta.
+SILVIA:
+    Florindo, miraldo todo.
+JARDINERO:
+    ¿Qué es lo que queréis hacer?
+SILVIA:
+    Quiere pasearse aquí
+    Casandra.
+JARDINERO:
+    ¿La enferma?
+SILVIA:
+    Sí.
+JARDINERO:
+    Yo los voy a recoger.
+SILVIA:
+    Sea con mucho cuidado.
+[Sale Casandra y vase el jardinero]
+CASANDRA:
+    ¿Fuese?
+SILVIA:
+    Ya, señora, es ido.
+CASANDRA:
+    ¡Con qué temor he salido!
+SILVIA:
+    ¿Y qué disculpa has dejado?
+CASANDRA:
+    Mi propia melancolía,
+    diciendo que al huerto voy.
+    Y no dirán dónde estoy
+    aunque aquí nos halle el día.
+SILVIA:
+    ¡Ay, Casandra, quién creyera
+    que a esto un hombre te obligara!
+CASANDRA:
+    En que no soy yo, repara,
+    la desdicha primera.
+    Siéntate y háblame bien
+    en aquel bello español.
+SILVIA:
+    Digo...
+CASANDRA:
+    ¿Qué dices?
+SILVIA:
+    Que es sol.
+CASANDRA:
+    Llámale rayo también.
+    Si fuera sol calentara;
+    pues mata, debe de ser
+    rayo.
+SILVIA:
+    ¡Llaman!
+CASANDRA:
+    ¡Qué placer!
+    Abre y en la voz repara.
+SILVIA:
+    Voy.
+CASANDRA:
+    Mi determinación
+    ya no tiene qué mirar,
+SILVIA:
+    Ea, bien podéis entrar.
+[Salen don Juan y Monzón]
+DON JUAN:
+    Yo soy don Juan.
+MONZÓN:
+    Yo Monzón.
+SILVIA:
+    Allí está Casandra. Llega.
+DON JUAN:
+    Señora mía...
+CASANDRA:
+    Mi esposo,
+    siéntate.
+DON JUAN:
+    Estoy temeroso.
+    Veo que el amor te ciega.
+CASANDRA:
+    Siéntate, que no hay temor
+    donde hay amor.
+DON JUAN:
+    Es verdad.
+CASANDRA:
+    Dime aquí tu voluntad.
+DON JUAN:
+    Digo que soy todo amor.
+CASANDRA:
+    ¿Requiebran así en España?
+DON JUAN:
+    Caen estos amores
+    hacia Portugal.
+CASANDRA:
+    Mayores
+    parecen de tierra extraña.
+SILVIA:
+    Siéntese, señor barbero.
+MONZÓN:
+    Si vuesa merced me da
+    licencia.
+SILVIA:
+    Siéntese ya.
+MONZÓN:
+    ¿Con vos?
+SILVIA:
+    Conmigo.
+MONZÓN:
+    Eso quiero.
+    Anda con buenos y en fin
+    vendrás a ser uno dellos.
+SILVIA:
+    Mientras se requiebran ellos,
+    si te convida el jardín
+    cuéntame, amigo Monzón,
+    tus amores, si los tienes.
+MONZÓN:
+    ¿Mis amores? De humor vienes,
+    mas dame un poco de atención.
+    Érase que sea...
+SILVIA:
+    Dí.
+MONZÓN:
+    ...y que norabuena sea.
+    Yo me enamoré en España
+    de una moza montañesa;
+    a pedazos gorda y magra,
+    como hijada estremeña;
+    discreta como bellaca
+    y más falsa que discreta;
+    de esto, de coz al estribo,
+    más determinada y diestra
+    que una mula de alquiler
+    o que una posta gallega.
+    Érase cierto pasante
+    que andaba de amor con ella
+    y éranse dos boticarios...
+SILVIA:
+    ¡Válame Dios! ¿Tantos eran?
+MONZÓN:
+    Eran tantos, que podían
+    servir en un primera
+    y a ninguno entraban oros,
+    que siempre eran fluxes della.
+    Concertonos una noche
+    a las horas que anda en pena
+    el que no tiene dineros,
+    pues no es posible que duerma.
+    Fui yo, fueron los hermanos
+    de la dulce girapliega
+    y fue el cuitado pasante,
+    todos en horas diversas.
+    Mira qué lindo vocablo.
+SILVIA:
+    Lindo tu suceso sea.
+MONZÓN:
+    ¡Ya! ¿Cómo lo puede ser,
+    habiendo parado leña?
+    Metiéndonos iba a todos
+    luego en tocando a la puerta
+    el socarrón del marido
+    en unas sacas de jerga.
+    ¿Jerga no se dice acá?
+SILVIA:
+    ¿Qué es jerga?
+MONZÓN:
+    No es estameña.
+    Sea lo que fuere, en fin,
+    nos ató por las cabezas.
+    Vino el soberbio villano,
+    pidió a su mujer la cena
+    respondió «jerga marido»
+    y él replicó «va de jerga».
+    Y con un tronco de olivo,
+    tranca antigua de una puerta,
+    al tiempo que Dios quería,
+    como dicen los poetas,
+    de manera sacudió
+    la jerga, que en nuestra tierra
+    no hay hombre que no repare
+    en oyendo decir «jerga».
+SILVIA:
+    ¡Notable suceso!
+MONZÓN:
+    ¡Estraño!
+SILVIA:
+    Un poco mira a tragedia.
+MONZÓN:
+    Hay precetos en los cuentos;
+    hay arte también, o artesa,
+    que hay personas que sin arte
+    no escribirán a su abuela,
+    porque lo manda Platón
+    y Aristóteles lo enseña.
+    Yo me duermo, que he bebido,
+    si quieres darme licencia,
+    con cuatro dedos de falda,
+    aunque atrevimiento sea.
+    Iré a buscar la mañana
+    soñando montes y selvas;
+    al dios Baco y a Neptuno,
+    entre dos tinajas nuevas,
+    el uno diciendo gracias
+    y el otro echando soletas.
+CASANDRA:
+    Don Juan...
+DON JUAN:
+    Señora...
+CASANDRA:
+    ¿Qué es esto?
+DON JUAN:
+    ¡Vive Dios! Gente en la huerta.
+CASANDRA:
+    Vendida soy, si es mi primo.
+SILVIA:
+    ¡Álzate, Monzón! No duermas.
+MONZÓN:
+    ¿Andan moros en la costa?
+CASANDRA:
+    La gente, Silvia, se acerca.
+    Ven, don Juan, a mi aposento,
+    porque, si en la huerta quedas,
+    te han de matar.
+DON JUAN:
+    Si es por ti
+    ¿qué vida espero más cierta?
+[Vase don Juan y Casandra]
+MONZÓN:
+    ¿Y yo, qué tengo que hacer?
+SILVIA:
+    Aquí hay, Monzón, una alberca
+    adonde meterte puedes.
+MONZÓN:
+    Lindamente me aconsejas.
+SILVIA:
+    No tiene un estado de agua.
+MONZÓN:
+    Más que nunca le tuviera.
+    Voyme a echar, Dios sea conmigo.
+    Vengástete Fuentidueña.
+    Adiós vino, que a ser voy
+    pez Nicolao o ballena
+    desta inventora de berros,
+    camarón, rana y truchuela.
+
+JORNADA 3
+
+[Sale el Rey de caza, el marqués Octavio, Fabricio y Monzón y Fabio y don Juan]
+REY:
+    La noche nos ha cogido
+    sin haber muerto un venado.
+OCTAVIO:
+    Desdicha notable ha sido,
+    que no falta de cuidado.
+REY:
+    Vengo, Octavio, divertido,
+    pues pasar sin mi Beatriz
+    la noche es cosa infeliz.
+FABIO:
+    Si tanto amor te desvela,
+    aquí hay lumbre y calderuela.
+    Desvela alguna perdiz.
+REY:
+    Es corto entretenimiento
+    para un hombre como yo,
+    que adora su casamiento.
+FABIO:
+    La noche ocasión me dio
+    a este humilde pensamiento.
+REY:
+    En la voluntad resuelta
+    anda la memoria suelta.
+    Duerman, Fabio, las perdices;
+    mejor es cazar beatrices
+    dando a Nápoles la vuelta.
+    ¡Hola, un caballo me dad!
+FABRICIO:
+    Iremos todos contigo.
+REY:
+    Aquí todos me esperad.
+    No vaya nadie conmigo.
+DON JUAN:
+    (Quién volviera a la ciudad...)
+    Señor, no vaya tu Alteza
+    solo por esta maleza.
+    Si mandas, yo iré contigo.
+REY:
+    Pues ven tú solo conmigo.
+DON JUAN:
+    Ya voy, divina belleza.
+REY:
+    (Vive el cielo, que por ver
+    a Beatriz debe de ser
+    el ansia que éste ha tenido.
+    ¿Cómo que un hombre atrevido
+    ose mirar mi mujer?
+    Yo le mato en el camino
+    fingiendo apearme.)
+DON JUAN:
+    (Cielos,
+    veré su rostro divino.)
+REY:
+    (Perdona amor, que con celos
+    vienes a ser desatino.)
+[Vanse el Rey y don Juan]
+OCTAVIO:
+    ¿Qué haremos?
+FABRICIO:
+    Tratar de hacer
+    noche en aquesta cabaña.
+OCTAVIO:
+    Yo me pienso entretener
+    con la cosa más estraña
+    que me pudo suceder.
+FABRICIO:
+    ¿Cómo?
+OCTAVIO:
+    Aquí queda el crïado
+    del español arrogante
+    y, regalado o forzado,
+    me ha de decir de su amante
+    dueño el venturoso estado.
+FABRICIO:
+    A solas puedes hablalle.
+OCTAVIO:
+    Déjame, que yo sabré
+    engañalle y preguntalle.
+FABRICIO:
+    ¿Él no sirve?
+OCTAVIO:
+    Sí.
+FABRICIO:
+    Yo sé
+    que es imposible que calle.
+[Vanse Octavio, Fabio y Fabricio]
+MONZÓN:
+    Puesto en confusión estoy.
+    Don Juan con el Rey es ido
+    por ver a Casandra, que hoy
+    de los dos concierto ha sido
+    y no podrán si no voy.
+    La noche es triste y escura
+    y amenaza tempestad,
+    peligrosa la espesura,
+    pero para mi lealtad
+    una es clara, otra segura.
+    Si aquésta no le acompaña,
+    él se pierde. Adiós montaña,
+    que esta hazaña digna es
+    de un hidalgo montañés
+    de los Monzones de España.
+[Vase y sale el Rey con la espada desnuda y don Juan huyendo]
+DON JUAN:
+    ¡Deténgase Vuestra Alteza
+    y diga por qué me mata!
+REY:
+    Cuando un hombre de mis prendas
+    saca para ti la espada,
+    bien conocerás, don Juan,
+    que es honra.
+DON JUAN:
+    Señor, aguarda.
+    Diré la verdad de todo.
+REY:
+    ¿Tú, en mi casa...? ¿Tú, en mi casa...?
+    ¿Tú miras al mismo sol?
+DON JUAN:
+    Escucha y después me mata.
+REY:
+    ¿Qué disculpa puedes darme?
+DON JUAN:
+    En fin, ¿fingiste la caza
+    y el camino desta noche
+    para tu injusta venganza?
+REY:
+    ¡Qué llamas venganza injusta
+    donde es la ofensa tan clara!
+DON JUAN:
+    Mi desigualdad confieso
+    porque es la prenda tan alta.
+    En lo demás, yo, señor,
+    soy de lo mejor de España.
+    Porque como un gran pintor
+    hace en un poco de tabla
+    una imagen de colores,
+    digna de pesarse a plata,
+    así el varón, si es famoso,
+    aunque la mujer sea baja,
+    hace una figura ilustre,
+    digna de toda alabanza.
+    Don Rodrigo fue mi padre,
+    yo la figura que saca;
+    si mi madre fue la humilde,
+    no repares en la tabla.
+REY:
+    ¿Pues qué me importa que seas
+    lo mejor de Italia y Francia
+    para quitarme el honor?
+DON JUAN:
+    Oye la causa.
+REY:
+    ¿Qué causa?
+DON JUAN:
+    A entrambos nos concertó
+    una estrella, una esperanza
+    del fin honesto.
+REY:
+    ¿Qué fin?
+DON JUAN:
+    Casarnos.
+REY:
+    ¡Maldad estraña!
+    ¿Pues pensábades matarme?
+DON JUAN:
+    ¿Matarte? ¿Pues qué importancia
+    de matarte se seguía?
+REY:
+    ¡Reventando estoy de rabia!
+    ¿Pues viviendo yo tratastes
+    casaros en ley cristiana?
+DON JUAN:
+    No hubiera llegado a tanto,
+    gran señor, nuestra desgracia,
+    si por la huerta una noche
+    no vinieras a buscarla.
+    Por esconderme de ti,
+    detrás de su misma cama
+    estuve, hasta que tú fuiste,
+    después hablando hasta el alba.
+REY:
+    ¡Santo Dios! ¿Tú con Beatriz?
+DON JUAN:
+    Pues ¿quién, gran señor? ¿Se trata
+    de la Reina mi señora?
+REY:
+    ¿No es ella?
+DON JUAN:
+    No.
+REY:
+    ¿Quién?
+DON JUAN:
+    Casandra.
+REY:
+    ¿Casandra mi prima?
+DON JUAN:
+    Sí,
+    que por eso te contaba
+    mi desigualdad y el fin
+    que en el casamiento para.
+REY:
+    ¿Casandra te tiene amor?
+DON JUAN:
+    Luego ¿tú, señor, pensabas
+    otra cosa?
+REY:
+    (¡Ah, celos, celos,
+    cuál me habéis tenido el alma!
+    ¿Hay desatino mayor?)
+    Don Juan, no pienses que daba
+    culpa a Beatriz, sino a ti.
+DON JUAN:
+    Señor, en prenda tan alta,
+    en tal virtud y valor,
+    claro está que no llegara
+    para que le hiciera ofensa
+    imaginación humana.
+REY:
+    (Ahora bien, del mal, lo menos.
+    Mal es que aquéste, en España
+    tan humilde, a gozar venga
+    todo lo mejor de Italia.
+    Pero en fin es menor mal
+    que se case con Casandra
+    que no que en mi propio honor
+    tan obscura mancha caiga.
+    Terrible caso es éste.
+    Ya por conciertos casada
+    y de voluntad de todos
+    con el rey de Dinamarca
+    y que don Juan de Mendoza
+    ponga en mi palacio escalas
+    y que por él, siendo rey,
+    quiebre a otro rey la palabra.
+    Pero si mayor ofensa
+    me puso en desdicha tanta,
+    corazón, del mal, lo menos,
+    y demos al cielo gracias.
+    Tenga lugar la prudencia,
+    que si el honor se restaura,
+    bien puede darse una prima
+    que ha sido cuerda tan baja,
+    cuanto más que bien podrán,
+    pues dio en ella la desgracia,
+    subiendo a don Juan hacer
+    los dos una consonancia.
+    Títulos y principados
+    tengo ricos en Italia;
+    honrarle y casarle quiero,
+    que ser Mendoza le basta,
+    pues que por padre lo tiene
+    para que iguale mi casa,
+    que no es la primera corona
+    que habrán tenido sus bandas.)
+    Don Juan...
+DON JUAN:
+    Señor...
+REY:
+    Esto es hecho.
+    La espada pongo en la vaina.
+    Por su cruz, que no me pesa,
+    ya que es hecho, que en ti caiga,
+    que eres hombre de valor
+    y Mendoza. Pero es tanta
+    mi sospecha que has de hacer
+    dos cosas y asegurarla.
+DON JUAN:
+    Beso tus reales pies.
+    Dime, señor, qué me mandas.
+REY:
+    Lo primero: has de hacer pleito
+    homenaje a fuer de España
+    metiendo tu mano en éstas.
+    Que eternamente no salga
+    de tu boca que he tenido
+    celos de ti.
+DON JUAN:
+    ¿No bastaba
+    la importancia y ser quien eres?
+    Aunque yo tan poco valga,
+    pongo la mano en las tuyas.
+    Juro el homenaje.
+REY:
+    Basta.
+    Mas la otra condición
+    escucha.
+DON JUAN:
+    Di lo que falta.
+REY:
+    Contigo oculto esta noche
+    tengo de ver si te ama
+    Casandra.
+DON JUAN:
+    Yo soy contento.
+REY:
+    Mas no has de decirle nada.
+DON JUAN:
+    No le diré cosa alguna.
+REY:
+    Pues los caballos desata
+    y entremos en la ciudad,
+    que ya la noche se pasa.
+DON JUAN:
+    (¡En qué peligro me he visto!)
+REY:
+    (Pues es fuerza que las haya,
+    del mal, lo menos, sospechas,
+    y dejadme libre el alma.)
+[Vanse y salen Silvia y Casandra]
+SILVIA:
+    La noche pasa y no viene.
+CASANDRA:
+    Prometiome que vendría.
+SILVIA:
+    Si le halla volviendo el día,
+    peligro el secreto tiene.
+    ¿Cómo ya puede volver
+    ni estar aquí, si es tan tarde?
+CASANDRA:
+    Todo me tiene cobarde.
+    Mas ya morir o vencer,
+    no es aquéste el mayor daño,
+    si no el decir que ya viene
+    mi esposo, porque no tiene
+    de mi salud desengaño.
+    Cartas tengo que es sin duda
+    y que se quiere embarcar
+    secreto.
+SILVIA:
+    Bien puede el mar,
+    que tantos sucesos muda,
+    sosegar tu corazón
+    con sepultarle en su arena.
+CASANDRA:
+    Mal puede esperar mi pena
+    remedio en tal confusión.
+    Si viene el de Dinamarca,
+    querrá mi primo casarme,
+    porque a sólo visitarme
+    no creas que el Rey se embarca.
+    Pues triste, como ha de ser,
+    adorando a mi español,
+    siendo más claro que el sol,
+    Silvia, que soy su mujer.
+    ¡Ay, mi ventura triste
+    si porfían a casarme!
+SILVIA:
+    ¿Qué piensas hacer?
+CASANDRA:
+    Matarme.
+SILVIA:
+    ¡Espera! Sufre y resiste
+    que todo se hará mejor.
+    Volver quiero por la huerta,
+    a ver si toca a la puerta,
+    para entretener tu amor.
+[Vase Silvia]
+CASANDRA:
+    Hermosas plantas, árboles y flores
+    que los rayos del sol resplandecientes
+    mostraban con esmaltes diferentes
+    y a quien la noche encubre las colores.
+    Dormidas aguas, que a los ruiseñores
+    enseñáis a cantar en las corrientes
+    destas sonoras, cristalinas fuentes
+    que no os dirán hasta el aurora amores.
+    Si sentís que la noche escura y fría
+    os prive de la luz, cuya presencia
+    os causa tanta gloria y alegría,
+    también duerme mi bien. Tened paciencia,
+    que todo es noche hasta que venga el día,
+    mas no la puede haber donde hay ausencia.
+[Sale don Juan y el Rey]
+DON JUAN:
+    Si habrá salido a esperarme...
+    Quédese aquí Vuestra Alteza.
+REY:
+    Bastante es esta maleza
+    para encubrirme y guardarme.
+DON JUAN:
+    Cuantos días ha fingido
+    estar enferma, me habló
+    aquí las noches.
+REY:
+    Que yo
+    lo vea, don Juan, te pido.
+CASANDRA:
+    Rumor oigo. Si es mi bien
+    o me engaña alguna fuente
+    que ha aprendido su corriente
+    a decir «mi bien», también.
+    Un hombre veo. ¿Sois vos,
+    mi señor?
+DON JUAN:
+    Casandra mía.
+CASANDRA:
+    Tardaste; acércase el día.
+DON JUAN:
+    No he podido más, por Dios.
+    Quiso el Rey venir a ver
+    su esposa y por no encontralle
+    rodee una legua a un valle,
+    que es lo más que pude hacer.
+    Ya en efeto estoy aquí,
+    que basta en premio que veo
+    todo el bien de mi deseo.
+    ¿Esperaste mucho?
+CASANDRA:
+    Sí.
+    ¿Mas no topaste al entrar
+    con Silvia?
+DON JUAN:
+    No.
+CASANDRA:
+    Mucho tengo
+    que hablarte.
+DON JUAN:
+    A saberlo vengo.
+REY:
+    (¿Qué tengo ya que dudar?
+    Los amores y los brazos
+    a un tiempo miré y sentí,
+    que aunque los brazos no vi,
+    en fin, sentí los abrazos.
+    Mucho de mi honor perdí.
+    ¡Ay, ojos, de infamia llenos!
+    Pero en fin, del mal, lo menos;
+    paciencia y dé el rayo aquí.)
+[Sale Silvia]
+SILVIA:
+    No suena en toda la huerta
+    fuera del agua otra cosa.
+    ¿Quién es?
+REY:
+    Yo soy, Silvia hermosa.
+SILVIA:
+    ¿Quién?
+REY:
+    El que guarda la puerta.
+SILVIA:
+    ¿Quién?
+REY:
+    Monzón, ¿no me conoces?
+    Mi amo y Casandra están
+    hablando.
+SILVIA:
+    ¿Qué es de don Juan?
+REY:
+    ¿Tengo de decillo a voces?
+SILVIA:
+    Mejorado te has de olor.
+REY:
+    También lo estoy de vestido.
+    Tienta.
+SILVIA:
+    ¡Bravo! ¿Cúyo ha sido?
+REY:
+    Del buen don Juan, mi señor.
+SILVIA:
+    En fin venistes acá.
+REY:
+    Está don Juan de manera
+    que desde el polo viniera
+    donde agora el sol está.
+SILVIA:
+    No está menos, mas peor
+    Casandra, que pierde el seso,
+    y temo algún mal suceso,
+    Monzón, deste loco amor.
+    Si lo sabe el Rey su primo
+    a los dos ha de matar.
+REY:
+    Él sabrá disimular.
+    Mucho su prudencia estimo.
+    Es hijo de padres buenos,
+    don Juan. Si la tiene amor
+    ella, casarle es mejor,
+    porque, al fin, del mal, lo menos.
+    Pero ¿qué está tan perdido?
+SILVIA:
+    Desprecia un rey ¿no lo ves?
+REY:
+    ¿Eslo amor?
+SILVIA:
+    Y el mayor es.
+REY:
+    ¡Gran dolor!
+SILVIA:
+    Quita el sentido.
+REY:
+    Yo conozco otro mayor.
+SILVIA:
+    ¿Cual?
+REY:
+    Celos.
+SILVIA:
+    Ese ya es muerte
+    y hoy me ha tenido de suerte,
+    que casi venció mi amor.
+    Ya sabes cómo yo adoro
+    al conde Fabricio.
+REY:
+    Sí.
+SILVIA:
+    Pues hoy delante de mí
+    habló a Celia.
+REY:
+    El conde Floro
+    me dicen que la servía.
+SILVIA:
+    Y la sirve, pero ha dado
+    Fabricio en darme cuidado.
+REY:
+    Todo será niñería.
+    Pero ¿de qué está celoso?
+SILVIA:
+    De tu amo.
+REY:
+    ¿De mi amo?
+SILVIA:
+    Sabe Dios que le desamo
+    y que es para mí enfadoso.
+REY:
+    Más lo ha sido para mí.
+SILVIA:
+    Un gran placer me has de hacer.
+REY:
+    ¿Yo puedo hacerte placer?
+SILVIA:
+    Sí, Monzón.
+REY:
+    Mándame y di.
+SILVIA:
+    Este papel has de dar
+    a Fabricio.
+REY:
+    Muestra.
+SILVIA:
+    Ten.
+CASANDRA:
+    Rumor siento.
+DON JUAN:
+    Yo también.
+CASANDRA:
+    Sol, yo me voy a acostar
+    mientras veis el otro polo.
+    ¿Silvia?
+SILVIA:
+    ¿Qué?
+CASANDRA:
+    Vamos de aquí.
+DON JUAN:
+    Mi bien, acordaos de mí.
+CASANDRA:
+    Vos sois mi cuidado solo.
+SILVIA:
+    Monzón ¿darás el papel?
+REY:
+    ¿Eso dudas?
+SILVIA:
+    Pues adiós.
+[Vanse Silvia y Casandra]
+DON JUAN:
+    ¿Qué dices?
+REY:
+    Que os vi a los dos
+    y, aunque fue cosa crüel
+    para mis ojos ajenos
+    de ver desatino igual,
+    como temí mayor mal,
+    les dije: del mal, lo menos.
+DON JUAN:
+    Satisfecho estás en fin.
+REY:
+    Don Juan, satisfecho estoy.
+    A ver a Beatriz me voy.
+    Salte, don Juan, del jardín,
+    pero lleva en la memoria
+    que al campo no he de volver,
+    que, si fui, fue por saber
+    ésta mi celosa historia.
+    A llamar a la gente envía
+    y este papel da a Fabricio,
+    que basta hacer este oficio
+    contigo.
+DON JUAN:
+    Saber querría
+    cúyo es aqueste papel.
+REY:
+    De Silvia, que me ha contado,
+    fingiéndome tu crïado,
+    que está enojada con él.
+DON JUAN:
+    Yo haré, señor, que le lea.
+REY:
+    Dásele, don Juan, y vete,
+    que basta ser tu alcahuete
+    sin que de tantos lo sea.
+[Vanse y sale el rey de Dinamarca y el Condestable y acompañamiento]
+[REY DE] DIN.:
+    En esta isla con algún espacio
+    tratemos, Condestable, lo más justo,
+    que no se acierta mal lo bien pensado.
+CONDESTABLE:
+    Yo no quisiera verte enamorado.
+[REY DE] DIN.:
+    Retratos siempre lisonjeros, fama
+    que aumenta en las distancias lo que oye,
+    me tienen de tal suerte por Casandra,
+    que vengo, como ves, con tal peligro,
+    enfermo de su amor a ver la enferma.
+CONDESTABLE:
+    Yo te prometo que la fama dice
+    menos de la verdad, porque aquel día
+    que vi a Casandra, en la bordada cama
+    representando a Venus o Cleopatra,
+    me pareció que la naturaleza
+    afinó las colores y pinceles.
+    Volverte ya parece que no es justo;
+    ir público deslustra tu grandeza.
+    De mi consejo puedes ir secreto,
+    hablar al Rey y verla y desposarte,
+    si te parece lo que a todo el mundo.
+[REY DE] DIN.:
+    Pues en tu parecer solo me fundo.
+    Demos velas al viento, que mañana
+    tornaremos a Nápoles.
+PILOTO:
+    Si el viento
+    refresca en popa, allá esta noche estamos.
+[REY DE] DIN.:
+    ¿Tan presto?
+PILOTO:
+    Sí señor.
+[REY DE] DIN.:
+    Pues iza y vamos.
+[Vanse y salen el marqués Octavio y Fabricio]
+OCTAVIO:
+    Presto nos manda volver.
+    Todo, Fabricio, le enfada.
+FABRICIO:
+    Con razón. Sólo le agrada
+    su bellísima mujer.
+OCTAVIO:
+    Escapósenos Monzón.
+FABRICIO:
+    Acabemos con don Juan.
+OCTAVIO:
+    Dos mil industrias me dan
+    para su muerte invención.
+    Y el mejor medio de todos
+    es echar fama que Tello
+    viene a matarle y hacello
+    público de varios modos.
+    Y cuando Nápoles crea
+    que aquí su enemigo está,
+    que viene a vengarse ya
+    y que matarle desea,
+    darle de noche, Fabricio,
+    un arcabuzazo.
+FABRICIO:
+    Es cosa
+    segura, industria famosa
+    y quiero hacerte servicio
+    de emplear una pistola
+    milanesa en él.
+OCTAVIO:
+    ¿Tú?
+FABRICIO:
+    Yo,
+    que alguna ocasión me dio.
+OCTAVIO:
+    Luego ¿no es mi queja sola?
+FABRICIO:
+    Déjame hacer.
+OCTAVIO:
+    Al terrero
+    acude.
+FABRICIO:
+    A esta noche aguarda.
+[Sale don Juan]
+DON JUAN:
+    (El oficio me acobarda,
+    mas el Conde es caballero.)
+    Fabricio.
+FABRICIO:
+    ¿Quién es?
+DON JUAN:
+    Don Juan.
+FABRICIO:
+    ¡Oh, valiente español!
+DON JUAN:
+    Quiero
+    hablarte a solas.
+FABRICIO:
+    Ya espero.
+OCTAVIO:
+    (Válame Dios. ¿Qué hablarán?)
+DON JUAN:
+    De Silvia este papel.
+    Que te adora, me contó.
+FABRICIO:
+    ¿Tú mesmo le traes?
+DON JUAN:
+    Yo,
+    para servirte con él.
+    Y todos los que me dieren
+    desta manera serán.
+FABRICIO:
+    Sosegado me has, don Juan.
+    Ya no hay temor que me altere.
+    Celoso estuve de ti,
+    mas ya conozco mi engaño.
+    Ni he de permitir tu daño
+    ni ha de venirte por mí.
+    Guárdate de noche y cree
+    que buen porte te he pagado
+    de papel.
+DON JUAN:
+    ¿Han concertado
+    matarme?
+FABRICIO:
+    Hay quien lo desee.
+    Creo que quieren tirarte
+    un arcabuzazo.
+DON JUAN:
+    ¿Quién?
+FABRICIO:
+    Guárdate y basta.
+DON JUAN:
+    Está bien.
+FABRICIO:
+    Yo te sirvo en avisarte.
+OCTAVIO:
+    (El Rey viene. ¿Qué será
+    lo que han hablado los dos?)
+DON JUAN:
+    Octavio es éste, por Dios.
+    Mi vida enojo le da.
+[Sale el Rey y la Reina]
+REY:
+    Esta carta me escribe el rey de España
+    y dice que es don Juan pariente suyo.
+REINA:
+    Obligaciones tenéis de honrarle.
+REY:
+    Y tanta
+    cuanto de hoy más conocerá en mis obras.
+    Es don Juan un gallardo caballero,
+    échasele de ver la buena sangre
+    en todas sus aciones. Los Mendozas
+    tienen estimación por todo el mundo.
+REINA:
+    Gracias a Dios que ya ha llegado tiempo
+    en que habéis conocido tantos méritos,
+    tantas partes, virtudes y alabanzas
+    como en este español celebra el mundo.
+REY:
+    (Ni España me escribió, ni he visto carta
+    que me abone las partes que le aplico,
+    que todo nace de mi propia ofensa.
+    Y como voy con pensamiento justo
+    de que ha de ser marido de Casandra,
+    voile dando caudal con que lo sea,
+    porque del mal se ha de escoger lo menos,
+    si alguno de los males es forzoso.)
+    Don Juan...
+DON JUAN:
+    Señor...
+REY:
+    En esta carta
+    dice el Rey que eres su deudo y me encomienda
+    tu amparo y honra. Yo le he respondido
+    que, para que mejor yo pueda hacello,
+    un hábito te envíe de Santiago
+    y la encomienda que le diere gusto.
+DON JUAN:
+    Beso tus pies mil veces, que bien veo
+    que sola tu grandeza levantará
+    un hombre tan humilde de la tierra.
+REY:
+    Levantaos Almirante.
+DON JUAN:
+    Señor mío
+    ¿qué dice Vuestra Alteza?
+REY:
+    Que de Nápoles
+    sois Almirante y que gocéis su título
+    con el de Mayordomo de mi casa.
+DON JUAN:
+    Mil años guarde el cielo a Vuestra Alteza.
+REINA:
+    Y yo también, por la merced y honra
+    que habéis hecho a don Juan, los pies os beso.
+REY:
+    Si vos lo agradecéis de esa manera,
+    poco será con mi corona darle
+    la envestidura deste reino.
+REINA:
+    El cielo
+    os dé la vida que os deseo.
+OCTAVIO:
+    A todos,
+    gran señor, nos alcanza parte desto.
+REY:
+    Todos debéis holgaros, que es mi gusto.
+OCTAVIO:
+    (En mi vida he tenido tal disgusto.)
+REY:
+    Sospecho que mi prima, que de España
+    también la escriben, honre, ampare y quiera
+    a don Juan de Mendoza. Tendrá gusto
+    de saber que le hago mi Almirante.
+    Entrad, Fabricio, vos: dalde la nueva.
+FABRICIO:
+    Yo voy y las albricias te agradezco,
+    que no serán de su Excelencia cortas
+    porque sé la merced que a don Juan hace.
+OCTAVIO:
+    (Todo su bien de mi desdicha nace.)
+[Sale Fabio]
+FABIO:
+    Advierta Vuestra Alteza que se dice
+    por toda la ciudad que está en la playa
+    el rey de Dinamarca.
+REY:
+    ¿De qué suerte
+    está en la playa, el Rey, secreto o público?
+FABIO:
+    Secreto, porque viene con secreto;
+    público, porque ya lo saben todos.
+REY:
+    (A fuerte tiempo viene el Rey. Sospecho
+    que a impedir el pensamiento mío.
+    ¡Oh Casandra! ¡Oh mujer! ¿En qué me has puesto?)
+    Vamos señora porque demos traza
+    en recebir al Rey, que estoy confuso
+    en la resolución que tomé en esto.
+REINA:
+    No os dé cuidado y, pues secreto viene,
+    dejalde hacer lo que él pensado tiene.
+[Váyanse los reyes y Fabio]
+OCTAVIO:
+    Agora que el Rey es ido
+    os quiero dar parabién.
+DON JUAN:
+    De cualquiera que me den
+    seréis, Octavio, servido.
+OCTAVIO:
+    Bésoos, señor Almirante,
+    las manos, que ese deseo
+    de vuestro valor le creo.
+DON JUAN:
+    En lo que fuere importante,
+    lo que he sido y lo que soy
+    seguro podréis tener,
+    Marqués, cuán vuestro he de ser.
+OCTAVIO:
+    Seguro, Almirante, estoy.
+    Y en pago de la merced
+    que me hacéis, quiero advertiros
+    cierta cosa por serviros.
+DON JUAN:
+    Yo la recibo.
+OCTAVIO:
+    Creed
+    que me mueve vuestro amor.
+    Tello, aquel vuestro enemigo
+    está aquí.
+DON JUAN:
+    ¿Quién?
+OCTAVIO:
+    Tello, digo.
+DON JUAN:
+    ¿Tello? Mirad que es error,
+    que Tello no se atreviera
+    a venir donde me ampara
+    un rey.
+OCTAVIO:
+    Es cosa tan clara,
+    que sé, don Juan, que os espera
+    para mataros. Haced
+    por guardaros.
+DON JUAN:
+    Yo os lo juro.
+OCTAVIO:
+    Sólo vuestro bien procuro.
+DON JUAN:
+    Haceisme mucha merced.
+OCTAVIO:
+    Si de noche acaso alguna
+    queréis salir, avisadme
+    con tiempo y con vos llevadme
+    y no tentéis la fortuna,
+    que vos y yo, a dos y a seis
+    no hay qué temer.
+DON JUAN:
+    Sois muy bravo.
+OCTAVIO:
+    No es esto porque me alabo.
+DON JUAN:
+    Ni es justo que os alabéis,
+    que me han dicho que a Fabricio
+    y a vos, buen testigo el sol,
+    de un balcón cierto español,
+    pienso que de bajo oficio,
+    os hizo tomar la calle,
+    no contra vuestro decoro,
+    pues le tuvistes por toro
+    y procurastes cegalle
+    con dos capas guarnecidas
+    que el hombre después vendió,
+    de que más gusto sacó
+    que de darle mil heridas,
+    porque fue darlas al viento.
+    Con esto, si acaso aquí
+    viniere Tello y de mí,
+    con traición o fingimiento,
+    quisiere satisfación
+    y no como caballero,
+    aunque de Tello no espero
+    que me acometa a traición,
+    mas por si Jacob después
+    fuere a Esaú semejante,
+    Nápoles tiene almirante
+    que a Tello y algún marqués,
+    si acaso no se le escapa,
+    le pondrá de tal manera,
+    que por ir a la ligera
+    vuelva a dejarle la capa.
+[Vase]
+OCTAVIO:
+    Enmudecido he quedado,
+    no he sabido responder
+    porque es justo enmudecer
+    con la vergüenza el culpado.
+    ¡Oh, fuerza de la verdad,
+    freno en la mejor espada
+    que pierde el alma culpada
+    la ación a su libertad!
+    ¡Oh, español favorecido
+    de la fortuna! Ya estás
+    donde vengarte podrás
+    de la envidia que he tenido.
+    Ya me espanta tu ventura,
+    si tu valor me espantaba.
+    Hoy mi venganza se acaba
+    y está la tuya segura.
+    ¿Por qué notable camino
+    me dijo tantas afrentas?
+    ¡Cuán en vano envidia intentas
+    este loco desatino!
+    Mas no faltará ocasión
+    de derribarte, enemigo.
+[Cuatro lacayos sacan en hombros a Monzón]
+SERVIO:
+    ¡Vítor, Monzón! Vítor, digo.
+MONZÓN:
+    Quedito.
+JACOBO:
+    ¡Vítor Monzón!
+MANUEL:
+    Ea, señor Almirante,
+    pague Voarcé la patente.
+MONZÓN:
+    Escuchen al pretendiente.
+CALIFA:
+    ¿Ya para qué es importante?
+MONZÓN:
+    Yo no sé qué verdad sea
+    ser almirante don Juan.
+SERVIO:
+    Si cuando a un pobrete dan
+    una mísera librea,
+    convida y gasta su hacienda
+    con tuta la compañía,
+    siendo almirante ¿no es día
+    que gaste, se empeñe y venda?
+    Ea, o la capa y la espada
+    vaya a la primera ermita.
+MONZÓN:
+    Oigan y con menos grita.
+MANUEL:
+    Ya está la sed alterada
+    y, en no le dando refresco,
+    parece Vuesa Merced.
+CALIFA:
+    Los vítores dan gran sed,
+    que fue invención de un tudesco;
+    que como comienzan en «vi»
+    el «tor» en «no» transformó.
+SERVIO:
+    La bolsa dice que no
+    y la sed dice que sí.
+    Denos siquiera una vez.
+MONZÓN:
+    Saberlo será importante,
+    no sea aqueste almirante
+    se nos volviere almirez.
+    Retírense un poco allí,
+    que he visto quien lo dirá.
+CALIFA:
+    Vaya y la verdad sabrá.
+MANUEL:
+    (¿Pasará por ello?
+MONZÓN:
+    Sí.)
+    Suplico a Vuseñoría
+    me haga merced de decirme,
+    porque no sé cosa firme
+    y se miente cada día
+    en esto de provisiones
+    al gusto del vulgo vano,
+    sin que le vaya a la mano
+    los méritos ni opiniones,
+    si es verdad que es almirante
+    don Juan mi señor.
+OCTAVIO:
+    (Sospecho
+    que este villano lo ha hecho
+    no porque le es importante,
+    sino por darme pesar.
+    Gran paciencia he menester.)
+    Monzón...
+MONZÓN:
+    Señor...
+OCTAVIO:
+    Tu placer
+    es cierto. Bien puedes dar
+    a don Juan el parabién,
+    que es almirante sin duda.
+MONZÓN:
+    Pues Vuseñoría acuda
+    para esta gente de bien
+    con cualque escudo o doblón,
+    que no tengo qué les dar.
+OCTAVIO:
+    (Que aún esto me hacen pagar...)
+    Tomad y gasten, Monzón.
+[Vase Octavio]
+MONZÓN:
+    Guárdete el cielo, señor.
+CALIFA:
+    Es almirante don Juan.
+MONZÓN:
+    Este doblón beberán.
+TODOS:
+    ¡Vítor Monzón!
+MONZÓN:
+    Por mi amor,
+    que beban Vuesas Mercedes
+    con prudencia y discreción.
+    No haya, pues no es razón,
+    gigantes por las paredes.
+    Y beban a mi salud.
+SERVIO:
+    De vítores estoy seco.
+MANUEL:
+    ¿Qué será: lágrima o greco?
+CALIFA:
+    Témplame aquesse laúd.
+    Eso, candia y malvasía
+    y otras cien mil diferencias.
+MONZÓN:
+    Hablen después bien de ausencias.
+CALIFA:
+    ¡Brindis!
+SERVIO:
+    ¡Caraus!
+MONZÓN:
+    ¡Qué alegría!
+[Vanse los lacayos y sale don Juan]
+DON JUAN:
+    ¿Dónde me llevas fortuna,
+    en las alas del favor?
+    Mira que tengo temor
+    que crezca tanto la luna
+    pues es fuerza haber menguante.
+MONZÓN:
+    ¿Sabrame Vuesa Merced
+    decir, por me hacer merced,
+    dónde vive el Almirante?
+DON JUAN:
+    ¿El Almirante, decís?
+    ¿Preguntáis por su Excelencia?
+MONZÓN:
+    Sí señor y esa advertencia
+    de que también me advertís
+    os agradezco en estremo.
+DON JUAN:
+    ¿Qué le queréis?
+MONZÓN:
+    Suplicalle,
+    si fuere posible hablalle,
+    cosa que aún aquí la temo:
+    se acuerde que le he servido
+    desde que salió de España
+    y en fortuna tan estraña
+    lo que él sabe he padecido.
+    Cuando el Rey le hizo ayuda,
+    para dármela de costa,
+    me dio una calcilla angosta,
+    de unos grigüescos vïuda.
+    Cuando ya fue gentilhombre
+    de la cámara admitido,
+    un no sé si fue vestido,
+    que nunca le supe el nombre.
+    Y habiéndole con la espada
+    y la capa alguna vez
+    hecho, de quien soy, juez,
+    no me dio en su vida nada.
+    Pues las noches que he pasado
+    en un jardín son de suerte,
+    que era lo menos la muerte,
+    y tampoco me ha pagado.
+    Verdad es que no ha tenido
+    con qué, este pobre señor,
+    y que yo sólo por amor
+    le he acompañado y servido,
+    que, cierto, es hombre de bien,
+    y que, por velle salir
+    a un coso, puede venir
+    un hombre de Tremecén.
+    Hombre es que de una lanzada
+    clava un toro con la tierra
+    y que si la lanza yerra
+    no yerra la cuchillada,
+    porque abierta la cerviz
+    saltan de las piedras llamas.
+    Es venturoso en las damas
+    y en las pendencias feliz.
+    Obliga a cuantos le ven
+    a honrarle y amarle tanto...
+    Pero es pobre, no me espanto.
+    Cualquiera cosa hará bien.
+DON JUAN:
+    Hidalgo, ese caballero
+    que ha hecho el Rey Almirante,
+    no tuvo cosa importante
+    con qué honrar a su escudero.
+    Por andar la bolsa estrecha
+    no está esa deuda pagada,
+    porque es mejor no dar nada
+    que dar lo que no aprovecha.
+    Mas agora que le ha puesto
+    la fortuna en tal lugar,
+    yo haré que os pague, sin dar
+    causa a que andéis descompuesto.
+    Besadle luego los pies
+    que ya soys su camarero.
+MONZÓN:
+    Y aún la tierra besar quiero.
+DON JUAN:
+    Vete a vestir.
+MONZÓN:
+    Justo es.
+DON JUAN:
+    Toma el vestido que yo
+    saqué la fiesta pasada.
+MONZÓN:
+    ¿Tanta merced?
+DON JUAN:
+    Todo es nada.
+MONZÓN:
+    Quien bien sirvió, bien medró.
+[Váyase Monzón y sale Casandra]
+CASANDRA:
+    Mal puede disimular
+    tanto contento quien ama.
+DON JUAN:
+    Mi bien, ¿vos dejáis la cama?
+CASANDRA:
+    Con deseo de besar
+    las manos al Almirante.
+    Démelas Vuestra Excelencia.
+[Detrás Octavio]
+OCTAVIO:
+    (¿Quién tendrá en esto paciencia?)
+DON JUAN:
+    ¿Posible es que se levante
+    Vuestra Excelencia por mí?
+CASANDRA:
+    Por vos fue la enfermedad;
+    por vos la salud.
+DON JUAN:
+    Mirad
+    que está vuestro esposo aquí.
+CASANDRA:
+    No hay esposo, sino vos,
+    y confírmenlo estos brazos.
+DON JUAN:
+    Para tan hermosos lazos
+    salga el alma.
+OCTAVIO:
+    (Bien, por Dios.)
+DON JUAN:
+    Otavio estaba, señora,
+    detrás de aquel paño.
+CASANDRA:
+    Esté,
+    que no hay cosa que me dé
+    pena ni recelo agora.
+    Con todo eso me voy,
+    que siento al Rey.
+DON JUAN:
+    Yo también.
+CASANDRA:
+    Todo se hará muy bien.
+DON JUAN:
+    En esa esperanza estoy.
+[Vanse don Juan y Casandra]
+OCTAVIO:
+    Casi delante de mí
+    osan hablar libremente.
+[Sale el Rey]
+REY:
+    Honrar al noble pariente
+    de tan gran rey pretendí.
+OCTAVIO:
+    Parece que a mi deseo
+    viene Vuestra Majestad.
+REY:
+    ¿Cómo?
+OCTAVIO:
+    Hay gran necesidad
+    de remediar lo que creo
+    que si pasase adelante
+    gran daño resultaría.
+REY:
+    ¿Qué es, Marqués, por vida mía?
+OCTAVIO:
+    Casandra y el Almirante
+    hablaban públicamente.
+    Yo los vi tiernos aquí.
+REY:
+    ¿Cosas de amor?
+OCTAVIO:
+    Señor, sí,
+    y es muy grande inconveniente.
+REY:
+    Pues ¡y cómo si lo es!
+OCTAVIO:
+    Casandra y el Almirante.
+    ¡Hay libertad semejante!
+REY:
+    Quedo. Sin voces, Marqués.
+    Quedo, no os adelantéis
+    que pues yo su primo soy
+    y soy rey y no las doy,
+    no es justo que vos las deis.
+    Casandra tiene ya edad
+    para ver que le conviene
+    a la calidad que tiene
+    vivir con honestidad.
+    Y yo soy de parecer
+    que casalla es mejor medio
+    que otro cualquiera remedio,
+    que, aunque es mi sangre, es mujer.
+    Y pues hay mil libros llenos
+    de males de amor, no hay tal
+    como en viendo al ojo el mal
+    escoger del mal, lo menos.
+OCTAVIO:
+    Vos decís, señor, muy bien.
+    Alabo vuestra prudencia.
+    Sin ella hablé y sin licencia.
+    Ya os pido perdón también.
+    Y pues casar tan aprisa
+    a Casandra pretendéis,
+    aunque las nuevas tenéis
+    que el de Dinamarca avisa,
+    suplícoos me honréis a mí
+    con vuestra prima, señor.
+REY:
+    No veis, Marqués, que es error
+    que yo os la dé.
+OCTAVIO:
+    ¿Cómo, ansí?
+REY:
+    Si vos la vistes hablar
+    con el Almirante, es justo
+    que deis a quien tiene el gusto
+    donde os ha dado pesar.
+    Esto bien lo echáis de ver
+    y así es remedio importante
+    dársela al mismo Almirante,
+    que es lo que yo pienso hacer.
+OCTAVIO:
+    ¿A un hombre Almirante de hoy
+    y ayer un pobre soldado?
+REY:
+    Lo que es ayer ya ha pasado;
+    por lo que es hoy se la doy.
+[Vase el Rey]
+OCTAVIO:
+    Yo porfío sin razón;
+    es mejor volver la vela.
+    Ya no ha de valer cautela;
+    el Rey le tiene afición.
+    Hoy pierdo las esperanzas;
+    ya sólo en el viento las fundo.
+    ¡Oh vil estado del mundo,
+    sujeto a tantas mudanzas!
+[Sale el Rey de Dinamarca, el Condestable y gente]
+[REY DE] DIN.:
+    Esta carta me escribió.
+    Lo que digo dice en ella.
+CONDESTABLE:
+    ¿Puedo vella?
+[REY DE] DIN.:
+    Puedes vella
+    y admírate como yo.
+[Lea]
+CONDESTABLE.:
+[REY DE] DIN.:
+    ¿Qué te parece?
+CONDESTABLE:
+    Que es cosa
+    con que yo perdiera el seso.
+[REY DE] DIN.:
+    Yo no, porque le he cobrado
+    y estoy castigado y cuerdo.
+CONDESTABLE:
+    ¿Qué piensas hacer?
+[REY DE] DIN.:
+    Agora
+    lo verás, caballero.
+OCTAVIO:
+    ¿Qué mandáis?
+[REY DE] DIN.:
+    Decid al Rey,
+    y perdonad que me atrevo
+    por estranjero, que quieren
+    hablarle dos estranjeros.
+OCTAVIO:
+    Pienso que sé ya quién sois.
+    Si lo sois, los pies os beso.
+[REY DE] DIN.:
+    El rey soy de Dinamarca.
+OCTAVIO:
+    (¡Oh, cómo viene a buen tiempo!
+    Porque la quite a don Juan
+    que éste la goce me huelgo.)
+[Vase Octavio]
+CONDESTABLE:
+    Pensando he estado, señor,
+    ese tu prudente acuerdo
+    que con Casandra has tomado
+    y es bueno, con todo estremo,
+    porque si de no casarte
+    resulta a ti y a tu reino
+    vergüenza, en mal tan forzoso
+    escoger del mal, lo menos.
+[Sale el Rey, la Reina, Casandra, Silvia, Octavio, don Juan, Monzón galán, Fabricio y todos]
+[REY DE] DIN.:
+    El Rey sale acompañado.
+    Que soy conocido creo.
+REY:
+    Deme su Alteza esos brazos.
+[REY DE] DIN.:
+    Entendí venir secreto
+    y tan público he venido
+    que ya en parte me avergüenzo.
+    A su Alteza, de la Reina
+    pido los pies.
+REINA:
+    Aquí tengo
+    los brazos apercibidos.
+REY:
+    ¡Hola, sillas!
+DON JUAN:
+    Sillas presto.
+[Siéntanse el Rey, Reina, el de Dinamarca y Casandra]
+[REY DE] DIN.:
+    (¿Habrá dado mi venida
+    que sospechar?)
+REINA:
+    (El contento
+    no dio lugar a sospechas.)
+[REY DE] DIN:
+    Oíd. Decíroslo quiero:
+    yo pensé pasar a Roma
+    y desde Roma a Loreto
+    a una promesa y, estando
+    para el camino dispuesto,
+    tuve una carta del rey
+    de España, don Juan Primero,
+    que, sabiendo mi jornada,
+    con mucho encarecimiento
+    me ha pedido que os pidiese
+    por ser su cercano deudo
+    don Juan de Mendoza, un hombre
+    que ya conocer deseo,
+    le diese a Casandra
+    vuestra prima en casamiento.
+    Y esto a suplicaros vengo.
+REY:
+    A vos y al Rey lo agradezco,
+    mas yo pensaba emplealla
+    en vos, conforme al concierto.
+[REY DE] DIN.:
+    No hay concierto que me agrade
+    como éste. Esto os pido y ruego.
+    Y que conozca a don Juan.
+DON JUAN:
+    Aquí estoy, los pies os beso.
+[REY DE] DIN.:
+    Vos sois digno de Casandra;
+    adoralda en todo estremo
+    que se lo debéis, don Juan,
+    y pues que sois caballero,
+    porque lo sepáis mejor,
+    ésta leed con secreto.
+REY:
+    Ahora bien, dense las manos.
+REINA:
+    A tan buen casamentero
+    pido que case esta dama.
+FABRICIO:
+    Yo, señor, si lo merezco,
+    la pido.
+REY:
+    Si ella quisiere.
+SILVIA:
+    Sí señor.
+REY:
+    Yo os lo concedo.
+    Octavio, no os aflijáis.
+OCTAVIO:
+    Yo, señor, antes me alegro.
+REY:
+    Yo os hago mi Condestable.
+MONZÓN:
+    Y Monzón, que fue estafermo
+    de todos estos amores,
+    ¿es de aquesta cuenta el acero,
+    como dominica en albis?
+REY:
+    Eso no. Yo te prometo
+    dos mil ducados de renta.
+MONZÓN:
+    Ea, ya soy caballero:
+    el caballero Monzón
+    me llamo desde hoy.
+REY:
+    Advierto
+    con este ejemplo, senado,
+    que aquí da fin este ejemplo,
+    que donde es forzoso el mal,
+    escojáis del mal, lo menos.

@@ -1,0 +1,4252 @@
+# El hijo de Reduán
+Autor: Lope de Vega
+
+JORNADA 1
+
+[Sale Baudeles, rey de Granada, y Reduán y Ardano, paje]
+BAUDELES:
+    ¿Y tiene buena presencia?
+REDUÁN:
+    Es alto, pero bien hecho.
+BAUDELES:
+    Ya después de tanta ausencia
+    apenas tendrá en mi pecho
+    paternal correspondencia,
+    aunque la sangre paterna
+    resucita, fresca y tierna,
+    cualquiera memoria antigua
+    luego que el alma averigua
+    la vida que la gobierna.
+REDUÁN:
+    En viendo tu semejante,
+    verás que el amor te aspira
+    conocimiento bastante,
+    como al que en espejo mira
+    su mismo rostro delante,
+    que de parecerle allí
+    que es tan semejante a sí
+    le tiene aquel mismo amor.
+BAUDELES:
+    No hace efecto menor
+    sola la memoria en mí;
+    mayormente si me acuerdo
+    de aquélla por quien hoy pierdo
+    el seso, el alma y la vida,
+    que, por ser tan bien perdida,
+    cuando más loco, soy cuerdo.
+    ¿Y cómo está la cristiana
+    madre de mi hijo?
+REDUÁN:
+    Hermosa,
+    gallarda, fresca y lozana,
+    aunque afligida y llorosa
+    de aquesta ausencia inhumana.
+    Notifiquéle tu gusto
+    y como era ya muy justo
+    que Gomel venga a la corte
+    por lo que a su honor importe,
+    aunque reciba disgusto.
+    Y quedando sus mejillas,
+    que afrentar suelen las rosas,
+    por el desmayo amarillas,
+    vi sus lágrimas hermosas,
+    pero no pude sufrillas.
+    "No te espantes, Redüán,
+    de ver que corriendo están
+    -la bella cristiana dijo-,
+    que las lágrimas de un hijo
+    en medio del alma están:
+    no porque al Rey se le llevas
+    -que en fin es su rey y padre,
+    cuyas grandezas apruebas-,
+    mas por temer como madre
+    de su madrasta las nuevas.
+    Dícenme que es tan celosa
+    la Reina, y tan deseosa
+    de saber del Rey el pecho,
+    que temo que a su despecho
+    le dé muerte rigurosa.
+    Y más si sabe que es mío
+    o si por dicha le ve
+    tan lleno de gracia y brío".
+    Yo entonces le aseguré
+    su temor y desvarío
+    y le dije: "Hermosa Anarda,
+    muy sin razón te acobarda
+    la Reina, que a toda ley
+    es Gomel hijo del Rey
+    y Redüán quien le guarda.
+    Lo que hasta agora se sabe
+    es que Gomel es mi hijo,
+    ni habrá hombre que se alabe
+    que el Rey le dio parte o dijo
+    de este succeso tan grave.
+    Ansí que en nombre de mío
+    ha de vivir en la corte".
+BAUDELES:
+    ¿Que, en fin, es mozo de brío?
+REDUÁN:
+    Que ha de haber tiempo que importe
+    a tu real corona fío,
+    porque es opinión y fama
+    por todo el monte de Alhama,
+    donde está hecho pastor,
+    que no le iguala en furor
+    un novillo de Jarama,
+    y que al más bravo que vía,
+    con más fuerza que destreza
+    de los dos cuernos le asía,
+    y con la fuerte cabeza
+    besar el suelo le hacía.
+    Al oso y al jabalí,
+    sin dardo ni lanza, allí
+    de manera le apretaba,
+    que sin vida le dejaba,
+    y déstos algunos vi
+    que, a sus puertas -por honor
+    de la sangre a quien reservo-,
+    a esta hazaña dan valor,
+    como los cuernos del ciervo
+    en casa del cazador.
+BAUDELES:
+    ¿Que tan bravo es el mozuelo?
+REDUÁN:
+    Que será un Muza recelo.
+BAUDELES:
+    Está con mezcla cristiana,
+    adonde de mejor gana
+    pone sus fuerzas el cielo.
+REDUÁN:
+    Lo mejor que tiene es tuyo,
+    y aunque de ser lisonjero
+    en cosas tan proprias huyo,
+    el ser tan gallardo y fiero
+    a ser cristiano atribuyo;
+    porque, para ser lozano
+    un cristiano hidalgo, es llano
+    que ha de tener algo moro,
+    y aun es al moro un tesoro
+    tener algo de cristiano.
+    Gomel, tu hijo, en efecto,
+    aunque está en nombre de mío,
+    es un bastardo perfecto,
+    muy legítimo en el brío
+    y a ninguna ley sujeto.
+BAUDELES:
+    ¿Y él sabe acaso o sospecha
+    que es mi hijo?
+REDUÁN:
+    No lo sabe
+    ni ha tenido tal sospecha,
+    que a vencer pecho tan grave
+    aun el amor no aprovecha.
+    Su madre, en fin, lo ha encubierto
+    porque teme velle muerto,
+    y, así, Gomel ha creído
+    que es mi hijo, y se ha tenido
+    en toda Alhama por cierto.
+BAUDELES:
+    Dime cómo le veré
+    sin que sepa que el Rey soy.
+REDUÁN:
+    Que le traiga Ardano haré
+    si en esto gusto te doy.
+    Ve, Ardano.
+ARDANO:
+    Volando iré.
+[Va Ardano por Gomel]
+REDUÁN:
+    No quisiera que le vieras
+    tan desnudo como andaba
+    en el monte, entre las fieras.
+BAUDELES:
+    Como está le imaginaba
+    para que ansí le trujeras,
+    que antes lo tendré por gusto.
+REDUÁN:
+    Más galán fuera más justo,
+    pero, pues gustas de vello
+    ansí, he mandado traello
+    pastor, villano y robusto.
+BAUDELES:
+    ¡No hay contento sin azar!:
+    ya nuestra conversación
+    viene la Reina a estorbar.
+[Entra la reina Alcira, Lizara y Celora, damas]
+ALCIRA:
+    No vengo a mala ocasión:
+    ¡solos y en este lugar!
+    ¿Qué hacías, qué tratabas?
+    Pero ¿quién duda que acierto
+    si digo de lo que hablabas?
+    ¡Por mi vida, era concierto!
+    ¿Dónde ibas? ¿Qué ordenabas?
+    ¿Era en carmen esta fiesta
+    o en orilla de Genil?
+    ¿Aún no merezco respuesta?
+    ¿Es, Redüán, muy gentil
+    aquesta dama?
+REDUÁN:
+    ¿Cuál?
+ALCIRA:
+    Ésta.
+REDUÁN:
+    Que del Rey estés celosa
+    lo tengo por justa cosa
+    -aunque sin razón lo estás-,
+    que en celos se muestra más
+    toda pasión amorosa.
+    ¡Mas que tu alma se inquiete
+    y que me hagas sin ley
+    el paje de su retrete!
+    ¿No ves que le vengo al Rey
+    muy grande para alcagüete?
+    Redüán que en armas fieras,
+    hasta los pechos Genil,
+    venció cristianas banderas,
+    ¿quieres que oficio tan vil
+    ejercite en sus riberas?
+    Que, a pesar de los villanos
+    que te dan sus pareceres,
+    nunca servían mis manos
+    al Rey de traer mujeres,
+    sino de matar cristianos.
+    Éste sí mi oficio ha sido,
+    y no tan vil y abatido;
+    si tiene amores, serán
+    con mujeres que aquí están
+    de cautivos que he vencido.
+[Hace que se va Reduán]
+ALCIRA:
+    ¡Vuelve, bizarro pagano,
+    que me burlaba!
+REDUÁN:
+    ¡No encierra
+    burlas este pecho sano!
+ALCIRA:
+    ¿Eres soldado en la guerra
+    y no en la paz cortesano?
+BAUDELES:
+    Tiene Redüán razón.
+    ¿Por qué vos sin ocasión
+    afrentáis a Redüán,
+    que es el mejor capitán
+    que tiene nuestra nación?
+    ¿En qué fundastes los celos
+    que aquí de mí presumistes?
+    ¿Qué sospechas, qué recelos,
+    qué papel, qué paje vistes
+    o qué señas en los cielos?
+    ¿A qué balcón me incliné?
+    ¿A qué dama le escribí?
+    ¿En qué calle paseé?
+    Decid, ¿qué toros corrí
+    o qué cañas inventé?
+    ¿Qué cifra trae mi bonete
+    o qué pluma, en seis o siete,
+    que no sea vuestra color?
+    Luego el Rey no tiene amor
+    ni es Redüán su alcagüete.
+ALCIRA:
+    Todos tenéis una falta:
+    si celosas no vivimos
+    decís que el amor nos falta,
+    y si acaso os los pedimos
+    el más cuerdo grita y salta.
+    ¿Pues cómo aquesto ha de ser?
+    Enseñadnos a querer,
+    y queriendo, no sentir,
+    y sintiendo, no decir,
+    y diciendo, enmudecer.
+CELORA:
+    Deja, señora, estas iras,
+    que es color de sus maldades,
+    porque hacen, si lo miras,
+    de sus mentiras verdades
+    y nuestra verdad mentiras.
+    ¡Quédese aquí Redüán
+    sólo bravo y capitán,
+    que alguna quejosa tiene!
+REDUÁN:
+    Ese jüez me condene
+    y los que con él están,
+    si en palabra o pensamiento
+    el Rey ni yo os ofendimos.
+LIZARA:
+    A quien tiene por tormento
+    los celos que le pedimos
+    no le sobra sentimiento.
+    Yo a lo menos bien me holgara
+    que el sujeto que yo amara
+    mártir de celos me hiciera.
+BAUDELES:
+    Y yo que me los pidiera
+    cuando en ocasión me hallara.
+ALCIRA:
+    Hallados en ocasión
+    no son por aficionar,
+    que antes dañan la afición.
+[Entra Ardano]
+ARDANO:
+    Tu hijo está aquí. ¿Ha de entrar?
+REDUÁN:
+    (¿No tienes más discreción?
+    ¿Ves que la Reina está aquí
+    y hablas, majadero, ansí?)
+ALCIRA:
+    Antes lo deseo ver;
+    Redüán, hazlo traer.
+REDUÁN:
+    No está para verte a ti,
+    porque es, como habrás sabido,
+    en una cristiana habido,
+    y ha veinte años que una ama
+    entre las sierras de Alhama
+    hecho pastor le ha tenido.
+ALCIRA:
+    De cualquier suerte que esté
+    lo quiero ver.
+REDUÁN:
+    Si es posible
+    primero lo vestiré.
+ALCIRA:
+    Lo contrario es imposible:
+    yo le he de ver.
+REDUÁN:
+    Tráiganle,
+    pero por Dios que me afrento.
+CELORA:
+    A todas nos das contento.
+    Haz que le traigan ahora,
+    pues la Reina mi señora
+    gusta dello.
+REDUÁN:
+    Es justo intento.
+[Entra Gomel con un alquicel de alarde y un bonete colorado y unas abarcas de pellejos]
+ARDANO:
+    Gomel, señor, viene aquí.
+GOMEL:
+    ¿Qué es, padre, lo que me quieres?
+BAUDELES:
+    (¡Cuánto me parece a mí!)
+GOMEL:
+    ¿Quién son aquestas mujeres
+    y ese moro que está ahí?
+REDUÁN:
+    La Reina y el Rey que amas.
+    Llega y di cómo te llamas,
+    pide sus manos y luego,
+    con humildad y sosiego,
+    a la Reina y a sus damas,
+    porque ansí lo hacen otros
+    de más calidad que vos.
+GOMEL:
+    ¿Quién son los otros?
+REDUÁN:
+    Nosotros
+GOMEL:
+    ¿Que aqueste es el Rey? ¡Par Dios,
+    que es hombre como los otros!
+    ¡Hola, que me deis las manos!
+BAUDELES:
+    De mis brazos cubrir quiero
+    aquesos tuyos villanos,
+    que es sangre de un caballero
+    corona de los paganos.
+    Deja, pues, que los apriete
+    por lo mucho que promete
+    el valor que en ellos vive.
+REDUÁN:
+    De vos, señor, lo recibe
+    para que a vos se sujete.
+    Y aunque este traje le encoge,
+    agradecido os está,
+    pues tal brazo el suyo escoge.
+GOMEL:
+    Eso, por Dios, se me da
+    que me apriete o que me afloje.
+    ¿Tengo de hablar a la Reina?
+REDUÁN:
+    Sí, hijo; de buena gana.
+GOMEL:
+    Cualquiera juzgo que reina,
+    hecho a ver una villana
+    que ni se pule ni peina.
+ALCIRA:
+    Yo soy.
+GOMEL:
+    Pues dadme esos pies.
+ALCIRA:
+    ¡Estraño rústico es!
+GOMEL:
+    ¡Cuánto vos sois melindrosa,
+    aunque os tenéis por hermosa!
+    ¡Dadme acá!
+CELORA:
+    ¡No se los des!
+    Desto a Redüán le arguyo
+    que tal talle, lengua y rostro
+    no era para ver el tuyo.
+    ¡Enseñárale por monstro,
+    pero no por hijo suyo!
+ALCIRA:
+    Basta ser él de quien es
+    no para darle los pies,
+    mas para darle las manos.
+GOMEL:
+    Entre moros ni cristianos
+    no hay hombre como el que ves,
+    porque la tosca melena,
+    el abarca y alquicel
+    muy poco al alma condena
+    ni a la sangre que está en él,
+    de hidalgos deseos llena.
+    Es mi padre Redüán
+    y, del linaje Guzmán,
+    una cristiana mi madre,
+    que en valor vence a mi padre
+    y él a cuantos aquí están.
+    Lo que es vestido no es alma
+    ni el alma adorna el vestido,
+    que sin él lleva la palma;
+    un alma soy que ha tenido
+    un cuerpo desnudo en calma.
+    Pero dad gracias a Dios
+    que en parecernos prolijos
+    ya nos pagamos los dos,
+    pues yo no daré a mis hijos
+    tan ruin madre como vos,
+    ni vos me querréis a mí
+    para que marido os sea.
+LIZARA:
+    Pon paz, Redüán, aquí.
+CELORA:
+    ¡No he visto cosa más fea
+    desde el punto que te vi!
+GOMEL:
+    Ya os he dicho lo que sé.
+REDUÁN:
+    (¿Qué sientes?)
+BAUDELES:
+    (Que en él se ve
+    una soberbia invencible.)
+ALCIRA:
+    ¡No haya más!
+GOMEL:
+    Será posible
+    mandándole vuestro pie.
+ALCIRA:
+    Mirad, señor, qué mandáis,
+    que me voy hacia el jardín.
+BAUDELES:
+    Que de un esclavo os sirváis.
+ALCIRA:
+    Quedaos, mi bien; ¿a qué fin
+    agora me acompañáis?
+BAUDELES:
+    ¡Por vida vuestra que he de ir!
+REDUÁN:
+    Gomel, aguárdate un poco,
+    que ya yo vuelvo a salir.
+CELORA:
+    ¡Denle un vestido a ese loco
+    porque nos haga reír!
+[Vanse todos y queda Gomel y Ardano solos]
+GOMEL:
+    ¡Andá, cuerda destemplada,
+    que vos no me haréis llorar
+    con vuestra hermosura helada,
+    sino reír y burlar
+    de veros tan engañada!
+    ¿Para qué me trujo, Ardano,
+    mi padre entre aquesta gente,
+    valiente como cristiano
+    y como moro insolente
+    y necio como villano?
+    Ya mi desdicha prevengo:
+    yo no soy para palacio,
+    ni la cólera que tengo
+    me puede dar tanto espacio
+    como esto que a sufrir vengo.
+    ¡Vive Alá que no consienta
+    ni aun del Rey aquesta afrenta!
+ARDANO:
+    Bien pareces nuevo en corte.
+GOMEL:
+    No hay corte que me reporte
+    a que estas burlas no sienta:
+    soy nacido entre villanos,
+    y estos cuentos cortesanos
+    me saben mucho a desprecios.
+ARDANO:
+    No es la corte para necios,
+    locos, soberbios y vanos.
+GOMEL:
+    ¿Pues para quién será buena?
+    ¿Para mujeres cobardes,
+    de que está poblada y llena?
+ARDANO:
+    Bien es que de hablar te guardes,
+    que es culpa de mucha pena.
+    Si a la corte habitar vienes
+    áspero lenguaje tienes,
+    que has de sufrir muchas faltas,
+    porque si a decillas saltas,
+    bien es que tu vida ordenes.
+GOMEL:
+    Ahí están cuatro ovejas
+    -éstas no pueden faltarme-
+    y una cama de pellejas;
+    no hay para qué aconsejarme,
+    que al mismo viento aconsejas.
+[Entran Fatimán, Alboín y Jafer, moros]
+FATIMÁN:
+    Ardano nos dirá de él.
+ALBOÍN:
+    ¿Pues dónde quedaba Ardano?
+JAFER:
+    En el patio del vergel.
+ARDANO:
+    (Aquí has de ser cortesano,
+    que éstos buscan a Gomel.)
+FATIMÁN:
+    Si es hijo de Redüán
+    él será muy gentilhombre,
+    muy discreto y muy galán.
+ARDANO:
+    (Éste es un moro de nombre.)
+GOMEL:
+    (¿Y es el suyo?)
+ARDANO:
+    (Fatimán.)
+ALBOÍN:
+    Jafer, Ardano está aquí.
+JAFER:
+    ¡Ardano!
+ARDANO:
+    ¿Buscáisme a mí?
+JAFER:
+    Danos cuenta de un mancebo
+    galán, en la corte nuevo.
+ARDANO:
+    (Éstos procuran por ti.)
+    ¿Qué mancebo?
+FATIMÁN:
+    Un hijo hermoso
+    de Redüán el valiente,
+    que ya estoy dél invidioso
+    según le pinta la gente
+    galán, discreto y curioso.
+ARDANO:
+    ¿Es Gomel?
+ALBOÍN:
+    Así se llama,
+    que agora vino de Alhama.
+ARDANO:
+    Pues éste es el que buscáis.
+FATIMÁN:
+    ¿Quién?
+GOMEL:
+    Yo; ¿de qué os admiráis?
+JAFER:
+    De tu talle y de tu fama.
+FATIMÁN:
+    ¿Tú eres hijo de aquel bravo,
+    de moros corona y honra?
+GOMEL:
+    De honrar mi padre me alabo,
+    aunque él a sus hijos honra.
+ALBOÍN:
+    Antes pareces su esclavo.
+JAFER:
+    Dinos la verdad, Ardano.
+ARDANO:
+    Por Alá, Jafer, que es él.
+ALBOÍN:
+    ¿Que este grosero villano
+    llaman el fuerte Gomel,
+    medio morisco y cristiano?
+FATIMÁN:
+    ¿Éste es aquel que en Alhama
+    tuvo tan soberbia fama?
+JAFER:
+    ¿Aquéste el Alcaide dijo
+    que era su retrato y hijo?
+    ¡Por Dios que su nombre infama!
+ALBOÍN:
+    ¿Habla aquesta piedra acaso?
+FATIMÁN:
+    Para decirnos que es necio
+    no será de lengua escaso.
+GOMEL:
+    (¡Oh padre, que tal desprecio
+    por tu causa sufro y paso!)
+ALBOÍN:
+    Hará muy buen cortesano.
+FATIMÁN:
+    Di que le enseñen, Ardano,
+    luego a bailar una zambra,
+    porque baile en el Alhambra
+    con las moras de la mano.
+JAFER:
+    Pues a fe que no promete
+    ser mal galán y jinete,
+    si en lugar del acicate
+    con las abarcas le bate
+    cuando el caballo sujete.
+ALBOÍN:
+    ¡Qué requiebros que dirá
+    si acaso sale al terrero!
+FATIMÁN:
+    Celora me ha dicho ya
+    que le dijo este grosero
+    "¡Oh, qué fea y necia está!"
+JAFER:
+    ¿Cómo eso la diría?
+ALBOÍN:
+    Será requiebro en su tierra.
+FATIMÁN:
+    Alboín, por la fe mía,
+    que si el padre no le encierra
+    que haga una gran villanía,
+    que éste más es monstruo que hombre.
+ALBOÍN:
+    Con razón le das tal nombre.
+JAFER:
+    Ya de celos me abrasaba,
+    porque yo le imaginaba
+    muy discreto y gentilhombre.
+    Yo conozco alguna dama
+    que ha dado celos con él,
+    a lo menos con su fama.
+ARDANO:
+    (¿Qué te parece, Gomel?)
+GOMEL:
+    (¡Ardano, a mi padre llama,
+    que me deshago en coraje!)
+ARDANO:
+    (¿Quieres que a la huerta abaje?)
+GOMEL:
+    (Ve, por Dios, que aquí te aguardo.)
+[Vase Ardano]
+    (¿Qué hago que me acobardo?
+    ¿Cómo sufro tanto ultraje?
+    ¡Que éstos se burlen de mí!)
+[Asómanse Lizara, Celora a la ventana]
+LIZARA:
+    Aún agora se está aquí,
+    Celora, aquel tu galán.
+CELORA:
+    Con él está Fatimán
+    y tu Alboín está allí.
+LIZARA:
+    Estaránse entreteniendo
+    y dese loco riendo
+    que Redüán ha traído.
+FATIMÁN:
+    ¿No veis que está suspendido?
+JAFER:
+    ¡El aire se está bebiendo!
+    Tened paso, que el balcón
+    hoy puede dar lumbre al suelo
+    y a nuestra fe galardón
+    con dos soles que al del cielo
+    hicieron comparación.
+FATIMÁN:
+    Engañado te has, por Dios,
+    que si en cada sol hay dos,
+    cuatro soles veo allí:
+    los dos me matan a mí
+    y los cuatro a mí y a vos.
+JAFER:
+    No os espantéis que dijese
+    que sólo dos soles vía,
+    que era justo que temiese,
+    cuando cuatro soles viese,
+    abrasar el alma mía.
+    Y como la luz que ve
+    la creo por sola fe,
+    si solos dos soles veo,
+    menos penará el deseo
+    que en su luz ardiendo esté.
+CELORA:
+    ¡Ah, gallardo Fatimán!
+FATIMÁN:
+    ¡Oh rayos de gran belleza
+    que en mi alma ardiendo están!
+CELORA:
+    ¿Qué, notáis la gentileza
+    del hijo de Redüán?
+    ¿Sacáis por ventura muestras
+    de las galas de su traje
+    para mejorar las vuestras?
+FATIMÁN:
+    Tales son, que aquestas muestras
+    me hacen que le aventaje.
+    Eso estábamos mirando.
+LIZARA:
+    Pues ildas bien contemplando
+    del bonete al borceguí.
+GOMEL:
+    (¡Que éstos se burlen de mí!
+    ¡Vive Alá que estoy bramando!)
+LIZARA:
+    Notad del bonete el lazo,
+    el gallardo capellar
+    y aquella toca del brazo.
+CELORA:
+    ¿Qué dama le ha de negar
+    en esta hora su regazo?
+ALBOÍN:
+    ¡Fuera novedad de fama
+    querer poner un mastín
+    en las faldas de una dama!
+LIZARA:
+    Hazme un placer, Alboín.
+ALBOÍN:
+    Servicio en corte se llama.
+LIZARA:
+    Que pues hoy queda Granada
+    tan perfecta y tan honrada
+    con un cortesano igual,
+    le toquéis un almaizal
+    y le ciñáis una espada,
+    porque veamos si el traje
+    en tan mal cuerpo alma pone.
+ALBOÍN:
+    Pues si él así se compone,
+    ¿quién duda que no aventaje
+    al más galán que se entone?
+    ¡Hagamos fiesta con él,
+    caballeros!
+FATIMÁN:
+    Es muy justo
+    darle un vestido a Gomel,
+    porque a todos nos dé gusto
+    haciendo donaire dél,
+    que lo que mandan las damas,
+    que son de amor vivas llamas,
+    muy bien cumplillo me está.
+JAFER:
+    ¡Cortesano es, por Alá!
+    ¿Qué sirve andar por las ramas?
+    Ea, ponte aquesta toca.
+GOMEL:
+    No, no, primero la espada.
+JAFER:
+    ¿La espada? ¡A risa provoca!
+ALBOÍN:
+    Estará bien empleada.
+FATIMÁN:
+    Mejor un freno en la boca.
+JAFER:
+    ¡Ciñe presto, mentecato!
+[Mete Gomel mano]
+GOMEL:
+    ¡Oh moros de bajo trato!
+    ¡No soy hombre, por Mahoma,
+    cuando los tres no me coma
+    y luego otros treinta mato!
+ALBOÍN:
+    ¡Vive Dios que va de veras!
+    ¡Apartad, que no es razón!
+GOMEL:
+    ¿Burlas a mí?
+FATIMÁN:
+    ¡Huye! ¿Qué esperas?
+JAFER:
+    ¿Éste es hombre o es león?
+[Mételos a cuchilladas]
+GOMEL:
+    ¡Hombre soy hecho entre fieras!
+CELORA:
+    ¡Por Alá, Lizara hermosa,
+    que no creyera tal cosa!
+    ¡Por ese patio los lleva!
+LIZARA:
+    ¡De quien es ha hecho prueba!
+CELORA:
+    ¡Estraña fuerza!
+LIZARA:
+    ¡Espantosa!
+CELORA:
+    Agradado me ha el villano:
+    ¡qué gallardo puso mano,
+    qué a tiempo, con qué destreza!
+LIZARA:
+    Es buena naturaleza
+    y tiene un girón cristiano.
+CELORA:
+    Cuanto mal me parecía
+    le he cobrado voluntad.
+LIZARA:
+    Mucho ha ganado la mía.
+CELORA:
+    Yo pienso hacerle amistad.
+LIZARA:
+    Yo también, desde este día.
+CELORA:
+    Pues por si acaso adelante
+    me agradare en lo demás
+    y merece ser mi amante,
+    desde hoy avisada estás.
+LIZARA:
+    Y tú dende aqueste istante,
+    que podría ser que hallase
+    en él sujeto que amase,
+    y, ansí, prevenirte quiero.
+CELORA:
+    Yo te lo dije primero
+    que nadie lo imaginase.
+LIZARA:
+    Sí, mas no te respondí
+    que por no ser de mi gusto
+    te le daba todo a ti,
+    y dártele no era justo,
+    que le quiero para mí.
+CELORA:
+    ¿Pues cómo? ¿Quiéresle bien?
+LIZARA:
+    No le quiero, mas podría,
+    que ya sus prendas se ven
+    en el valor deste día,
+    y las de mi amor también.
+CELORA:
+    ¿Osárasme tú decir
+    que le amabas, a no oír
+    de mí que amor le tenía?
+LIZARA:
+    Celora, por la fe mía,
+    que he de amalle hasta morir,
+    porque Alboín ya ha salido,
+    con la bajeza presente,
+    del alma en que le he tenido,
+    que el moro que no es valiente
+    no merece ser querido.
+    Tú querrás a Fatimán,
+    que es muy valiente y galán.
+CELORA:
+    A puros espaldarazos
+    me lo ha echado de los brazos
+    y libres sin él están.
+LIZARA:
+    Si somos competidoras
+    no nos llamemos amigas.
+CELORA:
+    Si al moro que adoro adoras,
+    ya, Lizara, te fatigas
+    y lo que yo siento lloras.
+[Entra Ardano y Gomel]
+ARDANO:
+    ¿Eso habías de hacer?
+GOMEL:
+    Aquesto hice.
+    Si no te ha dado gusto, poco importa;
+    quiero que sepas satisfice el mío.
+    ¡Oh perros viles, hidalguillos pobres,
+    caballeros de ayer, plumitas, bandas,
+    cortesanos de burlas y mentiras,
+    fanfarrones delante de las damas!
+    ¡Vive Mahoma...!
+ARDANO:
+    ¡Paso, que te temo!
+GOMEL:
+    Pues cuando así me veas, aunque amigo,
+    quítateme delante, Ardano, y vete,
+    que en este punto mataré a mi padre.
+ARDANO:
+    ¡Yo ya me doy por muerto!
+GOMEL:
+    Estáte quedo.
+    ¿No viste por el suelo a los cobardes?
+ARDANO:
+    A todos tres, Gomel, los vi en el suelo
+    pidiendo a tu rigor misericordia.
+GOMEL:
+    No los maté porque los vi rendidos,
+    llorando todos tres como mujeres,
+    pero quité una banda a cada uno,
+    que son las tres que atadas tengo al brazo:
+    la azul a Fatimán, Alboín la verde,
+    la amarilla a Jafer, aquel morillo
+    que blasonaba mucho y hizo poco.
+ARDANO:
+    Has hecho como noble y caballero:
+    la victoria con sangre no es victoria,
+    y del contrario los despojos bastan.
+CELORA:
+    ¡Ah, mi señor Gomel!
+LIZARA:
+    ¡Ah, caballero!
+ARDANO:
+    Alza los ojos al balcón y mira,
+    que te llaman las damas, cuando menos.
+GOMEL:
+    Por el “señor” y “caballero”, Ardano,
+    desconocí mi ser, que entre sus labios
+    no ha un hora que era de villano y monstruo.
+CELORA:
+    ¿Queréisme dar algunas de esas bandas?
+LIZARA:
+    Pues tres tenéis, dad una a cada una
+    y quedaráseos otra por memoria
+    de aquesta hazaña de tan fuerte pecho.
+GOMEL:
+    No es hazaña vencer tres medios hombres
+    el que desquijarar leones suele,
+    matar los colmilludos jabalíes
+    y por los cuernos los armados toros.
+    De buena gana os diera las tres bandas,
+    pero por ser las tres la primer cosa
+    que con la espada adquiero, perdonadme,
+    que aquestas tres -azul, verde, amarilla-
+    ocuparán un cuadro de mis armas
+    junto a las medias lunas de mi padre.
+CELORA:
+    Yo sé que si las dos allá bajamos
+    que no las negaréis.
+GOMEL:
+    Si os veo tan cerca
+    no es posible que aquéstas os negase,
+    porque aun el alma no estará segura.
+LIZARA:
+    ¿Qué dices de su raro entendimiento?
+CELORA:
+    Baja, que voy perdida.
+LIZARA:
+    Y yo rendida.
+CELORA:
+    ¡Gomel es mi señor!
+LIZARA:
+    ¡Gomel mi vida!
+[Bájanse las moras]
+GOMEL:
+    ¿Cómo quieres esto, Ardano?
+    ¿Qué juzgas del morisquillo?
+ARDANO:
+    Una sierra y un cuchillo
+    ponen al tiempo en la mano.
+    Por la prudencia la una,
+    figurada el tiempo estaba,
+    y la otra declaraba
+    tu discreción y fortuna;
+    y aunque les pareces loco,
+    villano y de pocos años,
+    el tiempo y tus desengaños
+    se lo dirán poco a poco.
+GOMEL:
+    Presto verás a Gomel
+    con un glorioso trofeo.
+ARDANO:
+    (¡Por Dios que le lisonjeo
+    de miedo que tengo dél!)
+GOMEL:
+    El crédito del Alcaide
+    sospeché que me bastara,
+    y si el ser vivo dañara,
+    el de mi agüelo Albenzaide.
+    Pero son tan maliciosos
+    estos moros de Granada,
+    que hasta ver blanca la espada
+    quieren estar recelosos.
+    Pues blanca la vieron ya,
+    y si no la ven sangrienta,
+    harto lo está de la afrenta
+    que pasaron poco ha.
+    Ni mi padre ni mi agüelo
+    quiero ya que me acrediten,
+    sino aquéstos que compiten
+    con los Hércules del cielo,
+    que mejor que él ni que Atlante
+    su máquina sustendré.
+ARDANO:
+    Las damas vienen.
+GOMEL:
+    ¡A fe,
+    tierno estoy como un diamante!
+[Entran Celora y Lizara, moras]
+CELORA:
+    No te cause admiración
+    el vernos desta manera.
+GOMEL:
+    Mucho mayor me la diera
+    el veros en el balcón,
+    que, en tan alto, había pensado
+    que érades cosas del cielo,
+    pero viéndoos en el suelo
+    ya me habéis desengañado.
+LIZARA:
+    Como el oro entre la mina
+    y el diamante por labrar,
+    como el coral en la mar
+    y en concha la perla fina:
+    ansí, con el tosco traje
+    desta montaña o desierto,
+    tienes, Gomel, encubierto
+    el valor de tu linaje.
+    Ya te habemos conocido
+    no más de por lo que has hecho,
+    que del oro de tu pecho
+    artífices hemos sido.
+    Y de tal suerte creímos
+    lo que reluce y parece,
+    que ya por quién te merece
+    en competencia venimos.
+CELORA:
+    Escoje, fuerte Gomel,
+    de las dos la que te agrada,
+    que ésa de hoy más es llamada
+    dichosa, firme y fïel;
+    ésa labrará la toca
+    que a tu bonete revuelvas
+    cuando de la guerra vuelvas
+    a Granada, en verte loca;
+    ésa la manga curiosa
+    que saques para las cañas,
+    cansado de las hazañas
+    de la guerra peligrosa;
+    ésa la banda polida
+    y el almaizal con que dances
+    cuando de la mano lances
+    la lanza, en sangre teñida;
+    daráte el mote ingenioso
+    para el campo de la adarga,
+    breve cifra apenas larga
+    para el penacho vistoso;
+    saldrá luego al mirador
+    cuando tu caballo pase,
+    y cuando otros, entraráse,
+    preciándose de tu amor.
+    Por eso escoje, Gomel,
+    la prenda que más te agrade.
+GOMEL:
+    Cada cual me persüade
+    que a ninguna sea crüel;
+    que tales os hizo Dios
+    que, viéndoos agradecidas,
+    hago dos almas y vidas
+    para ofrecer a las dos.
+    Ni sé cuál he de querer
+    ni sé cuál he de dejar,
+    y siendo forzoso amar,
+    a las dos habrá de ser:
+    escojo en fin a las dos
+    entre otras muchas que vi.
+CELORA:
+    ¿A entrambas?
+GOMEL:
+    Digo que sí
+    por no ofenderos a vos.
+CELORA:
+    ¿Luego yo había de ser
+    la que habiades de dejar,
+    a no ser forzoso amar
+    por forzoso agradecer?
+GOMEL:
+    No digo tal, es engaño.
+CELORA:
+    Mira que amor nunca ha sido
+    amor siendo repartido,
+    que a eso llaman desengaño:
+    una sola has de querer.
+GOMEL:
+    Esa es ley de su rigor,
+    pero soy nuevo en amor
+    y no sé cuál ha de ser.
+    A nadie quiero agraviar;
+    de las dos solo soy suyo.
+CELORA:
+    Más vale el agravio tuyo
+    que el favor de otro lugar.
+    Escoge la que te agrada,
+    que aunque soy de otro querida,
+    si no soy favorecida
+    me preciaré de agraviada.
+GOMEL:
+    Si aquesto ha de ser forzoso,
+    algún corte se ha de dar,
+    porque yo no he de agraviar
+    lo que es igualmente hermoso.
+    Y el corte, señoras, sea
+    que escribiré en seis renglones
+    de mi amor las condiciones,
+    porque cada cual las vea.
+    Y la que, siendo leídas,
+    con ellas quiere quererme,
+    desde aquí quiero ofrecerme
+    y, en sacrificio, mil vidas:
+    seré suyo hasta la muerte
+    sin género de mudanza.
+LIZARA:
+    Pues ya tengo confïanza
+    que has de quererme y quererte.
+CELORA:
+    Pues yo, de desconfïada,
+    mereceré ser querida,
+    porque siempre es preferida
+    la humildad enamorada.
+GOMEL:
+    Digo, señoras, que aquélla
+    que, vistas las condiciones
+    de mis nuevas aficiones,
+    se persuadiere a tenella,
+    será desta vida dueño
+    y de lo poco que valgo,
+    y la fe de moro hidalgo
+    por esta verdad empeño.
+CELORA:
+    Por más ásperas que sean
+    las sabrá sufrir mi amor.
+LIZARA:
+    Gloria se llama el rigor
+    de los que aman y desean.
+GOMEL:
+    Del todo anochece ya
+    y la blanca luna asoma;
+    id, señoras, con Mahoma.
+CELORA:
+    Y quede contigo Alá.
+[Vanse las moras y queda Gomel y Ardano]
+ARDANO:
+    ¿Qué condiciones son estas
+    que les piensas escribir?
+GOMEL:
+    Fáciles son de cumplir
+    a voluntades dispuestas.
+    Esta noche las verás
+    porque mañana las lleves.
+ARDANO:
+    Si a despreciallas te atreves
+    hecho de yelos estás.
+[Entra el Rey, Reduán y criados]
+REDUÁN:
+    Cansado estarás sin duda
+    de aguardarme aquí todo hoy.
+GOMEL:
+    Cansado de verme estoy
+    como persona desnuda,
+    que de aguardar no me canso.
+REDUÁN:
+    Besa las manos al Rey.
+GOMEL:
+    Eso es justo y justa ley.
+BAUDELES:
+    Tus brazos son mi descanso.
+    ¿Quién te ha dado aquesa espada?
+GOMEL:
+    Ardano me la ha traído,
+    que en la casa que ha vivido
+    ha estado siempre colgada.
+REDUÁN:
+    Bien te la puedes quitar,
+    que ese estilo es muy villano;
+    que el Rey, de su misma mano,
+    la suya te quiere dar.
+GOMEL:
+    (Más villana es esta espada
+    de lo que has imaginado,
+    aunque en estar a mi lado
+    ya puede llamarse honrada.)
+    Mas pues la del Rey me honra,
+    toma, Ardano, y llevarásla.
+ARDANO:
+    ¿Guardaréla?
+GOMEL:
+    Guardarásla,
+    que importa mucho a mi honra.
+BAUDELES:
+    Traéme aquí una marlota
+    y un bizarro capellar.
+REDUÁN:
+    Comiénzate a desnudar
+    esa abarca pobre y rota.
+BAUDELES:
+    Traé borceguí también.
+GOMEL:
+    Yo le traigo bueno y recio
+    de Córdoba, que me precio
+    de calzarme justo y bien;
+    que bien supe alguna vez
+    -aunque no en juego y combate-
+    sacar dorado acicate
+    y guarnecido jaez.
+REDUÁN:
+    Es buen hombre de a caballo.
+GOMEL:
+    Esta es abarca de monte.
+BAUDELES:
+    Ponte aquesta ropa, ponte.
+GOMEL:
+    ¿Aún no acabáis de quitallo?
+BAUDELES:
+    Este rico capellar
+    te puedes poner también.
+GOMEL:
+    ¡Ya parezco hombre de bien!
+REDUÁN:
+    El traje sabes honrar.
+BAUDELES:
+    Cíñete agora mi espada,
+    que en hijo de padre tal
+    la misma espada real
+    quiero que se llame honrada.
+[Desenvaina en ciñéndosela y dice, con ella en la mano:]
+    Yo juro por el padre que me hizo,
+    famoso entre cristianos y paganos,
+    cuya opinión al mundo satisfizo
+    con los nombrados hechos de sus manos,
+    y por la misma madre que deshizo
+    su dura enemistad con los cristianos,
+    y por lo de Guzmán que tengo della,
+    de no la hacer cobarde ni perdella.
+    Y por la flor de nácar que está encima
+    de tu corona e imperial granada,
+    y por los hechos a quien diste cima
+    ciñendo acaso aquesta misma espada,
+    y por los bellos ojos de mi Alcima,
+    bella entre sierras como nieve helada,
+    y por lo que deseo estar con ella,
+    de no la hacer cobarde ni perdella.
+BAUDELES:
+    Así lo entiendo yo y así lo creo,
+    que, en ser hijo de tan ilustre padre,
+    has de ser un azote de cristianos
+    y un Cid de moros, campeador famoso.
+    ¡Hola, pajes! Llamá quien le acompañe.
+    Vayan hachas con él hasta su casa,
+    que Redüán se ha de quedar conmigo.
+GOMEL:
+    Beso, señor, tus pies.
+BAUDELES:
+    Ten por muy cierto
+    que siempre te he de dar aquestos brazos.
+ARDANO:
+    Aquí están ya las hachas.
+GOMEL:
+    Pues camina.
+BAUDELES:
+    Vamos, Alcaide, a mi retrete.
+REDUÁN:
+    Vamos.
+[Quédanse allí cuatro moros del Rey: Trijardo, Arfilo, Jafer, Benalme]
+TRIJARDO:
+    ¿A quién no admira, caballeros fuertes,
+    ejemplo y flor de granadinos moros,
+    esto que el Rey con un bastardo ha hecho?
+    ¿Puede sufrirse que le dé su espada
+    a un villano que ayer mandaba un roble,
+    y que sus brazos ponga sobre el hombro
+    hecho a llegar los haces de la leña
+    que del monte de Alhama desgajaba?
+    ¿Pareceos justo de sufrir aquesto?
+ARFILO:
+    Mudanzas son al fin de la fortuna:
+    levanta humildes y ensalzados baja.
+    Privanzas son de Redüán el bravo,
+    que entiende bien lo que es traer mujeres
+    harto mejor que no de matar hombres.
+TRIJARDO:
+    No se murmure, Arfilo, del Alcaide,
+    que los ojos del Rey son los privados
+    y se los quebrará a quien los ofenda;
+    hablad del hijo, indigno desta honra
+    en que ahora lo ha puesto su fortuna.
+JAFER:
+    Decid, señores, lo que más importa:
+    paréceme que a Benalme preguntes
+    lo que se deba hacer en este caso.
+BENALME:
+    Sólo me holgara que -pues es de noche,
+    y tan obscura como veis la hace-
+    probáramos de burla solamente
+    al bravo que del Rey ciñó la espada,
+    no más de para ver cómo la rige.
+TRIJARDO:
+    Esta calle que sale del Alhambra
+    ha de seguir por fuerza, y ¡por mi vida,
+    que le hemos de probar, si gustáis dello!
+    Y ¡paso!, que estas son las mismas hachas;
+    en los pajes del Rey lo he conocido.
+ARFILO:
+    Rebócese, señores, todo el mundo;
+    ¡Paso, que llega!
+GOMEL:
+    ¿No queréis volveros?
+[Sale Gomel con los dos criados con hachas]
+    Volveos, por mi vida, que no importa,
+    que ya yo sé las calles de Granada.
+PAJE:
+    No podemos dejar de acompañarte,
+    que así el Alcaide nos lo manda.
+TODOS:
+    ¡Mueran!
+PAJE:
+    ¡Ay santo Alá! ¡Justicia, que nos matan!
+[Echan las hachas]
+GOMEL:
+    ¡Volved, necios, que yo soy quien los mato!
+BENALME:
+    ¡Paso, fuerte Gomel, nosotros somos!
+    ¡Paso, paso! ¡Detente! ¿No conoces?
+    ¡Somos Arfilo, Jafer y Benalme!
+GOMEL:
+    ¡Y yo Gomel!
+JAFER:
+    Pues di, ¿no nos conoces?
+GOMEL:
+    ¡No conozco a ninguno!
+ARFILO:
+    ¡Benalme, huye,
+    que algún diablo por él la espada toma!
+GOMEL:
+    ¡No ha de quedar ninguno, por Mahoma!
+
+JORNADA 2
+
+[Sale Celora y Lizara]
+CELORA:
+    ¡Qué gallardo ha paseado,
+    Lizara, el fuerte Gomel!
+LIZARA:
+    Mil ojos se van tras él,
+    y a fe que no se han quedado
+    los que tú pusiste en él,
+    que mostrabas tanto gusto
+    de verle vestido al justo
+    sobre el bizarro alazán,
+    que has dado más de a un galán
+    celos, temor y disgusto.
+CELORA:
+    Los tuyos se quedarían,
+    que por Alá que espantaban
+    los moros que te miraban
+    lo que sin lengua decían
+    mientras la calle pasaban.
+    Y pues no está averiguado
+    de cuál está aficionado
+    y a cuál de las dos se inclina,
+    tu confïanza imagina
+    mientras pienso mi cuidado,
+    que en balde confiada estás
+    de que Gomel tuyo es.
+LIZARA:
+    Es tan grande el interés,
+    que ahora lo siento más
+    que lo he de sentir después,
+    porque de suerte ha salido
+    este moro aborrecido
+    galán y de fuerte espada,
+    que ya es la flor de Granada
+    como su padre lo ha sido.
+    Finalmente, mi deseo
+    tan esclavo es de su talle,
+    que bien puedo no agradalle
+    -lo que a mi desdicha creo-,
+    pero no dejar de amalle.
+CELORA:
+    Desa opinión es la mía,
+    y, así, espero aqueste día
+    la tormenta y la bonanza,
+    que aunque pierda la esperanza
+    no he de perder la porfía.
+    No sé si de su valor
+    o de aquesta competencia
+    ha nacido la violencia
+    deste mi abrasado amor
+    que venció a mi resistencia,
+    pero sé que ya es en vano
+    con ningún remedio humano
+    querer librarme esta vez.
+LIZARA:
+    Ya viene nuestro jüez.
+CELORA:
+    ¿Quién dices?
+LIZARA:
+    Su paje, Ardano.
+[Entra Ardano]
+CELORA:
+    Seas bienvenido.
+ARDANO:
+    Creo
+    que no soy mal esperado:
+    lo uno, porque he tardado;
+    lo otro, porque el deseo
+    da pena y pone cuidado.
+    Gomel, mi señor, envía
+    este papel.
+CELORA:
+    Solo un día
+    que este deseo he tenido,
+    mil años me ha parecido.
+LIZARA:
+    Tú hablas de parte mía,
+    porque tengo el corazón,
+    de deseos y temores,
+    con más penas y dolores
+    que si fuera mi afición
+    de dos mil años de amores.
+    En resolución, me abraso
+    por Gomel.
+CELORA:
+    Y yo por él
+    mil muertes, Ardano, paso.
+LIZARA:
+    ¡Yo he de morir por Gomel!
+CELORA:
+    ¡Yo vivir!
+ARDANO:
+    ¡Estraño caso!
+LIZARA:
+    Que me aborrezca o me quiera,
+    nadie me puede quitar
+    que en mi alma pueda estar.
+CELORA:
+    Pues yo, que viva o que muera,
+    no le he de dejar de amar.
+    Lee ese billete, Ardano,
+    que ya glorioso y ufano
+    siento el corazón.
+LIZARA:
+    ¡Amor,
+    tiempla conmigo el rigor
+    de tu poder inhumano!
+[Lee Ardano el papel]
+ARDANO:
+    «Constituciones de amor,
+    compuestas al albedrío
+    de cierto amante muy frío
+    que nunca tuvo calor.
+    La que a mí me ha de querer,
+    primeramente, no pida
+    que la tenga fe en mi vida,
+    porque no la he de tener.
+    Ítem, no la he de escribir
+    sino cuando yo quisiere,
+    ni tengo de ir donde fuere
+    si acaso no acierto a ir.
+    Si me mandare rondar
+    de noche, digo que no,
+    porque a un tiempo el sol y yo
+    nos hemos de ir acostar.
+    Si otro alguno anda por ella,
+    ni tengo de acuchillalle
+    ni pienso entrar en la calle
+    mientras anduviere en ella:
+    yo no tengo de reñir
+    por mi dama ajenos duelos,
+    porque no me ha de dar celos
+    ni me los ha de pedir,
+    que he de hablar y gozar
+    de todas cuantas quisiere,
+    y cuando en esto me viere
+    ha de sufrir y callar.
+    De nadie me diga bien,
+    porque no lo he de sufrir,
+    y téngole de decir
+    bien de cuanto quiera bien.
+    Cuando en efecto concluya
+    el bien que entre amantes pasa,
+    ha de venir a mi casa,
+    que yo no he de ir a la suya;
+    tengo de decir a todos
+    que mi alma la aborrece,
+    y ella que no me merece
+    y me adora de mil modos.
+    Siempre me ha de andar rogando
+    y enfadado yo con ella,
+    y cuando me ría de ella
+    desmayárseme llorando.
+    Ha de tener gran cuidado
+    de hacerme camisas buenas,
+    darme bandas y cadenas
+    y algún dinero prestado.
+    Pedirme más que favor
+    no es pecho de amor hidalgo,
+    porque en pidiéndome algo
+    es acabado el amor.
+    En fin, que no siendo dar
+    ni hablar ni bien querer,
+    lo demás he de hacer
+    que hasta allí pueda llegar.»
+LIZARA:
+    ¡No leas más!
+CELORA:
+    Antes pudiera,
+    Lizara, haberlo dejado.
+LIZARA:
+    Yo te doy a Gomel dado.
+CELORA:
+    ¡Cuando yo a Gomel quisiera!
+LIZARA:
+    ¡Bien se pueden estampar
+    aquestas constituciones!
+CELORA:
+    Si él da en Granada liciones
+    mal lo habemos de pagar.
+LIZARA:
+    ¡Bien parece que es villano!
+CELORA:
+    ¡Si él enseña aquesta sciencia
+    bien puede prestar paciencia!
+    ¡Oh jenízaro cristiano!
+LIZARA:
+    ¿Desa manera se escribe
+    a las damas de palacio?
+ARDANO:
+    Váyanse en esto de espacio,
+    que un libre con otro vive;
+    que poca ofensa les hace
+    en decir su condición.
+CELORA:
+    Tienes, Ardano, razón:
+    de nuestra locura nace.
+ARDANO:
+    "En resolución, me abraso,
+    Ardano amigo, por él."
+    "Yo he de morir por Gomel."
+    "Por Gomel mil muertes paso."
+LIZARA:
+    ¿Burlas?
+ARDANO:
+    "Que viva o que muera,
+    a Gomel tengo de amar."
+LIZARA:
+    ¡El paje ha dado en fisgar!
+ARDANO:
+    "Que, me aborrezca o me quiera..."
+LIZARA:
+    Mucha razón has tenido
+    de reírte de mí y désta,
+    pero espera la respuesta,
+    Ardano, si eres servido,
+    que en un punto escribiremos.
+ARDANO:
+    Eso haré con mucho gusto.
+CELORA:
+    ¡O nos pagará el disgusto
+    o quien somos no seremos!
+LIZARA:
+    Aguárdate un poco aquí.
+[Vanse]
+ARDANO:
+    Id, señoras, que aquí aguardo.
+    ¡Él es un cuento gallardo
+    cuanto en mi vida le vi!
+    Corridas van del suceso,
+    aunque en paz de la cuestión.
+    Perdió Gomel la ocasión,
+    pero no ha perdido el seso.
+    Si su libertad estima
+    téngala siempre guardada,
+    que la mujer despreciada
+    a gran venganza se anima;
+    pero yo sé que procura
+    otra esperanza mejor.
+[Entra Reduán y Gomel]
+REDUÁN:
+    No llames, hijo, valor
+    aquesto, sino locura,
+    que no es bien que un hombre se arme
+    sino en forzosa ocasión.
+GOMEL:
+    Yo sé que tuve razón,
+    fuese o no fuese probarme.
+    ¡Gentil cosa que si hoy ciño
+    por mano del Rey la espada,
+    venga una cuadrilla armada
+    a probarme como niño!
+    Sintiéranme cobardía
+    esta vez que es la primera,
+    que a fe que no me la diera
+    tu sangre ni valentía;
+    que en la primera cuestión
+    está el ser cobarde un hombre
+    o, saliendo con buen nombre,
+    quedar con buena opinión.
+REDUÁN:
+    Gomel, yo lo creo ansí
+    y eso mesmo te aconsejo,
+    que soy mozo cuando viejo
+    porque viejo mozo fui.
+    Pero ya que aquella gente
+    se descubrió ser amiga,
+    ¿qué es la razón que te obliga
+    seguir temerariamente?
+GOMEL:
+    Sólo el haberme probado
+    pudo ofender mi paciencia
+    y ponerme en contingencia
+    que fuese o no fuese honrado.
+    ¿No lo dudaran de mí,
+    que me vienen a probar?
+    Luego bien será mostrar
+    lo que he heredado de ti.
+REDUÁN:
+    Por el Rey solo me pesa
+    que a Benalme hayas herido.
+GOMEL:
+    ¡Si en las espaldas ha sido!
+    Gentil pesadumbre es esa.
+    A no huïr no le diera,
+    viendo su espada delante;
+    mas ¿cuál fuera el ignorante
+    que pudiendo no le diera?
+    Él tiene en esto la culpa,
+    pues que no se defendió.
+REDUÁN:
+    ¿Quieres que le diga yo
+    al Rey aquesa disculpa?
+GOMEL:
+    ¿Pues qué? ¿Parécete mala?
+REDUÁN:
+    Ora bien, esfuerza el pecho,
+    que el Rey dice que es bien hecho
+    y con el mejor te iguala.
+GOMEL:
+    Es rey en fin.
+REDUÁN:
+    Y ha ordenado
+    que esta noche en el Alhambra
+    se haga una fiesta y zambra
+    en que has de entrar embozado,
+    porque quiere hacelle fiesta
+    a cierta dama Cegrí,
+    que Dios sabe lo que a mí
+    de malas noches me cuesta.
+    Y quiero que le des celos,
+    porque viendo tu valor
+    todas te tienen amor
+    y te ponen en los cielos.
+    Quiero la dama nombralla.
+GOMEL:
+    ¿Cómo se llama?
+REDUÁN:
+    Celora.
+GOMEL:
+    Pues por Alá que no ha un hora
+    que acabo de desprecialla.
+    ¡Ardano!
+ARDANO:
+    ¿Señor?
+GOMEL:
+    ¿No es ésta
+    la dama a quien escribí?
+ARDANO:
+    La respuesta aguardo aquí.
+REDUÁN:
+    ¿De ayer venido, respuesta?
+GOMEL:
+    No hay dama, de ayer llegado,
+    que para su amante o prenda
+    no me busque y me pretenda.
+REDUÁN:
+    ¿A Celora has despreciado?
+GOMEL:
+    A Celora desprecié.
+REDUÁN:
+    Pues por Alá que ha dos años
+    que tengo mil desengaños
+    en crédito de su fe.
+    Hijo, por todo Mahoma,
+    que ni la hables ni la veas.
+GOMEL:
+    De mi alma, padre, creas
+    que es tronco que no se doma,
+    y que la escribí de suerte
+    y con tan libre desprecio
+    que me ha de tener por necio
+    y procurarme la muerte.
+REDUÁN:
+    En eso solo consiste
+    el tener vida o perdella.
+GOMEL:
+    Yo juro de no querella
+    por el valor que me diste.
+[Entra un paje]
+PAJE:
+    Para ti, Gomel famoso,
+    dos papeles traigo aquí.
+GOMEL:
+    ¿Los dos dicen para mí?
+REDUÁN:
+    Confieso que eres dichoso.
+[Lee el papel]
+PAJE:
+    «Al hijo de Redüán,
+    Gomel Cegrí.»
+REDUÁN:
+    Así se llama.
+PAJE:
+    El uno me dio una dama,
+    el otro me dio un galán.
+GOMEL:
+    ¿Galán a mí? ¿De qué modo?
+REDUÁN:
+    ¡No sólo dichoso eres
+    en enamorar mujeres,
+    pero los hombres y todo!
+GOMEL:
+    Ése me importa que guarde.
+REDUÁN:
+    ¡Por Alá que has de leelle!
+GOMEL:
+    ¡Soltad!
+REDUÁN:
+    ¡Deja!
+GOMEL:
+    ¡He de rompelle!
+REDUÁN:
+    ¡Eso no, así Dios te guarde!
+GOMEL:
+    Pues dejalde.
+REDUÁN:
+    Sí haré;
+    dime lo que es.
+GOMEL:
+    No es posible.
+REDUÁN:
+    ¡Brava condición!
+ARDANO:
+    ¡Terrible!
+GOMEL:
+    Padre, después lo diré.
+REDUÁN:
+    ¿No es mejor decillo agora,
+    si es cosa en que puede un viejo
+    darte su ayuda y consejo?
+GOMEL:
+    Leamos el de Celora.
+REDUÁN:
+    ¡Vaya esotro, por tu vida!
+GOMEL:
+    ¡Padre, no me enfadéis más!
+REDUÁN:
+    ¿Conmigo enojado estás?
+GOMEL:
+    Lee, Ardano; nadie le impida.
+[Papel]
+ARDANO:
+    «Al hijo de Redüán,
+    al de la Sierra Nevada,
+    al caballero pastor
+    de las montañas de Alhama,
+    Celora Albenzaide, en nombre
+    de las damas del Alhambra,
+    destierra perpetuamente
+    de su terrero y su gracia,
+    y por grosero galán
+    desde hoy le privan las damas
+    de todas conversaciones,
+    balcones, rejas, ventanas.
+    Que no entre en la mezquita
+    ni junto a los coches vaya,
+    ni se ponga en el bonete
+    pluma o señal de esperanza;
+    que no pase la carrera,
+    ni menos en Vivarrambla
+    salga al encierro de toros
+    ni con cuadrilla de cañas;
+    que no traiga impresa o cifra
+    ni mote por el adarga,
+    ni pueda en escaramuza
+    platear la fuerte lanza;
+    que eternamente no pida
+    impresa, toca ni manga,
+    ni dé música de noche
+    ni ronde ni ciña espada;
+    que ande solo, como aquél
+    que no se siente del alma,
+    negando tributo a amor
+    que cuantos le tienen pagan.
+    Y damos nuestra licencia
+    a todas las moras bajas
+    que puedan llamarle suyo,
+    pues en lealtad las iguala.
+    Dada en la fuente del Jaspe
+    al cuadro de las retamas,
+    presidiendo Arlaja y siendo
+    Celora su secretaria.»
+GOMEL:
+    ¡Válame Alá soberano,
+    y qué bizarro papel!
+REDUÁN:
+    ¡Y tanto que adoro en él
+    por escribille tal mano!
+PAJE:
+    Si le estimáis, veisle ahí.
+REDUÁN:
+    Hasme hecho un gran placer.
+GOMEL:
+    Yo tengo un poco que hacer;
+    mi señor, quedaos aquí.
+REDUÁN:
+    ¿Cuándo te hallaré?
+GOMEL:
+    Ya digo
+    que al momento volveré.
+REDUÁN:
+    ¿Es pesadumbre?
+GOMEL:
+    No sé.
+REDUÁN:
+    ¿Quieres que vaya contigo?
+GOMEL:
+    Por padre os sufro mil cosas,
+    que a otro nada le sufriera.
+REDUÁN:
+    ¡Gomel!
+GOMEL:
+    ¿Qué queréis?
+REDUÁN:
+    ¡Espera!
+[Vase Gomel, diciendo:]
+GOMEL:
+    ¡Qué de palabras ociosas!
+REDUÁN:
+    ¡Por Alá que sale el Rey
+    y que seguille no puedo!
+    Síguele tú.
+ARDANO:
+    Tengo miedo,
+    que es hombre sin Dios ni ley.
+REDUÁN:
+    Anda, necio, no te espante.
+ARDANO:
+    ¡Tiene muy pesado el brazo!
+    ¿Quieres que me dé un porrazo
+    que en un mes no me levante?
+[Entra el Rey]
+BAUDELES:
+    Entraos vosotros allá,
+    que a Redüán quiero solo.
+REDUÁN:
+    Hasta donde muere Apolo
+    te haga señor Alá,
+    y al mismo ruego que veas
+    crïado aqueste rapaz
+    cuerdo y galán en la paz
+    y valiente en las peleas.
+BAUDELES:
+    ¿Qué te parece si muestra
+    el heredado valor?
+REDUÁN:
+    Digo que ha de ser, señor,
+    este infante gloria vuestra.
+BAUDELES:
+    ¡Mal lo han pasado los moros
+    que se han burlado con él!
+REDUÁN:
+    Es como un león Gomel,
+    enseñado a vencer toros.
+BAUDELES:
+    Huélgome que salga así:
+    travieso y fuerte le quiero.
+REDUÁN:
+    Y tan galán caballero
+    que ya te desprecia a ti.
+BAUDELES:
+    ¿De qué suerte?
+REDUÁN:
+    Que las damas
+    todas se abrasan por él.
+BAUDELES:
+    ¿Y quiere alguna Gomel?
+REDUÁN:
+    ¿Pues no?
+BAUDELES:
+    ¿Cuál?
+REDUÁN:
+    La que tú amas.
+BAUDELES:
+    ¿La que amo busca?
+REDUÁN:
+    Sí,
+    pero yo sé que Celora...
+BAUDELES:
+    ¿Cómo?
+REDUÁN:
+    ...le quiere y le adora.
+BAUDELES:
+    ¿También te burlas de mí?
+    Pero ¿sabes qué he pensado,
+    ya que hablamos de mi bien?
+    Que de secreto le den
+    hoy en la zambra un recado,
+    en el cual digan que quiero
+    hacer a sus rejas fiesta
+    mientras la Reina se acuesta.
+REDUÁN:
+    ¡Bueno estás!
+BAUDELES:
+    ¡Por ella muero!
+REDUÁN:
+    Pero guarda que la Reina
+    lo sepa.
+BAUDELES:
+    No lo sabrá
+    más del alma en quien no está,
+    que sólo en mi reino reina.
+REDUÁN:
+    ¿Quién has de llevar contigo?
+BAUDELES:
+    Solo he de ir.
+REDUÁN:
+    Luego ¿sin mí?
+BAUDELES:
+    Digo solo, porque a ti
+    te hago solo conmigo.
+REDUÁN:
+    Beso tus pies dos mil veces,
+    que en llevarme allá, señor,
+    me haces un gran favor.
+BAUDELES:
+    Más que esto, Alcaide, mereces,
+    que es razón a toda ley
+    -pues habrá tanto galán-
+    llevar un buen Redüán
+    donde no respectan rey.
+    Ven conmigo y trazaremos
+    el traje que he de llevar.
+REDUÁN:
+    Basta mudar capellar
+    y que un jaco nos echemos.
+BAUDELES:
+    Iré como tú ordenares,
+    que quiero vestirme al justo.
+[Vase el Rey]
+REDUÁN:
+    Irás a gozar tu gusto
+    y yo a llorar mis pesares.
+    ¡Que tanto puede estorbar
+    un infinito poder,
+    que no sólo no he de hacer,
+    pero apenas he de hablar!
+[Vase. Entra Jafer, Alboín, Fatimán]
+JAFER:
+    Esta deshonra, aquesta mancha eterna,
+    esta afrenta, que es bien que así se llame
+    esta vergüenza, agora fresca y tierna,
+    deste nuestro suceso vil y infame,
+    no sólo al que la espada bien gobierna
+    incita que su sangre se derrame
+    dese moro cristiano Gomelejo,
+    pero aun al más caduco y débil viejo.
+    Y no sólo a los viejos, mas a aquéllas
+    a quien el amistad y paz es dada,
+    que con la rueca a veces muchas de ellas
+    han hecho más que hombres con la espada.
+    No quiero a las presentes ofendellas,
+    que el mismo deshonor tiene manchada
+    no sólo la que ciño, pero alguna
+    que no faltó cuando faltó más de una:
+    mi espada, invitos moros granadinos,
+    tiene y las bandas vuestras también tiene,
+    con que hace arrogantes desatinos
+    y a enamorar en el terrero viene;
+    no perdidas acaso en los caminos,
+    sino con tanta infamia, que conviene
+    cobrallas y cortalle aquella lengua
+    que habló con arrogancia en nuestra mengua.
+    Un papel a palacio le he enviado
+    diciendo que le aguardo en este puesto,
+    adonde venga solo y desarmado,
+    que, según es furioso, vendrá presto.
+    Mi intento no es vencerle en estacado
+    -aunque era el más honrado prosupuesto-,
+    que no he de aventurar ligeramente
+    mis prendas y el honor de tanta gente:
+    matarle quiero, que es lo más siguro,
+    que, mientras vive, nuestra honra muere;
+    su muerte sola y vuestro bien procuro.
+    Que entre los tres ningún remedio espere:
+    pásele el que pudiere el pecho duro,
+    haciendo cada cual lo que pudiere,
+    y quede entre su sangre sepultada
+    aquella infamia, con razón vengada.
+FATIMÁN:
+    De toda suerte es buena la victoria,
+    Jafer amigo, con industria o fuerza;
+    mayormente, de infamia tan notoria
+    que a ser villano al más hidalgo esfuerza.
+    Acábese su loca vanagloria
+    y la corriente la fortuna tuerza,
+    que no es bien que por ser loco un cobarde
+    de tan hidalgos pechos haga alarde.
+    Que un pastor que era ayer guarda de cabras,
+    hecho a regir un álamo grosero,
+    no ha de afrentar en obras ni palabras
+    la sangre de un honrado caballero.
+ALBOÍN:
+    ¡Antes, oh tierra, las entrañas abras
+    y me confunda en el ardor primero
+    del fiero abismo, que sufrir consienta
+    tal linaje de infamia, tal afrenta!
+    ¡Muera el villano Gomelejo al punto,
+    y la hinchazón de la soberbia sangre
+    cualquiera espada de estas, porque junto
+    con la furia el espíritu desangre!
+    Que por Alá que en viéndole difunto
+    he de beber dél su maldita sangre,
+    aunque sospecho que muriese luego,
+    porque es especie de veneno y fuego.
+    Si a ti te tiene espada, a mí una prenda
+    en que consiste vida, gusto y honra,
+    y pesaráme que Granada entienda
+    que un bastardillo infame nos deshonra.
+    Que a su enemigo con ventaja emprenda
+    el que de hidalgo se corona y honra
+    parece caso infame, y es engaño,
+    que el enemigo vivo es mayor daño.
+JAFER:
+    ¡Haceos, caballeros, a esta parte,
+    que me parece que he sentido gente!
+FATIMÁN:
+    ¡Ninguno de los tres de aquí se aparte,
+    sino muramos todos juntamente!
+    Veamos este fanfarrón de Marte,
+    que si la espada ahora no me miente,
+    el suelo a palmos de rodillas mide,
+    vuelve las bandas y perdón me pide.
+[Entra Gomel]
+GOMEL:
+    Sospecho que habré tardado,
+    pero a buen tiempo he venido,
+    y es que, por no ser seguido,
+    mil calles he rodeado;
+    que mi padre, Redüán,
+    como propria sangre mía,
+    sospechó lo que sería
+    el papel de aquel galán.
+    Pero ¿cómo ha sido aquesto?
+    ¡Traición me habéis ordenado!
+    Uno me ha desafïado
+    y hallo tres en el puesto.
+    ¡Oh caballeros villanos!
+    Mas ¿qué he de hacer? ¡Ea pues!
+    Yo soy muy torpe de pies:
+    menester habré las manos.
+    Quiero llegarlos a hablar,
+    no parezca cobardía.
+FATIMÁN:
+    ¿Si quiere huir?
+ALBOÍN:
+    Mal podría,
+    que yo le sabré alcanzar.
+JAFER:
+    ¡Temiendo está, por Alá!
+GOMEL:
+    ¿Cuál de vosotros me envió
+    aqueste billete?
+JAFER:
+    Yo.
+GOMEL:
+    ¿Tú fuiste?
+JAFER:
+    Sí.
+GOMEL:
+    Bien está.
+JAFER:
+    Y lo que te digo en él
+    pienso hacer aquí verdad.
+GOMEL:
+    ¡Estraña riguridad!
+    ¡Por Alá que eres crüel!
+JAFER:
+    No soy más de lo que ves.
+GOMEL:
+    En fin, que me matarás.
+JAFER:
+    ¡Sí haré!
+GOMEL:
+    ¿Tú solo no más
+    o en conversación los tres?
+FATIMÁN:
+    Para quien no lo merece
+    no hay término que se guarde.
+GOMEL:
+    ¡Por Alá que es bravo alarde!
+    ¡Bravo escuadrón me parece!
+    Pensé, luego que llegué
+    y os vi juntos, enojarme,
+    viendo por uno llamarme
+    y que después tres hallé,
+    y al punto que conocí
+    lo que os estoy obligado,
+    estoy menos enojado
+    que antes que llegase aquí.
+    No confesaré que a otros
+    debo más bien que me hacéis,
+    que en efecto me tenéis
+    por más hombre que vosotros.
+    Y mirá cuán llano es
+    el haberme honrado así,
+    que en venir tres contra mí
+    valgo más que todos tres.
+    A fe que no estaba loco
+    quien ese consejo os dio,
+    que para hombre como yo
+    uno y dos era muy poco.
+    Y aun fue corto pensamiento
+    hacer de tres escuadrón,
+    porque si honrados no son,
+    lo mismo fuera de ciento.
+    Como ya el ánimo vil
+    os conozco y sé lo que es,
+    eso me da que seáis tres
+    que si fuésedes tres mil.
+    ¿Que hombre yo para miedo
+    de tres morillos villanos?
+    ¡Que todas vuestras tres manos
+    cortaré con solo un dedo!
+    Y aun a ser las manos más
+    que dedos tenéis en ellas,
+    las que no cortare de ellas
+    os las pienso atar atrás.
+    Tres bandas os he quitado
+    y, si os tornáis a rendir,
+    con otras tres tengo de ir
+    -que son seis- de nuevo honrado.
+    Volved a desafïarme
+    otra vez y serán nueve,
+    y como aquéstas os lleve
+    podréis volver a matarme,
+    Esta mano y esta espada
+    tantas mil os quitarán,
+    que no se halle tafetán
+    en las tiendas de Granada.
+FATIMÁN:
+    ¡Ea, fanfarrón soldado,
+    tu muerte está entre nosotros!
+GOMEL:
+    ¡Cuánto diérades vosotros
+    por no haber esto intentado!
+    Mas qué si os dejo que os vais,
+    que se os hace angosto el campo,
+    porque sé que cuando estampo
+    la planta en tierra tembláis.
+    Pero no os veréis en eso,
+    que, si aguardáis y no huís,
+    de los tres como venís
+    se contará un buen succeso:
+    del uno pienso llevar
+    las orejas.
+JAFER:
+    ¿Las orejas?
+GOMEL:
+    Porque de un revés, parejas
+    con la cara han de volar;
+    del otro, la barba, y, luego,
+    del que queda, las narices.
+[Desenvainan todos contra Gomel]
+ALBOÍN:
+    ¡Mira, perro, lo que dices!
+GOMEL:
+    ¿Perro a Gomel? ¡Oh reniego!
+[Meten mano]
+JAFER:
+    ¡Muera!
+FATIMÁN:
+    ¡Muera!
+GOMEL:
+    ¡Esperá un poco;
+    veréis quién ha de morir!
+JAFER:
+    ¡Por Mahoma que he de huir!
+FATIMÁN:
+    ¡No hay quien aguarde este loco!
+ALBOÍN:
+    ¡Válate el diablo por hombre!
+FATIMÁN:
+    ¡Huye, Jafer!
+JAFER:
+    ¡Tras ti voy!
+GOMEL:
+    ¡Agora sabréis quién soy
+    y que Gomel es mi nombre!
+    ¡Oh canalla! ¿Aquésta es
+    la venganza que el Rey toma?
+FATIMÁN:
+    ¡Huye, Alboín!
+GOMEL:
+    ¡Por Mahoma,
+    que se me van por los pies!
+[Éntrase y sale el Rey, Reina, Reduán y damas Celora y Lizara a las ventanas]
+BAUDELES:
+    Por daros contento he hecho
+    aquesta zambra esta tarde.
+ALCIRA:
+    Por el vuestro lo sospecho.
+REDUÁN:
+    (De celos se abrasa y arde.)
+BAUDELES:
+    (El amor le viene estrecho:
+    ninguna cosa le agrada.)
+REDUÁN:
+    (Antes el gusto le enfada,
+    que es en efecto celosa.)
+BAUDELES:
+    ¿No viene la Reina hermosa?
+REDUÁN:
+    Estálo mucho enojada.
+BAUDELES:
+    Sentaos, mi señora, aquí.
+ALCIRA:
+    Mejor vuestra libertad
+    ha sido siempre de mí.
+BAUDELES:
+    ¿Ya no hemos hecho amistad?
+    ¿Por qué me tratáis así?
+ALCIRA:
+    Son amistades fingidas.
+BAUDELES:
+    ¿Pues cómo un alma en dos vidas
+    sin ella puede vivir?
+ALCIRA:
+    ¿Cómo se pueden decir
+    verdades tan mal sentidas?
+REDUÁN:
+    ¿Cómo soy tan desdichado?
+    No sólo de ti merezco,
+    Celora, ser despreciado,
+    pero por el Rey me ofrezco
+    a darte un largo recado.
+ALCIRA:
+    La razón que tengo es mucha
+    y más justo mi rigor,
+    que tus engaños escucha,
+    porque entre celos y amor
+    mi alma batalla y lucha.
+    Yo os he visto un poco tierno.
+BAUDELES:
+    ¡Si con otra alma que vos,
+    diosa mía, me gobierno,
+    abráseme, plega a Dios,
+    todo el fuego del infierno!
+CELORA:
+    ¿El Rey dices que me quiere
+    hablar esta noche?
+REDUÁN:
+    ¡Paso,
+    no lo sienta, no se altere
+    quien hace del viento caso
+    y de celos del sol muere!
+    Digo que te quiere hablar.
+    Por esto, procura estar
+    esta noche en el balcón.
+CELORA:
+    Háceme el Rey sinrazón,
+    pero puédelo mandar.
+REDUÁN:
+    Sabe Dios, bella Celora,
+    de qué manera mi pecho
+    los agravios del Rey llora,
+    que al fin agravio le ha hecho
+    a Redüán, que te adora.
+    Pero ¿qué se puede hacer?
+    Porque en fin ha de vencer
+    o por fuerza o por razón.
+CELORA:
+    No se fuerza la afición
+    por interés ni poder.
+REDUÁN:
+    Habrásle de amar forzada.
+CELORA:
+    ¡Por mi fe que no sé a quién
+    el amor forzoso agrada!
+REDUÁN:
+    Bástale al que quiere bien
+    gozar de la cosa amada.
+BAUDELES:
+    Lizara será testigo,
+    Reina, del amor que os tengo.
+LIZARA:
+    Tratado lo ha el Rey conmigo.
+[Entra Jafer huyendo]
+JAFER:
+    ¡Por Alá, cansado vengo,
+    lleno de infamia y castigo!
+    ¡Los Reyes están aquí!
+[Entra Fatimán]
+FATIMÁN:
+    ¡Que hasta aquí vino tras mí!
+    ¿Hay toro como este perro?
+    Que en el Alhambra me encierro.
+    ¿Yo soy hombre o mujer fui?
+    ¡Bravo caso, por Alá!
+[Entra Alboín]
+ALBOÍN:
+    ¡Que con vida llego acá!
+    ¡Aun lo veo y no lo creo!
+    Saber si me hirió deseo.
+JAFER:
+    ¿No veis que el Rey aquí está?
+ALBOÍN:
+    ¡Hoy en una tabla escrita
+    el habernos escapado
+    pongamos en la mezquita!
+FATIMÁN:
+    ¡Por Dios, que haber aguardado,
+    que a los tres la vida quita!
+JAFER:
+    ¿Hirióos a vos?
+FATIMÁN:
+    A mí no.
+ALBOÍN:
+    Ni a mí tampoco me hirió.
+JAFER:
+    ¡Válame Alá! ¿Cómo ha sido?
+FATIMÁN:
+    Por haber muy bien corrido
+    y que a ninguno alcanzó.
+JAFER:
+    No nos sienta alborotados;
+    poneos bien los capellares
+    y mostraos más sosegados.
+FATIMÁN:
+    ¿Cuentan de los Doce Pares
+    succesos tan señalados?
+ALBOÍN:
+    ¡Que no me digan de Muza,
+    de adarga y lanza jineta
+    en la diestra escaramuza
+    cuando aquí este moro aprieta
+    y las dos espadas cruza!
+    ¡Que es vana imaginación
+    decir que hay suelto león
+    que se compare con él!
+JAFER:
+    No puede hacer con Gomel
+    Redüán comparación.
+[Entra Gomel]
+GOMEL:
+    Quien a tales campos va
+    como a caza, lleve galgos.
+    ¿Pues qué hay, señores hidalgos?
+    ¿Todos estamos acá?
+[Al sacar la mano para ponerse el capellar se espantan todos]
+    ¡Ea, que no se me guarden!
+    ¡Por mi fe que no hay de qué!
+JAFER:
+    ¿Quiéresnos dejar?
+GOMEL:
+    ¡Sí haré,
+    para que otra vez me aguarden!
+    ¡Son muy gentiles paganos!
+FATIMÁN:
+    Eso nos dirás después.
+GOMEL:
+    ¡Por Dios que envidio sus pies
+    mas he lástima a sus manos!
+    Larguillas tienen las faldas,
+    por ellas los conocí,
+    porque siempre yo les vi
+    las plantas y las espaldas.
+    ¿Por qué me enseñan los pies,
+    que yo no sé herrar caballos?
+    ¡Que harto mejor sé acertallos!
+FATIMÁN:
+    Eso nos dirás después.
+GOMEL:
+    ¡A fe que a no estar mujeres
+    en el lugar donde estamos...!
+JAFER:
+    ¡Ya tu valor confesamos!
+    ¿Qué nos buscas? ¿Qué nos quieres?
+GOMEL:
+    ¡... que no os valieran los pies,
+    como las manos no os valen,
+    aunque en el huïr se igualen!
+FATIMÁN:
+    Eso nos dirás después.
+[Amenázalos Gomel]
+GOMEL:
+    ¡Vive Alá!
+JAFER:
+    ¡Ay!
+BAUDELES:
+    ¿Qué ruïdo
+    es ése?
+GOMEL:
+    Apreté la mano
+    aquí a Jafer. ¡Ah villano,
+    de eso poco te has sentido!
+REDUÁN:
+    ¡Gomel, desvíate acá!
+GOMEL:
+    Aquí, señor, estoy bien,
+    que hay conversación también,
+    y luego iremos allá.
+JAFER:
+    Nosotros te dejaremos.
+GOMEL:
+    ¡No, no, que allá tengo de ir!
+[En pasándose a un lado del tablado se vaya Gomel tras ellos]
+ALBOÍN:
+    ¿Qué gustas de perseguir
+    los que agravio no te hacemos?
+    ¡Vive Alá que es fuerte cosa!
+FATIMÁN:
+    ¡Pásate acá! ¡Dejalé!
+GOMEL:
+    No importa, que allá me iré.
+JAFER:
+    ¿Hay historia más graciosa?
+    ¡Pues ándaste tras nosotros!
+    ¿Esto se puede sufrir?
+GOMEL:
+    Porque allá me habéis de huir
+    me estoy acá con vosotros.
+REDUÁN:
+    ¡Ah Gomel! ¿Quieres dejallo,
+    no lo entienda el Rey también?
+    ¿Piensas que parece bien?
+GOMEL:
+    ¡A fe que habéis de pagallo!
+[Entra Benalme, Arfilo]
+BENALME:
+    De mala gana he venido
+    por no ver aquel galán.
+JAFER:
+    Grandes favores le harán
+    sin haberlos merecido,
+    que son todas las mujeres
+    amigas de novedades.
+BENALME:
+    ¡Si ello va a decir verdades,
+    volveréme!
+JAFER:
+    No te alteres,
+    que parecerá muy mal.
+BENALME:
+    Aún no tengo el brazo sano
+    y háceme gran daño.
+JAFER:
+    En vano,
+    Benalme, imaginas tal,
+    que, aunque es verdad que la herida,
+    viendo al contrario, revienta
+    fresca sangre, no contenta
+    de la injuria recebida,
+    aquí has de considerar
+    que es mucho mejor que veas
+    la persona que deseas
+    para poderte vengar.
+BENALME:
+    Eso ha hecho que sustente
+    la vida con el agravio.
+JAFER:
+    Véngate tú como sabio,
+    que tiempo aguarda el prudente.
+CELORA:
+    ¡Ah Jafer!
+JAFER:
+    ¡Señora mía!
+CELORA:
+    Oye una palabra.
+JAFER:
+    Y mil.
+GOMEL:
+    ¡Por Dios que es treta subtil!
+    ¿Celos a mí todavía?
+    Ya es tarde para engañarme.
+REDUÁN:
+    ¡Dichoso el que tal merece!
+GOMEL:
+    Yo apostaré que le ofrece
+    por lo menos el matarme.
+    ¡Qué arrogante que estará
+    ofreciendo montes de oro!
+JAFER:
+    ¡Bueno es esto, a fe de moro!
+    ¿Qué furia me trujo acá?
+    ¿No es bueno que me ha pedido
+    Celora necia y crüel
+    que pida o quite a Gomel
+    el listón que trae ceñido?
+    Sin duda debe de dalle
+    -si es de alguna dama- celos,
+    pero ¿quién tan loco, cielos,
+    ha de llegar a quitalle?
+    ¿Hay hombre más desdichado?
+    ¡Que esto me mandase a mí!
+FATIMÁN:
+    ¿Hablaste a Celora?
+JAFER:
+    Sí.
+FATIMÁN:
+    ¡Celos tu favor me ha dado!
+JAFER:
+    A mí mal de corazón.
+FATIMÁN:
+    ¿Pues estás enfermo dél?
+JAFER:
+    Pide que quite a Gomel
+    no menos que aquel listón.
+FATIMÁN:
+    ¿El listón? ¡Por Alá santo,
+    que un ejército de hombres
+    de los más famosos nombres
+    no bastan a emprender tanto!
+    Ya no te envidio el favor.
+JAFER:
+    Yo le renunciaré en ti.
+GOMEL:
+    Estos murmuran de mí;
+    ¡rabiando estoy de furor!
+FATIMÁN:
+    ¿Sabes qué puedes hacer
+    -y será consejo sabio-
+    para deshacer tu agravio
+    sin que te pueda ofender?
+JAFER:
+    ¡Dilo, por Dios, Fatimán,
+    que estoy en gran confusión!
+FATIMÁN:
+    Para librar tu opinión,
+    en quien las nuestras están,
+    cualquiera acometimiento
+    que aquí hicieres bastaría.
+JAFER:
+    ¿Y de qué modo podría
+    salir con mi atrevimiento?
+FATIMÁN:
+    Porque el Rey y cuantos ves
+    se meterán de por medio.
+JAFER:
+    No ha sido el peor remedio.
+FATIMÁN:
+    El mejor de todos es:
+    lo uno, a toda Granada
+    darás gran satisfación,
+    que tienes mala opinión
+    de tu mano y de tu espada;
+    lo otro, verá Celora
+    que hiciste lo que pidió.
+JAFER:
+    Bien creo que podré yo
+    salir con mi intento ahora;
+    pero después, ¿no es forzoso
+    que éste se vengue?
+FATIMÁN:
+    Es engaño
+    creer que ha de hacerte daño
+    preso, ausente o temeroso,
+    que el Rey hará diligencia
+    para que su furia cese.
+JAFER:
+    ¡Muy buen pensamiento es ése!
+    Y tú ¿le harás resistencia?
+FATIMÁN:
+    Eso a tu cargo lo toma
+    la amistad que te profeso.
+JAFER:
+    Pues alto, por buen succeso,
+    queda rogando a Mahoma,
+    que yo acometo.
+FATIMÁN:
+    El te guíe.
+JAFER:
+    ¡Ah Gomel! ¡Gomel!
+GOMEL:
+    ¿Qué quieres?
+JAFER:
+    Desvíate y no te alteres.
+GOMEL:
+    Bastará que me desvíe.
+    ¿Cuándo me has visto alterar
+    de tus fieros y blasones?
+JAFER:
+    Dejémonos de razones:
+    esa cinta me has de dar.
+GOMEL:
+    Lo que pide el enemigo
+    jamás se ha de conceder.
+    Pidiótela una mujer,
+    que de vista soy testigo,
+    y si ella te quiere mal,
+    en esto lo verás bien,
+    que quiere que te la den
+    con este agudo puñal.
+[Echan mano]
+JAFER:
+    ¡Ah perro! ¡Afuera! ¡Desvía!
+BAUDELES:
+    ¿Qué es aquesto, Redüán?
+JAFER:
+    ¡Bien saben los que aquí están,
+    Gomel, tu descortesía!
+GOMEL:
+    ¡A lo menos, tu locura!
+REDUÁN:
+    ¡Por Alá que de una suerte
+    merecen los dos la muerte
+    por tan gran descompostura!
+BAUDELES:
+    ¡Prendeldos!
+REDUÁN:
+    ¡Date a prisión!
+GOMEL:
+    ¡Haceos afuera, padre!
+REDUÁN:
+    ¡Oh vil, de cristiana madre
+    loco rapaz fanfarrón!
+    ¿Sabes que el Rey está aquí?
+GOMEL:
+    Con el enojo no hay ley.
+REDUÁN:
+    ¡Rinde aquesa espada al Rey!
+GOMEL:
+    Si el Rey me la pide a mí.
+REDUÁN:
+    ¿Y a mí no?
+GOMEL:
+    ¡Padre, teneos!
+REDUÁN:
+    ¡Mataréte, por Alá!
+GOMEL:
+    ¡Redüán, teneos allá!
+REDUÁN:
+    ¡Oh traidor!
+GOMEL:
+    ¡Padre, volveos!
+REDUÁN:
+    ¿A mí no me das la espada?
+GOMEL:
+    Como a padre, bien pudiera,
+    mas venís de otra manera
+    y traéis la vuestra alzada.
+REDUÁN:
+    Por el Rey bien puedes dalla,
+    que yo vengo en su lugar.
+GOMEL:
+    El Rey me la pudo dar,
+    pero no puede quitalla.
+REDUÁN:
+    ¿No te parece que soy,
+    sin ser padre, quien podré
+    quitártela?
+GOMEL:
+    No lo sé
+    mientras enojado estoy.
+    Y probad a no valeros
+    por lo que de padre os dan:
+    veamos si Redüán
+    puede mellar mis aceros.
+REDUÁN:
+    ¡Aguarda pues!
+GOMEL:
+    Acá bajo,
+    que no en las salas del Rey.
+REDUÁN:
+    ¡Aguarda, perro sin ley!
+GOMEL:
+    No toméis, padre, trabajo.
+[Éntranse acuchillando Reduán y Gomel]
+BAUDELES:
+    ¡Seguilde todos, no haga
+    con su hijo una locura!
+ALCIRA:
+    No es bien que tal travesura
+    te agrade ni satisfaga.
+    Sin tu presencia, señor,
+    no hayas miedo que se aplaque
+    en espacio que le saque
+    de su sentido el furor.
+    Ve, por Alá, a remediallo:
+    no lo mate, que es crüel.
+BAUDELES:
+    ¿En esto ha dado Gomel?
+    ¡Hola, ensíllenme un caballo!
+[Vase el Rey]
+ALCIRA:
+    ¿Cuál de entrambas ha entendido
+    sobre qué fue la ocasión?
+LIZARA:
+    Celos entiendo que son
+    que de Celora ha tenido.
+CELORA:
+    (Un poco tengo que hablarte;
+    éntrese Lizara allá.)
+ALCIRA:
+    Haz que nadie no entre acá
+    hasta que vuelva a avisarte.
+LIZARA:
+    Haré, señora, tu gusto.
+[Vase]
+ALCIRA:
+    ¿Qué es, Celora, lo que quieres?
+CELORA:
+    Que remedies, si pudieres,
+    la ocasión de tu disgusto.
+ALCIRA:
+    ¿Cómo así?
+CELORA:
+    Porque yo soy,
+    Reina, aquella que el Rey ama
+    y que ya el vivir desama
+    por la pena que te doy.
+    ¡Haz de mí lo que quisieres:
+    o me destierra o me mata!
+ALCIRA:
+    ¡Que esto es lo que el Rey trata!
+    ¿De qué lloras? No te alteres.
+CELORA:
+    ¿No quieres que llore en ver
+    que sin culpa te ofendí?
+ALCIRA:
+    Antes conozco de ti
+    que eres principal mujer,
+    y en esto estás engañada,
+    pues es cosa conocida
+    que estoy del Rey ofendida
+    y de ti desengañada.
+    Calla, no te aflijas tanto,
+    que este servicio y lealtad
+    ha hecho en mi voluntad
+    tanto gusto como espanto;
+    y, así, haré que te aventaje
+    más de lo que tú deseas,
+    y que por lo menos seas
+    cabeza de tu linaje.
+    Con toda solicitud
+    la virtud su premio alcanza,
+    porque es la mejor privanza
+    la que engendra la virtud.
+    Pero di ¿cómo has sabido
+    del Rey la nueva afición?
+CELORA:
+    En esta mesma ocasión
+    Redüán me ha persuadido
+    -digo persuadido, hablado-.
+ALCIRA:
+    ¿Y qué te ha dicho del Rey?
+CELORA:
+    Que a fuerza de toda ley
+    solicita su cuidado.
+ALCIRA:
+    ¿Y qué es lo que te aconseja?
+CELORA:
+    Lo contrario, como aquel
+    que me adora.
+ALCIRA:
+    ¿Y tú a él?
+CELORA:
+    Que es muy en vano su queja.
+    Finalmente, me pidió
+    que entre las dos y las tres,
+    cuando tú acostada estés,
+    le salga a hablar.
+ALCIRA:
+    ¡Eso no!
+    Pero sí, mejor será,
+    que yo quiero estar contigo
+    para ver de mi enemigo
+    los requiebros que dirá.
+CELORA:
+    ¿Y si allí te echa de ver?
+ALCIRA:
+    ¿Cómo, si estoy disfrazada
+    y dejándome acostada?
+[Entra el Rey y Reduán]
+REDUÁN:
+    Castigo habrá menester:
+    si no le pones la mano
+    sin duda que va perdido.
+BAUDELES:
+    Tú también culpa has tenido,
+    que le has perseguido en vano.
+ALCIRA:
+    Pues, señor, ¿fuese Gomel?
+BAUDELES:
+    El prendelle fue imposible.
+REDUÁN:
+    ¡Por Mahoma que es terrible!
+    ¡Pensé matarme con él!
+    No me tiene más respecto
+    que si no fuera su padre.
+ALCIRA:
+    Aunque esto a sus años cuadre,
+    crïalde, Alcaide, más quieto.
+REDUÁN:
+    Yo haré, señora, de modo
+    que le escueza mi castigo.
+ALCIRA:
+    No por aqueso lo digo,
+    que es bueno sepa de todo.
+REDUÁN:
+    ¿No es esto amor paternal?
+    Pero, por Alá, señora,
+    ¿qué me valió ser agora
+    su padre?
+ALCIRA:
+    ¿Hay caso tal?
+REDUÁN:
+    Porque tira cuchilladas
+    tan apriesa y de tal suerte,
+    que su acero es de la muerte
+    y cera nuestras espadas.
+    Cuantos salieron de aquí
+    y otros mil que van tras él
+    dan voces: "¡Guarda, Gomel!",
+    y él corriendo aquí y allí.
+    Parece que se ha soltado
+    de la leonera un león.
+BAUDELES:
+    Pensé estorbar la cuestión
+    y, así, me vuelvo espantado.
+    Por ahora no se hable
+    de fiesta ni regocijo.
+ALCIRA:
+    Digo que tenéis un hijo
+    invencible y admirable.
+    Del alboroto, no estoy
+    tan buena como solía.
+BAUDELES:
+    ¿Pues qué tenéis, vida mía?
+    ¡Desdichado en todo soy!
+ALCIRA:
+    No más de la alteración,
+    y gustara de acostarme.
+    Ven, Celora, a desnudarme.
+BAUDELES:
+    ¡Mal haya, amén, la cuestión!
+    ¡Por Alá que a no ser cosa
+    que a Redüán le tocara,
+    que muy caro le costara!
+ALCIRA:
+    Que dellos no estoy quejosa.
+BAUDELES:
+    ¿Pues de quién?
+ALCIRA:
+    De vos nomás,
+    porque fingís sentimiento.
+BAUDELES:
+    ¡Mi vida, si no lo siento,
+    que yo no sienta jamás!
+ALCIRA:
+    Vamos, que no importa nada,
+    que luego me alegraré.
+[Vanse la Reina y Celora]
+BAUDELES:
+    Mientras no lo estáis, tendré
+    toda el alma lastimada.
+    ¡Redüán, bravo suceso!
+    Ella se acuesta temprano.
+    ¡De verla enferma estoy sano!
+REDUÁN:
+    ¡Habla paso!
+BAUDELES:
+    ¡Estoy sin seso!
+    ¡Y qué de tiempo tendremos
+    para hablar al alma mía!
+    Hasta que nos vea el día
+    hablar y gozar podremos.
+REDUÁN:
+    Las armas a punto están;
+    por llevarlas no se pierde.
+BAUDELES:
+    ¡Denme la marlota verde,
+    que quiero salir galán!
+
+JORNADA 3
+
+[Sale Gomel]
+GOMEL:
+    ¡Brava reprehensión me ha dado
+    de las locuras que he hecho!
+    Cerca de enojarme he estado,
+    porque no cabe en mi pecho
+    sufrir a quien me ha engendrado;
+    aunque ver al Rey loarme,
+    abrazarme y perdonarme
+    ha hecho que al padre mío
+    no le haga un desafío
+    para matalle o matarme.
+    ¡Gentil cosa que un villano
+    cincuenta veces vencido
+    me diga, soberbio y vano,
+    “esa cinta me han pedido”
+    y que yo no ponga mano!
+    Mucho me quiere enfrenar
+    este padre, y porfïar
+    a hacer mi espada cobarde.
+    ¡Pues guárdese o no se guarde,
+    que alguna vez le he de dar!
+    Cuanto más, que yo no sé
+    si es mi padre: ni mi madre
+    me ha dicho bien cómo fue;
+    y mientras es o no es padre,
+    alguna vez le daré.
+    Del Rey me siento obligado
+    por haberme perdonado.
+    ¡Gente suena por aquí!
+    Si a buscarme viene a mí,
+    a muy buen tiempo ha llegado.
+[Va el Rey y Reduán vestidos de noche]
+REDUÁN:
+    (¿No digo yo que no es puesto
+    éste para estar sin gente?)
+BAUDELES:
+    (¡Es hombre!)
+REDUÁN:
+    (Y a punto puesto.)
+BAUDELES:
+    (Y en postura de valiente,
+    pero dejarála presto.)
+REDUÁN:
+    ¿Tenéis algo aquí que hacer?
+GOMEL:
+    ¿Cómo os he de responder
+    a tan grande necedad?
+REDUÁN:
+    (¡No es mala la libertad!
+    Hidalgo debe de ser.)
+GOMEL:
+    Cuando quehacer no tuviera,
+    ¿paréceos que me estuviera
+    serenando por aquí?
+REDUÁN:
+    ¡Dientes tienes!
+GOMEL:
+    ¡Pesia mí,
+    que sin ellos no comiera!
+REDUÁN:
+    ¿Y cuándo os iréis?
+GOMEL:
+    De día.
+REDUÁN:
+    ¿Pues a quién tenéis que hablar?
+GOMEL:
+    No es tanta la dicha mía:
+    no hago más que adorar
+    en aquella celosía.
+REDUÁN:
+    Pues de esa suerte, bien es
+    que os vais y volváis después.
+GOMEL:
+    ¡Vive Alá que todo el mundo
+    ni las furias del profundo
+    no muevan de aquí mis pies!
+BAUDELES:
+    (¿Si es algún desesperado?)
+REDUÁN:
+    Di quién eres; es mejor.
+    Matalle no es acertado.
+GOMEL:
+    Ni os lo aconsejo, señor,
+    que me precio de hombre honrado.
+BAUDELES:
+    ¡Teneos al Alcaide!
+GOMEL:
+    ¡Fuera!
+BAUDELES:
+    ¿A Redüán?
+GOMEL:
+    (¡No pudiera
+    ser otro sino mi padre!)
+    ¿Por qué, a pesar de mi madre,
+    me sigues desta manera?
+REDUÁN:
+    (¡Por Mahoma que es Gomel!)
+BAUDELES:
+    (Pues no te enojes con él;
+    déjame llegar a hablalle.)
+    A tal hora y en la calle,
+    ¿qué haciás aquí?
+GOMEL:
+    ¿Quién es él?
+BAUDELES:
+    El Rey soy.
+GOMEL:
+    ¡Oh mi señor,
+    dame esos pies!
+BAUDELES:
+    ¡Por Alá
+    que eres de España valor
+    y que ya Granada está
+    temblando de tu furor!
+    Débesme tanta afición
+    que, con ser esta ocasión
+    para mí de gran secreto,
+    te me descubro en efecto.
+GOMEL:
+    Conozco mi obligación.
+BAUDELES:
+    Quiérote con gran estremo.
+GOMEL:
+    Yo por ti pondré la vida
+    contra el mundo que no temo.
+BAUDELES:
+    ¡Yo la tengo bien perdida
+    por el yelo en que me quemo!
+    Mira que fío de ti
+    lo que nunca osé de mí.
+GOMEL:
+    ¿Vienes a hablalla?
+BAUDELES:
+    A eso vengo;
+    buena lengua y armas tengo.
+GOMEL:
+    Ve, que yo te aguardo aquí.
+BAUDELES:
+    Habla a tu padre.
+GOMEL:
+    ¡Hábleme él!
+BAUDELES:
+    Aguárdame con Gomel,
+    Redüán, en esa esquina,
+    mientras Celora se inclina
+    al balcón de aquel vergel.
+REDUÁN:
+    ¡Vení acá, bravo, humillaos!
+BAUDELES:
+    Esperadme y apartaos.
+REDUÁN:
+    Vení acá el que hacéis hazañas
+    con hombres por las campañas,
+    con damas por los saraos;
+    vení acá, seamos amigos.
+GOMEL:
+    Como de quien soy no tengo,
+    Redüán, tantos testigos,
+    mil veces a pensar vengo
+    que fuésemos enemigos.
+    Porque sabed que se enfada
+    mi cólera con mi espada
+    de que, por padre, seáis
+    el que solo no tembláis
+    de sus filos en Granada.
+REDUÁN:
+    ¡Calla, que eres loco! Escucha.
+BAUDELES:
+    ¡Sin duda que se abre el cielo!
+[Salen la Reina y Celora a la ventana]
+ALCIRA:
+    (Que no me sienta recelo,
+    porque ya su luz es mucha
+    y va menguando mi yelo.)
+CELORA:
+    ¿Es el Rey?
+BAUDELES:
+    Yo soy, mi bien.
+CELORA:
+    Si estáis solo, yo también.
+BAUDELES:
+    Solo vengo.
+CELORA:
+    Y yo lo estoy.
+BAUDELES:
+    ¿Qué os dijo el Alcaide hoy?
+CELORA:
+    Que os he parecido bien.
+BAUDELES:
+    ¡Es eso tanta verdad,
+    que no habrá comparación
+    que iguale a mi voluntad!
+CELORA:
+    ¿Pues qué es vuestra pretensión?
+BAUDELES:
+    Gozar de vuestra beldad.
+CELORA:
+    Cuando yo no me fïara
+    de vuestro mucho valor
+    -que sé que no me engañara-,
+    conociera vuestro amor
+    en una furia tan clara.
+    Y, aunque debo obedeceros,
+    quiero desde luego haceros
+    vuestro deseo imposible.
+BAUDELES:
+    Yo sé que lo hará posible
+    la gran fuerza del quereros.
+CELORA:
+    Yo sé que vos miraréis
+    lo que al Alcaide mi padre
+    y a mis hermanos debéis,
+    y que distes fe a mi madre
+    del bien que hacerme podéis.
+    Yo espero salir honrada,
+    casada y bien empleada
+    de vuestra casa real,
+    y no con infamia tal
+    desterrada de Granada;
+    que, en lo demás, sabe Dios
+    lo que yo os quisiera a vos
+    como igualaros pudiera
+    y este amor honesto fuera
+    para casarnos los dos.
+BAUDELES:
+    Muchos días ha, Celora,
+    que yo aborrezco a la Reina;
+    que, aunque lo descubro agora,
+    aquesa belleza reina
+    en el alma que te adora.
+    Con mis ojos la escogí
+    como ahora hago a ti,
+    que no es de mejor linaje,
+    que de mi agüelo fue paje
+    tu padre, el alcaide Alí.
+    De suerte que bien podré
+    repudialla, y lo haré
+    para casarme contigo.
+ALCIRA:
+    (Dile a todo que sí.)
+CELORA:
+    Digo
+    que estoy cierta de tu fe,
+    pero tú ¿no consideras
+    que, dejando a tu mujer,
+    me dejarás cuando quieras
+    alguna dama querer?
+BAUDELES:
+    No más, en vano te alteras,
+    porque es mujer melindrosa,
+    celosa de cualquier cosa,
+    y ya me tiene enfadado
+    con su melindre y enfado.
+CELORA:
+    También seré yo celosa,
+    porque si te tengo amor,
+    sin celos no puede ser.
+BAUDELES:
+    De ti se sufren mejor
+    que de una loca mujer.
+    [.................................]
+    Dejarte es un medio loco,
+    y querer tenerte en poco
+    igualarte a mi mujer.
+ALCIRA:
+    (Oh Alá, que tal vengo a ver!
+    ¡Casi a reír me provoco!)
+CELORA:
+    ¿La Reina tienes en menos
+    que a mí?
+BAUDELES:
+    ¿Por qué no, si eres
+    hija de padres tan buenos?
+ALCIRA:
+    (¡Ay desdichadas mujeres!
+    ¡Ah hombres, de engaños llenos!)
+BAUDELES:
+    ¿No sabes tú que yo puedo
+    dejar y tomar mujer?
+CELORA:
+    De eso mismo tengo miedo,
+    porque en su desgracia quedo
+    cuando quede en tu poder.
+BAUDELES:
+    ¿En desgracia? ¿De qué suerte?
+CELORA:
+    Que procurará mi muerte
+    viendo que su daño soy.
+BAUDELES:
+    ¿Muerte? ¡Palabra te doy
+    de matarla!
+CELORA:
+    ¿Cómo?
+BAUDELES:
+    Advierte:
+    ella está enferma.
+CELORA:
+    Es verdad.
+BAUDELES:
+    Y ahora queda en la cama,
+    y aunque es poca enfermedad,
+    luego a su médico llama;
+    pues aquéste...
+ALCIRA:
+    (¿Hay tal maldad?)
+BAUDELES:
+    ... tendré yo hablado, de suerte
+    que diga que está a la muerte
+    y que una cierta bebida
+    será su remedio y vida,
+    y que dársela concierte;
+    y verás cómo ejecuta
+    su muerte y nuestro deseo
+    una dracma de cicuta.
+CELORA:
+    ¡Ya me parece que veo
+    cómo Granada se enluta!
+    Pero mira que has de darme
+    de que nunca has de dejarme
+    esa palabra real.
+BAUDELES:
+    ¡El día que hiciere tal
+    venga un estraño a heredarme!
+    Déjame subir arriba,
+    que te haré pleito homenaje
+    -si en eso mi gloria estriba-
+    que seas, mientras yo viva,
+    cabeza de tu linaje
+    y que antes de dos días
+    la Reina que tú porfías
+    que después te ha de dar guerra,
+    cubra su frente la tierra.
+CELORA:
+    Pues sube.
+ALCIRA:
+    (¡Mucho te fías!)
+CELORA:
+    (¡Calla, que no importa!)
+ALCIRA:
+    (Aguarda,
+    que yo haré que esté conmigo
+    -aunque el temor me acobarda-
+    y pensará que es contigo.
+    ¡Será una impresa gallarda!)
+CELORA:
+    (Pues éntrate en mi aposento.)
+ALCIRA:
+    (A tu propia cama voy.)
+REDUÁN:
+    ¿Cómo vienes?
+BAUDELES:
+    Muy contento:
+    no he sido rey hasta hoy,
+    que reina mi pensamiento.
+REDUÁN:
+    ¿Qué te ha dicho?
+BAUDELES:
+    A abrirme ha ido.
+GOMEL:
+    No poco dichoso has sido,
+    pero merécelo el Rey.
+REDUÁN:
+    (El amor no tiene ley:
+    ¡por Alá que soy perdido!)
+BAUDELES:
+    Demos vuelta hacia el terrero,
+    que he de entrar por el vergel.
+REDUÁN:
+    (¡Triste! ¿Qué remedio espero?)
+BAUDELES:
+    A la puerta tú y Gomel
+    me aguardaréis.
+REDUÁN:
+    (¡Rabio! ¡Muero!
+    ¡Una cólera me toma,
+    que es muy poco que me coma
+    las piedras!)
+GOMEL:
+    ¿No vamos?
+REDUÁN:
+    Vete.
+    (¿Que aun he de ser alcagüete?
+    ¡Oh, reniego de Mahoma!)
+[Vanse y salen Arfilo, Jafer, Benalme, Fatimán]
+ARFILO:
+    Ya no es invidia, mas vergüenza grande
+    la que me obliga a desear su muerte,
+    viendo que a tal locura se desmande,
+    que más por dicha que por brazo fuerte
+    se escapa de peligros semejantes,
+    y el Rey se los celebra de tal suerte.
+    Venga la industria, porque sean bastantes
+    sus brazos fieros a este monstruo fiero,
+    tigre crüel, enano de gigantes,
+    que ya no hay en Granada caballero
+    que no se ofrezca con su hacienda y vida
+    y entre su sangre quiera ver su acero.
+JAFER:
+    El lobo astuto, al pie de la guarida,
+    armado el lazo, queda preso y muerto,
+    y la tigre crüel del cuello asida:
+    así -llegando a efecto algún concierto
+    que entre los cuatro nos parezca sano-
+    lo quedará, si puedo, este Roberto,
+    que lo que dicen del crüel romano
+    agora se ve en este granadino,
+    morisco vil, jenízaro cristiano.
+FATIMÁN:
+    Desde el Poniente al postrer polo austrino,
+    no creo que hay tan bárbaros salvajes
+    ni en esta tierra estraño peregrino
+    que no sepa, Jafer, de los linajes
+    que fueron casi reyes desta tierra,
+    llamados los famosos Bencerrajes.
+    A éstos hizo siempre dura guerra
+    una invidia mortal, que de los hombres
+    la blanda paz y la amistad destierra.
+    Después de haber ganado mil renombres
+    en guerra y paz, y haber subido al cielo
+    su patria cara y sus hidalgos nombres,
+    un cierto moro falso y de mal celo
+    le dijo al Rey que el más galán andaba
+    con la Reina, llamada Moraicelo.
+    Fue de suerte la industria, que no acaba
+    hoy de llorar Granada su tragedia,
+    pues con su sangre sus peñascos lava.
+    Y si esta misma industria nos remedia,
+    yo fío que Gomel no quede vivo
+    ni de toda su casa parte o media.
+    A decillo a Baudeles me apercibo
+    que este villano con la Reina trata,
+    para esforzar su brazo vengativo.
+    Porque si el Rey, con su poder, no mata
+    esta furia crüel, en él sospecho
+    que nuestra vida y honra se remata.
+BENALME:
+    Será sagaz y peregrino hecho
+    y digno de ese ingenio, y que del todo,
+    Fatimán, asegura nuestro pecho.
+    Y como tú lo hagas de ese modo,
+    todos seremos, cual verás, testigos.
+FATIMÁN:
+    Veréis cómo le trazo y acomodo.
+    Parientes somos y fieles amigos;
+    el lazo más estrecho a amigos tales,
+    cuanto a Gomel le somos enemigos.
+BENALME:
+    Si con la industria que pretendes sales,
+    jamás nuestra amistad será deshecha.
+FATIMÁN:
+    Todos sois caballeros principales
+    y de ninguna parte habrá sospecha
+    que descubra el secreto que tratamos
+    con tantos brazos de amistad estrecha.
+JAFER:
+    ¡La Reina es esta! En busca del Rey vamos.
+ARFILO:
+    ¿No estaba enferma?
+BENALME:
+    Aquésa fue la fama.
+[Sale la Reina y Celora]
+ALCIRA:
+    (Digo que en fin en amistad quedamos)
+JAFER:
+    ¡Si no se levantara de la cama...
+FATIMÁN:
+    ... pudiera aquélla ser su sepoltura!
+    ¿Qué no merece quien al Rey disfama?
+[Vanse los moros]
+CELORA:
+    ¿Y vino el Rey contento?
+ALCIRA:
+    ¡Fue locura!
+CELORA:
+    ¿Que en fin gozó de ti sin conocerte?
+ALCIRA:
+    A todo dio lugar la noche obscura
+CELORA:
+    Por el amor, que ciega de tal suerte
+    cuanto se entiende de su loco intento.
+ALCIRA:
+    A mí me prometió darme la muerte,
+    pero saldrále en vano el pensamiento,
+    que yo se la daré sin que hoy me pase.
+CELORA:
+    ¡Calla, por Dios! ¡Qué estraño atrevimiento!
+ALCIRA:
+    Yo buscaré una espada que traspase
+    su duro corazón, que de otra suerte
+    hace el dolor que el corazón se abrase.
+CELORA:
+    ¿Pues cómo es eso? ¿Tú dalle has la muerte?
+ALCIRA:
+    Buscaré un moro, a quien daré mi vida.
+    ¿Cuál te parece más gallardo y fuerte?
+CELORA:
+    ¿Determinada estás?
+ALCIRA:
+    Y aborrecida:
+    hoy de aqueste tirano he de vengarme
+    aunque a la muerte quede yo ofrecida.
+    Ya pasó la ocasión de aconsejarme;
+    ten lástima de mí, querida amiga.
+CELORA:
+    Cánsate, Reina, ya de lastimarme.
+    ¡Muera el tirano! ¡Muera, pues te obliga
+    a que le mates!
+ALCIRA:
+    ¿Quién dará la espada?
+CELORA:
+    No sé qué moro más leal te diga,
+    ni sé cómo te puedas en Granada
+    fïar de hombre más robusto y fiero,
+    de fuerte brazo y condición airada,
+    como deste Gomel, de quien espero
+    que, como le prometas la corona,
+    el reino abrasará, como otro Nero.
+ALCIRA:
+    Dices muy bien, que no hay aquí persona
+    de más valor ni que me dé esperanza
+    -si el premio de reinar le galardona-
+    como su espada, brazo, pecho y lanza;
+    demás de que a su talle yo me inclino
+    y tengo de su gusto confïanza.
+CELORA:
+    Helo dó viene el fuerte granadino.
+[Entra Gomel]
+    No hay en el mundo moro ni cristiano
+    con más razón de tu corona digno.
+GOMEL:
+    ¡Oh flacas flechas del amor tirano,
+    que ha respetado el mundo y teme el cielo!
+    ¿Cómo salís tan flojas de mi mano?
+    Convirtióse mi pecho de agua en yelo,
+    como cristal que al sol no se derrite
+    contra la gracia y perfección del suelo.
+    De ver al Rey contento, no hay quien quite
+    de la cabeza a aquel mi padre necio,
+    que la muerte procure y solicite.
+    Y yo hago de todas tal desprecio,
+    que si... ¡Bueno, por Dios! La Reina estaba
+    oyendo de mi amor el poco precio.
+ALCIRA:
+    Atenta tus blasones escuchaba.
+    ¿Que no sabes de amor?
+GOMEL:
+    No soy tan fiero,
+    aunque es verdad que en su desprecio hablaba.
+ALCIRA:
+    ¿Pues cómo le maltratas?
+GOMEL:
+    Porque quiero
+    a una villana, pero tibiamente,
+    y más agora siendo caballero.
+    Yo sé que si sujeto conviniente
+    hallase de mi gusto, yo amaría,
+    y amando, fuese temerariamente.
+ALCIRA:
+    ¿Qué sujeto esperas que podría
+    ser a tu gusto?
+GOMEL:
+    El que tan alto fuese
+    cuanto del suelo el cielo se desvía.
+ALCIRA:
+    Si una reina te amase y te quisiese,
+    ¿sería igual a tu merecimiento?
+GOMEL:
+    Tal, que apenas el suyo mereciese.
+ALCIRA:
+    ¿Deseas con tan alto pensamiento,
+    según eres bizarro y arrogante,
+    verte reinar en el sublime asiento?
+GOMEL:
+    De condición he sido semejante,
+    que, aun siendo pastorcillo, entre otros tales
+    -para que más mi natural te espante-,
+    haciendo de un bastón insinias reales
+    y de pellejos púrpura preciosa,
+    caballero en humildes animales,
+    me hacía rey, y a la canalla ociosa
+    que en hombros me llevase algunas veces.
+ALCIRA:
+    ¿Y por reinar harías cualquier cosa?
+GOMEL:
+    Sospechosa, señora, me pareces.
+ALCIRA:
+    Antes estoy hablando por tu gusto,
+    si acaso al mío tu persona ofreces,
+    que ese valor, Gomel, me viene al justo
+    para emprender una famosa hazaña.
+    ¡Dame los brazos, capitán robusto!
+GOMEL:
+    Reina, jamás pasó de África a España
+    moro de más valor, y aun yo sospecho
+    que ni te burlas ni tu fe te engaña.
+    No llores tiernamente, que has deshecho
+    gran parte de tu justa confïanza
+    en no tener asegurado el pecho.
+    Nunca se ve del cielo la mudanza
+    sin ocasión legítima, si miras:
+    ¡el que rigió cayado, hoy fuerte lanza!
+    Dime a la impresa y pretensión que aspiras.
+    ¡Habla! ¿Qué aguardas?
+ALCIRA:
+    Veo que eres hombre
+    en que de novedades no te admiras.
+    No en balde entre mil hombres de gran nombre
+    escogí tu valor único y raro
+    para que al mundo con el tuyo asombre.
+    ¡Oh mi fuerte Gomel! ¡Oh santo amparo
+    de una mujer desamparada y triste
+    que en grandes pechos ha de hallar reparo!
+GOMEL:
+    Dime, afligida Reina, en qué consiste
+    y enjuga el bello rostro hermoso y tierno
+    cuyo sol con esa agua escureciste,
+    que si fuese bajar al hondo infierno
+    -cosa que al vivo no se le permite-,
+    a Radamanto quitaré el gobierno.
+    ¿Qué vida quieres que del mundo quite?
+    ¿Qué mares que navegue, qué montañas?
+    ¿Qué pecho que enternezca o solicite?
+    ¿Qué fieras que te rinda, más estrañas
+    que la sierpe de Alcides? ¿Qué tesoro?
+    ¿Qué desafío en plazas, en campañas?
+    ¿Qué vellocino, qué manzanas de oro?
+    ¿Qué dragón de Medea que te mate?
+ALCIRA:
+    Otro su igual, Gomel.
+GOMEL:
+    ¿Cuál es?
+ALCIRA:
+    Un moro.
+GOMEL:
+    ¿Moro? ¡Pesia Mahoma! ¿Y es combate
+    o que caiga de súpito ese perro?
+ALCIRA:
+    Oye, si quieres que verdad te trate.
+GOMEL:
+    Y lo demás es conocido yerro.
+ALCIRA:
+    El Rey ha conocido que te amo
+    y que en el alma tu retrato encierro.
+GOMEL:
+    ¿Pues ámasme tú a mí?
+ALCIRA:
+    Solo te llamo
+    señor de aquesta vida.
+GOMEL:
+    ¡Brava cosa!
+ALCIRA:
+    Sólo por adorarte me desamo.
+    Ha dado una sentencia rigurosa
+    contra tu vida luego que yo muera,
+    que es una eterna cárcel temerosa.
+    Si tú quieres, Gomel, haz de manera
+    que vivamos los dos y que mi vida
+    tenga el remedio que de ti se espera,
+    que no es razón que sea mi homicida
+    por sólo que conozco lo que vales.
+GOMEL:
+    ¿Eso intenta? No más, tu llanto impida,
+    que rey que ha dado dos sentencias tales
+    hoy morirá con tan violenta muerte
+    que pise del infierno los umbrales.
+ALCIRA:
+    ¡Dame esos brazos y esa mano fuerte,
+    que tuya soy, y tuya mi corona!
+GOMEL:
+    ¡Que el fiero Rey me trate de tal suerte!
+    ¿Desta manera el perro galardona
+    servicios de mi padre? Mas ¿qué pienso,
+    si el cielo mis deseos perficiona?
+    A rey aspiro con valor inmenso:
+    rey he de ser no sólo de Granada,
+    mas de la tierra donde nace incienso.
+    ¿Qué principio más noble que la espada
+    puede tener un rey, casa o linaje?
+    ¡La guerra sola es en el mundo honrada!
+ALCIRA:
+    Luego, mi bien, que de la cuadra baje,
+    le atraviesa aquel pecho fementido.
+GOMEL:
+    ¡Por Mahoma que rabio de coraje!
+ALCIRA:
+    En viendo el pecho ya de muerte herido,
+    di a voces “¡Viva Alcira! ¡Gomel viva!”,
+    que un escuadrón te espera prevenido.
+    Luego haré que Granada te reciba
+    por su rey y señor, no poco ufana,
+    pues con este tirano fue cautiva.
+GOMEL:
+    Déjame hacer, que no ha de haber mañana
+    cosa con cosa en este reino todo:
+    ¡monte haré la ciudad, la sierra llana!
+    Soy de la parte de mi madre godo
+    y de mi padre bárbaro africano,
+    y a los pasos de Atila me acomodo.
+    Ha de regir el mundo aquesta mano
+    y -entre cristiano y moro- ver el mundo
+    nuevas reliquias de Alejandro Magno,
+    primero en años y en valor segundo.
+ALCIRA:
+    El Rey baja; a Dios.
+GOMEL:
+    A Dios.
+ALCIRA:
+    Celora, quédate ahí.
+[Entra el Rey y Reduán]
+BAUDELES:
+    Confío, Alcaide, de ti
+    lo que pasamos los dos,
+    y en efecto te declaro
+    que la Reina ha de morir.
+REDUÁN:
+    No te quiero persuadir.
+GOMEL:
+    (¿En qué pienso? ¿Qué reparo?)
+REDUÁN:
+    Aquí está sola Celora.
+BAUDELES:
+    ¿Es posible tanto bien?
+    ¡Esos brazos se le den
+    al esclavo que te adora!
+    ¿Cómo has estado, mi vida,
+    desde que ayer te dejé?
+CELORA:
+    Mi pensamiento lloré
+    y mi castidad perdida,
+    que sé que no has de cumplir
+    la palabra que me has dado.
+BAUDELES:
+    Hoy, como tengo jurado,
+    mi mujer ha de morir.
+GOMEL:
+    (¡Por Alá que está diciendo
+    que ha de morir su mujer!)
+BAUDELES:
+    Y que reina te he de hacer
+    del alma y reino en muriendo,
+    que es muy diferente ya
+    tu gusto, Celora hermosa,
+    y el de la Reina enfadosa.
+CELORA:
+    (Todo es uno, por Alá.)
+BAUDELES:
+    Tan diferente es la gloria
+    que contigo recibí,
+    que en nombrar la Reina aquí
+    aun me ofende la memoria.
+    Morirá sin falta alguna,
+    que hoy he visto un agüero
+    del bien que en gozarte espero
+    y de su mala fortuna.
+GOMEL:
+    (¡Gran deseo de reinar
+    me da voces en el pecho!
+    Matar al Rey no es bien hecho,
+    mas no lo puedo escusar.
+    La primera piedra es
+    del edificio que hago,
+    sobre quien un grande estrago
+    tengo de fundar después.
+    Ya lo ejecuto en efecto.)
+[Da Gomel una puñalada al Rey]
+    ¡Muera el Rey!
+BAUDELES:
+    ¡Ay, ay de mí!
+REDUÁN:
+    ¡Gomel!
+GOMEL:
+    ¡Padre!
+REDUÁN:
+    ¿Qué haces? ¡Di!
+GOMEL:
+    ¡Por mi fe que sois discreto!
+    Queríame el Rey matar
+    y ganéle por la mano.
+REDUÁN:
+    ¡Oh traidor!
+GOMEL:
+    Ya es, padre, en vano
+    el quererlo remediar.
+[Sientan al Rey en una silla]
+REDUÁN:
+    ¿Qué has hecho, pobre de ti?
+    ¡Que era tu padre, y no yo!
+BAUDELES:
+    Redüán, ¿quién me mató?
+REDUÁN:
+    Gomel, tu hijo.
+BAUDELES:
+    ¡Ay de mí!
+    Hijo, ¿qué causa te he dado
+    para matarme?
+GOMEL:
+    (¿Qué es esto?
+    ¿Yo hijo?)
+CELORA:
+    (¡Da voces, presto!)
+GOMEL:
+    (Espera, que estoy turbado.)
+REDUÁN:
+    ¡Ah Gomel, qué mal lo has hecho!
+GOMEL:
+    ¿No sois vos mi padre?
+REDUÁN:
+    No,
+    que el padre que te engendró
+    hoy le has traspasado el pecho.
+CELORA:
+    (¡Hijo suyo! ¡Estoy helada!)
+GOMEL:
+    ¡Hijo suyo! ¡Decid cómo,
+    que pondré en el suelo el pomo
+    y me arrojaré en la espada!
+REDUÁN:
+    Porque la Reina crüel
+    no te matase, celosa
+    de aquella cautiva hermosa,
+    no te lo he dicho, Gomel,
+    ni lo sabe hombre nacido.
+CELORA:
+    (¡Cerca de la muerte estoy!
+    A avisar la Reina voy
+    del negocio sucedido.)
+[Vase Celora]
+GOMEL:
+    ¡Oh padre del alma mía
+    cuya sangre he derramado!
+    ¿Por qué el cielo me ha dejado
+    de sus manos este día?
+    Si fuerza alguna tenéis,
+    tomad esta propria daga,
+    porque en parte satisfaga
+    la muerte que padecéis:
+    ¡tomad, traspasadme el pecho!
+BAUDELES:
+    Faltaré para matarte,
+    pero no para abrazarte
+    en el punto más estrecho.
+    Bien sé que te han engañado.
+GOMEL:
+    Si agora me dais la muerte,
+    sabré un tiempo de qué suerte
+    vida y muerte me habéis dado.
+    La Reina crüel me dijo
+    que queríades matarme.
+BAUDELES:
+    Antes siempre pensé honrarme
+    como de tan fuerte hijo.
+GOMEL:
+    Y que era por ocasión
+    de que en Granada decían
+    que nuestros gustos tenían
+    una incierta pretensión,
+    y que si yo te mataba
+    con ella me casaría
+    y de Granada tendría
+    la corona que esperaba,
+    y que con pecho inhumano
+    hoy me habías de dar muerte.
+    Incitado de tal suerte,
+    puse en tu sangre la mano.
+REDUÁN:
+    Sin duda, Rey, que ha sabido
+    de Celora el mal succeso.
+BAUDELES:
+    Bien se ha visto, y que por eso
+    mi muerte habrá pretendido.
+    ¡Oh hijo! ¿Quién te engañó?
+    ¡Celos son, celos lo han hecho!
+GOMEL:
+    ¡Pues traspasa luego el pecho
+    que, aunque inocente, pecó!
+    Y cuando de bravo y fuerte
+    gane fama esclarecida,
+    será mancha de mi vida
+    haberte dado la muerte.
+    La espada que me ceñiste,
+    ésa mesma te mató:
+    ésa la muerte te dio
+    a quien tú la vida diste.
+    Si matar mi padre aquí
+    dicen los moros de España
+    que es la primera hazaña,
+    ¿qué dirá el mundo de mí?
+    Pues cuando gane las glorias
+    que de un hombre fuerte espera,
+    será aquésta la primera
+    que ha de infamar mis victorias.
+    ¿Ya qué puede hacer que cuadre
+    a ganar fama o reinar
+    el que se enseñó a matar
+    en la sangre de su padre?
+    Del primer hecho en la guerra
+    hace el hidalgo varón
+    sus armas y su blasón,
+    honra su linaje y tierra.
+    ¡Mirad qué primero hecho,
+    armas y blasón mortal:
+    un hijo con un puñal
+    que pasa a su padre el pecho!
+    Si aquí no me doy la muerte
+    es porque quiero vengarte
+    de quien me obligó a matarte
+    y me engañó desta suerte.
+    Queda en paz.
+BAUDELES:
+    ¡Gomel, Gomel,
+    dame primero un abrazo!
+GOMEL:
+    ¿Cómo ha de abrazarte el brazo
+    que te dio muerte crüel?
+    Que no es posible que acierte
+    a darte, padre y señor,
+    un abrazo con amor
+    el que te le dio con muerte.
+[Vase]
+BAUDELES:
+    ¡Gomel, oye!
+REDUÁN:
+    Ya se fue;
+    temiendo su estrago quedo.
+BAUDELES:
+    De mi gente tengo miedo
+    si envuelto en sangre me ve,
+    porque si el caso no sabe
+    sin duda le matarán.
+REDUÁN:
+    Sólo deseando están
+    que esta su arrogancia acabe.
+[Entra Jafer, Benalme, Arfilo, Fatimán]
+FATIMÁN:
+    ¡Muerto es el Rey! ¿Quién dicen que lo ha muerto?
+BENALME:
+    Por el palacio aquella voz se esparce;
+    no se suena otra cosa en el Alhambra.
+    Algunos dicen que Gomel lo ha hecho.
+REDUÁN:
+    Aquí está nuestro Rey, vivo y herido.
+FATIMÁN:
+    ¡Oh famoso Baudeles! ¿Qué es aquesto?
+JAFER:
+    ¿Quién te ha muerto, señor?
+ARFILO:
+    ¿Cuál enemigo
+    en tu sangre real la mano ha puesto?
+BAUDELES:
+    Amigos, sosegaos.
+BENALME:
+    ¿Pues cómo quieres
+    que con tu muerte pueda haber sosiego?
+BAUDELES:
+    La Reina, sospechando que quería
+    hacer otro segundo casamiento
+    y despreciar el suyo y sus dos hijos,
+    llamó a Gomel y, con celosa rabia,
+    le dio a entender que yo queriá matalle,
+    y que me diese muerte, y le daría
+    su persona y el ceptro deste imperio.
+    No sabiendo Gomel que era mi hijo
+    -y al fin lo es, y no, cual todos piensan,
+    que es Redüán su padre verdadero-,
+    por librarse del daño que temía
+    y codicioso de reinar, me ha muerto.
+    Él ha llorado ya su triste engaño,
+    y es hijo a quien amé toda mi vida
+    y de valor, sin duda, para dalle
+    de aqueste reino y aun del mundo el ceptro.
+    Yo os pido, por la fuerza que en sí tienen
+    las últimas palabras, que ninguno
+    le niegue la corona y obediencia,
+    porque descanse el alma que ya parte.
+[Espira el Rey]
+FATIMÁN:
+    ¡Murió sin duda!
+REDUÁN:
+    ¡Ah Rey! ¡Ah señor mío!
+    No hay qué llamar: llamó la dura muerte
+    a las puertas del alma, que es la vida.
+JAFER:
+    Llevémosle a su cuadra si os parece
+    y dése cuenta a la nobleza toda
+    de lo que el Rey cuando murió nos dijo.
+ARFILO:
+    ¡Ay desdichado Rey, qué fin tuvieron
+    tus singulares hechos victoriosos!
+[Llévanle los cuatro moros y queda solo Reduán]
+REDUÁN:
+    Aunque me esfuerzo a sentimiento y pena,
+    tal me tiene el amor de aquella ingrata,
+    que apenas he podido entristecerme;
+    antes siento en el alma una alegría
+    que el antiguo dolor destierra de ella.
+    Fuera de que, reinando Gomel, quedo
+    tan rey como él y tan señor de todo.
+    ¡Grande alboroto suena!
+[Entra Lizara, Celora y Fatimán y Alboín, que se las llevan]
+LIZARA:
+    En vuestras manos
+    están ahora, amigos, nuestras vidas.
+FATIMÁN:
+    Como una vez salgamos de palacio,
+    no temáis a Gomel ni a todo el mundo.
+CELORA:
+    ¡Qué bravo estrago hace!
+ALBOÍN:
+    ¡Es un demonio
+    cercado de las furias del infierno!
+REDUÁN:
+    ¿Adónde bueno, hidalgos?
+FATIMÁN:
+    (¡Dado habemos
+    en peligro mayor que el que dejamos!)
+ALBOÍN:
+    Fuerte Alcaide, yo creo que -pues tienes
+    tan buen entendimiento y valor tanto-
+    tendrás por bien que, en cuanto se sosiega
+    la furia de Gomel, a nuestras casas
+    llevemos estas moras, porque vivan
+    seguras nuestras honras y sus vidas,
+    que con ellas, en fin, casados somos.
+REDUÁN:
+    ¡Casados! ¿Cómo?
+FATIMÁN:
+    Las palabras bastan.
+[Echa mano Reduán y huyen los moros, y quedan las moras]
+REDUÁN:
+    ¡Fuera, cobardes, que el Alhambra tiene
+    alcaide y rey a quien tener respecto!
+FATIMÁN:
+    ¡Otro Gomel tenemos! ¡Huye, huye!
+REDUÁN:
+    ¿No te bastaba, di, Celora infame,
+    haber sido la causa de la muerte
+    de nuestro Rey, sino que, muerto, quieras
+    dar muerte a los que viven por amarte?
+    ¿Adónde ibas tan furiosa y libre?
+    ¿No sabré yo mejor guardar tu vida
+    que no aquel abatido medio alarbe?
+CELORA:
+    Engañado te tiene, Alcaide fuerte,
+    el Rey, que aquí también murió engañado,
+    pues no gozó de mí, como te dijo,
+    sino de su mujer, que en mi aposento
+    estuvo con el Rey aquella noche;
+    y como supo de su propria boca
+    que quería dejalla y darla muerte,
+    procuró con Gomel lo que hoy has visto.
+REDUÁN:
+    ¿Que eso es verdad?
+CELORA:
+    Pregúntalo a la Reina,
+    de quien también Lizara fue testigo.
+LIZARA:
+    Verdad es, Redüán, este succeso,
+    que yo propria lo he visto por mis ojos.
+REDUÁN:
+    Pues si es así, confíame tu vida,
+    que bien la guardará quien te dio el alma.
+LIZARA:
+    ¡La Reina oigo dar voces! ¿Si la mata?
+REDUÁN:
+    Bien merece morir.
+LIZARA:
+    ¡Muera la ingrata!
+[Entra la Reina con dos hijos delante y Gomel detrás con una espada desnuda]
+ALCIRA:
+    ¡Que estos niños no te mueven,
+    tirano moro, a piedad!
+GOMEL:
+    Yo sé que tu muerte aprueben
+    cuando llegaren a edad,
+    si ellos fueren quien ser deben.
+REDUÁN:
+    ¡Detente, espera, Gomel!
+GOMEL:
+    ¿Puede dejar de morir?
+REDUÁN:
+    No.
+GOMEL:
+    ¿Pues qué quieres decir?
+REDUÁN:
+    Que no sea muerte crüel.
+ALCIRA:
+    ¡Hijos, rogádselo vos
+    porque no quedéis sin madre!
+GOMEL:
+    Ella os mató vuestro padre:
+    quejaos al cielo los dos.
+NIÑO [1º]:
+    Ya que el padre nos faltó,
+    quedaremos satisfechos
+    si nos quedan estos pechos
+    del valor que nos crïó.
+    ¿Adónde habemos de ir
+    o quién nos ha de coger?
+GOMEL:
+    No me habéis de enternecer.
+    ¡Vive Dios que ha de morir!
+NIÑO 2º:
+    Pues, señor, si ha de matalla,
+    máteme primero a mí;
+    no me deje vivo aquí,
+    que si vivo he de vengalla.
+    Pues que dio muerte a mi padre,
+    ¿qué más bien me puede hacer?
+    Que después, ¿cómo he de ver
+    quien mató a mi padre y madre?
+REDUÁN:
+    Lo que yo, Gomel, hiciera
+    fuera en aquesta ocasión
+    poner éstos en prisión
+    hasta que el reino tuviera,
+    y, después de coronado,
+    ejecutar como rey
+    lo que mandare la ley
+    y el granadino senado.
+GOMEL:
+    Quiero tomar tu consejo:
+    a una torre los tres lleva.
+    A ti la vida te deba,
+    que ya en tus manos la dejo.
+    Y quítame de delante
+    también esas dos mujeres.
+ALCIRA:
+    Eres noble -al fin rey eres-;
+    el mundo tus hechos cante.
+    Quisiera besar tus pies,
+    pero tengo a tus pies miedo.
+REDUÁN:
+    Quédate aquí.
+GOMEL:
+    Aquí me quedo.
+REDUÁN:
+    Venid conmigo los tres.
+ALCIRA:
+    ¡Qué bien todo lo acomodas!
+NIÑO:
+    Madre, libertad le pida.
+ALCIRA:
+    En tus manos va mi vida.
+CELORA:
+    Y la mía.
+LIZARA:
+    Y la de todas.
+[Vanse y quédase Gomel]
+GOMEL:
+    Los consejos del más viejo
+    quitan guerra y ponen paz
+    de razón y de consejo,
+    y, así, con causa eficaz,
+    de castigarle ahora dejo.
+    Ser su mal de tanto exceso
+    da voces a la razón,
+    pero bien está en prisión
+    hasta el fin de mi suceso;
+    que el pueblo, ya sosegado,
+    tomará del caso enmienda
+    cuando mi razón entienda
+    y la sinrazón que ha usado.
+[Sale un moro alborotado]
+MORO:
+    ¿En qué ha de parar, Alá,
+    tanto alboroto y malicia?
+    ¿No hay en el cielo justicia?
+    Porque en la tierra no está.
+    ¡Rompiendo van y robando
+    todo el palacio!
+GOMEL:
+    ¡Detente!
+    ¿De qué huyes?
+MORO:
+    De la gente
+    que te viene amenazando;
+    que aunque saben que eres rey
+    y que el Rey lo quiso ansí,
+    dicen que en matarle allí
+    rompiste la misma ley,
+    y de dos hijos que son
+    legítimos de la Reina,
+    el mayor dicen que reina.
+GOMEL:
+    ¡Errada fue la prisión,
+    que mejor fuera matallos!
+MORO:
+    Que te huyas te aconsejo,
+    que a toda Granada dejo
+    llena de armas y caballos,
+    y en el Alhambra mil moros
+    ofendidos de tu injuria,
+    que roban a toda furia
+    ropas, joyas y tesoros;
+    y de manera han rompido
+    cuantas puertas han hallado,
+    que a la leonera han bajado
+    y un gran león desasido,
+    el cual por palacio hace
+    un estrago tan crüel,
+    que no halla moro en él
+    que no le rompe y deshace.
+    ¡Santo Alá, vesle do viene!
+GOMEL:
+    No me espanto de leones.
+[Sale un león y huye el moro]
+MORO:
+    ¡Huye!
+GOMEL:
+    ¿A mirarme te pones?
+    ¡Estraña presencia tiene!
+    Éste, con sólo la daga
+    y el capellar en el brazo,
+    llevará de mí un abrazo
+    que mal provecho le haga.
+    Pero ¿cómo no me emprende
+    y retozando me mira?
+    No asalta ni se retira,
+    no me busca ni me ofende.
+    ¿Qué es esto, bestia crüel?
+    ¿Cómo no has arremetido?
+    Sin duda que ha conocido
+    que soy león como él.
+    ¿Si es éste con quien yo tuve
+    desde muchacho amistad
+    en aquella soledad
+    de los montes donde anduve?
+    ¡Sin duda! Ya le conozco;
+    no es posible que me ofenda.
+    Quiero llegar, porque entienda
+    que su amistad reconozco.
+    ¡Oh buen amigo! ¿Qué hay?
+    ¿Cómo va? ¿Qué es menester?
+    ¡Por Dios que es cosa de ver
+    el regocijo que tray!
+    Dame uno y mil abrazos,
+    que no eres tú mal amigo
+    para el conflicto enemigo
+    que quiere hacerme pedazos.
+    Gran agüero de reinar
+    ha sido aqueste león.
+    ¡Oh, qué estraña confusión!
+    Quiero a Alejandro imitar:
+    sentaréme en esta silla
+    y sobre él pondré mis pies.
+[Siéntase, y póngase el león debajo de los pies]
+    De la industria humana es
+    ésta una gran maravilla.
+    ¿Quién me verá de esta suerte
+    que no se admire y espante?
+    ¡Por Alá que soy bastante
+    a vencer la misma muerte
+    y hacer temblar el profundo!
+    Que no es temerario intento,
+    pues que sobre tal cimiento
+    los pies de mi imperio fundo.
+    Si el magnánimo león
+    significa fortaleza,
+    ved los pies y la cabeza
+    de qué fortaleza son.
+    Si el león es lo más fuerte
+    y yo soy más fuerte que él,
+    ¿por qué ha de temer Gomel
+    fortuna, invidia ni muerte?
+    Sueño me ha dado; ahora veo
+    mi temeraria arrogancia,
+    pues que tan poca distancia
+    del morir al vivir veo.
+    ¡Cuando vienen a matarme
+    me estoy durmiendo! ¿Qué digo?
+    Haced oficio de amigo:
+    hola, que habéis de guardarme.
+    ¡Oh sueño, que puedas tanto!
+[Duerme Gomel teniendo al león debajo de los pies y salen todos los moros que hubiere, con las espadas desnudas]
+MORO 1º:
+    Pues que no ha salido afuera,
+    aquí estará.
+MORO 2º:
+    ¡Muera!
+TODOS:
+    ¡Muera!
+MORO 3º:
+    ¡Santo Alá!
+MORO 2º:
+    ¡Mahoma santo!
+[Retíranse unos detrás de otros, de miedo del león]
+MORO 1º:
+    Teneos; ninguno huya,
+    que es infamia y cobardía.
+    Aquesa gran valentía
+    deste invencible se arguya.
+MORO 2º:
+    ¿Hay espectáculo igual?
+    ¿No es bueno que está durmiendo
+    en la mitad del estruendo
+    de su peligro mortal?
+MORO 3º:
+    ¡Tal guarda tiene a los pies!
+MORO 2º:
+    Yo no llegaré a matalle.
+MORO1º:
+    ¡Bravo rostro!
+MORO 2º:
+    ¡Bravo talle!
+MORO 3º:
+    Digno del imperio es.
+    ¿Adónde podréis hallar
+    rey como éste a toda ley
+    y hijo de vuestro rey
+    y a quien él quiso heredar?
+    ¿Qué hombre más valeroso
+    ni más valiente soldado,
+    domador y no domado,
+    invidiado y no invidioso?
+    Caballeros granadinos,
+    vayan las invidias fuera:
+    ¡no muera Gomel!
+TODOS:
+    ¡No muera!
+MORO 3º:
+    Sois de fama eterna dignos.
+    ¡Viva Gomel, Gomel viva!
+TODOS:
+    ¡Viva, viva!
+GOMEL:
+    ¿Qué es aquesto?
+MORO 3º:
+    ¡Ten el león, tenle presto!
+GOMEL:
+    ¡Hola, a mis pies te derriba!
+TODOS:
+    ¡Viva Gomel!
+GOMEL:
+    ¿Esto es sueño
+    o por ventura es verdad?
+MORO 3º:
+    Hoy serás desta ciudad
+    seguro y dichoso dueño.
+    Déjanos besar tus manos,
+    que por rey te obedecemos.
+GOMEL:
+    ¿Qué dices?
+MORO 3º:
+    ¡Que rey te hacemos,
+    gloria y honor de africanos!
+MORO 2º:
+    Traed el ceptro y corona.
+MORO 1º:
+    Aquí viene Redüán.
+[Entra Reduán]
+REDUÁN:
+    Y mil que a la puerta están
+    que defiendan tu persona.
+GOMEL:
+    Dame, Redüán, los brazos,
+    que no serán menester.
+    ¡Grande ha sido tu poder!
+REDUÁN:
+    Y dichosos tus abrazos.
+    Ya quedan en la prisión
+    tus enemigos.
+GOMEL:
+    Bien haces,
+    que importa el sosiego y paces
+    de mi reino y pretensión,
+    que ya aquestos caballeros
+    por rey me han obedecido.
+REDUÁN:
+    Hante obligado y servido.
+GOMEL:
+    Los dos hago consejeros,
+    y a los otros dos les doy
+    las tenencias de Alhajara,
+    y a ti de Alhama la vara
+    porque obligado te estoy,
+    y a vosotros los castillos
+    de Gudix y Marubel.
+MORO 3º:
+    ¡Vivas mil años, Gomel,
+    si tantos puedes vivillos!
+GOMEL:
+    Y a ti, que amor paternal
+    te tuve, por más honor,
+    hago mi alguacil mayor
+    y capitán general.
+MORO 3º:
+    Ponte esta insigne corona
+    y toma el ceptro en la mano,
+    por más fuerte que el tebano
+    que el mundo a voces pregona,
+    y subamos a caballo,
+    porque en Granada entraremos,
+    que a buen tiempo llegaremos.
+GOMEL:
+    Tú eres un fiel vasallo.
+    Ven conmigo, Redüán,
+    que désta, tuya es la media.
+    Aquí acaba la comedia
+    del Hijo de Redüán.

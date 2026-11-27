@@ -1,0 +1,4084 @@
+# La amistad pagada
+Autor: Lope de Vega
+
+JORNADA 1
+
+[Tocan adentro al arma y dice un soldado dentro:]
+SOLDADO:
+    ¡Al arma, al arma, capitanes fuertes,
+    al arma, capitanes valerosos,
+    que a las espaldas desta gran montaña
+    bagajes roban y ejecutan muertes
+    aquestos fieros bárbaros, gozosos
+    de ver la sangre que estas piedras baña!
+[Sale Andronio, cónsul, con su espada desnuda]
+ANDRONIO:
+    ¡Oh, belicosa España,
+    más invencible que la Libia fiera!
+    ¡Nunca de Roma espada ni bandera
+    hubiera visto para tanto estrago
+    tu Numancia y Cartago,
+    y agora este León, que ya vencido
+    y sus muros en tierra derribados,
+    destas montañas sale mas furioso
+    que si fuera nacido
+    de la oriental Albania en los collados!
+    Agora, cuando el sueño y el reposo
+    cubre los ojos de la gente nuestra,
+    con armas nuestro campo desatinas.
+    ¡Oh, gran necesidad, sabia maestra,
+    que al bárbaro mas torpe disciplinas
+    que rabia me provoca,
+    prosigue, toca al arma, toca, toca!
+[Sale Domicio, soldado]
+DOMICIO:
+    Ya te puedes recoger,
+    a tus tiendas y sosiego,
+    que éste ha sido un falso fuego,
+    de los que suele encender
+    aqueste bárbaro ciego.
+    Sobre aquesa gran montaña,
+    que este arroyo ciñe y baña,
+    tocando al arma, abrasaron
+    un lugar, que no dejaron
+    la mas humilde cabaña.
+    Con esto se han desmandado
+    algunos que a nuestras tiendas
+    con las armas han bajado;
+    pero seguillos no emprendas,
+    que a todos nos han burlado.
+    Que, como el que se confía
+    de sus pies, con osadía
+    espera el toro y después
+    le va mostrando los pies,
+    así esta gente vencía.
+    Ya en efecto se desarma
+    el campo y vuelve al sosiego.
+ANDRONIO:
+    ¡Ay, Domicio, que otro fuego
+    y otra voz me toca al arma!
+    ¡Perdido estoy, estoy ciego!
+    Entre las armas y espadas
+    de española sangre honradas,
+    entre el bélico furor,
+    me ha tocado al arma amor
+    con sus manos regaladas.
+    Como si en Chipre estuviera,
+    o en la edad del vil Nerón
+    o de Cómodo naciera,
+    ansí el fuerte corazón
+    se me afemina y altera.
+    Y es éste tanto delicto
+    -por el cargo que a otros quito,
+    de que Roma quiere honrarme-
+    que estoy por desesperarme
+    de ver que a un bárbaro imito.
+DOMICIO:
+    ¿De qué te afliges ansí,
+    si Lelio, a quien Roma dio
+    el mismo cargo que a ti,
+    tan ciego le he visto yo,
+    como alguna vez me vi?
+    Lelio, a quien toca el gobierno
+    deste campo, está tan tierno
+    por Claudia, esta amiga o dama
+    de Furio, que hay voz y fama.
+ANDRONIO:
+    ¡Paso, oh fuego del infierno,
+    oh fieros rabiosos celos!
+    ¿Cómo os han dado este nombre
+    tan parecido a los cielos?
+DOMICIO:
+    ¿Qué dices?
+ANDRONIO:
+    Que cualquier hombre
+    me causa enojo y recelos.
+DOMICIO:
+    No, no, sin duda que quieres
+    a Claudia.
+ANDRONIO:
+    Bien puede ser.
+    ¡Ay, Domicio, no te alteres,
+    que de amar a esta mujer
+    amo a todas las mujeres!
+DOMICIO:
+    A la fe, Andronio, ya entiendo
+    que amas a Claudia.
+ANDRONIO:
+    Encubriendo
+    estoy por fuerza mi mal.
+    ¡Ay amigo, estoy mortal,
+    por la misma estoy muriendo!
+    Mira qué bien ha fïado
+    Roma su ejército a dos,
+    que lo que les ha entregado
+    la fortuna, Roma y Dios
+    a una misma hembra han dado:
+    de la fortuna, victorias;
+    de Roma, triunfos y glorias;
+    de Dios, las famas y vidas
+    a Claudia hermosa rendidas,
+    que afrenta estatuas y historias.
+    ¡Ah, Furio, nunca trujeras
+    esa captiva, despojos
+    que aquesas tus manos fieras
+    para fuego de mis ojos
+    e infamia de mis banderas!
+    Captivó, según es fama,
+    aquí en León esta dama,
+    Domicio, aqueste romano
+    por quien hoy amor tirano
+    a dos cónsules infama.
+DOMICIO:
+    Toda la historia he sabido,
+    ¿pero no se puede hacer
+    que ésta venga a tu poder?
+ANDRONIO:
+    ¡Cómo ese tiempo he perdido
+    en procurarla vencer!
+    Pero quiérele de suerte
+    que en tratando de su ofensa
+    mil tiernas lágrimas vierte.
+DOMICIO:
+    Derríbale la defensa,
+    dando a Furio injusta muerte.
+ANDRONIO:
+    Es Furio, amigo, un soldado
+    tan bravo y acreditado
+    que si acabase sus días,
+    sobre su sangre verías
+    todo el campo amotinado.
+    Ni parece justo hacer
+    que el que aqueste cargo toma,
+    que aunque le sobre poder,
+    le quite un soldado a Roma
+    para dalle una mujer.
+[Sale Lelio, cónsul]
+    Mas detente, que ha salido
+    Lelio de su tienda.
+LELIO:
+    ¿Ha sido
+    gentil ensayo, por Dios,
+    que un bárbaro solo, o dos,
+    hayan un campo corrido?
+    ¡Oh, cónsul!
+ANDRONIO:
+    ¡Oh, Lelio fuerte!
+LELIO:
+    ¿Qué Volcan o Lipan vierte
+    mas fuego que aqueste monte?
+ANDRONIO:
+    Lo que es todo el horizonte
+    en fuego y humo convierte.
+    Han quemado ese lugar
+    quizá por sólo quitar
+    al campo el alojamiento.
+LELIO:
+    ¡Oh, bárbaro pensamiento!
+ANDRONIO:
+    Antes ardid militar.
+LELIO:
+    ¿Cómo que un monstruo o salvaje,
+    un montañés, un villano,
+    bárbaro en alma y lenguaje,
+    todo el poder soberano
+    de Roma infame y ataje?
+    ¿Que venga nuestro escuadrón
+    sobre la insigne León,
+    de España ciudad tan grande,
+    y que ya la rija y mande
+    con esclava sujeción?
+    ¿Y que en una montañuela
+    de vencer un hombre tarde,
+    que en ardides se desvela
+    como milano cobarde,
+    que hace la presa y vuela?
+    ¡Dos descalzos, dos desnudos,
+    que comen los bueyes crudos
+    y visten de sus pellejos,
+    destruyen nuestros consejos,
+    siendo en sus consejos mudos!
+    ¿En qué ha de parar aquesto?
+ANDRONIO:
+    En que ya de hoy mas se haga
+    lo que ayer quedó propuesto.
+LELIO:
+    Si das al campo una paga
+    echara en la empresa el resto.
+[Tocan al arma y salen Furio y Fabricio, soldados]
+FURIO:
+    ¿Tan descuidados, valerosos cónsules,
+    cuando deciende un escuadrón de bárbaros
+    desas montañas, cuyas peñas y árboles
+    vertiendo vienen fuego a nuestro ejército?
+    Volved los ojos a sus armas rígidas,
+    veréis vuestros soldados pusilanimes
+    -que la escondida noche y Baco espléndido
+    tenía sepultado sin escandalo
+    en oscuro silencio y sueño palido-
+    huïr de aquí y de allí como del alamo.
+    Sale medroso el escuadrón de pajaros
+    cuando el halcón, el sueño interrompiéndoles,
+    entra furioso por las ramas fragiles.
+ANDRONIO:
+    ¿Eso es posible?
+FABRICIO:
+    Escucha el fiero estrépito
+    de roncas voces y trompetas bélicas.
+[Suena una trompeta y sale Lépido, soldado]
+LÉPIDO:
+    Huïd, huïd leones nuestras aguilas,
+    si sois leones cuando vais huyéndolas,
+    ¡que se escapen ansí...!
+LELIO:
+    ¿Qué es esto, Lépido?
+LÉPIDO:
+    No es nada, ya se fue la nube, y fuéronse
+    con un pequeño sueño los relampagos.
+    Éstos bárbaros son, que como en público
+    no saben parecer sus viles animos,
+    de noche nos visitan como espíritus,
+    con fuegos, con fantasmas y con mascaras.
+ANDRONIO:
+    En efeto se huyeron.
+LÉPIDO:
+    En tocandoles
+    en el oído el mas inútil pífano
+    -que no quiero decir alfanje- de çfrica,
+    los pies apenas tocan en los céspedes.
+ANDRONIO:
+    (Brava ocasión se ofrece a mi propósito
+    para gozar aquesta noche a Claudia,
+    quiero decir, gozar no mas de hablandola.)
+LELIO:
+    (Brava ocasión, amor, vas ofreciéndome
+    para que aquesta noche el pecho mísero
+    descanse viendo aquella vista angélica
+    de Claudia, la cautiva deste Furio,
+    por quien amor, con fuego velocísimo,
+    los huesos y medulas va abrasandome.)
+ANDRONIO:
+    Si te agradare, cónsul, como es lícito,
+    yo soy de parecer que aventurándose
+    Furio esta noche, pues en nuestro ejército
+    no tenemos soldados tan belígeros,
+    por entre las malezas vaya entrandose
+    de aqueste monte, pues que son tan asperas,
+    y del contrario sepa los propósitos;
+    porque conforme lo que dellos viéremos
+    mañana al estender la aurora candida
+    sus cabellos bañados con aljófares,
+    sobre este río algunas puentes faciles
+    vayan para el bagaje fabricandose.
+LELIO:
+    Ese es mi parecer y [el] de tu ingenio.
+    Partase luego Furio, que es solícito,
+    es gran soldado, fuerte como Scévola;
+    vaya y sepa del bárbaro el disignio.
+FURIO:
+    Soy de todo el ejército el mas ínfimo,
+    pero tal como soy, cónsules ínclitos,
+    iré a serviros mas alegre y placido
+    que si llevara una corona cívica.
+ANDRONIO:
+    Merécese escribir tu nombre en mármoles.
+FURIO:
+    Yo voy a apercebirme. Quede Júpiter,
+    cónsul, contigo.
+LELIO:
+    Yo también, que al tímido
+    ejército pretendo hacelle plática
+    sobre aqueste alboroto.
+ANDRONIO:
+    (¡Oh, cielo altísimo,
+    vea yo a Claudia y luego mátame!)
+[Vase]
+LELIO:
+    (¡Oh, cielo, quién pudiese ver a Claudia
+    mientras que Furio vuelve!)
+DOMICIO:
+    ¿Vienes, Lépido?
+LÉPIDO:
+    Vengo envidioso deste bien que a Furio
+    le hacen hoy los cónsules llamándole
+    títulos dignos de los mismos césares.
+DOMICIO:
+    No envidies la privanza ni los títulos
+    del que vieres tener mujer hermosa
+    que es honra que le quitan.
+LÉPIDO:
+    ¡Brava cosa!
+[Vanse y quedan solos Furio y Fabricio]
+FABRICIO:
+    ¡Buen melancólico has hecho!
+    ¿No sabríamos por qué?
+    Si es temor, déjame, iré,
+    que tuyo es aqueste pecho.
+    No digo temor cobarde,
+    pero temor de perder
+    aquesta hermosa mujer
+    que el alma te abrasa y arde.
+    No temor que a infamia obligue
+    pero el celoso temor
+    que nace con el amor
+    y como sombra le sigue.
+    ¿No hablas?
+FURIO:
+    ¡Ay, mi Fabricio!
+    Bien dices que fue temor,
+    pero aún es mucho mayor
+    de lo que muestra el indicio.
+    No nace aquesta jornada
+    de quererme honrar aquí,
+    mas de quitarme, ay de mí,
+    la que yo tengo ganada.
+    Vente conmigo y sabrás
+    en el camino la historia.
+FABRICIO:
+    En bien o mal, pena o gloria,
+    no he de dejarte jamás.
+[Vanse y sale Curieno, Alarico, Filardo, Jacerino y Tanagildo, montañeses, vestidos de pieles. Traigan los alfanjes desnudos y en las manos izquierdas unos hachos de tea encendidos]
+    Buen sobresalto les habemos dado,
+    que no fuera razón que en mi montaña
+    ansí durmiera el enemigo armado.
+    Yace el león dormido en la campaña,
+    mas si yo, como fénix, resucito
+    tendrá de sus cenizas león España.
+    ¿Que dicen los romanos que yo imito
+    a Hércules no más de en solo el traje
+    y que le infamo y el honor le quito?
+    Mal conocen al bárbaro salvaje.
+    ¡Vive Milena, que es el sol que adoro,
+    que deciende de reyes mi linaje!
+    Curieno soy, Curieno, aquél que un toro
+    hago pedazos con aquestos brazos,
+    que romperán mejor sus plumas de oro.
+    Mata esos fuegos, que si hacer pedazos
+    no me viere Milena [a] aquesta gente,
+    eternamente goce sus abrazos.
+[Sale Milena]
+ALARICO:
+    A recibirte, capitán valiente,
+    Milena sale de su cueva obscura.
+CURIENO:
+    Clara dirás, si sale el sol de Oriente.
+    ¡Oh peregrina, angélica hermosura!
+MILENA:
+    ¡Oh capitán valiente, vitorioso,
+    cuyo valor me anima y asegura!
+    Mi pecho, de tu daño receloso,
+    mil fabulas de amor representaba
+    a mi sentido en vano temeroso.
+    Ya preso del romano te soñaba,
+    ya vencedor y de peligro ajeno,
+    y que cetro y laurel León te daba;
+    y en fin quedaba de contento lleno
+    con sólo imaginar entre temores
+    que eres Curieno el fuerte, el gran Curieno.
+CURIENO:
+    Estimo con el alma tus favores,
+    y ese temor de nadie lo estimara
+    por afrentar mis brazos vencedores
+    sino de quien de lo que soy dudara
+    a fuerza del amor, que teme y duda,
+    porque nadie temiera si no amara.
+    Conozco bien tu voluntad, desnuda
+    de toda falsedad, y amor por eso
+    con lazos de oro a tu prisión me añuda.
+MILENA:
+    Mayor vitoria fue tener tal preso
+    que la que de León hizo el romano.
+CURIENO:
+    Mil veces por tu esclavo me confieso
+    y en fe de aquesta hermosa y blanca mano
+    ese romano haré que infame huyendo
+    deje este monte y busque de Esla el llano.
+    Por los cabellos juro -que venciendo
+    estan al oro- y por la luz -que reina
+    en las estrellas donde estoy ardiendo-
+    que te he de hacer de toda Italia reina,
+    desde las cumbres altas de Peloro
+    hasta donde Parténope se peina,
+    y que te he de cubrir de perlas y oro,
+    en menos tiempo, hermosa prenda mía,
+    que vaya el sol desde la Libra al Toro.
+MILENA:
+    Mis ojos vean, oh Curieno, el día
+    en que triunfes de aquesta gente fiera
+    que tanto a España sujetar porfía;
+    de aquesta gente, que la gran ribera
+    de nuestro mar pisó tan atrevida,
+    por fama sola que su pecho altera;
+    que el ser del mundo reina o ver rendida
+    del Gange la riqueza entre mis plantas
+    no se compara al ser de ti querida.
+CURIENO:
+    Con esas humildades te levantas
+    mas alta que mi propio pensamiento,
+    que halló lugar entre las luces santas.
+    ¡Oh, como espero con igual contento
+    agradecerte este favor, y en tanto,
+    pide un rayo del sol, pídeme el viento,
+    pídeme el lirio, el nardo y el acanto
+    por el deciembre, y por agosto hielos;
+    di que quieres oír del cisne el canto,
+    pide las aves de mas altos vuelos,
+    el pajaro celeste, el fénix solo,
+    y cuanto olor se quema en Delfo y Delo,
+    que no me quedara de polo a polo
+    cosa que yo no busque, si es que vivo,
+    de cuantas baña el mar y mira Apolo,
+    porque la miel en el panal nativo,
+    la blanca leche, el ciervo, el gamo, el oso,
+    el ruiseñor, la garza, el sacre altivo
+    no son para valor tan poderoso,
+    que ésas cualquier amante de ordinario
+    puede ofrecellas sin quedar famoso.
+JACERINO:
+    Mira, señor, que es tiempo necesario
+    éste que gastas en razones tiernas
+    para poner defensas al contrario,
+    que si desta manera te gobiernas,
+    mal nos defenderan de espadas blancas
+    pelosas pieles y desnudas piernas.
+    ¿Piensas, porque los árboles arrancas,
+    que ya has rendido los romanos fieros
+    y que se venden las vitorias francas?
+CURIENO:
+    Bien lo conozco, oh buenos compañeros,
+    mas no penséis que Amor con tiernas glorias
+    al fiero Marte embota los aceros;
+    que de Alejandro cuentan las historias
+    que una arpa en las batallas le tañían,
+    a cuyo son ganaba las vitorias;
+    y ansí esta misma consonancia harían
+    estos tiernos requiebros de Milena
+    para vencer los que vencer porfían.
+    Ella es el arpa que en mi oído suena,
+    mas animosa voz que trompa y caja,
+    que guerra llaman la amorosa pena.
+    Pero tú, montañés, vela y trabaja
+    con parte de la gente en el repecho
+    desa montaña pedragosa y baja.
+    Y tú, Filardo amigo, por lo estrecho
+    de aquese valle guardarás la entrada
+    con otra escuadra de robusto pecho,
+    y quédese Alarico en la emboscada
+    con cuatrocientos montañeses bravos
+    de capellina piel y azcona herrada;
+    y guarde Tanagildo los esclavos,
+    que así pienso a la rueda de fortuna
+    poner no uno, pero muchos clavos.
+FILARDO:
+    Todo, señor, se hara sin falta alguna;
+    descansa en tanto que la bella aurora
+    rompe la noche obscura e importuna.
+CURIENO:
+    Entrad, mi bello sol, entrad, señora.
+MILENA:
+    Esclava vuestra soy.
+CURIENO:
+    Oye, Alarico.
+ALARICO:
+    ¿Qué mandas?
+CURIENO:
+    Parta aquesa gente agora.
+ALARICO:
+    Ya la bandera y voz al viento aplico.
+[Vanse y sale Claudia y Domicio]
+CLAUDIA:
+    Me espanto que tal me digas
+    sabiendo tú mi intención.
+DOMICIO:
+    Y yo que a tanta razón,
+    Claudia hermosa, contradigas.
+    ¿Es mejor Furio, por dicha,
+    que Andronio?
+CLAUDIA:
+    ¿Quién te ha negado
+    que un cónsul vence un soldado?
+DOMICIO:
+    ¿Pues qué es esto?
+CLAUDIA:
+    Mi desdicha.
+DOMICIO:
+    ¿Tu desdicha? Tu ventura
+    pudieras decir mejor,
+    pues hombre de tal valor
+    se ha rendido a tu hermosura.
+CLAUDIA:
+    Yo, Domicio, no soy mía.
+DOMICIO:
+    ¿Pues cúya?
+CLAUDIA:
+    De Furio esclava.
+DOMICIO:
+    Deja esas cosas, acaba.
+CLAUDIA:
+    ¿Pues cual de los dos porfía?
+    Vete y verás si te llamo.
+DOMICIO:
+    Andronio viene.
+CLAUDIA:
+    ¡Ay de mí!
+[Sale Andronio]
+ANDRONIO:
+    Espera o matame aquí,
+    no mas de porque te amo,
+    oh hermosa Claudia, oh leonesa,
+    que diré mejor león,
+    si no es piedra el corazón
+    que tanta crueldad profesa.
+    ¿Esto merece adorarte?
+    ¿Esto merece quererte?
+    ¿Prisión le ofreces y muerte
+    a quien vida quiere darte?
+    ¿Por qué tus hermosas manos
+    hacen nublado a tus ojos,
+    despreciando estos despojos
+    de que son dueños tiranos?
+    çlzalas del rostro bello,
+    que mal las podra mirar
+    quien suele invidioso estar
+    de solo un sutil cabello;
+    que fuera milagro al suelo
+    y grande arrogancia suya
+    que una mano, a no ser tuya,
+    pudiera cubrir el cielo.
+    Mira que harás que me atreva
+    a un sacrificio forzoso.
+CLAUDIA:
+    Cónsul, no el ser poderoso
+    a ser descortés te mueva;
+    iguala el poder al trato,
+    que es a tu nobleza ajeno.
+ANDRONIO:
+    ¿Quién le puede tener bueno,
+    Claudia, con tu pecho ingrato?
+    Dejandote yo de amar,
+    que en esto el respecto estriba,
+    no eres una vil cautiva
+    de un...
+CLAUDIA:
+    ¿De quién?
+DOMICIO:
+    (Déjalo estar,
+    que en esto no te ha ofendido;
+    antes es de suerte honrado
+    que ya te la hubiera dado
+    si se la hubieras pedido.
+ANDRONIO:
+    Pues piénsosela pedir,
+    o piénsosela tomar,
+    no mas de para matar
+    a quien me deja morir.
+    Vive Júpiter, Domicio,
+    que en estando en mi poder...
+DOMICIO:
+    Allí te quiero yo ver
+    mas humilde al sacrificio,
+    que aunque es verdad que el amor
+    castiga cuando se enciende,
+    es padre que al hijo ofende
+    y siente estraño dolor.
+ANDRONIO:
+    Tienes razón; si la viera
+    en mi poder, perlas y oro
+    era un humilde tesoro
+    que a su servicio ofreciera.)
+    Oh, Claudia, ¿por qué desprecias
+    un cónsul por un soldado?
+CLAUDIA:
+    Agora que te has vengado,
+    de ser humilde te precias;
+    pídeme a Furio y castiga
+    cuando venga a tu poder.
+ANDRONIO:
+    ¿Qué a un angel puede ofender?
+    ¡Oh, su cielo me maldiga!
+    Mira que amor es furor
+    que del sentido despoja
+    y que amor que no se enoja
+    no puede llamarse amor.
+    Perdona un atrevimiento,
+    -que, aunque hijo mal nacido,
+    de amor en efecto ha sido-
+    y mi poco sufrimiento.
+DOMICIO:
+    ¿A qué Palas, Juno o Ceres
+    desta suerte te arrodillas?
+ANDRONIO:
+    ¿Pues de qué te maravillas
+    si es diosa de las mujeres?
+DOMICIO:
+    Levanta, que viene gente.
+ANDRONIO:
+    En eso, amigo, recelo,
+    que tengo ofendido al cielo
+    pues mi perdón no consiente.
+[Salen Lelio y Lépido]
+LELIO:
+    (En fin me resuelvo a vella
+    mientras Furio va perdido.
+LÉPIDO:
+    Estremado ardid ha sido
+    para hablalla y gozar della.
+LELIO:
+    Agora sola estará.
+LÉPIDO:
+    El alma traes engañada.
+LELIO:
+    ¿Cómo?
+LÉPIDO:
+    Que está acompañada.
+LELIO:
+    ¿De quién?
+LÉPIDO:
+    De Furio será.
+LELIO:
+    No es posible que haya vuelto.
+LÉPIDO:
+    ¿Sabes quién es?
+LELIO:
+    ¿Quién?
+LÉPIDO:
+    Andronio.
+LELIO:
+    ¿Andronio?
+LÉPIDO:
+    ¿No es testimonio?
+LELIO:
+    Ya me ha visto y voy resuelto...
+LÉPIDO:
+    ¿De qué?
+LELIO:
+    De hablalle.
+LÉPIDO:
+    ¿De hablalle?
+LELIO:
+    De hablalle pues.
+LÉPIDO:
+    ¿De qué modo?
+LELIO:
+    Diciendo que lo sé todo
+    y que ando a buscalle;
+    porque si agora me vuelvo
+    sospechara de mi trato.
+LÉPIDO:
+    Ya te mira con recato.
+LELIO:
+    (En hablalle me resuelvo.)
+DOMICIO:
+    (Digo que es el cónsul.
+ANDRONIO:
+    ¡Calla!
+    El cónsul había de ser...
+DOMICIO:
+    Si quiere aquesta mujer,
+    ¿por qué no vendrá a buscalla?,
+    el ardid que tú pensaste,
+    ¿no le podra pensar él?
+ANDRONIO:
+    ¿Qué he de hacer? ¿Huiréme dél?
+DOMICIO:
+    Ya llega; tarde acordaste.)
+LELIO:
+    ¿Es lícito que un cónsul, dime, Andronio,
+    de dos coronas como tú premiado
+    con hazañas que tienen testimonio
+    en la sangre que a España le ha costado,
+    como otro descreído Marco Antonio
+    de la egipciana bella enamorado,
+    esté, cuando su fama el mundo alaba,
+    adorando los ojos de una esclava?
+    ¿Es bueno que un romano que se ha visto
+    triunfar de los despojos y el estrago
+    del africano y español malquisto,
+    de Numancia, Sagunto y de Cartago,
+    y que hasta las estrellas de Calisto
+    ha dado a los rebeldes justo pago,
+    esté, cuando mayor impresa acaba,
+    adorando los ojos de una esclava?
+    ¿Cómo es aquesto, capitán valiente?
+    ¿Tú eres hijo de Roma, o por ventura
+    vino de Chipre aquesa honrada frente
+    que el laurel de los césares procura?
+    ¿Dejas tu tienda y temerosa gente
+    puesta para perderse en aventura,
+    y estas, cuando con ella te juzgaba,
+    adorando los ojos de una esclava?
+    Ea, cese la guerra, no haya guerra;
+    volvamonos a Roma y pediremos
+    por la vencida y conquistada tierra
+    el roble y el laurel que merecemos.
+    Guarda las armas, la bandera encierra;
+    las ajenas a Marte ofreceremos
+    y así estaras como Cipión estaba
+    adorando los ojos de una esclava.
+ANDRONIO:
+    ¿Has dicho...?
+LELIO:
+    Lo que es razón
+    haberte reprehendido.
+ANDRONIO:
+    ¿De qué Catilina ha sido
+    esta tan larga oración?
+LELIO:
+    Tan rebelado te muestras
+    como si él resucitara.
+ANDRONIO:
+    Paso, Lelio.
+LELIO:
+    ¡Nunca honrara
+    Roma las cabezas nuestras!
+    ¡Nunca en carro levantado
+    con media lanza y laurel
+    fuera la invidia crüel
+    despojo a la rueda atado!
+    ¡Nunca el cargo se nos diera
+    de allanar el rebelión
+    desta espantosa nación,
+    mas que troglodita fiera!
+    Vete, cónsul, por Apolo,
+    que del yerro cometido
+    sólo el verte arrepentido
+    será mi consuelo solo.
+ANDRONIO:
+    Porque sea mi humildad
+    cuchillo de tu impaciencia
+    igualara mi obediencia
+    tu mucha temeridad.
+    No soy yo aquel Marco Antonio
+    que tan lascivo murió,
+    que de quién soy, Lelio, yo
+    es España testimonio.
+    Ni en Capua fui Cipión
+    ni me dio Chipre la frente
+    a quien Roma justamente
+    honra con tanta razón.
+    Soy Andronio, soy quien sabes,
+    con mi espada y mi consejo,
+    un mozo de ingenio viejo
+    que excede los viejos graves.
+    Y cuando cuelgue la espada
+    y doble aquesta bandera,
+    la una se vuelve entera,
+    la otra, en sangre bañada.
+    El ofrecer estandartes
+    a Marte bien puede ser,
+    que tantos puedo ofrecer
+    que sobren a muchos Martes.
+    Esta esclava no me tuvo
+    ni tiene sujeto a mí,
+    que pasando por aquí
+    en platica me detuvo.
+    En fin, pero no haya mas;
+    vamos, Domicio.
+DOMICIO:
+    (¿Qué has hecho?
+ANDRONIO:
+    Lo que ves.
+DOMICIO:
+    Bien satisfecho
+    de agravio tan grande vas.)
+[Vanse y quedan Lelio y Lépido]
+LELIO:
+    ¿Qué te parece, señora,
+    de esta disimulación?
+CLAUDIA:
+    Tengo un poco de pasión
+    y estoy divertida agora.
+    Casi palabra no oí,
+    y así te pido licencia,
+    que estoy mal en tu presencia,
+    tan descompuesta y sin mí.
+LELIO:
+    Eso no, ni el cielo quiera
+    que tú me quieras tan mal,
+    que es paga muy desigual
+    de fe tan pura y sincera.
+    Oblíguete, Claudia mía,
+    -que mejor dijera ajena-,
+    no mi humildad, no mi pena,
+    no quien soy, ni mi porfía,
+    sino ver lo que aventuro
+    con el que de aquí se va
+    el día que se sabra
+    que te adoro y te procuro.
+    ¡Oh, cómo no tiene ley
+    la fortuna, dura, esquiva!,
+    que eres de Furio cautiva
+    mereciendo ser de un rey.
+    De tu hermosura te precia,
+    que en cuanto se ha conquistado
+    cualquier tesoro, ganado,
+    si se iguala, se desprecia.
+    Tantas rendidas naciones
+    y coronadas cabezas,
+    oro, perlas y riquezas,
+    cautivos, armas, pendones,
+    todo lo diera por ti;
+    y es muy facil de creer,
+    si me has visto reprehender
+    al cónsul Andronio aquí,
+    que en lo que yo le infamé
+    mi infamia conocerás.
+CLAUDIA:
+    Por eso me debes más
+    de que desprecie tu fe,
+    porque no dando ocasión
+    para tu infamia y deshonra,
+    mas vuelvo yo por tu honra
+    que tu misma pretensión.
+    Y estoy muy agradecida
+    y tanto mas obligada
+    cuanto mas aventurada
+    veo tu opinión perdida.
+    Pero si en amor es noble
+    un resuelto desengaño
+    cuanto traidor un engaño,
+    aunque es su dolor al doble,
+    yo te desengaño aquí:
+    que pene, que muera o viva,
+    que soy de Furio cautiva
+    y para Furio nací.
+    Ansí que no puedo dar
+    lo que ya agora no es mío.
+LELIO:
+    ¿Pues, quién, tu libre albedrío,
+    Claudia, te puede quitar?
+    Dueño de tu cuerpo es,
+    mas de tu alma... eso no,
+    porque ésa Dios te la dio,
+    en que siempre libre estés.
+CLAUDIA:
+    Ya todo se lo entregó
+    la libertad que perdí,
+    porque yo el alma le di
+    si él el cuerpo me ganó.
+    Ganóme el cuerpo en despojos
+    y el alma en tratos humanos;
+    el cuerpo con fuertes manos
+    y el alma con tiernos ojos.
+    Dos vitorias fue ganando
+    y casi a un tiempo venciendo.
+LELIO:
+    Si en razón lo vas poniendo
+    juntas se las voy quitando,
+    que todo lo que es vitoria
+    se atribuye al capitán
+    y ansí verás que le dan
+    del vencimiento la gloria,
+    de suerte que tú eres mía
+    aunque Furio te ganó,
+    pues si tierno te miró
+    menos vencerme podría,
+    que soy cordero, y tú fiera,
+    hija de pecho español,
+    nieve cuando fueres sol
+    y cuando fuego, de cera.
+    Mira que puedo, si quiero,
+    quitarte a Furio.
+CLAUDIA:
+    Podrás,
+    pero el alma, que es lo mas,
+    será de Furio.
+LELIO:
+    ¿Qué espero?
+    ¡Vive el cielo!
+CLAUDIA:
+    Y vivirá,
+    que de Furio quiero ser.
+LELIO:
+    ¿Eres de piedra o mujer?
+CLAUDIA:
+    Mujer que rebelde está.
+LÉPIDO:
+    Pídela a Furio, señor,
+    y hazla fuerza.
+CLAUDIA:
+    ¿Fuerza? Bueno
+    vive amor en pecho ajeno,
+    y ansí no la tiene amor.
+LELIO:
+    ¿Que no hay remedio?
+CLAUDIA:
+    Imposible.
+LÉPIDO:
+    ¿Eres tigre?
+CLAUDIA:
+    Soy un canto.
+LELIO:
+    ¿Tanto me aborreces?
+CLAUDIA:
+    Tanto.
+LELIO:
+    ¡Brava mujer!
+LÉPIDO:
+    Insufrible.
+LELIO:
+    Y dicen que son mudables...
+LÉPIDO:
+    ¡No hay hombre que las entienda!
+LELIO:
+    Dame siquiera una prenda,
+    y nunca me veas ni hables.
+CLAUDIA:
+    ¿Qué prenda?
+LELIO:
+    Dame un cabello
+    que mi esperanza sustente.
+CLAUDIA:
+    ¿Y si me duele la frente?
+LELIO:
+    Rómpele un rayo al sol bello.
+LÉPIDO:
+    (¡Qué brava delicadeza!
+    ¡Qué recios deben de ser,
+    pues bien se suelen caer
+    sin sentillos la cabeza!)
+CLAUDIA:
+    Ahora bien quiero agradarte.
+LELIO:
+    Hagate dichosa el cielo;
+[Salen Andronio y Domicio]
+    yo quiero humillarme al suelo
+    y tomalle y adorarte.
+ANDRONIO:
+    (Entra quedo.
+DOMICIO:
+    ¿Y a qué efeto?
+ANDRONIO:
+    Llega, que es buena ocasión.)
+LÉPIDO:
+    (Gran acto de devoción,
+    ¿tal hace un hombre discreto?)
+CLAUDIA:
+    Ya, Lelio, saqué el cabello.
+    Toma.
+LELIO:
+    Muestra.
+CLAUDIA:
+    ¡Ay, Dios, la frente!
+LÉPIDO:
+    ¿Duélete?
+LELIO:
+    ¡Oh, rayo ardiente
+    de aquel sol divino y bello!
+    Estoy por quemar el mundo
+    como otro nuevo Faetón.
+DOMICIO:
+    (¿Qué aguardas? ¿Otra ocasión?
+ANDRONIO:
+    ¡Qué brava venganza fundo!)
+    ¿Es lícito que un cónsul, dime, Lelio,
+    en Roma cinco veces laureado,
+    que en los consejos vence a Marco Aurelio
+    y a Trajano en vitorias que ha ganado,
+    que desde el Capitolio al monte delio
+    su famosa nación ha propagado,
+    esté, cuando pensé que peleaba,
+    adorando los ojos de una esclava?
+    ¿Eres tú aquél que tiene mas despojos
+    que en la de Canas se perdieron, y eres
+    aquél que infames llamas nuestros ojos
+    cautivos por bellísimas mujeres?
+    Si así te ofenden y te dan enojos,
+    ¿cómo tan presto por sus ojos mueres
+    y estas donde afrentabas quien la amaba,
+    adorando los ojos de una esclava?
+    No es posible que Roma te ha crïado,
+    sino la tierra del lascivo Egipto,
+    pues la esperanza quitas al Senado,
+    que a costa de mi sangre solicito.
+    El ejército dejas alterado
+    cuando el temor del montañés le quito
+    y quédaste -que a voces te llamaba-
+    adorando los ojos de una esclava.
+    Ea, cese la guerra, cuelga al templo
+    de Marte las banderas conquistadas,
+    que ya la espada y el arnés contemplo
+    entre las armas a la paz sagradas.
+    Sigue de Numa el religioso ejemplo
+    y en cuadras de tapices adornadas
+    podrás estar, como Scipión estaba,
+    adorando los ojos de una esclava.
+LELIO:
+    ¿Has dicho?
+ANDRONIO:
+    Lo que es razón
+    reprehenderte.
+LELIO:
+    A tiempo vienes.
+    ¿Por Catilina me tienes
+    que imitas a Cicerón?
+ANDRONIO:
+    ¡Oh, nunca el carro y laurel
+    Roma nos hubiera dado...
+LELIO:
+    Paso, Andronio.
+ANDRONIO:
+    ...ni pisado
+    el cuello a la envidia cruel!
+LELIO:
+    (¡Brava vergüenza me alcanza!
+LÉPIDO:
+    Por eso permite Dios
+    que venga quien de los dos
+    tome mas justa venganza.)
+[Salen Furio y Fabricio]
+LELIO:
+    (Furio viene, ¿qué haremos?
+ANDRONIO:
+    Esto agora nos faltaba.)
+FURIO:
+    (Bien, Fabricio, imaginaba
+    lo que ya presente vemos;
+    no sin causa me volví
+    sin cumplir mi obligación.
+FABRICIO:
+    Basta, los cónsules son;
+    con vellos no lo creí.
+FURIO:
+    ¿Hablaré?
+FABRICIO:
+    Como quisieres;
+    mi vida te ofrezco, habla.)
+FURIO:
+    ¡Qué bien la guerra se entabla
+    con tres cónsules mujeres!
+    No es malo el hacer consejo
+    en mi tienda con mi esclava:
+    ansí Cipión andaba,
+    mas valiente y menos viejo;
+    lo mismo César hacía,
+    en mi tienda con mi esclava,
+    que el día que peleaba
+    toda la noche escribía;
+    esto hacía de ordinario,
+    en mi tienda con mi esclava,
+    Alejandro cuando estaba
+    entre las hijas de Dario.
+    ¡Oh, cónsules! ¿A qué efeto
+    me enviáis con tal engaño,
+    haciendo a mi honra daño,
+    ponéis mi vida en aprieto,
+    pudiéndome aquí matar?
+    Yo os agradezco el castigo,
+    que en matarme el enemigo
+    mas honra puedo ganar.
+    Por cierto, buen galardón
+    me dais por tantas heridas
+    en la impresa recibidas
+    de este invencible León;
+    que aún aquí las podréis ver
+    por testigos de algún hecho,
+    mas quiero cubrir mi pecho,
+    que hay aquí alguna mujer.
+    ¿Por ventura yo he pedido
+    riquezas que habéis ganado,
+    habiendo yo peleado
+    mientras otros han dormido?
+    ¿Tengo una espuela, una hebilla
+    de todo vuestro poder?
+    Pues ¿qué os hace esta mujer
+    que así queréis repartilla?
+    ¿Es mucho, pues la gané,
+    que la goce solo aquí,
+    por la sangre que vertí
+    y no poca que saqué?
+    Ahora bien, vayan las leyes
+    adonde los reyes manden,
+    que como los tiempos anden
+    también andarán los reyes.
+    Yo vuelvo a mi obligación,
+    no por vosotros, por Roma,
+    que yo sé que a cargo toma
+    mi venganza y galardón.
+    Las nuevas que me mandastes
+    del enemigo trairé
+    porque veáis que os honré
+    mientras mi honor me quitastes.
+    Que si la fuerza atropella
+    la verdad mas declarada
+    muy honrada es esta espada
+    y ninguna mejor que ella.
+[Vase Furio empuñando la espada]
+LELIO:
+    No te vayas tú, Fabricio,
+    deja ese loco.
+FABRICIO:
+    ¿Éste es loco?
+ANDRONIO:
+    ¿Parécete que lo es poco
+    o que ha dado poco indicio
+    habiendo los dos venido
+    a buscarle y a saber
+    del enemigo el poder
+    y el sitio fortalecido?
+    Ahora bien toma esa esclava
+    y a su tienda se la lleva.
+LELIO:
+    (¿No es ésta locura nueva?)
+    ¡Camina tú, perra, acaba!
+FABRICIO:
+    Vamos, Claudia.
+CLAUDIA:
+    (Mucho tengo
+    que contarte.
+FABRICIO:
+    Aqueso aguardo.)
+[Vanse Fabricio y Claudia]
+LELIO:
+    ¿No es el suceso gallardo?
+ANDRONIO:
+    Muera yo si no me vengo.
+LELIO:
+    Vamos, que ya ha amanecido,
+    a dar orden en la gente.
+ANDRONIO:
+    ¿Cómo la dará quien siente
+    tan poca en alma y sentido?
+[Vanse y sale Curieno, Filardo, Tanagildo y Jacerino]
+CURIENO:
+    ¿Paréceos que he madrugado
+    conforme el cuidado mío?
+FILARDO:
+    Bien es grande tu cuidado,
+    que apenas cubre el rocío
+    las hierbas de aqueste prado
+    y es hacer agravio agora
+    a Milena.
+CURIENO:
+    Antes un hora
+    no me deja descuidar,
+    porque ha dado en imitar
+    la condición del aurora.
+    ¿Cómo a todos os ha ido?
+JACERINO:
+    No he tenido en mi montaña
+    solo un pequeño ruïdo.
+FILARDO:
+    Yo por toda la campaña
+    apenas eco he sentido.
+TANAGILDO:
+    Yo tuve alguna ocasión
+    de imaginar rebelión
+    de los esclavos romanos,
+    pero até los pies y manos
+    y añadí guarda y prisión.
+CURIENO:
+    ¿Cómo Alarico no viene?
+FILARDO:
+    Con causa debe de ser,
+    pues su gente se detiene,
+    y de ver el sol nacer
+    en el campo nos conviene.
+TANAGILDO:
+    No sea que la emboscada
+    haya sido mal formada.
+JACERINO:
+    Su prisión temo.
+CURIENO:
+    No es bueno,
+    que no cabe en Curieno
+    temor ni pena de nada.
+    Ni temo que se ha perdido
+    ni cuando se pierda importa.
+    Solo, desnudo o vestido,
+    si este brazo un árbol corta,
+    voy guardado y defendido.
+    Por ser amigo me pesa,
+    y si su persona presa
+    o muerta, por dicha, esta
+    Roma me lo pagará
+    pese al mar que se atraviesa.
+    Que yo solo basto a ir
+    y su inmortal Capitolio
+    arruinar y destruïr,
+    y hacerlos todos huïr
+    como el aspid del trifolio.
+    Yo haré su erario y teatro,
+    sus baños y anfiteatro,
+    que piensen que Atila asoma,
+    ¿Y qué es Italia ni Roma
+    ni el mundo o sus partes cuatro?
+    ¿No soy aquel montañés
+    que apenas con un descalzo
+    a un cónsul le ve los pies?
+    Pues ¿qué mucho si me ensalzo
+    donde me he de ver después?
+    Mas mirad, ¿qué gente es ésa
+    que por el monte atraviesa?
+JACERINO:
+    Éste es sin duda Alarico,
+    que viene glorioso y rico
+    de alguna vitoria o presa.
+[Sale Alarico y trae preso a Furio]
+ALARICO:
+    ¡Dame tus pies, oh capitán valiente,
+    reliquia fuerte del valor de España!
+    Y en prendas del cuidado que me debes
+    recibe este romano valeroso,
+    que solo, como ves, entre unos árboles
+    hallado fue de mi escuadrón y preso,
+    aunque primero me costó dos vidas.
+    Porque tan gran valor no es fuerza de hombre
+    sino de alguna furia del infierno.
+CURIENO:
+    Tú seas, Alarico, bien venido,
+    que a tus amigos has costado pena.
+    ¿Quién eres, di, romano?
+FURIO:
+    Soy un hombre.
+CURIENO:
+    ¿No más de un hombre?
+FURIO:
+    Un hombre desdichado.
+CURIENO:
+    ¿Esto llamas desdicha? No eres hombre.
+FURIO:
+    No es mi prisión agora mi desdicha.
+CURIENO:
+    Presencia tienes de hombre noble y fuerte,
+    ¿cómo te afliges tanto?
+FURIO:
+    Tengo causa
+    fuera de la que ves para afligirme.
+    Pero pues ya me han dicho tus crueldades,
+    quiérome consolar y suplicarte
+    que me quites la vida luego, luego.
+CURIENO:
+    ¿Por qué deseas morir?
+FURIO:
+    Porque la muerte
+    es término de todas las desdichas.
+CURIENO:
+    ¡Por los dioses, que estoy aficionado
+    de tu presencia y valeroso aspecto,
+    que me pareces arriscado y bravo!,
+    y así, juro por ellos de librarte,
+    digo librarte, que te vuelvas libre
+    si desa tu desdicha me das parte.
+FURIO:
+    Agradecido a la afición que muestras,
+    gran capitán, a mi fortuna, digo
+    que quiero de mi gusto obedecerte.
+CURIENO:
+    Pues ya te escucho.
+FURIO:
+    Escucha.
+CURIENO:
+    Empieza.
+FURIO:
+    Advierte:
+    De un escultor que vencía
+    los marmoles de Lisipo
+    hijo soy, Curieno fuerte,
+    y dentro en Roma nacido;
+    fui desde mis tiernos años
+    -fuerzas de estrellas y signos-
+    tan aficionado a Marte
+    como otros son a Cupido.
+    Llamóme Furio mi padre,
+    que así mi agüelo se dijo,
+    porque a las obras el nombre
+    se les parece infinito.
+    Apenas tuve quince años
+    cuando entre el Duero y el Miño
+    a un capitán portugués
+    di la muerte en desafío.
+    Pasé con Andronio a España
+    en este tiempo que digo,
+    haciendo cosas notables
+    desde quince a veinte y cinco.
+    Venimos sobre León,
+    cuyo cerco nos ha sido
+    mortandad y pestilencia,
+    y a mí, rabia y basilisco;
+    en fin a su resistencia
+    nuestras armas han vencido;
+    bien es verdad que a gran costa
+    de sangre y vidas vencimos.
+    Saqueóse la ciudad;
+    la codicia y apetito
+    hallaron riquezas y oro,
+    perlas y rostros divinos.
+    Hizo Lelio gran estrago,
+    porque pasaba a cuchillo
+    muchos de aquestos leones
+    que a voces llaman a Cristo.
+    Yo, divertido, una tarde,
+    no avariento ni lascivo,
+    hallé una dama que daba
+    oro al viento, al cielo gritos.
+    Llevabanla unos soldados;
+    y yo, a lástima movido,
+    de las perlas que vertía
+    de los soles ofendidos,
+    metiendo mano al espada
+    la saqué de aquel peligro,
+    y, dándola libertad,
+    la perdí con el sentido;
+    al ejército la truje
+    y después que en estos riscos
+    se publicaron tus hechos
+    y a conquistarte venimos,
+    los dos cónsules, Curieno,
+    que no sé cómo la han visto,
+    la siguen y me persiguen,
+    de mi cautiva cautivos;
+    y de suerte que esta noche,
+    de un consejo y de un aviso,
+    a lo que ves me envïaron
+    por la muerte que te pido;
+    dejé el alma entre sus manos
+    y aunque entre esta muerte vivo,
+    me duele, porque la cuesto
+    mil lágrimas y suspiros.
+    Ésta, fuerte montañés,
+    mi triste tragedia ha sido,
+    bien que honrado el fin, si corta
+    mi cuello tu acero limpio.
+CURIENO:
+    Eso no, por los dioses inmortales,
+    sino mis brazos ceñirán tu cuello;
+    y créeme que siento de manera
+    esa desdicha tuya, que los cónsules
+    no han hecho para mí tan grande injuria.
+    Quisiera holgarme, por el sol, contigo,
+    mas sé lo que es amor y larga ausencia;
+    vuélvete luego a tu romano ejército
+    y alguna vez despacio nos veremos,
+    y en prendas de que soy tu grande amigo
+    toma este anillo que quité a un romano
+    y otra vez estos brazos, que le lleves
+    a la cautiva que te tiene el alma.
+FURIO:
+    ¡Oh, gran Curieno, honor, corona y gloria
+    de la oprimida España! Déte el cielo
+    en tus cosas tan próspero suceso
+    que volvamos vencidos y sin honra
+    a las riberas del famoso Océano,
+    y triunfes en León de nuestra infamia
+    y no sólo en León, pero en Toledo.
+CURIENO:
+    Todo lo puede hacer aquellas luces
+    y cuando se descuiden estos brazos;
+    vamos, que por gozarte iré contigo
+    hasta la falda destos montes asperos.
+FURIO:
+    Vivas mil años sin peligro y pena.
+CURIENO:
+    Mejor dijeras "Goces de Milena".
+
+JORNADA 2
+
+[Salen Curieno y Jacerino]
+CURIENO:
+    ¡En eso entiende el romano,
+    ansí estima al enemigo!
+JACERINO:
+    De sus fiestas soy testigo,
+    todos se han bajado al llano,
+    doblados los estandartes
+    y las armas arrojadas;
+    de multitud de enramadas
+    se cubren por varias partes;
+    dicen que es aquéste el día
+    en que su César nació.
+CURIENO:
+    Alguno vendrá que yo
+    celebre la fiesta mía;
+    si gente hubiera llegado
+    de la que espero, éste fuera
+    el día que acometiera
+    ese campo afeminado.
+JACERINO:
+    Con eso se han detenido
+    de hacer al río las puentes.
+CURIENO:
+    En sangre baño los dientes,
+    de furia y rabia movido,
+    ¡que hagan aquéstos fiestas
+    por César ni por Apolo,
+    aunque yo estuviera solo,
+    sin mas que estas manos, éstas!
+    ¡Vive el sol que estoy furioso
+    y que si a su campo voy
+    que solo, así como estoy,
+    emprenda un hecho famoso!
+    Soy Curieno, y de mí ajeno;
+    no soy sino un rayo airado,
+    ¡Hércules, soy enojado!
+    Y estando en mí, soy Curieno,
+    que bien solo bastaría
+    con este tronco en la mano
+    hacer que llore el romano
+    de César el natal día.
+    ¡Pese a César y aun a Roma!
+    A mis ojos hacen fiestas...
+    Cuando tomo armas como éstas
+    ramos de laureles toma.
+    ¿Esto sufro, esto consiento?
+    O Milena me afemina
+    o no es mi fuerza divina,
+    mayor que mi pensamiento.
+    Mas dime de qué manera
+    aquesas fiestas celebran.
+JACERINO:
+    Juegan armas, lanzas quiebran,
+    hay lucha, esgrima y carrera;
+    y tienen para el que gana
+    ricos premios.
+CURIENO:
+    ¿Premios tienen?
+    ¿Y dónde yo estoy convienen
+    premios para fuerza humana?
+    Jacerino, vive Apolo
+    que me quiero disfrazar
+    y que esta tarde he de andar
+    en aquestas fiestas solo;
+    que a saltar, luchar, correr
+    y otras fuerzas voy seguro,
+    que haré pedazos un muro,
+    ¿quién me ha de poder vencer?
+    Que estos premios es afrenta
+    que Milena no los goce,
+    que mal la mujer conoce
+    quien por monstruo no la cuenta.
+    Que apetece lo imposible,
+    y para casos tan varios
+    quieren hombres temerarios,
+    de pecho y brazo invencible.
+    Que como no estan seguras
+    del hombre, si quiere bien,
+    estiman mucho que den
+    en temerarias locuras.
+    Esto ciega mis sentidos
+    ya yo estoy determinado:
+    corre, desnuda un soldado,
+    vestiréme sus vestidos,
+    que así en traje de romano
+    a sus fiestas ir podré
+    y a Milena le trairé
+    mil premios con esta mano.
+JACERINO:
+    ¿Tú ves a lo que te pones?
+    ¿Hablas acaso de verás?
+CURIENO:
+    Cuando no me conocieras
+    dijeras esas razones.
+    Ve luego.
+JACERINO:
+    Mira que estamos
+    todos fïados en ti,
+    y que en conocerte allí
+    ya sin remedio quedamos.
+    Mira a lo que te aventuras,
+    que el discreto capitán
+    no se arroja cuando estan
+    sus cosas tan mal seguras;
+    cuanto mas que ¿de qué efeto
+    te sirve aquesta jornada?
+CURIENO:
+    No me repliques en nada.
+JACERINO:
+    ¡Oh fuerte, mas no discreto!
+    ¿Cómo, dime, quedarán
+    nuestros hijos y mujeres?
+    Si por dicha te perdieres,
+    ¿quién haremos capitán?
+    ¿Qué será destas montañas
+    y de aquesta pobre gente,
+    faltando quien las sustente
+    con tan heroicas hazañas?
+    Vete, Curieno, y lloremos
+    las quejas que al cielo doy,
+    que si te perdieres hoy
+    mañana esclavos seremos.
+CURIENO:
+    No hables mas.
+JACERINO:
+    ¿Hiciera un loco
+    semejante disparate?
+CURIENO:
+    ¡Por Júpiter, que te mate!
+    Espera, villano, un poco.
+[Vanse y tocan las chirimías y sale gente con las varas y insignias de Roma, que son aquellas manos y aguilas, y salen los cónsules detras y siéntanse, y salen luego Quintilio y Mucio, poetas]
+QUINTILIO:
+    Hoy que de César es el natal día
+    y celebráis, oh cónsules, su fiesta,
+    nuevas alas cobra la musa mía
+    a su alabanza a vuestro honor dispuesta.
+    Quintilio soy, que celebrar solía
+    las hazañas romanas, y pues ésta
+    para el ingenio lo es de tanta fama,
+    al premio he de poner esta epigrama.
+LELIO:
+    Ya, Quintilio, tenemos conocido
+    y toda Roma, vuestro ingenio raro,
+    y ansí os ofrezco el premio merecido,
+    de tan alta opinión suceso claro.
+[Sale Mucio a lo gracioso y capigorrón]
+MUCIO:
+    Aca en las malvas nos habran parido
+    si el cielo fue con nuestro ingenio avaro.
+ANDRONIO:
+    ¿Quién se queja?
+SOLDADO:
+    Un poeta
+LELIO:
+    ¿Quién es?
+SOLDADO:
+    Mucio.
+ANDRONIO:
+    ¿Poeta sois?
+MUCIO:
+    Soy único.
+LELIO:
+    (¡Y qué sucio!)
+ANDRONIO:
+    ¿Y queréis oponeros?
+MUCIO:
+    A eso vengo.
+LELIO:
+    Recitad vuestros versos.
+MUCIO:
+    No lo mandes.
+ANDRONIO:
+    No os escuséis.
+MUCIO:
+    A gran favor lo tengo.
+    Famoso soy desde la India a Flandes.
+LELIO:
+    ¿Qué os detenéis?
+MUCIO:
+    Un poco me detengo
+    en remediar los pies, que vienen grandes.
+    Pero escuchad, y vuestro aplauso imploro,
+    oiréis una epigrama como un toro:
+    "Sabio César, relincho de los dioses,
+    que al cielo aquel tu agüelo se ha subido,
+    donde en estrella macho convertido
+    ni campos aras, ni ropillas coses.
+    Tú, que teniendo muermo, nunca toses
+    y hoy fuiste de tu madre a luz salido
+    por donde entró la fuente del olvido
+    en cuyas aguas los inviernos poses.
+    César, que nunca cesa ni ha cesado,
+    cesado de cesar que nunca cesa,
+    grande como un camello corcovado,
+    de verte ya nacido no me pesa,
+    pues hoy un cisne al Tíber has llevado
+    que solía beber en una artesa."
+ANDRONIO:
+    Bravo poeta.
+LELIO:
+    Raro.
+QUINTILIO:
+    Nunca visto.
+    Digna es de cualquier premio su epigrama.
+MUCIO:
+    Bien merezco la fama que conquisto.
+QUINTILIO:
+    Y del verde laurel, el tronco y rama.
+[Sale un soldado]
+SOLDADO:
+    Licencia piden Rémulo y Leogisto,
+    los gladiadores de mas nombre y fama
+    para entrar a la fiesta en desafío.
+ANDRONIO:
+    Entren.
+LEOGISTO:
+    Vencerte, Rémulo, confío.
+[Salen Rémulo y Leogisto desnudos, con sus calzones de lienzo y sus calzadillos de plata y sus espadas]
+RÉMULO:
+    Desecha la arrogante confïanza
+    con que del cielo mi esperanza bajas.
+LEOGISTO:
+    Presto verás si es justa mi esperanza.
+LELIO:
+    ¿Qué aguardan?
+SOLDADO:
+    La señal.
+ANDRONIO:
+    Toquen las cajas.
+[Tocan las cajas y esgrimen, y mata Leogisto a Rémulo]
+RÉMULO:
+    ¡Qué triste premio mi esperanza alcanza!
+    Paso, paso, que ya en vano trabajas.
+SOLDADO:
+    Rémulo es muerto.
+ANDRONIO:
+    Saquenle allá fuera.
+(Dentro):
+    ¡Vítor Leogisto!
+LEOGISTO:
+    Dadme el premio.
+ANDRONIO:
+    Espera.
+[Salen Emilio, Sergio y Otavio, bien puestos de luchadores, y Fabricio y Furio con unas lanzas]
+SOLDADO:
+    Los luchadores, senado,
+    vienen ya.
+ANDRONIO:
+    Pues, ¿a qué esperan?
+EMILIO:
+    Ya las manos se me alteran
+    de haber al puesto llegado.
+ANDRONIO:
+    (Furio ha venido con lanzas:
+    bravo se quiere mostrar.
+LELIO:
+    Si nos quiere amenazar
+    vanas son sus esperanzas.)
+[Sale Curieno como los demas luchadores, a lo romano]
+CURIENO:
+    (A qué buen tiempo he llegado,
+    grande ventura he tenido,
+    pues que sin ser conocido
+    me han visto, hablado y dejado.
+    ¡Oh, qué despojos, Milena,
+    te llevo desta vitoria!,
+    aunque entristece mi gloria
+    el verte quedar con pena,
+    que en efeto la tendras
+    cuando sepas lo que intento,
+    aunque mas será el contento
+    cuanto el temor fuere mas.)
+    ¿Hay de vosotros alguno,
+    soldado honrado y amigo,
+    que quiera luchar conmigo
+    y dos si venciere al uno?
+    Ea, ¿quién quiere emprenderme?
+EMILIO:
+    Aquí estoy yo.
+CURIENO:
+    Pues, ¿qué aguardas?
+    ¿Quiza en verme te acobardas?
+EMILIO:
+    ¡Pero tú tiemblas en verme...!
+[Vanse y cae Emilio]
+    ¡Ay!  ¿Qué es aquesto, cielo?
+CURIENO:
+    ¡Gentil fuerza, por mi fe!
+    Aun apenas te toqué,
+    ¿y ya te arrimas al suelo?
+FURIO:
+    ¡Brava fuerza de soldado!
+CURIENO:
+    (De nadie soy conocido.)
+SERGIO:
+    Puesto que a Emilio has vencido
+    a Sergio no le has probado.
+    Llega a ver.
+CURIENO:
+    (Gentil razón...
+    Yo sé que no lo dijeras
+    si revestido me vieras
+    el desollado león:
+    traigo quitada la piel
+    y así aquéstos se me atreven.)
+SERGIO:
+    ¿Qué aguardas?
+CURIENO:
+    A que me prueben
+    tus brazos.
+SERGIO:
+    ¡Fuerza crüel!
+[Cae Sergio]
+ANDRONIO:
+    ¡Estraño esfuerzo!
+LELIO:
+    ¡Estremado!
+CURIENO:
+    ¿Ansí te dejas caer?
+OTAVIO:
+    Aún te falta por vencer
+    a Otavio, fuerte soldado.
+CURIENO:
+    Pues llega, que, por el sol,
+    de hacerte [he] luego pedazos.
+    Mal conoces tú los brazos
+    de un montañés español.
+OTAVIO:
+    ¿Cómo español montañés?
+CURIENO:
+    Digo que romano soy.
+    Tal dije y desnudo estoy.
+ANDRONIO:
+    Esperaos, ¿quién dice que es?
+[Levantanse los cónsules]
+OTAVIO:
+    Basta, que español es éste.
+LELIO:
+    Si lo es, él es espía.
+CURIENO:
+    (El defenderme sería
+    hacer que al doble me cueste.)
+    Montañés soy, que he venido
+    por ser en fuerza estremado
+    -no espía, porque soldado
+    después que nací lo he sido-
+    a estas fiestas a probarme
+    y a ganar alguna cosa:
+    ésta es la verdad forzosa.
+    Mandad prenderme o matarme.
+ANDRONIO:
+    ¡Estraña presencia!
+LELIO:
+    ¡Estraña!
+ANDRONIO:
+    Éste sin duda es espía.
+CURIENO:
+    Engañaisos, a fe mía:
+    de ahí soy, de aquesa montaña,
+    sino que como ya os cuento,
+    el ser valiente y robusto
+    me puso a la impresa gusto
+    y el peligro, atrevimiento.
+    Soy un villano pastor
+    que guardo cierto ganado
+    por ese monte alojado
+    de que me llamo señor.
+    Bueno quedará sin mí...
+ANDRONIO:
+    Acertada es su prisión
+    hasta saber la ocasión
+    para que ha venido aquí.
+CURIENO:
+    Aquí el ganado se acaba,
+    pero desta mala impresa
+    de la cordera me pesa,
+    que lo demas no importaba.
+    ¿Queréisme hacer un placer?
+LELIO:
+    ¿Cuál es?
+CURIENO:
+    Mandadme matar.
+LELIO:
+    ¿Para qué?
+CURIENO:
+    Para acabar
+    de estar en vuestro poder.
+ANDRONIO:
+    Aquí hay misterio. ¡Prendelde,
+    atalde luego las manos!
+CURIENO:
+    ¡Qué piadosos sois, romanos,
+    que no me matáis!
+ANDRONIO:
+    ¡Tenelde!
+SOLDADO:
+    Ya, cónsules invictos, os aguardan
+    para ver los leones, tigres y osos
+    que en el anfiteatro han de correrse.
+    Envióme Mario a que partáis al punto,
+    que ya tienen allí los condenados.
+LELIO:
+    Bueno será que vamos, señor cónsul,
+    y que aqueste español quede entretanto
+    en guarda de algún hombre de buen crédito,
+    que el tormento le hara después que diga
+    quién es, cómo se llama y a qué vino.
+ANDRONIO:
+    Paréceme que nadie como Furio
+    puede llevarle, que es soldado honrado,
+    de quien se puede hacer tal confïanza.
+LELIO:
+    Désele a Furio luego, pues es justo.
+FURIO:
+    Bésoos los pies por un favor tan grande.
+    Ea, villano, ved que sois mi preso.
+ANDRONIO:
+    Vamos, Lelio, a la fiesta.
+LELIO:
+    Andronio, vamos.
+ANDRONIO:
+    ¿Queréis soldados?
+FURIO:
+    No, los dos bastamos.
+[Vanse todos y quedan Furio, Fabricio y Curieno]
+    ¿Conócesme, gran Curieno?
+CURIENO:
+    ¿Quién eres tú, que me nombras,
+    en traje y nación ajeno?
+FURIO:
+    ¿Qué te espantas?, ¿qué te asombras?
+CURIENO:
+    El hacer bien siempre es bueno.
+    Dame, Furio, aquesos brazos,
+    que otra vez han sido lazos
+    de este cuello que ya doma
+    la gran soberbia de Roma
+    que ha hecho un león pedazos.
+    Tu esclavo soy y tu preso;
+    sólo a ti, por Marte santo,
+    aquesta humildad confieso,
+    que a nadie dijera tanto
+    mientras no perdiera el seso.
+FURIO:
+    Yo soy tu esclavo, y lo he sido,
+    y estoy tan agradecido
+    al mucho bien que me has hecho
+    que no ha de quedar mi pecho
+    de tus grandezas vencido.
+    Éste es Curieno, Fabricio,
+FABRICIO:
+    ¿Aquel bravo montañés?
+    Bien da su persona indicio
+    que otro nuevo Alcides es
+    y que imita su ejercicio.
+    Huélgome de habelle visto.
+FURIO:
+    Éste es por quien yo resisto
+    de Andronio y Lelio el furor,
+    él fue mi vida y honor.
+CURIENO:
+    Hoy mi remedio conquisto,
+    cierta es ya mi libertad.
+FURIO:
+    Basta, que el cielo ha querido
+    que nuestra santa amistad
+    haya este lazo tenido
+    de eterna conformidad.
+    Tú, que libertad me has dado,
+    volverás, Curieno amado,
+    libre a tu gente afligida,
+    aunque me cueste la vida
+    hacer traición al senado,
+    que si a él lealtad le debo,
+    a ti amistad, que te pago,
+    y justamente me muevo,
+    pues en efeto me atrevo
+    a quien menos daño hago.
+    Verdad es que a los romanos
+    hoy les quito de las manos
+    sin sangre una gran vitoria,
+    pero dejo mi memoria
+    entre ingratos y tiranos;
+    y así te doy libertad
+    como tú a mí me la diste;
+    mas dime cómo veniste
+    con tanta temeridad,
+    ¿qué intento o causa tuviste?
+CURIENO:
+    No mas, Furio generoso,
+    de agradar aquel hermoso
+    sujeto que el alma adora
+    con estos premios que agora
+    daba el romano famoso.
+    Pensé ganar honra y fama
+    por ésta y por mil edades,
+    que bien sabes que el que ama
+    con solas dificultades
+    quiere agradar a su dama.
+    Vine sin ser conocido,
+    ni lo fuera, a no haber sido
+    por mi boca confesado.
+FURIO:
+    ¡Qué poco hubieras ganado
+    y cuanto hubieras perdido!
+    Perdóname sólo aquesto:
+    que de bárbaro tuviste
+    este loco presupuesto.
+CURIENO:
+    Ah, Furio, engañaste en esto:
+    nadie al cielo se resiste;
+    y mira cómo es verdad
+    ser poca temeridad
+    de mi fortuna fïarme,
+    pues a ti me trujo, a darme
+    en la muerte libertad.
+    Desde que emprendí este hecho
+    sabía que no podía
+    vencer fortuna a mi pecho,
+    bien que temí que sabría
+    reducirme a un paso estrecho.
+FURIO:
+    Sea como tú quisieres,
+    que en fin eres hombre, y eres
+    sujeto a sucesos varios.
+CURIENO:
+    Siempre los mas temerarios
+    se intentan por las mujeres:
+    acuérdate de Jasón
+    y el encantado dragón,
+    y de Perseo te acuerda,
+    y de que Troya se pierda,
+    que buenos ejemplos son.
+    Pero no lo disputemos,
+    sino dime qué he de hacer.
+FURIO:
+    Curieno, que no aguardemos
+    a que vuelvas a poner
+    tu vida en tantos estremos.
+    Vete, y yo diré al senado
+    que como fuerte soldado
+    las manos te desasiste
+    y que la prisión rompiste.
+CURIENO:
+    ¡Oh, mi Furio, oh, Furio amado!
+    Vesme aquí, echado a tus pies.
+FURIO:
+    Alza, hidalgo montañés,
+    que esto y mas Furio te debe.
+FABRICIO:
+    ¡A lo que Furio se atreve!
+FURIO:
+    Tú lo oiras decir después,
+    que aún es mas temeridad
+    que la que has hecho en venir.
+CURIENO:
+    Yo aceto aquesta amistad
+    para que pueda decir
+    que me dio a mí libertad.
+[Vase Curieno]
+FABRICIO:
+    Muy gentil locura has hecho,
+    pero estabas obligado.
+FURIO:
+    Si aquéste ha tenido pecho
+    para venir disfrazado
+    a una hazaña sin provecho,
+    ¿ha de faltalle un romano,
+    que él libró, para libralle?
+FABRICIO:
+    ¡Qué bárbaro tan villano!
+FURIO:
+    ¡Qué brava presencia y talle!
+FABRICIO:
+    ¡Qué robusto, qué inhumano!
+    ¿Qué es lo que piensas hacer?
+FURIO:
+    Dar al senado a entender
+    que la prisión ha rompido,
+    y quiero fingirme herido
+    porque lo venga a creer.
+FABRICIO:
+    ¿Herido?  ¿Pues eso mas?
+FURIO:
+    Con una pequeña herida.
+FABRICIO:
+    ¿Y al fin a fingilla vas?
+FURIO:
+    Por la honra, que la vida
+    no la defiendo jamás.
+[Vase Furio y queda Fabricio]
+FABRICIO:
+    Oh, cuanto me pesaría
+    que tomasen este día
+    los cónsules ocasión
+    para fundar su razón,
+    su envidia, amor y porfía;
+    que ellos andan por matalle,
+    y con decir que este preso
+    pudo por dineros dalle,
+    hara la envidia un proceso
+    que el amor venga a firmalle.
+[Salen Lelio, Andronio y Domicio]
+LELIO:
+    Mirad si es ése Fabricio,
+    que es gran su amigo.
+FABRICIO:
+    ¡Oh, Domicio!
+    ¿Qué alboroto es ése?
+DOMICIO:
+    Estraño.
+ANDRONIO:
+    De este día en cada un año
+    se hara a Apolo sacrificio.
+DOMICIO:
+    ¿Adónde está aquel tu amigo?
+FABRICIO:
+    ¿Para qué?
+DOMICIO:
+    Esta el campo lleno
+    de que ese preso enemigo
+    no es menos que el gran Curieno.
+FABRICIO:
+    ¿Quién dices?
+DOMICIO:
+    Curieno digo.
+FABRICIO:
+    ¿Curieno?
+DOMICIO:
+    Curieno, pues.
+    ¿Dónde está Furio y el preso?
+FABRICIO:
+    Yo no le he visto después
+    que de aquí le llevó preso.
+LELIO:
+    ¡Oh, bárbaro montañés!
+    Pagaras, villano, agora
+    el daño que nos has hecho.
+ANDRONIO:
+    ¿Qué es de Furio?
+FABRICIO:
+    Habra ya un hora
+    que en la quinta donde mora
+    hace un calabozo estrecho.
+    Yo sé que estara a recado.
+ANDRONIO:
+    Por ser tan fuerte soldado
+    se hizo dél confïanza.
+LELIO:
+    Esta opinión y esperanza
+    tuvo dél siempre el senado.
+[Sale Furio con una herida en la frente y la espada desnuda]
+FURIO:
+    Oh, romanos valientes e invencibles,
+    ha huido de aquí el montañés furioso;
+    me ha dado como veis estas heridas.
+    Rompida ya la cárcel donde estaba,
+    y por entre esas peñas, va diciendo
+    "Curieno soy, yo soy Curieno el bravo."
+    Romanos que tuvistes a Curieno,
+    lamentaros podéis de tal descuido.
+ANDRONIO:
+    ¡Oh, cielos, oh, deidades soberanas;
+    Curieno es ido!
+LELIO:
+    ¿Por ventura hay tiempo
+    para seguille?
+FURIO:
+    Ya será muy tarde,
+    que corre mas veloz que el suelto ciervo.
+    Veis aquí el malhechor, ínclitos cónsules:
+    yo soy quien le soltó, yo soy la causa.
+    Vengad en mí vuestro furor y cólera,
+    pasadme el pecho con aquesta espada;
+    muera yo luego y no se tenga un punto
+    de respeto ninguno a mis servicios,
+    que todos los borré con esta afrenta.
+ANDRONIO:
+    ¡Oh mal nacido, oh vil, desleal, infame,
+    traidor a Roma y al senado sacro!
+    Sin duda le ha vendido por dineros,
+    y entiendo: lo que veis es artificio.
+LELIO:
+    Asilde luego y muera el cruel sacrílego.
+    Viven los dioses, que le dio el villano
+    por alguna gran suma de dineros.
+    Tirad con él.
+FURIO:
+    Conozco que merezco
+    la muerte, pero no aquesta injuria.
+LELIO:
+    Vamos a hacer, Andronio, diligencia:
+    veamos si es pusible que se alcance.
+ANDRONIO:
+    ¡Que perdiésemos, Lelio, aqueste lance!
+    Perdiendo voy el seso y la paciencia.
+[Vanse todos y queda Fabricio solo]
+FABRICIO:
+    Sucedió lo que temía
+    como yo lo imaginaba,
+    ¡ah, buen Furio, que hoy se acaba
+    su envidia y tu valentía!
+    Ni fuera bien que no hicieras
+    lo que hiciste con tu amigo,
+    ni esperar menos castigo
+    fuera bien que presumieras.
+    No te ha de valer disculpa
+    de herida y sangre esta vez,
+    que cuando quiere el jüez
+    de la virtud hace culpa,
+    y los que tienes son tales
+    que por un lascivo amor
+    te mataran por traidor,
+    siendo ejemplo de leales.
+[Sale Claudia]
+CLAUDIA:
+    ¿Qué es aquesto? ¿Furio preso?
+    ¿Dónde está Furio, Fabricio?
+FABRICIO:
+    Hizo la envidia su oficio
+    y tuvo feliz suceso.
+    Ya, Claudia, todo acabó;
+    preso va Furio.
+CLAUDIA:
+    ¡Ay de mí!
+    Mas pues yo la causa fui,
+    Fabricio, paguelo yo;
+    dame esa daga y con ella
+    me pasaré aqueste pecho.
+FABRICIO:
+    En verdad que fuera un hecho
+    que honrara a ti, a mí y a ella.
+    Dio libertad a Curieno
+    como dél habras sabido,
+    y la envidia no ha querido
+    verter mejor su veneno:
+    los cónsules, tus amantes,
+    le han llevado a la prisión.
+CLAUDIA:
+    ¿Y morirá?
+FABRICIO:
+    No es razón
+    que tú lo presumas antes.
+    Yo a lo menos ya he pensado
+    cómo dalle libertad,
+    si hay en bárbaros verdad
+    y paga el que está obligado.
+CLAUDIA:
+    ¿De qué suerte, mi Fabricio?
+    Dame, amigo, algún consuelo,
+    vea yo del claro cielo
+    algún pequeño resquicio,
+    que según me va dejando
+    la luz que mi alma estima,
+    esa poca que me anima
+    por horas me va faltando.
+FABRICIO:
+    Iréme, Claudia, a Curieno,
+    que está en pasando este río,
+    de cuyas manos confío
+    lo que por otras condeno.
+    Y haré que junte su gente
+    y sobre nosotros venga
+    cuando nuestro Furio tenga
+    la dura muerte presente,
+    que habiendo armas y batalla
+    ni hay prisiones ni concierto;
+    todo agravio queda muerto
+    habla el hierro, la ley calla.
+    Así que dalle podremos
+    con mucha facilidad
+    al buen Furio libertad
+    porque a tu Furio te demos.
+CLAUDIA:
+    Ay, Fabricio, ejemplo cierto
+    de amistades verdaderas,
+    partete luego, ¿qué esperas?
+    revive mi Furio muerto.
+    Tú me llevas la esperanza
+    que de remedio me queda;
+    sin ti no hay pensar que pueda
+    ser mi fortuna bonanza.
+    Y dime, ese montañés,
+    ¿es noble?, ¿querra venir?
+FABRICIO:
+    Furio supiera decir
+    lo que este bárbaro es;
+    no se ha visto igual nobleza:
+    es un Alejandro.
+CLAUDIA:
+    Y dime,
+    ¿es fuerte? porque me anime.
+FABRICIO:
+    Es la misma fortaleza;
+    es un hombre que ha quedado
+    como reliquia española
+    entre aquestos montes sola,
+    y un español no domado.
+    Del sepultado León
+    ha nacido, tan crüel
+    que no más de con la piel
+    espanta nuestra nación.
+CLAUDIA:
+    Pues desa suerte partamos,
+    y a mi remedio disponte.
+FABRICIO:
+    Luego al punto subo al monte
+    y le hablo.
+CLAUDIA:
+    ¡Ay, Furio!
+FABRICIO:
+    Vamos.
+[Vanse y salen Curieno y Milena y sus montañeses]
+MILENA:
+    Éstos serán tus hechos,
+    tus hazañas, Curieno, y tus vitorias,
+    que los ilustres pechos
+    no buscan famas ni pretenden glorias
+    en las temeridades,
+    como tú por mi mal te persüades.
+    ¡Qué dura inmortal flecha
+    me dejaste en el alma atravesada,
+    con la fiera sospecha
+    desta prisión cumplida y esperada,
+    y con tantos enojos
+    que fueron ríos de dolor mis ojos!
+    Y lo que mas me pesa
+    es que la culpa sin razón me dabas
+    de aquesta loca impresa,
+    diciendo que tu vida aventurabas
+    para agradar mi pecho
+    de un premio vil, infame y sin provecho.
+    En fin preso estuviste,
+    en fin tus hijos y mujer dejaste,
+    tu gente aborreciste
+    y al cielo con milagros obligaste,
+    y para que tu gente
+    me diera muerte, cúlpasme, inocente.
+CURIENO:
+    Plegue al cielo, Milena,
+    que si otra cosa me llevó -ni pudo-
+    siempre en eterna pena,
+    de su cárcel mi espíritu desnudo,
+    viva en el duro infierno
+    o sepultado en el olvido eterno.
+    Falteme destos brazos
+    la fuerza con que al roble mas robusto
+    hacer suelo pedazos
+    y, por darte contento y por mi gusto,
+    ahogar luchando el oso,
+    el tigre fiero y el espín cerdoso.
+    Véame el enemigo
+    en su poder, vendido por la mano
+    de mi mayor amigo,
+    y estando atado, máteme un villano.
+    Y para que concluya,
+    yo viva, y muera en la desgracia tuya.
+    No fuera conocido
+    a no ser por mi boca confesado,
+    que viéndome encendido
+    de haber a dos romanos derribado
+    al otro dije a voces:
+    "Mal el valor de un español conoces."
+    Ya en fin estoy contigo
+    por el valor de aquel gentil romano,
+    agradecido amigo.
+    Alza los ojos, dame aquesa mano,
+    y hagamos amistades,
+    no digan que haces tú temeridades.
+MILENA:
+    ¿Cuando Milena pudo
+    negarte aquestos brazos que prevengo?
+    Si temo, tiemblo o dudo,
+    efetos son del grande amor que tengo;
+    vesme aquí ya rendida.
+CURIENO:
+    Eres en fin de aquestos ojos vida.
+[Abrazansee]
+TANAGILDO:
+    Un soldado romano,
+    preguntando por ti, corriendo apriesa
+    el monte como el llano,
+    agora nuestro ejército atraviesa,
+    de ninguno ofendido.
+CURIENO:
+    Furio debe de ser. ¿A qué ha venido?
+[Sale Fabricio]
+FABRICIO:
+    ¡Oh, fuerte Curieno,
+    oh invencible español, de mas vitorias
+    que el mismo Alcides lleno,
+    y afrenta en fin de las romanas glorias
+    que, del olvido libre,
+    tu fama estiendes desde el Esla al Tibre!
+    Luego que te partiste
+    de los brazos de Furio, a quien la vida
+    que allí te dio le diste,
+    se dio en el rostro mas de alguna herida,
+    diciendo que eras ido
+    para ser de los cónsules creído.
+    Pero estando en las fiestas
+    salió una voz de que eras Curieno,
+    y, todas descompuestas,
+    el uno y otro de contento lleno
+    vinieron a buscarte,
+    cudiciosos de dar la muerte a Marte.
+    Y como no te hallaron,
+    en el cuitado Furio, por ti herido,
+    su furia ejecutaron,
+    que agora queda herrado y oprimido
+    en una cárcel fuerte,
+    por horas esperando injusta muerte.
+    El tiempo, señor, mide.
+    Claudia pide tu amparo y yo le pido
+    y la razón le pide;
+    baja al campo el ejército esparcido,
+    y al que te dio la vida
+    paga la deuda y amistad debida,
+    que como tan furioso
+    agora llegues con tu fuerte gente,
+    el cónsul envidioso,
+    haciendo la defensa conviniente,
+    desamparado el preso,
+    hara dichoso nuestro mal suceso.
+CURIENO:
+    Con grave sentimiento,
+    casi los ojos a llorar movidos,
+    que es encarecimiento
+    nuevo y de nueva pena en mis sentidos,
+    y que jamás se ha visto,
+    te escucho y tiernas lágrimas resisto.
+    ¡Por mí el mejor amigo
+    que ha visto el mundo!, -sin hacer afrenta
+    al que agora es testigo,
+    aunque entren muchos que la fama cuenta.-
+    ¡Por mí el Orestes nuevo
+    a quien la vida y el honor le debo!
+    ¡Por mí Furio, en su cara
+    herido por su mano y por mí preso!
+    ¡Y que a su prenda cara
+    lastime el corazón este suceso!
+    Ni el cielo lo permita,
+    ni el alma noble que este pecho habita.
+    Yo haré que Furio viva,
+    yo le daré la vida que me ha dado,
+    y esa bella cautiva
+    no diga que a su dueño le he quitado;
+    que fuera desvarío
+    quererme yo también quitar el mío.
+    Vamos, vente conmigo,
+    y estad a punto, capitanes, luego,
+    que en librar este amigo
+    me va la vida y honra.
+FABRICIO:
+    Al cielo ruego
+    que salgas sin injuria.
+MILENA:
+    ¡Oh, Furio! Para mí, no Furio...¡Furia!
+[Vanse y salen Andronio y Domicio]
+ANDRONIO:
+    ¿No viene aquesa mujer?
+DOMICIO:
+    Ya viene, señor Andronio.
+ANDRONIO:
+    Mas debe de ser demonio,
+    que mujer no debe ser.
+    Partióse agora a León
+    el cónsul Lelio, y querría
+    ver si en su ausencia podría
+    dar remedio a mi pasión,
+    que en efeto agora quedo
+    por absoluto señor,
+    mas, ¿qué puedo, oh fiero amor,
+    cuando vencerme no puedo?
+    ¿Ya en fin el cónsul partió?
+DOMICIO:
+    Partió con velocidad,
+    que dicen que en la ciudad
+    cierto motín se trató.
+[Sale Claudia]
+    Pero Claudia viene aquí.
+CLAUDIA:
+    ¿Qué es, señor, lo que me mandas?
+ANDRONIO:
+    Mi Claudia, si hoy no te ablandas,
+    mandame que muera aquí.
+CLAUDIA:
+    ¿Eso sólo me querías?
+ANDRONIO:
+    Espera, escucha el suceso:
+    Furio está preso y no preso
+    para vivir muchos días,
+    que hoy ha de morir aquí
+    si no le das libertad
+    con dalle a mi voluntad
+    lo que merece de ti.
+    Escoge lo que te agrada,
+    porque yo te le daré
+    libre, si a mi gusto sé
+    que estaras determinada.
+    ¿Qué respondes?
+CLAUDIA:
+    Que mejor
+    sufrira Furio la muerte
+    que ver manchar de otra suerte
+    su gusto, vida y honor;
+    y mira lo que yo estimo
+    guardar aquesta nobleza,
+    que a su muerte mi flaqueza
+    con esfuerzo de hombre animo,
+    porque yo podré matarme
+    al punto que Furio muera
+    y con él, adondequiera
+    que fuera el alma, gozarme.
+ANDRONIO:
+    ¿Ésa es ya resolución?
+CLAUDIA:
+    Y cansarte lo contrario.
+ANDRONIO:
+    Ya es, Domicio, necesario
+    sacallo de la prisión
+    con buena guarda y segura.
+    Le trae aquí, que yo espero
+    que en viendo el cuchillo fiero
+    haya en los dos mas blandura.
+DOMICIO:
+    Voy por él.
+ANDRONIO:
+    Parte y veamos
+    aquesta animosa tigre
+    cómo sufre que peligre.
+CLAUDIA:
+    Determinados estamos;
+    ya entre los dos se ha tratado
+    y que cualquiera que muera
+    al otro espíritu espera
+    para vivir descansado.
+ANDRONIO:
+    ¿No ves que esto es pertinacia?
+CLAUDIA:
+    Mas la tuya, que se esfuerza
+    a hacelle violenta fuerza
+    a la voluntad, que es gracia.
+ANDRONIO:
+    ¿Sufriras ver dividir
+    el cuchillo a su garganta?,
+    ¿y ver correr sangre tanta
+    podra la tuya sufrir?
+CLAUDIA:
+    Y hago poco si le quito
+    con estas manos la vida.
+ANDRONIO:
+    ¡Oh, fiera sierpe nacida
+    en las montañas de Egipto!
+[Sale Furio atado y Domicio y Lépido, soldados, de guarda]
+DOMICIO:
+    Aquí viene, señor, el traidor Furio.
+FURIO:
+    Di que Furio no mas, que traidor mientes.
+DOMICIO:
+    Mal puedes tú injuriarme.
+FURIO:
+    No te injurio.
+ANDRONIO:
+    Será esta vez, por mí, de estrañas gentes
+    ejemplo tu maldad y su castigo.
+FURIO:
+    Y mi sangre, de algunas inocentes.
+ANDRONIO:
+    A todo el cielo a tu venganza obligo
+    pues por soborno vil, siendo romano,
+    de la cárcel echaste al enemigo.
+FURIO:
+    Estas heridas, que mi rostro en vano
+    de sangre cubren, la verdad supieron,
+    dadas por una valerosa mano,
+    y mil soldados que seguir me vieron
+    al enemigo de uno en otro risco
+    y que traidor jamás me conocieron,
+    y el campo sabe todo si me arrisco
+    cuando llego. ¿Aquí estas, oh Claudia hermosa?
+ANDRONIO:
+    Aquí tienes tu fiero basilisco.
+CLAUDIA:
+    Estoy, mi Furio, con razón, quejosa
+    de la fortuna, que me deja viva,
+    quedando lastimada y envidiosa;
+    pero luego tu alma se aperciba,
+    porque tras ti caminara sin falta
+    la de tu triste, míserá cautiva;
+    aquesto sólo por llegar me falta
+    aquel tu grande amor, por quien ahora
+    tu sangre roja el campo verde esmalta.
+FURIO:
+    No te lastimes de mi mal, señora,
+    ni te duela mi muerte, aunque el dejarte
+    con lágrimas de sangre el alma llora,
+    que vivo y muerto en la una y otra parte,
+    yo soy el mismo Furio que te quiere
+    y el mismo que jamás podra olvidarte.
+    El cuerpo solamente es el que muere,
+    que el alma es inmortal y en ella vives,
+    contenta de que al fin la tuya espere.
+    Mira que mientras vivas no te prives
+    de aquesta gran lealtad, aunque te maten,
+    pues con mi sangre la palabra escribes,
+    y por mas que los cónsules te traten
+    de lo que aquí me cuesta vida y honra,
+    crean que un risco de la mar combaten.
+CLAUDIA:
+    Primero que consienta tu deshonra
+    verás sembradas por la tierra dura
+    las luces de que el cielo firme se honra,
+    desde allá a él verás medir la altura
+    y el bello sol dar luz a nuestro polo
+    en el silencio de la noche obscura.
+    Y esto confirme aqueste abrazo solo.
+FURIO:
+    Pagasme bien, pues en mi sangre triste
+    el oro puro de mi fe acrisolo.
+ANDRONIO:
+    ¿Agora, Furio, lloras?  ¿Tú no fuiste
+    el que a Roma le diste tantas palmas?
+FURIO:
+    Mal un contrario fuerte se resiste.
+ANDRONIO:
+    ¿Agora te desmayas y desalmas?
+    ¡Venga el verdugo!  ¡Acabese con esto!
+FURIO:
+    Al fin no puedes dividir las almas.
+    ¡No muera Furio, no, viva!
+ANDRONIO:
+    ¿Qué es esto?
+    ¿Amotinaisos, vil canalla?
+TODOS:
+    ¡Viva!
+ANDRONIO:
+    Confuso estoy y en dos estremos puesto.
+TODOS:
+    ¡No le mates!
+ANDRONIO:
+    Ninguno se aperciba,
+    que, ¡por vida de César!...
+TODOS:
+    ¡No le mates!
+ANDRONIO:
+    ¿Cómo es? ¿Esto queréis que a Roma escriba?
+    ¿Con esto mas, fortuna, me combates?
+[Salen Fabricio, Tanagildo, Alarico, y traigan un hijo de Curieno vestido de la forma que el padre]
+FABRICIO:
+    La ejecución suspende, invicto cónsul,
+    de la sentencia que le das a Furio
+    en tanto que estos dos embajadores
+    del fuerte Curieno hayas oído.
+ANDRONIO:
+    Pues, montañeses, ¿qué queréis ahora?
+    Hablad, que para hablar os doy licencia.
+TANAGILDO:
+    Nuestro gran capitán Curieno el fuerte,
+    romano cónsul, esta tarde supo
+    que a un soldado que en guarda le entregaste
+    le quieres dar sin causa injusta muerte,
+    porque presumes que le abrió la cárcel,
+    movido de interés y codicia,
+    y así te envía con los dos, que somos
+    sus mejores vasallos y soldados,
+    a dar un desengaño de su parte,
+    pues dello te asegura que ha rompido,
+    hiriendo a Furio, cárcel y prisiones,
+    y que es muy falsa presunción te advierte
+    decir que un hombre tan desnudo y solo
+    le pudo dar el interés que dices,
+    y que porque te espera vencer presto
+    no quiere que lamentes tu fortuna
+    ni que castigue tu descuido Roma
+    y así te envía aqueste hijo en rehenes
+    y ducientos esclavos por la vida
+    de Furio, a quien pretendes dar la muerte.
+ANDRONIO:
+    ¡Estrañas arrogancias de hombre bárbaro
+    que ya vencido vencedor se juzga!
+    ¿Es éste el hijo?
+ALARICO:
+    Éste es, que muy presto
+    espera ver su madre entre sus brazos
+    y entre sus plantas el romano cuello;
+    los ducientos esclavos son, de todos,
+    la gente mas granada y escogida,
+    entre los cuales viene un sacerdote
+    que se pudiera dar por muchas vidas,
+    si tenéis a los dioses reverencia.
+ANDRONIO:
+    Basta; yo aceto el hijo y los cautivos.
+    A ti te entrego aqueste niño, Lépido.
+SOLDADO:
+    Vamos a ver a los amigos.
+TODOS:
+    Vamos.
+ANDRONIO:
+    Lleva, Domicio, aquestos montañeses
+    a descansar, mientras que al monte vuelven
+    pues ya Furio está libre.
+TANAGILDO:
+    Guarde el cielo
+    tu vida ilustre.
+ALARICO:
+    Muchos años vivas.
+ANDRONIO:
+    Lleva, Lépido, el niño a una trinchea
+    y pon allí de cien soldados guarda.
+FURIO:
+    Suplícote, gran cónsul, que primero
+    oyas una palabra, y si es posible,
+    quédese el niño y Lépido se vaya,
+    que entretanto podra juntar la guarda
+    y apercibille la prisión y cárcel.
+ANDRONIO:
+    Lépido, vete y vuelve luego.
+LÉPIDO:
+    Voyme
+    a apercibir, señor, los cien soldados
+    y a que se fortifique la trinchea.
+[Vase]
+ANDRONIO:
+    ¿Qué es lo que quieres, Furio?
+FURIO:
+    ¿Estamos solos?
+ANDRONIO:
+    Solos estamos.
+FURIO:
+    Dime, ¿qué darías
+    a quien te diese a Claudia?
+ANDRONIO:
+    Todo es poco:
+    no tengo vida yo que no la diese
+    ni triunfo ni laurel que no olvidase.
+    Pero, ¿por qué lo dices?
+FURIO:
+    Porque quiero
+    darte yo mismo a Claudia.
+ANDRONIO:
+    ¿Qué me dices?
+FURIO:
+    Digo que yo te quiero dar a Claudia,
+    que quien por un amigo ofrece un hijo
+    por un hijo merece vida y alma.
+    Dame ese niño libre y que yo pueda
+    envïalle a Curieno, y doyte a Claudia,
+    que en paz la lleves y tu esclava sea.
+CLAUDIA:
+    ¿Qué es lo que dices, Furio, Furio ingrato?
+    ¿Qué es lo que dices?
+ANDRONIO:
+    ¡Oh, supremo cielo!
+    No el hijo deste bárbaro, los míos
+    te diera en este punto. El niño es tuyo.
+    Pasa aquí, Claudia.
+CLAUDIA:
+    Furio, ¿qué es aquesto?
+FURIO:
+    Claudia, pues que por ti la muerte quise,
+    señal es que te quise como al alma
+    y que en mas que la vida te tenía.
+ANDRONIO:
+    Pasa aquí, Claudia.
+CLAUDIA:
+    Ruégale, Fabricio,
+    que no me deje ansí.
+FABRICIO:
+    ¿Furio, estas loco?
+FURIO:
+    Déjame hacer, que nadie me ha vencido
+    cuerpo a cuerpo en el campo peleando,
+    y pues en esto he sido tan dichoso,
+    nadie dira que me ha vencido el alma.
+ANDRONIO:
+    Pasa aquí, Claudia.
+CLAUDIA:
+    ¡Furio!
+FURIO:
+    ¿Qué me quieres?
+    que eres del cónsul ya; ya no eres mía.
+CLAUDIA:
+    ¿Cómo que por un bárbaro me dejas?
+    ¿Cómo que me desprecias por un bárbaro?
+    ¿Aquéste era el amor que me tenías?
+    ¿Aquéstas las promesas y las lágrimas?
+    ¿Tú eres romano?  ¿Tú?  Mas eres hombre...
+    Pues, ¡vive el cielo, que el muchacho infame
+    yo le deshaga entre mis brazos!
+FURIO:
+    ¡Tenla!
+ANDRONIO:
+    ¡Pasa aquí, Claudia!
+FURIO:
+    Llévala por fuerza.
+[Sale Domicio]
+DOMICIO:
+    Ya quedan Tanagildo y Alarico
+    alojados, señor, y muy contentos
+    de que hayas admitido su propósito.
+ANDRONIO:
+    A buen tiempo has venido: Claudia es mía,
+    que Furio me la ha dado cuando menos
+    en trueque de ese niño de Curieno,
+    que parece león recién nacido;
+    tira con ella sin hablar palabra.
+DOMICIO:
+    ¡Pasa aquí, perra!  ¿Qué te arrimas? Anda,
+    camina, que te haré que me conozcas.
+CLAUDIA:
+    Furio, Furio, ¿eres hombre?
+FURIO:
+    (Si lo fuera
+    no sufriera que así te maltrataran.)
+    ¡Piedra soy, por los dioses, yo soy piedra!
+ANDRONIO:
+    Furio, ya yo me voy; mira si quieres
+    alguna cosa de mi hacienda y casa.
+FURIO:
+    Fuera de lo que llevas nada quiero.
+FABRICIO:
+    ¿Ya no estabas contento y satisfecho,
+    libre de la prisión y con tu Claudia?
+    ¿Quién te ha mandado hacer esa locura?
+FURIO:
+    Pensar que he de arrojarme en esa espada
+    y acabar, con la vida, mi desdicha.
+FABRICIO:
+    ¡Detente, loco! ¿Qué es aquesto?
+FURIO:
+    ¡Suéltame!
+FABRICIO:
+    Soltaréte en quitándote la espada.
+    Agora estas sin ella: vete agora.
+FURIO:
+    Lleva ese niño, buen Fabricio, al monte,
+    y dile a Curieno como a Júpiter
+    que yo le envío aquese Ganimedes
+    y que me voy a los Elíseos campos.
+    Y vos, chicote, estadme agradecido,
+    que a fe que os escapáis, y no de mala.
+FABRICIO:
+    Furio amigo, ¿qué es esto?
+FURIO:
+    ¿Eso preguntas?
+    ¡Haberme dado Roma un consulado
+    y verme por sus calles en un carro
+    lleno de perejil y hierbabuena,
+    coronado de cardos y espinacas!
+    ¡Por Dios, yo estoy lucido, oh qué gallardo
+    que voy llegando agora al Capitolio!
+    Pase adelante toda aquesa gente
+    y dése colación. Gastese un mundo,
+    empéñese mi renta en vino y peras.
+    ¡Afuera, afuera!
+FABRICIO:
+    ¡Ay, triste!
+FURIO:
+    ¡Afuera, afuera!
+[Vase Furio y queda Fabricio y el niño]
+FABRICIO:
+    ¿Hay suceso como éste, amor bastardo,
+    azote de los cielos para el mundo?
+    Quiero llevar el niño, que este loco
+    sin duda ahora va a precipitarse.
+    Quien esto viere, amor, y te creyere,
+    tal galardón de tu servicio espere.
+
+JORNADA 3
+
+[Salen Lelio y Lépido]
+LELIO:
+    ¡Que desta suerte ha venido
+    Claudia a ser de Andronio esclava!
+LÉPIDO:
+    Quien menos lo imaginaba
+    su dueño tirano ha sido.
+    En aquesta ausencia tuya
+    dicen que veneno dio
+    a Furio, y se la tomó,
+    y mal o bien ella es suya,
+    aunque dudo que la goce
+    si no es que la haga fuerza.
+LELIO:
+    Con otros medios la tuerza
+    si sus intentos conoce,
+    y vera lo que merece
+    si con servicios la agrada,
+    porque una mujer rogada
+    se rinde a quien aborrece.
+    ¿Pero quién ha de sufrir
+    ver a sus ojos su mal
+    si amor y envidia mortal
+    le han de arder y consumir?
+    ¿Sufriré que este villano
+    goce a Claudia de esta suerte,
+    o haré que intente su muerte
+    todo este campo romano?
+    ¡Que diese a Furio veneno
+    y la cautiva robase
+    y que aquí a mis ojos pase,
+    de vana arrogancia lleno!
+    ¡Que éste en mi ausencia se atreva
+    a darme aqueste disgusto!,
+    ¿y que triunfe aquéste es justo
+    de alma y vida que me lleva?
+    ¡Y que éste esté tan glorioso
+    de que nos venciese ansí
+    a Claudia, a Furio y a mí!
+    Y yo, muerto y envidioso...
+    Ahora bien, no se destruya
+    por la infamia de un villano
+    un ejército romano
+    con mi opinión y la suya.
+    Donde las armas no valen
+    y está el amor de por medio
+    son los ardides remedio
+    si de buen ingenio salen.
+    Llamame, Lépido, a Mario,
+    el sacerdote de Apolo,
+LÉPIDO:
+    ¿Sólo Mario?
+LELIO:
+    A Mario sólo,
+    sólo a Mario es necesario.
+[Vase]
+    Rayo violento, que en la cuarta esfera
+    nacido fuiste para muerte mía
+    y abrasas en alegre y claro día
+    de mis años la verde primavera.
+    Sin tocar la corteza por defuera
+    vuelves el corazón ceniza fría,
+    quemas el alma que vivir podría
+    y el cuerpo dejas que morir pudiera.
+    Si tienes, rayo hermoso, por costumbre
+    herir el alto y no el humilde techo,
+    tu curso natural truecas conmigo;
+    mas yo debo de ser el que a tu lumbre,
+    cual ciega mariposa, doy el pecho
+    y en el mismo regalo me castigo.
+[Sale Mario y Lépido]
+MARIO:
+    Aquí estoy a tu servicio,
+    cónsul, ¿qué mandas?
+LELIO:
+    Oh, amigo,
+    hoy me importa hacer contigo
+    a Apolo un gran sacrificio.
+    Lépido, apártate allí,
+    Mario, en tu edad sabia y cuerda
+    está que el campo se pierda.
+    Todo, Mario, estriba en ti:
+    la esperanza del senado,
+    de Roma la pretensión,
+    la consular opinión,
+    hasta un mínimo soldado,
+    hoy consiste en tu cabeza,
+    y sobre tus hombros carga.
+MARIO:
+    Hacerme arenga tan larga
+    es alargar mi flaqueza.
+    Dime, cónsul, de qué suerte
+    y si remedio ha de haber,
+    que si fuere menester
+    desde hoy me ofrezco a la muerte.
+    ¿Roma, cónsules, senado
+    y ejército estriba en mí?
+    ¿Cuándo, dioses, merecí
+    ser dueño de tal pecado?
+    ¿En qué, Apolo soberano,
+    te desirvieron mis canas,
+    que tantas fuerzas romanas
+    rindes a un flaco romano?
+LELIO:
+    No te aflijas, Mario amigo,
+    hasta que la causa entiendas.
+MARIO:
+    ¿Y cual es?
+LELIO:
+    Que hacer emprendas
+    una grandeza conmigo.
+MARIO:
+    ¿Yo, grandeza?
+LELIO:
+    Una amistad,
+    grande cuanto puede ser.
+MARIO:
+    Mide mi flaco poder
+    y pesa tu voluntad.
+LELIO:
+    En esto sólo consiste
+    nuestra pérdida o ganancia,
+    ni hay en medio mas distancia
+    que hacer lo que prometiste.
+MARIO:
+    Cónsul, ¿qué sirven rodeos
+    en voluntades tan llanas?
+LELIO:
+    El respeto de tus canas
+    ciega mis torpes deseos.
+    (Pero éste es hombre, en efeto...)
+    Mario, Andronio y yo queremos
+    una mujer.
+MARIO:
+    ¡Oh, qué estremos,
+    cónsul, de tan poco efeto!
+    ¿Una mujer queréis? Bien,
+    ya lo entiendo.
+LELIO:
+    Y era esclava
+    de Furio, un soldado.
+MARIO:
+    Acaba.
+LELIO:
+    Y éste la amaba también...
+    No la pudimos vencer
+    ni a nadie la quiso dar,
+    que aunque es fuerte el porfïar,
+    es pertinaz la mujer.
+    Fui, cual sabes, a León
+    y entretanto Andronio dio
+    veneno a Furio, y tomó
+    de Claudia la posesión.
+    Esto dicen por ahí,
+    porque él, Furio, loco va,
+    y Claudia en poder está
+    del cónsul.
+MARIO:
+    Prosigue, di.
+LELIO:
+    Yo agora, de amor ardiendo,
+    de envidia, celos y rabia,
+    viendo que el cónsul me agravia,
+    -o por ventura no viendo-,
+    pienso amotinar la gente
+    y procuralle matar,
+    aunque ya sé que ha de estar
+    dividida y diferente,
+    de suerte que unos a otros,
+    todos romanos y amigos,
+    estando los enemigos
+    para embestir con nosotros,
+    nos habemos de matar
+    en estos campos leoneses,
+    adonde los montañeses
+    nos vengan a despojar,
+    y es hacer a Roma agravio
+    y al senado aquesta ofensa
+    en no haciéndonos defensa,
+    buen Mario, tu pecho sabio.
+MARIO:
+    Yo, señor, pues, ¿cómo puedo?
+LELIO:
+    Con publicar, Mario, sólo
+    un oráculo de Apolo
+    que diga...
+MARIO:
+    Confuso quedo.
+LELIO:
+    ...que Apolo te ha dicho a ti,
+    y mandado publicar,
+    que para pacificar
+    el campo, a Andronio y a mí,
+    hagan sacrificio luego
+    de Claudia, de Furio esclava,
+    como a Ifigenia, que estaba
+    por honra del campo griego,
+    que, dándola de esta suerte
+    la muerte, contento quedo
+    que nadie la goce, y puedo,
+    Mario, vivir en su muerte.
+    Di que Apolo te revela
+    que muera Claudia en sus aras,
+    que si esto al campo declaras,
+    harás verdad mi cautela,
+    Andronio y yo paz tendremos,
+    Roma y el senado, honor.
+MARIO:
+    Digo que es justo, señor,
+    que el bien público busquemos.
+    Muera Claudia, que nos pone
+    de perder en contingencia,
+    que ese ardid de tu prudencia
+    quizá algún dios le dispone.
+    Y no estaras engañado
+    cuando pienses que en ti solo
+    ha hecho oráculo Apolo
+    y esa respuesta enseñado.
+    Si en aves de varios nombres,
+    si en diversos animales
+    se hacen milagros tales,
+    ¿por qué no se haran en hombres?
+    Apolo responde en ti,
+    porque tan santa cautela
+    sin duda te la revela
+    para decírmela a mí.
+    Que perder a Claudia, que amas,
+    y desealla la muerte,
+    no puede ser de otra suerte.
+LELIO:
+    No en balde sabio te llamas.
+    ¡Vive el César que es ansí
+    y que presumo con eso
+    tener próspero suceso!
+MARIO:
+    Déjame, cónsul, a mí.
+    Vete en paz.
+LELIO:
+    Bien harás
+    en que se publique luego.
+    Abrásete, amor, mal fuego,
+    Ven Lépido, no nos vean
+    donde el suceso presuman,
+LÉPIDO:
+    Vamos.
+LELIO:
+    ¡Los cielos consuman
+    cuantos aman y desean!
+MARIO:
+    ¡Oh, por cuan varios caminos,
+    que los hombres no lo saben,
+    dioses, mostráis lo que caben
+    aquesos pechos divinos!
+    ¡De qué suerte la opinión
+    de Roma y sacro senado
+    hoy todo un campo formado
+    buscaba su perdición!
+    ¡Y de qué suerte una vida
+    importa que tantas mueran,
+    que estos ríos ya corrieran
+    romana sangre vertida!
+    Ahora bien, pues tanto importa,
+    comencemos a emprendello,
+    que Roma alzara su cuello
+    si aqueste infame se corta.
+    ¡Oh, romanos valientes, oh, romanos,
+    a quien los dioses quieren bien, de modo
+    que os libran de la muerte con sus manos!
+    Óiganme vuestros cónsules y todo
+    el ejército de una y de otra parte,
+    pues a su bien mis voces acomodo.
+    ¡Oh, vosotros, que agora dais a Marte
+    divinos sacrificios olorosos,
+    que con Belona, su mujer, reparte!
+    Quemad de Arabia y de Saba preciosos
+    olores, mirra y balsamo al gran padre
+    de Orfeo y Anfión, [músicos] dichosos,
+    que aunque es verdad que a vuestro Marte cuadre,
+    como a señor de aquesta disciplina
+    en que servís a Roma, vuestra madre,
+    al sacro Apolo y su deidad divina
+    debéis, por este bien que agora os hace,
+    encienso, altar y víctima condigna.
+    Sabed que grande mal se engendra y nace
+    -para que todos os perdáis, romanos,
+    y vuestra misma furia os despedace-
+    de que Lelio y Andronio, mas livianos
+    que a cónsules tan altos fuera justo
+    -y que han visto laurel en frente y manos-
+    adoran una esclava con tal gusto
+    que quieren dividiros y apartaros,
+    ¡bárbaro intento, pensamiento injusto!,
+    y en guerras mas civiles apartaros
+    que en la revolución de Sila os vistes,
+    y en otra gran Farsalia sepultaros.
+    Ved a qué intento de la patria fuistes
+    por tantos años desterrados, dando
+    en brazos de dolor suspiros tristes.
+    En fin se viene todo remediando
+    con que dice el oráculo que muera
+    quien causa el mal que os viene amenazando.
+    Muera esta esclava que la paz altera
+    de Roma y de sus hijos. ¡Ah, romanos,
+[Sale Furio loco]
+    muera Claudia, no viva!
+FURIO:
+    ¿Claudia?  Espera.
+    ¿Hante dicho los dioses soberanos
+    que muera Claudia?
+MARIO:
+    Sí.
+FURIO:
+    (¿Cómo, si el cielo
+    está mil leguas destos montes llanos?
+    ¡Que tenga un dios que tiene en Delfo y Delo
+    tantos honrados pajes y lacayos,
+    un sacerdote cara de mochuelo!
+    ¡Envía, excelso Júpiter, mil rayos
+    que maten desde aqueste al otro polo
+    cuantos cónsules hay y papagayos!)
+MARIO:
+    Romanos, ¿no escucháis qué dice Apolo?
+    Que muera Claudia.
+FURIO:
+    ¡Calla, puto viejo!
+MARIO:
+    ¡Vete de ahí, loco!
+FURIO:
+    ¡Bilo, birlo y bolo!
+    (¡Oh, qué gentiles barbas de conejo
+    para decir que con los dioses habla
+    y que es muy de su camara y consejo!)
+MARIO:
+    Apolo, en fin, vuestro remedio entabla,
+    yo lo escuché de su divino labio.
+FURIO:
+    Pues daréle yo en él con una tabla
+    y a ti, si hablas con mi propio agravio,
+    que no hay piedra mas fuerte ni pesada.
+[Salen Andronio y Lelio, cónsules, y Lépido y Domicio, soldados]
+ANDRONIO:
+    ¿Qué es lo que dices, sacerdote sabio?
+FURIO:
+    Dice una necedad muy bien pensada:
+    tú, dice que eres tigre; y Claudia, oveja,
+    y yo, borrica en campo azul pintada.
+ANDRONIO:
+    Quita ese loco.
+MARIO:
+    Apolo os aconseja,
+    que si queréis echar las disensiones
+    que una esclava tan vil os apareja,
+    que sus trípodas sacros y cabrones
+    maten su sangre en holocausto acepto:
+    que muera Claudia.
+ANDRONIO:
+    ¡Claudia!
+LELIO:
+    ¿En qué te pones?
+FURIO:
+    ¿Apolo aquesto dijo?  ¡Qué discreto
+    debe de ser Apolo!
+LELIO:
+    Claudia muera,
+    que en esto no es razón guardar respeto.
+    ¡Muera Claudia, romanos!
+TODOS:
+    ¡Muera!
+ANDRONIO:
+    Espera.
+LÉPIDO:
+    No hay qué esperar. A Claudia nos da luego.
+ANDRONIO:
+    ¿Con espadas y a mí de esa manera?
+LÉPIDO:
+    Con espadas a ti, pues que con ruego...
+    Danos a Claudia luego.
+ANDRONIO:
+    Oíd.
+LÉPIDO:
+    Ya es tarde.
+    O iremos a tu casa a sangre y fuego.
+    Bueno es que agora tu reposo aguarde,
+    oh cónsul, la salud de tanta gente.
+    Muera Claudia.
+ANDRONIO:
+    Ya voy.
+LÉPIDO:
+    Ea, pues, cobarde.
+ANDRONIO:
+    Vamos, que yo su cuello, aunque inocente,
+    añudaré con un cordel, y vamos
+    con aparato espléndido y decente
+    porque mejor su oráculo cumplamos.
+LÉPIDO:
+    Vamos y danos luego aquesa esclava.
+ANDRONIO:
+    Digo que la daré.
+LÉPIDO:
+    Pues ya tardamos.
+ANDRONIO:
+    Romano soy, ¿qué es esto?
+LELIO:
+    Andronio, acaba.
+ANDRONIO:
+    ¿Quién mas que yo vuestra salud desea?
+    ¡Ah, cielos, cuando mas seguro estaba...!
+    ¿Quién ha de haber que en la fortuna crea?
+[Vanse todos y queda Furio solo]
+FURIO:
+    Sin duda que esto es hecho y que esta gente
+    no quiere que en el cielo sol se vea.
+    Pues muerta Claudia y, por mi mal, presente
+    en el alma que vive, bueno quedo,
+    razón será que de vivir me afrente.
+    ¿Qué me queréis, imagenes del miedo
+    de la muerte crüel que me amenaza?
+    ¿No veis que venzo y que matarme puedo?
+    Agradeced que la venganza traza
+    mi apasionado espíritu y que espera
+    cubrir de sangre la romana plaza.
+    ¡Que yo acabara aquí, que yo muriera...!
+    ¡Ay, Dios, si muere Claudia, si ya acaba!
+    ¡Oh, Apolo, a Claudia matas! ¡Furio muera!
+    Quiero saber si aquella hermosa esclava
+    espera el golpe o ya pasó el tormento
+    de que mi corazón temblando estaba.
+    ¿Pues de quién lo sabré? ¿Del pensamiento?
+    Que el alma negaralo, porque sabe
+    que luego ha de salir de su aposento.
+    Pensamiento, señor, tú que eres llave
+    de todos mis sentidos, dime un poco.
+[PENSAM.]:
+    Diré lo que en la tierra y cielo cabe.
+[FURIO]:
+    Escucha un poco, pues.
+[PENSAM.]:
+    Pregunta, loco.
+[FURIO]:
+    ¿Loco me llamas?
+[PENSAM.]:
+    Tanto, que podrías
+    tocar en lo mas alto que yo toco.
+[FURIO]:
+    ¿Por qué?
+[PENSAM.]:
+    Porque la gloria que tenías,
+    después de haber la vida aventurado
+    la diste a quien apenas conocías.
+[FURIO]:
+    ¿No ves que en ley de bueno era obligado?
+    Dime si es Claudia muerta, y eso deja.
+[PENSAM.]:
+    No, pero llegan al altar sagrado.
+[FURIO]:
+    ¡Oh, cuanto el melancólico se aleja!
+    Bien media legua estoy del campo, ¡oh cielo!
+    ¡Cual Dios escucha a quien de amor se queja!
+    Estoy por recostarme en este suelo:
+    quizá mi mal engañaré durmiendo,
+    y vaya y venga el pensamiento en vuelo.
+    En tus manos, oh sueño, me encomiendo.
+[Échase a dormir y sale Curieno y Fabricio con sus cajas y los montañeses con un pendoncillo de lienzo blanco con un león pintado]
+CURIENO:
+    Apresuro cuanto puedo
+    el campo, amigo Fabricio,
+    ya sin orden y sin miedo.
+FABRICIO:
+    De tu amistad es indicio.
+CURIENO:
+    La de Pílades excedo,
+    y con habelle excedido
+    Furio me tiene vencido,
+    Furio me tiene obligado,
+    porque un mundo me ha pagado
+    de poco que me ha debido.
+FABRICIO:
+    ¿Dar tu hijo llamas poco?
+CURIENO:
+    No fue poco, sino mucho,
+    porque si en las quejas toco,
+    que a su madre aún hoy escucho,
+    pudiera volverme loco;
+    pero es poco a cuenta mía
+    si a lo que debo este día
+    a Furio igualar pensaba,
+    en perder la bella esclava,
+    que era el alma que tenía.
+    Y vese bien el exceso,
+    en que, como dices, va
+    loco, perdido y sin seso.
+FABRICIO:
+    Es lástima cuál está
+    después del triste suceso.
+CURIENO:
+    Bien verás que me ha pesado
+    y que hubiera aventurado,
+    no un hijo, mas todos tres.
+FABRICIO:
+    ¡Eres español leonés!
+CURIENO:
+    Soy un español honrado;
+    mas ¿cómo, dime, podré,
+    ya que los haya vencido
+    y a Claudia libre le dé,
+    dalle también el sentido
+    que con ella le quité?
+    Porque sin esta razón
+    no cumplo mi obligación.
+FABRICIO:
+    Dale tú a Claudia no más,
+    que el sentido le darás,
+    y el alma y el corazón;
+    que aquello que Furio tiene
+    no es locura confirmada,
+    sino furor que le viene
+    de ver su prenda usurpada
+    y que callar le conviene.
+CURIENO:
+    En fin, que si a Claudia cobro,
+    de una vez dos cosas obro,
+    y si no llego tan alto,
+    yo sé que en las obras falto
+    lo que en el ánimo sobro.
+    Pero quizá la fortuna
+    nos dará feliz suceso.
+FABRICIO:
+    Mi deseo la importuna.
+CURIENO:
+    ¡Que Furio perdiese el seso,
+    sin otra causa ninguna!
+    Oh, romano generoso,
+    solamente voy medroso
+    que no igualo tu amistad
+    si en esta temeridad
+    no saliese vitorioso.
+    Marche luego ese pendón,
+    que a la soberbia de Roma
+    no es poco azote el blasón
+    si entre las uñas le toma
+    ese montañés león,
+    porque pienso acometer
+    para morir o vencer,
+    porque si el seso ha perdido
+    Furio, en mi propio sentido
+    es bien que se eche de ver.
+    Que no es pequeña locura
+    poner todo lo que puedo
+    a peligro y a ventura
+    del que a las manos del miedo
+    tenga infame sepoltura.
+FABRICIO:
+    Si tú acometes, no dudes,
+    sino que el campo desnudes
+    de sus armas y opinión,
+    aunque es bastante ocasión
+    que de su puesto le mudes;
+    que sólo con eso es nuestra
+    Claudia, que es harta vitoria.
+CURIENO:
+    Y aún para mí como vuestra,
+    porque sólo en esa gloria
+    quisiera fortuna diestra.
+TANAGILDO:
+    Que un hombre he visto sospecho
+    debajo de aquel repecho.
+ALARICO:
+    Sin duda es hombre, y romano.
+JACERINO:
+    No está, si es romano, en vano;
+    ponle aquesa daga al pecho.
+TANAGILDO:
+    Hola, ¿a quién digo?, ¿quién eres?
+FABRICIO:
+    Paso, aguarda.
+TANAGILDO:
+    No le injurio.
+FILARDO:
+    ¿Quién eres?
+FURIO:
+    Quien tú quisieres.
+FABRICIO:
+    ¡Furio, amigo!
+CURIENO:
+    ¿Quién es?
+FABRICIO:
+    Furio.
+CURIENO:
+    ¡Furio!
+FABRICIO:
+    El mismo. No te alteres.
+    Llega, Furio, sosegado,
+    mira que estas obligado
+    aquí al fuerte Curieno.
+FURIO:
+    ¡Oh, león de hazañas lleno!
+    El seso en verte he cobrado,
+    vesme aquí echado a tus pies.
+CURIENO:
+    Ése, Furio valeroso,
+    mi lugar mas justo es,
+    oh, romano generoso.
+FURIO:
+    ¡Oh, invencible montañés!
+CURIENO:
+    ¿Posible es que tienes seso?
+FURIO:
+    Que le cobré te confieso
+    luego que tu rostro vi.
+CURIENO:
+    Que eso mas te debo a ti.
+    ¡Brava amistad!
+FABRICIO:
+    ¡Bravo exceso!
+FURIO:
+    Antes yo estoy obligado
+    de haberle cobrado en verte.
+CURIENO:
+    Vive el cielo, Furio amado,
+    que no ha de apartar la muerte
+    esta mano que te he dado;
+    y que si viera presente
+    padre y madre, y si es decente
+    decir hijos y mujer,
+    que no lo estimara ver
+    en mas que tu honrada frente.
+    Pero déjame vivir,
+    que de laurel y de roble
+    pienso hacértela ceñir.
+FURIO:
+    ¡Oh, capitán fuerte y noble,
+    a quien Furio ha de servir!
+    Nadie me llame romano,
+    que ya ni estimo al troyano
+    ni estimara el mismo sol;
+    soy leonés, soy español,
+    alma, pecho, espada y mano;
+    y porque digo de espada,
+    cuando seso no tenía
+    estuvo muy bien quitada.
+FABRICIO:
+    Aquí está, Furio, la mía,
+    y la tuya está guardada.
+    No te den las armas pena,
+    que cuantas ves por ti van;
+    mira la campaña llena:
+    a voz del gran capitán,
+    que las gobierna y ordena,
+    a cobrar a Claudia vamos
+    o a morir.
+FURIO:
+    En eso estamos;
+    por Claudia vamos con miedo,
+    pues yo solo basto y puedo.
+CURIENO:
+    Bien dices: los dos bastamos,
+    y díceslo bien ansí,
+    que también a mí me nombras
+    cuando te nombras a ti.
+FURIO:
+    Por los dioses, que me asombras,
+    Curieno, vamos de aquí,
+    que está Claudia en el poder
+    de un cónsul, que puede hacer
+    o con regalo o porfía
+    que se le rinda algún día,
+    que es en efeto mujer.
+CURIENO:
+    Ese miedo me provoca,
+    porque dicen comúnmente
+    que es la mas cuerda mas loca,
+    pero esto con muchas miente.
+    Toca y marche el campo.
+FURIO:
+    Toca.
+[Vanse y salen a sacrificar a Claudia el sacerdote Mario con una espada en la mano, y Claudia vestida una tunicela, y Lelio y Andronio y Domicio y Lépido]
+LELIO:
+    Claudia, aquesta es voluntad
+    de los dioses, que no es mía.
+CLAUDIA:
+    Éste, cónsul, es el día
+    que conozco tu piedad.
+    Tú mueres por consolarme,
+    ¡cuanto es en vano el consuelo!,
+    que mas que el hacerme al cielo
+    le agradezco el acabarme.
+    Y con razón le agradezco
+    muerte que acaba una vida
+    tan esclava y afligida,
+    y que en efeto aborrezco;
+    que después que me vendió
+    Furio a su mismo enemigo,
+    por aquel bárbaro amigo
+    que mas que al alma estimó,
+    ni tengo bien que esperar
+    ni tengo mas que temer,
+    ni tengo mas que perder,
+    ni otra muerte que llorar.
+    Veisme aquí, rendido el cuello,
+    quitadme presto la vida.
+ANDRONIO:
+    Allá me llevas asida
+    alma y vida en tu cabello.
+    ¡Ay, Domicio! ¿Cómo tengo
+    ojos que puedan miralla?
+    ¿Cómo vengo a ver matalla
+    y no a defenderla vengo?
+    Oh, Apolo fiero y crüel,
+    ¡mandaras matarme a mí...!
+DOMICIO:
+    Si el dolor te vence ansí,
+    procura vencerle a él,
+    que no es aqueste lugar
+    para mostrar sentimiento.
+ANDRONIO:
+    No hay, Domicio, entendimiento
+    que a tanto pueda llegar.
+    Veo mi alma a la muerte
+    y mi enemigo vengado,
+    todo el campo alborotado
+    y lo mas flaco, mas fuerte.
+    No veo alguna esperanza
+    de vengarme de esta ofensa.
+DOMICIO:
+    En conservar tu honra piensa,
+    que el tiempo hara la venganza,
+    cuanto mas que has de mirar
+    que esta mujer te aborrece.
+MARIO:
+    Ya, cónsules, me parece
+    que se descubra el altar.
+DOMICIO:
+    Andronio, ah, señor, esfuerza;
+    que hagas aqueso no es justo
+    porque jamás te dio gusto
+    ni rogada ni por fuerza.
+    Mira que el tiempo es aqueste
+    en que muestres ser romano.
+LELIO:
+    Mario, apercibe la mano
+    y el fuego y ara se apreste,
+[Descúbrese un altar con Apolo]
+    que ya corren la cortina.
+MARIO:
+    ¡Oh, rubio y délfico Apolo,
+    inventor único y solo
+    de música y medecina!
+    Aquí la esclava que mandas,
+    por tu oráculo famoso,
+    que sosiegue el sedicioso
+    pueblo dividido en bandas,
+    humilde te presentamos
+    y esta sangre te ofrecemos.
+DOMICIO:
+    Si has de hacer esos estremos
+    del sacrificio nos vamos.
+MARIO:
+    Humíllate, Claudia, al suelo
+    que ya apercibo el cuchillo.
+CLAUDIA:
+    Ya, Mario, al suelo me humillo
+    para levantarme al cielo.
+    Furio, esta sangre vertida,
+    mas por ti que por Apolo,
+    yo la consagro a ti solo
+    como a dueño de mi vida;
+    y pues ya tu engaño sé
+    y quién eres me declaras,
+    mas que su altar y sus aras
+    manche tu alma y tu fe.
+    No tengo por qué quejarme
+    de que tu esclava me hiciste;
+    de que después me vendiste
+    puedo, ingrato, lastimarme,
+    pues me dijiste algún hora
+    -que yo mas contenta estaba-:
+    "Ya Claudia no eres esclava,
+    sino mi propia señora."
+    Pero, ¿qué estoy alargando
+    mi vida? ¡Oh, Mario, haz tu oficio!
+MARIO:
+    Ya el cuchillo al sacrificio
+    voy, cónsules, aplicando;
+    vendarle quiero los ojos.
+ANDRONIO:
+    Ya se cubre el sol del cielo,
+    y mi alma, y todo el suelo,
+    de noche eterna de enojos.
+    Oh, sol, que te pones ya,
+    haz que yo te pueda ver
+    donde vas a amanecer;
+    o lleva mi alma allá.
+MARIO:
+    Ya los ojos le cubrí;
+    reciba Apolo el servicio
+    si hubiere en el sacrificio
+    falta en vosotros o en mí.
+[Al alzar del cuchillo digan de dentro y él pare la mano]
+    Arma, arma, guerra, guerra, ¿qué descuido
+    es éste vuestro, míseros romanos?
+    Que el montañés saquea, roba y mata,
+    destruye, atala y rompe vuestro ejército.
+    ¡Arma, arma, guerra, guerra, arma, arma!
+ANDRONIO:
+    Romanos, gran descuido hemos tenido;
+    perdido es nuestro ejército, romanos.
+    Suspende, Mario, el sacrificio en tanto
+    que vamos a poner algún remedio.
+LELIO:
+    Para matar la víctima ¿qué importa?,
+    que mejor venceremos si ella muere.
+(Dentro):
+    ¡Arma, arma, guerra, guerra!
+ANDRONIO:
+    El que es romano
+    siga esta espada que defiende a Roma,
+    y el que se queda, llámese cobarde.
+[Vase]
+MARIO:
+    Ve, Lelio, a remediar lo que se ofrece,
+    que aquí te aguardo.
+LELIO:
+    Pues aquí me aguarda,
+    que dandonos Apolo esta victoria
+    mejor le ofreceremos esta víctima.
+[Vase Lelio y los demas y quedan Mario y Claudia]
+MARIO:
+    Ya puedes, Claudia, alzarte de la tierra,
+    que aún no es llegado de tu muerte el día.
+CLAUDIA:
+    ¡Oh, cómo dicen bien que a los cobardes
+    sigue la muerte y a los fuertes huye!
+    Si yo estimara aquesta vida triste
+    yo te aseguro, Mario, que muriera,
+    y porque la aborrezco y tengo en poco,
+    a mi pesar a mi despecho dura.
+MARIO:
+    ¿Por qué aborreces tanto el bien mas alto
+    que todos los humanos encarecen?
+    ¿Cómo es posible que morir deseas,
+    cosa que hasta los mismos animales
+    es de notable sentimiento y pena?
+CLAUDIA:
+    Porque nací para sufrir desdicha
+    y desde que nací soy desdichada,
+    y como de los males es la muerte
+    el término postrero, porque acaben
+    los muchos que padezco la deseo.
+MARIO:
+    ¿Eres noble, por dicha?
+CLAUDIA:
+    Y por desdicha.
+    A un senador obedecí por padre
+    de cuya casa el día que rendistes
+    la ciudad de León fui saqueada
+    entre algunas riquezas que tenía.
+MARIO:
+    ¿Fue aquese Furio de quien tú te quejas
+    el capitán de aquese estrago?
+CLAUDIA:
+    Entonces
+    no vino Furio allí, pero llevándome
+    entre algunos soldados maltratada,
+    me quitó de sus manos, y a las suyas
+    vine para mi mal.
+MARIO:
+    ¿De qué manera?
+CLAUDIA:
+    Porque dejé vencerme de su término,
+    de su mucha nobleza e hidalguía,
+    que pudiendo forzarme como a esclava
+    me quiso respetar como a señora.
+    Y estando en su poder le vi mil veces
+    por cualquiera desdén verter mil lágrimas.
+MARIO:
+    Bien se le ha parecido si te amaba,
+    pues por haberte dado a Andronio, dicen
+    que ha perdido el jüicio, y como loco
+    va rompiendo las peñas y los árboles.
+[Tocan a batalla y salen Curieno, Furio y Fabricio con las espadas desnudas]
+FURIO:
+    Entra, que aquí me dicen que está Claudia.
+CURIENO:
+    Si no estuviere aquí no quede tienda
+    adonde no se busque.
+FABRICIO:
+    Entra.
+MARIO:
+    ¿Qué es esto,
+    inmensos dioses? Ya el leonés nos vence.
+    Vencidos somos ya. ¿Qué es esto, Roma?
+FABRICIO:
+    No estaba yo engañado, aquí está Claudia.
+FURIO:
+    ¡Claudia del alma mía!
+CLAUDIA:
+    ¡Ingrato Furio!
+    ¿Osas mirarme?
+FURIO:
+    No es tiempo éste
+    de averiguar, señora, los enojos,
+    que aunque vamos agora vitoriosos
+    en un punto se trueca la fortuna.
+    Dame esos brazos...
+CLAUDIA:
+    Dóytelos por fuerza,
+    y dente la vitoria Apolo y Marte,
+    que es lo que agora importa, que tras ella
+    me has de pagar la sinrazón pasada.
+CURIENO:
+    Yo soy Curieno, el que aborreces;
+    tenme por tuyo, que en el cielo espero
+    que ha de corrernos tiempo en que conozcas
+    quién es el montañés.
+CLAUDIA:
+    Yo soy tu esclava.
+FABRICIO:
+    ¡A qué ocasión llegamos tan dichosa!
+    Di, Claudia, ¿y es verdad que te mataban?
+CLAUDIA:
+    Ya tuve a la garganta el hierro injusto
+    y la venda en los ojos.
+CURIENO:
+    ¡Bravo caso!
+    ¿Y quién es este viejo?
+CLAUDIA:
+    El sacerdote
+    a quien tocaba darme injusta muerte.
+FURIO:
+    Este traidor, pues, muera.
+FABRICIO:
+    ¡Tente, Furio!
+CURIENO:
+    Si no es más de por eso, espera y déjame,
+    que con aqueste tronco le visite,
+    haré del sacerdote sacrificio.
+FABRICIO:
+    Paso, dejalde, no enojéis a Apolo
+    ni al cielo, que esta vez nos favorece,
+    vamos para poner a Claudia en cobro
+    y recoger la gente montañesa,
+    pues ya van los romanos de vencida.
+FURIO:
+    Vamos, Curieno.
+CURIENO:
+    Vamos, Furio amigo.
+FURIO:
+    Dame esa mano, Claudia.
+CLAUDIA:
+    El alma es tuya.
+(Dentro):
+    ¡Arma, romanos, arma, nadie huya!
+[Vanse y queda Mario solo]
+MARIO:
+    ¡Oh, cónsules mal nacidos,
+    y en balde de Roma honrados,
+    en triste estrella elegidos,
+    laureles mal empleados
+    y peor agradecidos!
+    ¡Oh, cobardes, que el valor
+    de Roma con deshonor
+    suyo y vuestro escurecistes
+    y tantas hazañas distes
+    al triunfo de un ciego amor!
+    ¡Oh, maldita, infame esclava,
+    por quien ya será vergüenza
+    del mundo quien mas le honraba!
+    Hoy por ti España comienza
+    a ser libre y Roma acaba.
+    Hoy la rebelde nación,
+    barras, castillo y león,
+    quedará tan atrevida
+    cuanto Roma escurecida
+    contra su buena opinión.
+[Sale Lelio con la espada desnuda]
+LELIO:
+    ¡Oh, nunca visto suceso!
+    ¡Oh, cielo mudable y vario!
+MARIO:
+    ¿Ya estamos, cónsul, en eso?
+LELIO:
+    ¡Oh, Mario!
+MARIO:
+    ¿Qué es esto?
+LELIO:
+    ¡Oh, Mario!
+    ¡Oh, Mario, que pierdo el seso!
+    El montañés atrevido,
+    con un escuadrón, vencido
+    mil veces por nuestras manos,
+    diez mil soldados romanos
+    ha contrastado y rompido;
+    que olvidados de la gloria
+    que por una y otra historia
+    el mundo de Roma canta,
+    huyen con infamia tanta
+    y le entregan la vitoria.
+MARIO:
+    ¡Oh, cónsul, cuanto mejor
+    fuera haber considerado
+    vuestro ciego y loco error,
+    -mas por eso es dios vendado-
+    esta furia, aqueste amor!
+    Gentil cuenta a Roma distes
+    del cargo que le pedistes;
+    un viejo soy, y aunque viejo,
+    no os quiero dar ya consejo,
+    que tarde por él venistes,
+    sino  morir como bueno
+    por mi patria con mas honra
+    en las manos de Curieno
+    que ver de vuestra deshonra,
+    oh, infames, el mundo lleno.
+    Curieno llegó hasta aquí
+    con Furio, ese mal romano,
+    y amenazándome a mí,
+    tomó de Claudia la mano,
+    que van a buscarte a ti.
+    En fin parten a buscarte
+    y al que también tiene parte,
+    como en maldad en poder;
+    venganza debe de ser
+    de ver ofendido a Marte.
+    Vosotros debéis el pago.
+    Testigos los dioses hago
+    que por Roma a morir voy,
+    que, pues sólo un hijo soy,
+    con la vida satisfago.
+[Vase Mario y queda Lelio]
+LELIO:
+    Confieso haber merecido
+    la gran deshonra que aguardo,
+    de haber a Roma ofendido;
+    soy su hijo, mas bastardo,
+    como víbora nacido;
+    yo la rasgué las entrañas
+    después de haber mil hazañas
+    consagrado a su valor,
+    a mi patria fui traidor,
+    y ejemplo a tierras estrañas.
+    Buenas volveran, y honradas,
+    -que siempre solían volver-,
+    de sangre ajena esmaltadas
+    las aguilas que han de ser
+    del montañés arrastradas.
+    ¡Oh, amor, que la fama impides
+    y con los rayos te mides,
+    si a tu carro me has de atar,
+    dame siquiera lugar
+    entre Alejandro y Alcides!
+[Sale Andronio herido]
+ANDRONIO:
+    Ya no sirve resistencia
+    ni os aprovecha, romanos,
+    mi espada ni mi presencia,
+    de que algún dios la inclemencia
+    os lleva atadas las manos.
+    ¿Adónde vais esparcidos,
+    acobardados y heridos
+    con palos, como animales,
+    de un villano y de otros tales,
+    de cueros de buey vestidos?
+LELIO:
+    (¡Que un romano sea tan loco,
+    que siendo romano y bueno
+    -aunque ya el "bueno" revoco-
+    no traiga siquiera un poco
+    de confación o veneno...!)
+ANDRONIO:
+    ¿Quién es éste que está aquí?
+LELIO:
+    El cónsul Lelio que fui,
+    y ya esclavo, a mi despecho.
+ANDRONIO:
+    ¡Ah, Lelio, qué bien lo has hecho!
+LELIO:
+    ¿Y yo qué diré de ti?
+ANDRONIO:
+    Dirás que a Roma he vendido,
+    y yo diré que la culpa
+    de mi traición has tenido.
+LELIO:
+    Si ésa tienes por disculpa,
+    en todo engañado has sido.
+    Ya es tarde para quejarte,
+    que ninguna cosa es parte
+    para vencer la fortuna.
+ANDRONIO:
+    Yo muero sin duda alguna,
+    oh, vil Claudia, por amarte.
+    Pero dime, ¿qué se ha hecho?
+LELIO:
+    ¡A buen tiempo lo preguntas,
+    lleno de heridas el pecho!
+ANDRONIO:
+    No me ponen todas juntas,
+    Lelio, amigo, en tanto estrecho.
+    Yo muero en fin bien honrado
+    para el romano senado;
+    de mil heridas herido;
+    más de amante aborrecido
+    que de cónsul desdichado.
+    ¿No me diras dónde está
+    porque siquiera me vea,
+    muriendo, espirando ya?
+LELIO:
+    Si eso tu alma desea
+    en la otra vida será,
+    porque ese bárbaro fuerte
+    para mas daño hacerte
+    la lleva ahora de aquí.
+ANDRONIO:
+    ¡Qué, al fin, desdichado fui
+    en la vida y en la muerte!
+    Agora dira mas bien
+    que con igual poderío
+    todos triunfando le ven,
+    no sólo del cuerpo mío,
+    pero del alma también.
+    Que en efeto no la veo,
+    que con aqueste deseo
+    el alma se me despide.
+LELIO:
+    (Si esta amistad se divide,
+    es mi delito mas feo;
+    porque si éste muere aquí
+    muere en efeto con honra
+    y si a Roma que ofendí
+    vuelvo yo con tal deshonra,
+    ¿qué dira el mundo de mí?)
+    Di, desdichado romano,
+    ¿traes acaso veneno
+    en esa derecha mano?
+ANDRONIO:
+    Un anillo traigo lleno,
+    de un aspid fiero, inhumano.
+    Si te toca el corazón,
+    a la primera razón
+    verás el alma en los labios.
+LELIO:
+    Ése acabe mis agravios
+    y vuelva por mi opinión.
+    Dame la sortija.
+ANDRONIO:
+    Toma.
+LELIO:
+    Júntase bien de esta suerte
+    que deshonra y muerte coma,
+    porque de entrambos la muerte
+    satisfaga en parte a Roma.
+    ¡Vitoria, vitoria!
+LELIO:
+    ¡Oh, cielo!,
+    ¿en qué dudo?, ¿qué recelo?
+    Ya la vitoria publican.
+    ¡Qué mal las manos se aplican!
+    Ya Andronio cayó en el suelo.
+    ¡España, España, vitoria!
+LELIO:
+    ¿Agora tiemblo y me tardo
+    viendo cosa tan notoria?
+    Que si a morir me acobardo
+    doblo mi pena y su gloria.
+    Hecho es ya, mi fin es cierto.
+[Chupa el anillo y cae en el suelo y salen Curieno, Furio, Fabricio, Claudia y los montañeses]
+FABRICIO:
+    Aquí diz que está encubierto
+    Andronio.
+FURIO:
+    Y aun Lelio está:
+    el uno muriendo ya
+    y el otro del todo muerto.
+CURIENO:
+    ¿Tan malo estaba de ver?
+    Si el uno y otro sabían
+    de aqueste brazo el poder,
+    morir de verme podían
+    más que de verme vencer.
+    Ya, Claudia, estaras contenta.
+CLAUDIA:
+    Agora me satisfago
+    de aquella pasada afrenta.
+CURIENO:
+    Di si quieres otro estrago
+    o venganza mas sangrienta,
+    que a Italia después iré
+    y a tus pies humillaré
+    la cerviz de Roma altiva.
+CLAUDIA:
+    Mejor es que Roma viva,
+    que tengo en Furio mi fe.
+FURIO:
+    ¿Y piensas que soy romano?
+    Español soy y esto afirmo
+    con esta espada en la mano.
+CURIENO:
+    Pues ya desde hoy me confirmo
+    por romano y por tu hermano;
+    ansí que español serás
+    y yo, romano.
+FURIO:
+    Esto más
+    faltaba que te debiese.
+FABRICIO:
+    ¡Hola! ¿Qué alboroto es ése?
+CURIENO:
+    Pues, Fabricio, ¿dónde vas?
+FABRICIO:
+    Son, capitán, los soldados
+    del romano ya vencido,
+    según dicen, mas honrados.
+CURIENO:
+    ¿Pues a qué efeto han venido?
+JACERINO:
+    Todos vienen desarmados,
+    que sólo quieren hablarte.
+CURIENO:
+    Pues sepamos la ocasión.
+[Sale Lucio, romano, y los mas que pudieren con él]
+LUCIO:
+    ¡Oh, fuerte, invencible Marte,
+    hijo del mismo León,
+    que tiene en los cielos parte!
+    Todo este campo vencido,
+    y yo, en su nombre, te pido
+    que cese el furioso estrago,
+    si basta de sangre el lago
+    que ves a tus pies vertido;
+    que el partido que hicieres
+    y el despojo que pidieres
+    se te quiere conceder,
+    que, piadoso, podrás ser
+    mas famoso de lo que eres.
+    Duélate ya tanta muerte
+    tanto saco, incendio y rabia;
+    la furia en piedad convierte,
+    que quien al vencido agravia
+    no es vencedor noble y fuerte.
+    Y a ti, Furio, que en efeto
+    eres romano, pedimos
+    nos saques de tanto aprieto
+    si alguna vez te servimos,
+    rebelados de secreto.
+    Que a tu muerte dimos voces
+    y con las armas feroces
+    contra el cónsul nos pusieron
+    los brazos que te ofrecieron,
+    las vidas que desconoces.
+CURIENO:
+    Ya debéis haber sabido
+    cómo es Curieno romano,
+    pues eso me habéis pedido.
+FURIO:
+    Y Furio, español, que en vano
+    por romano habéis tenido.
+CURIENO:
+    Que seréis libres es cierto,
+    pero tenemos de hacer
+    yo y vosotros un concierto.
+LUCIO:
+    ¿Qué concierto puede ser
+    que no le esté bien al muerto?
+    Di, señor, lo que te agrada.
+CURIENO:
+    Que con sus armas y espada,
+    y su hacienda y su mujer
+    todos os podáis volver
+    a la ciudad conquistada,
+    con tal que a Furio y Fabricio,
+    por Lelio y Andronio, muertos,
+    deis el consular oficio,
+    que con aquestos conciertos,
+    os haré tal beneficio.
+    Mas si cónsules no son,
+    hasta el postrer centurión,
+    no ha de quedar hombre a vida.
+LUCIO:
+    Eso es razón que lo pida,
+    señor, la misma razón;
+    que ellos son tales soldados
+    que merecen ser honrados
+    en aquesa dignidad,
+    y de nuestra voluntad,
+    de muy atrás estimados,
+    y ansí, en voz del campo todo,
+    doy el consular oficio,
+    y todos del mismo modo.
+TODOS:
+    ¡Cónsules Furio y Fabricio!
+FURIO:
+    Basta, ilustre y fuerte godo,
+    que en todo quieres vencerme,
+    con tu ser y cortesía
+    es honra vencido verme,
+    quiero esta vez con la mía,
+    aunque vencido, atreverme.
+    Y es que, pues rendido estaba
+    León, y a Roma sujeto,
+    y que parias otorgaba
+    con presidio y con prefeto,
+    que la regía y guardaba,
+    libre desde hoy quedará,
+    que ni en él presidio habrá
+    ni cónsul, pues desde aquí,
+    Furio, Curieno hoy a ti
+    como cónsul te la da.
+    Y así quiero que partamos
+    a la ciudad, donde entremos
+    y por su rey te juremos,
+    y donde también estamos
+    consulado aseguremos.
+    Así que rey te he elegido
+    si tú a mí cónsul.
+CURIENO:
+    Ha sido
+    hecho de español; confieso
+    que me has vencido con eso.
+FURIO:
+    Yo soy, Curieno, el vencido;
+    y porque casarme ordeno
+    con Claudia, de gloria lleno,
+    haz que venga tu Milena,
+    porque no habra cosa buena
+    sin Milena y sin Curieno,
+    y porque también es justo
+    que de tu coronación
+    reciban tus hijos gusto.
+CURIENO:
+    Doblarás mi obligación
+    si la quitas el disgusto,
+    si ella quedaba enojada
+    de que hiciese esta jornada.
+FURIO:
+    Verá su engaño, y yo presto
+    si he dado gusto, que en esto
+    da fin La amistad pagada.

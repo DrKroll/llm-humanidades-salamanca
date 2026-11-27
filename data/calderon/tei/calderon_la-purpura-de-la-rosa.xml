@@ -1,0 +1,3153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title type="main">La púrpura de la rosa</title><title type="sub">subtitle</title><author cert="high">
+    <persName>
+      <forename>Pedro</forename>
+      <surname sort="1">Calderón</surname>
+      <nameLink>de la</nameLink>
+      <surname>Barca</surname>
+    </persName>
+    <idno type="wikidata">Q170800</idno>
+    <idno type="pnd">118518399</idno>
+  </author>
+  <respStmt><resp>Automatic generation of the XML/TEI by</resp><persName>Fernando Sanz-Lázaro</persName></respStmt></titleStmt>
+      <publicationStmt>
+        <authority/>
+        <publisher xml:id="DraCor">dracor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <date when="2023-03-14T22:20:52"/>
+        <availability>
+          <licence>
+            <ab>CC BY</ab>
+            <ref>https://creativecommons.org/publicdomain/BY/3.0/</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name/>
+          <idno type="URL"/>
+        </bibl>
+        <bibl type="originalSource">
+          <title>Edición digital a partir de Pedro Calderón de la Barca, La púrpura de la rosa. En: Comedias, Vol. 3. Dirección de Luis Iglesias Feijoo y Don William Cruickshank. Madrid : Fundación José Antonio de Castro, 2007 978-84-96452-32-9</title>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="FEMALE" xml:id="flora">
+            <persName>FLORA</persName>
+          </person>
+          <person sex="FEMALE" xml:id="cintia">
+            <persName>CINTIA</persName>
+          </person>
+          <person sex="UNKNOWN" xml:id="clori">
+            <persName>CLORI</persName>
+          </person>
+          <person sex="FEMALE" xml:id="libia">
+            <persName>LIBIA</persName>
+          </person>
+          <person sex="MALE" xml:id="dos-1as">
+            <persName>DOS 1AS</persName>
+          </person>
+          <person sex="UNKNOWN" xml:id="venus">
+            <persName>VENUS</persName>
+          </person>
+          <person sex="UNKNOWN" xml:id="adonis">
+            <persName>ADONIS</persName>
+          </person>
+          <person sex="UNKNOWN" xml:id="marte">
+            <persName>MARTE</persName>
+          </person>
+          <personGrp sex="UNKNOWN" xml:id="voces">
+            <persName>VOCES</persName>
+          </personGrp>
+          <personGrp sex="MALE" xml:id="unos">
+            <persName>UNOS</persName>
+          </personGrp>
+          <personGrp sex="MALE" xml:id="otros">
+            <persName>OTROS</persName>
+          </personGrp>
+          <person sex="FEMALE" xml:id="belona">
+            <persName>BELONA</persName>
+          </person>
+          <person sex="MALE" xml:id="chato">
+            <persName>CHATO</persName>
+          </person>
+          <person sex="FEMALE" xml:id="celfa">
+            <persName>CELFA</persName>
+          </person>
+          <person sex="MALE" xml:id="uno">
+            <persName>UNO</persName>
+          </person>
+          <person sex="MALE" xml:id="amor">
+            <persName>AMOR</persName>
+          </person>
+          <personGrp sex="UNKNOWN" xml:id="musicos">
+            <persName>MÚSICOS</persName>
+          </personGrp>
+          <person sex="UNKNOWN" xml:id="dragon">
+            <persName>DRAGÓN</persName>
+          </person>
+          <personGrp sex="MALE" xml:id="soldados">
+            <persName>SOLDADOS</persName>
+          </personGrp>
+          <person sex="MALE" xml:id="el-desengano">
+            <persName>EL DESENGAÑO</persName>
+          </person>
+          <person sex="MALE" xml:id="temor">
+            <persName>TEMOR</persName>
+          </person>
+          <person sex="FEMALE" xml:id="sospecha">
+            <persName>SOSPECHA</persName>
+          </person>
+          <person sex="FEMALE" xml:id="envidia">
+            <persName>ENVIDIA</persName>
+          </person>
+          <person sex="MALE" xml:id="rencor">
+            <persName>RENCOR</persName>
+          </person>
+          <person sex="MALE" xml:id="desengano">
+            <persName>DESENGAÑO</persName>
+          </person>
+          <personGrp sex="MALE" xml:id="coro-1">
+            <persName>CORO 1</persName>
+          </personGrp>
+          <personGrp sex="MALE" xml:id="coro-2">
+            <persName>CORO 2</persName>
+          </personGrp>
+          <person sex="FEMALE" xml:id="ninfas">
+            <persName>NINFAS</persName>
+          </person>
+          <person sex="FEMALE" xml:id="cajas">
+            <persName>CAJAS</persName>
+          </person>
+          <person sex="MALE" xml:id="instrumentos">
+            <persName>INSTRUMENTOS</persName>
+          </person>
+          <personGrp sex="MALE" xml:id="voces-dentro">
+            <persName>VOCES DENTRO</persName>
+          </personGrp>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term type="genreTitle">Zarzuela</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2023-03-14T22:20:52">Converted with txt2tei&lt;https://github.com/fsanzl/txt2tei&gt;</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <standOff>
+    <listEvent>
+      <date type="print" when="1660" cert="medium"/>
+      <date type="written" when="1660" cert="medium"/>
+    </listEvent>
+  </standOff>
+  <text>
+    <front>
+      <castList>
+        <castItem>
+          <role>&lt;el&gt;Adonis</role>
+        </castItem>
+        <castItem>
+          <role>Marte</role>
+        </castItem>
+        <castItem>
+          <role>Amor</role>
+        </castItem>
+        <castItem>
+          <role>El Temor</role>
+        </castItem>
+        <castItem>
+          <role>El Desengaño</role>
+        </castItem>
+        <castItem>
+          <role>El Rencor</role>
+        </castItem>
+        <castItem>
+          <role>Chato</role>
+          <roleDesc> villano</roleDesc>
+        </castItem>
+        <castItem>
+          <role>Dragón</role>
+          <roleDesc> soldado</roleDesc>
+        </castItem>
+        <castItem>
+          <role>La Envidia</role>
+        </castItem>
+        <castItem>
+          <role>Venus</role>
+        </castItem>
+        <castItem>
+          <role>Belona</role>
+        </castItem>
+        <castItem>
+          <role>Flora</role>
+          <roleDesc> ninfa</roleDesc>
+        </castItem>
+        <castItem>
+          <role>Cintia</role>
+          <roleDesc> ninfa</roleDesc>
+        </castItem>
+        <castItem>
+          <role>Clori</role>
+          <roleDesc> ninfa</roleDesc>
+        </castItem>
+        <castItem>
+          <role>Libia</role>
+          <roleDesc> ninfa</roleDesc>
+        </castItem>
+        <castItem>
+          <role>Celfa</role>
+          <roleDesc> villana</roleDesc>
+        </castItem>
+        <castItem>
+          <role>La Sospecha</role>
+        </castItem>
+        <castItem>
+          <role>Soldados</role>
+        </castItem>
+        <castItem>
+          <role>Músicos
+</role>
+        </castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act" n="1">
+        <div type="scene" n="1">
+          <stage>Salen Flora, Cintia, Clori y Libia, cada una de por sí, cantando en estilo recitativo, como con asombro, mirando al vestuario, como huyendo con admiración.</stage>
+          <sp who="#flora">
+            <speaker>FLORA</speaker>
+            <l n="1" metre="-+-+--+-">¡Al bosque, al bosque, monteros,</l>
+            <l n="2" metre="-+-+--+">que osadamente veloz,</l>
+            <l n="3" metre="+-+-+-+-">va en alcance de una fiera</l>
+            <l n="4" metre="-+-+--+">la hermosa madre de Amor!</l>
+          </sp>
+          <sp who="#cintia">
+            <speaker>CINTIA</speaker>
+            <l n="5" metre="-+--+-+-">¡Ventores, al valle, al valle,</l>
+            <l n="6" metre="--+---+">que empeñado su valor,</l>
+            <l n="7" metre="-+----+-">se fía en que la hermosura</l>
+            <l n="8" metre="-+-+--+">aun vence más que el arpón!</l>
+          </sp>
+          <sp who="#clori">
+            <speaker>CLORI</speaker>
+            <l n="9" metre="-+-+--+-">¡Al monte, al monte, sabuesos,</l>
+            <l n="10" metre="-+-+--+">que bien tendrá su esplendor</l>
+            <l n="11" metre="---+--+">contra los hombres poder,</l>
+            <l n="12" metre="----+-+">mas contra los brutos no!</l>
+          </sp>
+          <sp who="#libia">
+            <speaker>LIBIA</speaker>
+            <l n="13" metre="-+--+-+-">¡Lebreles, al llano, al llano,</l>
+            <l n="14" metre="---+--+">que del cerdoso terror</l>
+            <l n="15" metre="-+-+--+-">—errado el tiro— embestida,</l>
+            <l n="16" metre="-+----+">peligra su perfección!</l>
+          </sp>
+          <sp who="#flora">
+            <speaker>FLORA</speaker>
+            <l part="I" n="17" metre="+-+-+-+">Id,…</l>
+          </sp>
+          <sp who="#cintia">
+            <speaker>CINTIA</speaker>
+            <l part="M" n="17" metre="+-+-+-+">Llegad,…</l>
+          </sp>
+          <sp who="#clori">
+            <speaker>CLORI</speaker>
+            <l part="M" n="17" metre="+-+-+-+">Corred,…</l>
+          </sp>
+          <sp who="#libia">
+            <speaker>LIBIA</speaker>
+            <l n="17" part="F" metre="+-+-+-+">Volad,…</l>
+          </sp>
+          <sp who="#dos-1as">
+            <speaker>DOS 1AS</speaker>
+            <l part="I" n="18" metre="--+---+">…que el cansancio…</l>
+          </sp>
+          <sp who="#flora #cintia #clori #libia #dos-1as">
+            <speaker>LAS DOS 2AS</speaker>
+            <l n="18" part="F" metre="--+---+">…que el temor…</l>
+          </sp>
+          <sp who="#cintia #libia">
+            <speaker>TODAS</speaker>
+            <l n="19" metre="+--+--+-">…ha desmayado en nosotras</l>
+            <l n="20" metre="++-+--+">vida, alma, aliento y acción.</l>
+          </sp>
+          <stage>Dentro Venus y Adonis.</stage>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="21" metre="+--+-++">¡Ay infelice! ¿No hay</l>
+            <l n="22" metre="--++--+">quien me dé amparo y favor,</l>
+            <l part="I" n="23" metre="+---+-+">no hay quien me socorra?</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="23" part="F" metre="+---+-+">Sí.</l>
+          </sp>
+          <stage>Salen los dos, y Adonis con Venus en los brazos.</stage>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l part="I" n="24" metre="+-+-+-+">¿Quién me da la vida?</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="24" part="F" metre="+-+-+-+">Yo,</l>
+            <l n="25" metre="+--+--+">pude en tu ayuda llegar</l>
+            <l n="26" metre="---+--+">a tan felice ocasión,</l>
+            <l n="27" metre="---+--+-">que acometido sin culto</l>
+            <l n="28" metre="-+----+">lo hermoso de lo feroz,</l>
+            <l n="29" metre="---+--+">solicitaba apagar</l>
+            <l n="30" metre="--+-+-+">su mejor estrella al sol;</l>
+            <l n="31" metre="---+--+-">y adelantando a la planta</l>
+            <l n="32" metre="--+---+">la saeta, que debió</l>
+            <l n="33" metre="-+-+--+-">de haber quitado la pluma</l>
+            <l n="34" metre="++----+">a un ala del corazón,</l>
+            <l n="35" metre="--+---+">tremolada en su cerviz,</l>
+            <l n="36" metre="---+--+">pues añadida se vio,</l>
+            <l n="37" metre="---+--+-">como en sagrado castigo</l>
+            <l n="38" metre="---+--+">de tan sacrílego error;</l>
+            <l n="39" metre="----+-+-">con cuyo acertado impulso</l>
+            <l n="40" metre="--+-+-+">el bandido bruto atroz</l>
+            <l n="41" metre="-+--+-+-">dejó de seguirte, a tiempo</l>
+            <l n="42" metre="---+--+">que de tu fuga el pavor</l>
+            <l n="43" metre="--+---+-">tropezó en tu ligereza,</l>
+            <l n="44" metre="----+-+">para que, llegando yo,</l>
+            <l n="45" metre="---+--+-">te recibiese en mis brazos:</l>
+            <l n="46" metre="--++--+">con que no queda deudor</l>
+            <l n="47" metre="-+----+-">tu riesgo a mi beneficio,</l>
+            <l n="48" metre="--+---+">pues tan presto le pagó</l>
+            <l n="49" metre="+-+---+-">que ha dejado la fineza</l>
+            <l n="50" metre="-+----+">ajada del galardón.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="51" metre="----+-+-">Ya que del pasado susto,</l>
+            <l n="52" metre="-+-+--+">gallardo, hermoso garzón,</l>
+            <l n="53" metre="---+--+-">mis fatigados alientos</l>
+            <l n="54" metre="+-----+">cobran la respiración</l>
+            <l n="55" metre="-++---+-">—y más viendo que la herida</l>
+            <l n="56" metre="+--+--+">fiera, manchando el verdor,</l>
+            <l n="57" metre="-+--+-+-">al monte a enfrascarse vuelve,</l>
+            <l n="58" metre="--+-+-+">con que más segura estoy—,</l>
+            <l part="I" n="59" metre="+-++--+-">sepa quién eres.</l>
+          </sp>
+          <sp who="#cintia #libia">
+            <speaker>TODAS</speaker>
+            <l n="59" part="F" metre="+-++--+-">Y sepan</l>
+            <l n="60" metre="------+">cuantas a su adoración</l>
+            <l n="61" metre="-+--+-+-">asisten, a quién deudoras</l>
+            <l n="62" metre="--++--+">de tan gran dádiva son</l>
+            <l n="63" metre="---+--+-">como la vida de Venus.</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l part="I" n="64" metre="+-+-+++">¿Tú eres Venus?</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="64" part="F" metre="+-+-+++">Sí, yo soy</l>
+            <l n="65" metre="-+-+--+-">deidad y reina de Chipre;</l>
+            <l n="66" metre="--+---+">mas ¿de qué es la suspensión?</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="67" metre="-+-+--+">De haber llegado a mirar</l>
+            <l n="68" metre="-+----+">prodigio tan superior,</l>
+            <l n="69" metre="----+-+-">como que naciese nieve</l>
+            <l n="70" metre="----+-+">para que engendrase ardor.</l>
+            <l n="71" metre="+--+--+">¿Tú eres la madre de aquel</l>
+            <l n="72" metre="-+--+-+">desnudo vendado dios,</l>
+            <l n="73" metre="--+-+-+-">que, por más que dore el hierro,</l>
+            <l n="74" metre="++-+--+">nunca ha dorado el error?</l>
+            <l n="75" metre="-+-+--+-">¿De aquel escándalo niño,</l>
+            <l n="76" metre="-+-+--+">tan siempre niño, que no</l>
+            <l n="77" metre="+-+-+-+-">es mayor que el día que nace,</l>
+            <l n="78" metre="-+-++-+">y crece a no ser mayor?</l>
+            <l n="79" metre="-+-+--+-">¿De aquel tirano caudillo</l>
+            <l n="80" metre="--++--+">que en la lid de una pasión</l>
+            <l n="81" metre="+---+-+-">hizo sinrazón, haciendo</l>
+            <l n="82" metre="--+---+">prisionera la razón?</l>
+            <l n="83" metre="-+-+--+">¿De aquel intruso poder</l>
+            <l n="84" metre="---+--+">que con el mismo dolor</l>
+            <l n="85" metre="---+--+-">que en la prisión la atormenta,</l>
+            <l n="86" metre="--+---+">la entretiene en la prisión?</l>
+            <l n="87" metre="--+---+-">Pues perdona, que aunque sea</l>
+            <l n="88" metre="-+-+--+">mi más heroico blasón</l>
+            <l n="89" metre="-+-+--+-">haberte dado la vida,</l>
+            <l n="90" metre="++-++-+">triunfo ha de ser no menor</l>
+            <l n="91" metre="++-+--+">no darte aplauso, porque</l>
+            <l n="92" metre="+--+--+">veas que Adonis llegó</l>
+            <l n="93" metre="+--+--+">solo en el mundo a lograr</l>
+            <l n="94" metre="-+--+-+">en una vitoria dos.</l>
+          </sp>
+          <stage>Yéndose.</stage>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="95" metre="+-+---+-">Oye, no porque pretenda</l>
+            <l n="96" metre="--+-+-+-">aplausos tuyos, sino</l>
+            <l n="97" metre="--+-+-+-">porque sepa quién blasona</l>
+            <l n="98" metre="--+---+">con tan libre presunción.</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="99" metre="----+-+-">Quien aborrecido hijo</l>
+            <l n="100" metre="++-+--+">tan desde luego nació</l>
+            <l n="101" metre="--+---+-">de sus padres, que aun en ellos</l>
+            <l n="102" metre="++-+--+">no supo qué era afición.</l>
+            <l n="103" metre="+--+--+-">Mirra, mi madre, lo diga,</l>
+            <l n="104" metre="--+---+">pues apenas me engendró,</l>
+            <l n="105" metre="--+---+-">cuando, en odio del concepto</l>
+            <l n="106" metre="+--+--+">—hurto de amante traición—,</l>
+            <l n="107" metre="-+-+--+-">su mismo padre mi vida</l>
+            <l n="108" metre="--+---+">y su vida abandonó,</l>
+            <l n="109" metre="+---+-+-">tanto, que la dio la muerte;</l>
+            <l n="110" metre="--+---+">cuya mísera aflicción</l>
+            <l n="111" metre="--+---+-">en sus últimos alientos</l>
+            <l n="112" metre="-+----+">los dioses compadeció,</l>
+            <l n="113" metre="--+--++-">convirtiéndola en un árbol,</l>
+            <l n="114" metre="----+-+">de cuyo llorado humor,</l>
+            <l n="115" metre="-+-+--+-">guardando el nombre de mirra,</l>
+            <l n="116" metre="-+-+--+">nací bastardo embrión,</l>
+            <l n="117" metre="--+---+-">maldecido de mis padres,</l>
+            <l n="118" metre="---+--+">y con tan gran maldición</l>
+            <l n="119" metre="---+-++-">como que de un amor muera.</l>
+            <l n="120" metre="--+---+">Considere tu atención,</l>
+            <l n="121" metre="--+---+-">si en mi horóscopo primero</l>
+            <l n="122" metre="-+-++-+">aborto de un tronco soy,</l>
+            <l n="123" metre="--++--+">si después llevo tras mí</l>
+            <l n="124" metre="---+--+">el heredado temor</l>
+            <l n="125" metre="---++-+-">de que de amor muera, puedo</l>
+            <l n="126" metre="+--+--+">no aborrecer al amor.</l>
+            <l n="127" metre="---+--+-">A cuya causa, dejando</l>
+            <l n="128" metre="---+--+">la comercial población</l>
+            <l n="129" metre="--+---+-">de los hombres, de las fieras</l>
+            <l n="130" metre="++-+--+">vivo una y otra mansión,</l>
+            <l n="131" metre="-+----+-">tan huésped de las montañas</l>
+            <l n="132" metre="-+-+--+">que muchas veces dudó</l>
+            <l n="133" metre="-+-+--+-">su mismo vulgo si era</l>
+            <l n="134" metre="-+----+">la caza, u el cazador;</l>
+            <l n="135" metre="-+-+-++">y así, a mis hados, no a mí,</l>
+            <l n="136" metre="+---+-+">culpa, cuando ves que voy</l>
+            <l n="137" metre="-+--+-+-">huyendo de ti en alcance</l>
+            <l n="138" metre="-+---++">del bruto que de mí huyó;</l>
+            <l n="139" metre="+---+-+">que he de rematarle, ya</l>
+            <l n="140" metre="+-+---+">que es tan rudo mi valor</l>
+            <l n="141" metre="+-----+-">que huya de las hermosuras</l>
+            <l n="142" metre="----+-+">y de las fierezas no.</l>
+          </sp>
+          <stage>Vase.</stage>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="143" metre="+-+-+-+-">Oye, aguarda, escucha, espera,</l>
+            <l n="144" metre="--+--++">advirtiendo que no es don</l>
+            <l n="145" metre="-+-++-+-">para una dama una vida</l>
+            <l n="146" metre="-++---+">que cuesta una estimación.</l>
+            <l part="I" n="147" metre="-+-+--+">¡Tenelde, cielos!</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="147" part="F" metre="-+-+--+">¿A quién,</l>
+            <l n="148" metre="-+-+--+">hermosa Venus, tu voz</l>
+            <l n="149" metre="-+-+--+">ansiosa llama, y de quién</l>
+            <l part="I" n="150" metre="+-+-+-+">forma quejas?…</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="150" part="F" metre="+-+-+-+">(¡Muerta estoy!)</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="151" metre="--+-+-+">…que según el eco oí</l>
+            <l n="152" metre="+---+-+">ser —tan liberal ladrón</l>
+            <l n="153" metre="-+--+-+-">que, hurtándote el medio acento,</l>
+            <l n="154" metre="-+----+">entero me le llevó—</l>
+            <l n="155" metre="---+--+-">tu estimación ofendida;</l>
+            <l n="156" metre="--+-+-+">se lamenta, y es baldón</l>
+            <l n="157" metre="-+-+--+-">que tú te quejes al cielo,</l>
+            <l n="158" metre="-+--+-+">estando en la tierra yo.</l>
+            <l part="I" n="159" metre="++-+-++">¿Qué es esto, Venus?</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="159" part="F" metre="++-+-++">No sé.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="160" metre="--+---+">Considera, que aunque estoy</l>
+            <l n="161" metre="--+---+">tan rendido a tu desdén,</l>
+            <l n="162" metre="--+---+">tan postrado a tu favor,</l>
+            <l n="163" metre="+-+-+++-">no por eso no soy Marte,</l>
+            <l n="164" metre="+--+--+">que antes por eso lo soy,</l>
+            <l n="165" metre="--++--+-">pues osar a una hermosura</l>
+            <l n="166" metre="+-+---+">es el ánimo mayor.</l>
+            <l n="167" metre="+---+-+-">¿Ves el militar estruendo,</l>
+            <l n="168" metre="+-+---+">ves el bélico furor</l>
+            <l n="169" metre="---+--+-">con que me aclaman las lides</l>
+            <l n="170" metre="--+-+-+">por su más guerrero dios?</l>
+            <l n="171" metre="-++-+-+-">Y más hoy que Egnido y Delfos,</l>
+            <l n="172" metre="+--+--+">islas de Marte y del Sol,</l>
+            <l n="173" metre="+--+--+-">arden en guerras, a cuya</l>
+            <l n="174" metre="+-+--++">causa ausente de ti estoy.</l>
+            <l n="175" metre="-+--+-+-">Pues todos mis triunfos, todas</l>
+            <l n="176" metre="--+-+-+">mis vitorias no lo son,</l>
+            <l n="177" metre="---+-++">hasta llegar a ti más</l>
+            <l n="178" metre="-+----+">vencido que vencedor;</l>
+            <l n="179" metre="-++---+-">y así no, porque rendido</l>
+            <l n="180" metre="-+-+--+">me veas, juzgues que no</l>
+            <l n="181" metre="--+-+++">te sabré vengar. ¿Quién, pues,</l>
+            <l part="I" n="182" metre="-+-+--+">te ofende?</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="182" part="F" metre="-+-+--+">(¡Qué confusión!</l>
+            <l n="183" metre="--+--++-">Si le digo lo que ha sido,</l>
+            <l n="184" metre="+--+--+">ha de mostrar su rigor</l>
+            <l n="185" metre="-+-+--+-">contra ese joven; y aunque</l>
+            <l n="186" metre="-+-+--+">pasó a desaire el favor,</l>
+            <l n="187" metre="+-+---+-">no es desaire que me obligue</l>
+            <l part="I" n="188" metre="+--+--+">más que a sentirle.)</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="188" part="F" metre="+--+--+">Pues ¿no</l>
+            <l part="I" n="189" metre="-+---++-">respondes?</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="189" part="F" metre="-+---++-">¿Para qué quieres</l>
+            <l n="190" metre="--+---+">que te diga que el temor</l>
+            <l n="191" metre="---+--+-">con que te amé, sin cariño</l>
+            <l n="192" metre="+--+--+">llega a tan mala ocasión</l>
+            <l n="193" metre="--+---+">que, acordándome de que</l>
+            <l n="194" metre="+-+---+">fuimos fábula los dos</l>
+            <l n="195" metre="--+-+-+-">de los dioses…? yo… si… cuando…</l>
+            <l n="196" metre="--+--++">Mas perdona, que no estoy</l>
+            <l n="197" metre="----+++-">para proseguir, que un susto,</l>
+            <l n="198" metre="+-++--+">un delirio, una ilusión,</l>
+            <l n="199" metre="+-++--+-">un letargo han embargado</l>
+            <l n="200" metre="+-+-+-+">alma y vida. (¡Muerta voy!)</l>
+          </sp>
+          <stage>Vase.</stage>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="201" metre="+-+++-+-">(¿Qué extrañeza es ésta, cielos,</l>
+            <l n="202" metre="-+--+-+">que en Venus mi afecto halló,</l>
+            <l n="203" metre="-+--+-+-">que más que me calla el labio,</l>
+            <l n="204" metre="-+----+">me dice la turbación?)</l>
+            <l part="I" n="205" metre="++-++-+">¿Qué es esto, Flora?</l>
+          </sp>
+          <sp who="#flora">
+            <speaker>FLORA</speaker>
+            <l n="205" part="F" metre="++-++-+">(¡Ay de mí!,</l>
+            <l n="206" metre="--+---+">que su fiera condición</l>
+            <l n="207" metre="+--+-++">no es para burlas.) No sé;</l>
+            <l n="208" metre="+---+-+">Clori lo dirá mejor.</l>
+          </sp>
+          <stage>Vase.</stage>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l part="I" n="209" metre="+-++--+-">Clori, ¿qué es esto?</l>
+          </sp>
+          <sp who="#clori">
+            <speaker>CLORI</speaker>
+            <l n="209" part="F" metre="+-++--+-">Saliendo</l>
+            <l n="210" metre="-+--+-+">a caza al primer albor…</l>
+            <l n="211" metre="-+----+">Mas Cintia te lo dirá.</l>
+          </sp>
+          <stage>Vase.</stage>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l part="I" n="212" metre="+-++--+">Cintia.</l>
+          </sp>
+          <sp who="#cintia">
+            <speaker>CINTIA</speaker>
+            <l n="212" part="F" metre="+-++--+">Yo nada, señor,</l>
+            <l n="213" metre="+-+--++-">sé; mejor lo dirá Libia.</l>
+          </sp>
+          <stage>Vase.</stage>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l part="I" n="214" metre="+-----+">Libia.</l>
+          </sp>
+          <sp who="#libia">
+            <speaker>LIBIA</speaker>
+            <l n="214" part="F" metre="+-----+">(Sin apelación</l>
+            <l n="215" metre="+-+---+-">he quedado para otra.)</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l part="I" n="216" metre="++--+-+">¿Qué es esto?</l>
+          </sp>
+          <sp who="#libia">
+            <speaker>LIBIA</speaker>
+            <l n="216" part="F" metre="++--+-+">Tristezas son</l>
+            <l part="I" n="217" metre="--+-+-+-">de tu ausencia.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="217" part="F" metre="--+-+-+-">¡Mientes, mientes!</l>
+            <l n="218" metre="-+-+--+">Que a ser amante pasión,</l>
+            <l n="219" metre="--++--+-">lo que ayer fueron agrados</l>
+            <l n="220" metre="++--+-+">no fueran despegos hoy.</l>
+            <l n="221" metre="+-++--+-">Dime qué ha sido, o la muerte…</l>
+          </sp>
+          <sp who="#libia">
+            <speaker>LIBIA</speaker>
+            <l n="222" metre="-+-+--+">Suspende, Marte, la acción;</l>
+            <l n="223" metre="--+-+-+-">que en efeto soy criada,</l>
+            <l n="224" metre="----+-+">aunque de deidad lo soy.</l>
+            <l n="225" metre="+--+--+">Venus siguió un jabalí,</l>
+            <l n="226" metre="---++-+">y como en fin no es razón</l>
+            <l n="227" metre="-+---++-">que acierte con ningún puerco</l>
+            <l n="228" metre="-+--+-+">ningún amoroso arpón,</l>
+            <l n="229" metre="-+-+--+">erró el tiro, con que él</l>
+            <l n="230" metre="--+---+">tan grosero la embistió,</l>
+            <l n="231" metre="---+-++-">que peligrara, si un bello,</l>
+            <l n="232" metre="-+--+-+">airoso, galán garzón</l>
+            <l part="I" n="233" metre="+---+-+-">no la socorriera.</l>
+          </sp>
+          <stage>Vase.</stage>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="233" part="F" metre="+---+-+-">¡Calla,</l>
+            <l n="234" metre="+-+-+-+">no prosigas, ten la voz!</l>
+            <l n="235" metre="-+----+-">Si no era para callado</l>
+            <l n="236" metre="--+---+">lo que Libia me contó,</l>
+            <l n="237" metre="-+---++-">¿por qué me lo calló Venus?</l>
+            <l n="238" metre="-+-+--+">Aquí hay segunda intención.</l>
+            <l n="239" metre="+-+---+-">¡Cuánto, cielos, se adelanta</l>
+            <l n="240" metre="-+----+">la amante imaginación!</l>
+          </sp>
+          <stage>Dentro cajas y trompetas.</stage>
+          <sp who="#voces">
+            <speaker>VOCES</speaker>
+            <l n="241" metre="+-+-+-+-">¡Arma, arma! ¡Guerra, guerra!</l>
+          </sp>
+          <sp who="#unos">
+            <speaker>UNOS</speaker>
+            <l part="I" n="242" metre="+-+-+-+">¡Viva Marte!</l>
+          </sp>
+          <sp who="#otros">
+            <speaker>OTROS</speaker>
+            <l n="242" part="F" metre="+-+-+-+">¡Viva el Sol!</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="243" metre="--+-+-+-">Pero ¿qué lejano acento,</l>
+            <l n="244" metre="--+---+">ocupando la región</l>
+            <l n="245" metre="-+-+--+-">del aire, llega a mi oído?</l>
+            <l part="I" n="246" metre="+++-+-+">¿Quién trae estos ecos?</l>
+          </sp>
+          <stage>Sale Belona en lo alto.</stage>
+          <sp who="#belona">
+            <speaker>BELONA</speaker>
+            <l n="246" part="F" metre="+++-+-+">Yo,</l>
+            <l n="247" metre="-+--+-+-">que al fin, como hermana tuya,</l>
+            <l n="248" metre="---+--+">y interesada en tu honor,</l>
+            <l n="249" metre="+-+---+-">vengo, Marte, a persuadirte</l>
+            <l n="250" metre="-+----+">que vuelvas por tu opinión;</l>
+            <l n="251" metre="---+--+-">pues los de Delfos, sabiendo</l>
+            <l n="252" metre="--+---+">que te ausenta tu pasión</l>
+            <l n="253" metre="--+-+-+-">—porque el Sol se lo ha contado,</l>
+            <l n="254" metre="-++-+-+">que no calla nada el Sol—,</l>
+            <l n="255" metre="--+---+-">los ejércitos de Egnido</l>
+            <l n="256" metre="-+----+">asaltan, y tu favor</l>
+            <l n="257" metre="-+----+">aclaman cuantos en él</l>
+            <l n="258" metre="-++---+">te dan sacra adoración.</l>
+            <l n="259" metre="---+--+-">A cuya causa mi ira,</l>
+            <l n="260" metre="+-+---+">siempre tuya, le pidió</l>
+            <l n="261" metre="-+-+--+-">a Juno el arco de Iris,</l>
+            <l n="262" metre="---+--+">para que vuelvas veloz</l>
+            <l n="263" metre="--+-+-+">a auxiliar tus gentes, que</l>
+            <l n="264" metre="+---+-+">dicen en marcial clamor:…</l>
+          </sp>
+          <stage>Cajas y clarines.</stage>
+          <sp who="#voces">
+            <speaker>VOCES</speaker>
+            <l n="265" metre="+-+-+-+-">¡Arma, arma! ¡Guerra, guerra!</l>
+          </sp>
+          <sp who="#unos">
+            <speaker>UNOS</speaker>
+            <l part="I" n="266" metre="+-+-+-+">¡Viva Marte!</l>
+          </sp>
+          <sp who="#otros">
+            <speaker>OTROS</speaker>
+            <l n="266" part="F" metre="+-+-+-+">¡Viva el Sol!</l>
+          </sp>
+          <sp who="#belona">
+            <speaker>BELONA</speaker>
+            <l part="I" n="267" metre="++--+-+-">¿Qué aguardas, pues?</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="267" part="F" metre="++--+-+-">¡Ay, Belona!,</l>
+            <l n="268" metre="+-+---+">que has venido en ocasión</l>
+            <l n="269" metre="-+----+-">que rémora de mis iras</l>
+            <l n="270" metre="-+--+-+">cobardes sospechas son.</l>
+            <l n="271" metre="---++-+-">Pero mi fama es primero;</l>
+            <l n="272" metre="+--+--+">vamos, que en viendo que doy</l>
+            <l n="273" metre="+--+--+">fuerza a mi gente, verás</l>
+            <l n="274" metre="--+---+">que la quito a mi temor,</l>
+            <l n="275" metre="-+----+-">volviendo donde… Mas esto</l>
+            <l n="276" metre="--++--+">lo dirá el tiempo mejor,</l>
+            <l n="277" metre="----+-+-">cuando —si a verdades pasan</l>
+            <l n="278" metre="-+--+-+">sospechas que agora son—</l>
+            <l n="279" metre="+-+-+-+-">diga el eco en más sangrientas</l>
+            <l n="280" metre="+--+--+">lides de celos y amor:…</l>
+          </sp>
+          <sp who="#adonis #venus #flora #clori #cintia #libia #voces-dentro #uno #otros #belona #marte">
+            <speaker>TODOS</speaker>
+            <l n="281" metre="+-+-+-+-">¡Arma, arma! ¡Guerra, guerra!</l>
+            <l n="282" metre="+-+-+-+">¡Viva Marte! ¡Viva el Sol!</l>
+          </sp>
+          <stage>Despliégase el iris, baja Belona, y, arrebatando a Marte, desaparecen los dos, y salen Celfa y Chato, villanos rústicos.</stage>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="283" metre="-++---+">¿Sabrás, Celfa, responder</l>
+            <l part="I" n="284" metre="+-+-+-+-">a una duda?</l>
+          </sp>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l n="284" part="F" metre="+-+-+-+-">A buen seguro.</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="285" metre="--+---+">Desde que eres mi mojer,</l>
+            <l part="I" n="286" metre="+-++--+-">¿qué será…</l>
+          </sp>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l part="M" n="286" metre="+-++--+-">Di.</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="286" part="F" metre="+-++--+-">…que de puro</l>
+            <l n="287" metre="+-+-+-+">verte, no te puedo ver?</l>
+          </sp>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l n="288" metre="-+--+-+">¿Sabrás responderme a mí</l>
+            <l part="I" n="289" metre="+-+-+-+">tú a otra duda?</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="289" part="F" metre="+-+-+-+">Creo que sí.</l>
+          </sp>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l n="290" metre="--+-+-+">Aborrida yo también,</l>
+            <l n="291" metre="+-+-+-+">¿qué es que no te quiera bien,</l>
+            <l n="292" metre="---+--+">y que me muera por ti?</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="293" metre="+--+--+">Penas se toman y dan,</l>
+            <l n="294" metre="+-+--++-">a un rofián enseñar plugo.</l>
+          </sp>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l n="295" metre="--+-+-+">Y en favor del tal rofián</l>
+            <l n="296" metre="++-+--+-">yo vi azotar al verdugo.</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="297" metre="+-+---+">Yo enterrar al sacristán.</l>
+          </sp>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l n="298" metre="-+--+-+">A todos su mismo error</l>
+            <l part="I" n="299" metre="-+-++-+-">el pago da.</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="299" part="F" metre="-+-++-+-">No lo niego;</l>
+            <l n="300" metre="----+-+">y porque lo veas mejor,</l>
+            <l n="301" metre="+--+-++-">yo conocí a un veedor ciego.</l>
+          </sp>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l n="302" metre="-+++--+">Y yo sordo a un auditor;</l>
+            <l n="303" metre="-+--+-+">mas dónde el discurso irá</l>
+            <l n="304" metre="--+-+-+-">a parar, saber espero.</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="305" metre="+--++-+-">Todo marido es arriero</l>
+            <l n="306" metre="-+-+--+">que lleva cargas y va</l>
+            <l n="307" metre="-+----+-">a dar en su paradero.</l>
+            <l n="308" metre="--+-+-+-">Cuando a ver a Venus bella</l>
+            <l n="309" metre="-++-+-+">el dios Martes viene aquí,</l>
+            <l n="310" metre="-+++--+-">¿a qué efecto hace mi estrella</l>
+            <l n="311" metre="-+-+--+-">que sea el martes para ella,</l>
+            <l n="312" metre="--+---+">y el agüero para mí?</l>
+            <l n="313" metre="+--++-+">¿Qué soldadillo es aquél</l>
+            <l n="314" metre="-+--+-+">que suele venir con él?</l>
+          </sp>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l n="315" metre="--++--+">¿Soldadillo? Es ilusión,</l>
+            <l n="316" metre="--+---+">porque no es sino dragón.</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="317" metre="+++-+-+">¿Quién vio pena más cruel?</l>
+            <l part="I" n="318" metre="-++---+-">¿Dragón?</l>
+          </sp>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l n="318" part="F" metre="-++---+-">Sí, que de dragones</l>
+            <l n="319" metre="+-+---+-">Marte allá en sus escuadrones</l>
+            <l part="I" n="320" metre="+--++-+">diz que se sirve.</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="320" part="F" metre="+--++-+">¡Ay de mí!</l>
+            <l n="321" metre="-+-++-+">Mas si es dragón, ¿cómo, di,</l>
+            <l n="322" metre="+-+-+-+-">tú con él a hablar te pones</l>
+            <l n="323" metre="+-+---+">cada noche en el jardín</l>
+            <l n="324" metre="---+--+-">adonde a Venus servimos?</l>
+          </sp>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l n="325" metre="+--+--+">¡Ay, que maldito magín!</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="326" metre="---+--+-">Ello dirá… Y pues venimos</l>
+            <l n="327" metre="+-+-+-+">a este monte sólo a fin</l>
+            <l n="328" metre="-++-+-+">de hacer leña, yo sabré</l>
+            <l n="329" metre="-++-+-+">cortar un garrote que</l>
+            <l n="330" metre="+-+-+-+">diga si es dragón o no.</l>
+          </sp>
+          <sp who="#uno">
+            <speaker>UNO</speaker>
+            <l part="I" n="331" metre="+--+-++">¡Guarda la fiera!</l>
+          </sp>
+          <sp who="#adonis #venus #flora #clori #cintia #libia #voces-dentro #otros #belona #marte #celfa #chato #uno">
+            <speaker>TODOS</speaker>
+            <l n="331" part="F" metre="+--+-++">¡To, to!</l>
+          </sp>
+          <sp who="#uno">
+            <speaker>UNO</speaker>
+            <l n="332" metre="-+--+-+">De aquella montaña al pie</l>
+            <l part="I" n="333" metre="+--++-+">la he descubierto.</l>
+          </sp>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l n="333" part="F" metre="+--++-+">¡Ay de mí!</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="334" metre="+-+---+">No te asustes, que por ti</l>
+            <l n="335" metre="+---+-+-">deben de decirlo, espera.</l>
+            <l n="336" metre="--+---+-">¡A la falda! ¡A la ribera!</l>
+          </sp>
+          <stage>dentro</stage>
+          <stage>Sale Adonis.</stage>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="337" metre="-+----+">Decidme si por aquí</l>
+            <l n="338" metre="-+----+">herida, al amanecer,</l>
+            <l n="339" metre="+--+--+">visteis, villanos, correr</l>
+            <l part="I" n="340" metre="+-+-+-+-">una fiera.</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="340" part="F" metre="+-+-+-+-">En todo el día</l>
+            <l n="341" metre="++--+-+-">no he visto, por vida mía,</l>
+            <l n="342" metre="++----+">más fiera que a mi mujer.</l>
+            <l n="343" metre="+---+-+-">Si ella, que bastante indicio</l>
+            <l n="344" metre="+-++--+-">da de ser fiera rabiosa,</l>
+            <l n="345" metre="+--+--+-">busca tan noble ejercicio,</l>
+            <l n="346" metre="----+++-">aunque para vos no es cosa,</l>
+            <l n="347" metre="-+++--+-">ahí está a vueso servicio.</l>
+          </sp>
+          <stage>Vase.</stage>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l n="348" metre="+++-+-+-">No hagáis caso de un villano</l>
+            <l n="349" metre="-+-+--+-">tan tosco, rudo y grosero.</l>
+          </sp>
+          <stage>Vase.</stage>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="350" metre="---++-+-">El jabalí sigo en vano;</l>
+            <l n="351" metre="--+-+++-">y pues no alcanzarle es llano,</l>
+            <l n="352" metre="--+-+-+-">descansar a sombra quiero</l>
+            <l n="353" metre="+-+---+-">deste risco, pues me ofrece,</l>
+            <l n="354" metre="--+---+-">matizado de colores</l>
+            <l n="355" metre="--+---+-">en la alfombra que guarnece,</l>
+            <l n="356" metre="+-+---+-">verde lecho, que parece</l>
+            <l n="357" metre="-+-+--+-">mullido catre de flores.</l>
+            <l n="358" metre="+-+-+-+">¡Cuánto vive aquí mejor</l>
+            <l n="359" metre="-+----+">ociosa la voluntad</l>
+            <l n="360" metre="---+--+">que en el alcázar mayor,</l>
+            <l n="361" metre="----+-+">donde la deidad de amor</l>
+            <l n="362" metre="--+-+-+">a mi costa sea deidad!</l>
+            <l n="363" metre="+---+-+-">Dígalo en la verde esfera</l>
+            <l n="364" metre="+-+---+-">desta estancia lisonjera</l>
+            <l n="365" metre="-+--+-+-">cansancio que en sueño para,</l>
+            <l n="366" metre="-+-+--+-">pues no durmiera, si amara;</l>
+            <l n="367" metre="-++---+-">o no amara, si durmiera.</l>
+          </sp>
+          <stage>Échase en el suelo.</stage>
+          <stage>Duérmese. Salen Venus y las ninfas.</stage>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="368" metre="--+--++">Pues extremos que él vio,</l>
+            <l n="369" metre="-+--+-+">o cajas que yo oí,</l>
+            <l n="370" metre="---+--+-">ausentaron a Marte,</l>
+            <l n="371" metre="-+---+">dejadme discurrir</l>
+            <l n="372" metre="-+-+-+-">sin mí y conmigo a solas</l>
+            <l n="373" metre="--+--+">el ameno país</l>
+            <l n="374" metre="+-+--+-">destos montes, en cuyo</l>
+            <l n="375" metre="--+--+">marañado confín</l>
+            <l n="376" metre="+-++-+">he de ver, ¡ay de mí!,</l>
+            <l n="377" metre="+--+-----+">si hallo el descanso donde le perdí.</l>
+          </sp>
+          <sp who="#flora">
+            <speaker>FLORA</speaker>
+            <l part="I" n="378" metre="--+-++-">Considera…</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="378" part="F" metre="--+-++-">No tienes,</l>
+            <l n="379" metre="+-+--+">Flora, qué me decir.</l>
+          </sp>
+          <sp who="#libia">
+            <speaker>LIBIA</speaker>
+            <l part="I" n="380" metre="+-+--+">Mira…</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="380" part="F" metre="+-+--+">¿Qué he de mirar?</l>
+          </sp>
+          <sp who="#cintia">
+            <speaker>CINTIA</speaker>
+            <l part="I" n="381" metre="-+-+-+">Advierte…</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="381" part="F" metre="-+-+-+">No he de oír.</l>
+          </sp>
+          <sp who="#clori">
+            <speaker>CLORI</speaker>
+            <l n="382" metre="+-+--+-">¿Tanto de una tristeza</l>
+            <l part="I" n="383" metre="-+--++">te dejas vencer?</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="383" part="F" metre="-+--++">Sí.</l>
+            <l n="384" metre="-+---+-">Dejadme, pues, dejadme</l>
+            <l n="385" metre="+-+--+">sola; todas os id.</l>
+          </sp>
+          <sp who="#celfa #flora #libia #cintia">
+            <speaker>TODAS</speaker>
+            <l n="386" metre="--+--+">A pesar del amor</l>
+            <l n="387" metre="--+--+">que nos lleva tras tí,</l>
+            <l part="I" n="388" metre="---+-+">te dejaremos.</l>
+          </sp>
+          <stage>Vanse.</stage>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="388" part="F" metre="---+-+">Ya</l>
+            <l n="389" metre="---+-+">que las eché de aquí,</l>
+            <l n="390" metre="+-++-+">he de ver, ¡ay de mí!,</l>
+            <l n="391" metre="+--+-----+">si hallo el descanso donde le perdí.</l>
+            <l n="392" metre="++---+-">¿Qué género de ansia,</l>
+            <l n="393" metre="+-+--+">altos montes, decid,</l>
+            <l n="394" metre="++---+">qué especie de penar,</l>
+            <l n="395" metre="-+---+">linaje de sentir,</l>
+            <l n="396" metre="+--+-+-">es el que en mí ha engendrado</l>
+            <l n="397" metre="-+-+-+">haber llegado a oír</l>
+            <l n="398" metre="-+---+">baldones del amor</l>
+            <l n="399" metre="-+---+">a espíritu tan vil</l>
+            <l n="400" metre="---+-+-">que su deidad infama?</l>
+            <l n="401" metre="-+++-+">Y no tan sólo aquí</l>
+            <l n="402" metre="---+-+-">mis sentimientos cesan,</l>
+            <l n="403" metre="---+-+">sino que, siendo así</l>
+            <l n="404" metre="--+--+-">que obligada y quejosa,</l>
+            <l n="405" metre="+-+--+">es forzoso impedir</l>
+            <l n="406" metre="-+---+-">lisonjas de lo noble,</l>
+            <l n="407" metre="-+---+">injurias de lo ruin,</l>
+            <l n="408" metre="---+-+-">en cuyos dos extremos,</l>
+            <l n="409" metre="-+---+">quedando a discurrir</l>
+            <l n="410" metre="--+--+">si podrá agradecer</l>
+            <l n="411" metre="-+---+">quien tiene que sentir,</l>
+            <l part="I" n="412" metre="+-++-+">he de ver…</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="412" part="F" metre="+-++-+">¡Ay de mí!</l>
+            <l n="413" metre="--++---+-+">Que me da muerte a quien la vida di.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="414" metre="-++--+-">Mas ¿qué triste lamento</l>
+            <l n="415" metre="-+---+">intenta interrumpir</l>
+            <l n="416" metre="-+---+-">mis penas con sus penas?</l>
+            <l n="417" metre="-+-+-+">La voz se oyó hacia allí.</l>
+            <l n="418" metre="++--++-">¿Qué miro? Sobre un risco</l>
+            <l n="419" metre="-+---+">que supo persuadir</l>
+            <l n="420" metre="--+--+-">al cansancio que era</l>
+            <l n="421" metre="-+---+">florido trasportín,</l>
+            <l n="422" metre="---+-+">del venatorio afán</l>
+            <l n="423" metre="+-+--+">treguas dando a la lid,</l>
+            <l n="424" metre="---+-+-">sobre la aljaba de oro</l>
+            <l n="425" metre="-+---+">el arco de marfil,</l>
+            <l n="426" metre="-+-+-+-">dormido el joven yace.</l>
+            <l n="427" metre="--+--+">¡O si hubiera —a decir</l>
+            <l n="428" metre="++-+-+-">vuelvo otra vez y ciento,</l>
+            <l n="429" metre="++-+-+">vuelvo otra vez y mil—</l>
+            <l n="430" metre="+----+-">cómo, entre agradecida</l>
+            <l n="431" metre="--+--+">y quejosa, partir</l>
+            <l n="432" metre="-+---+-">pudieran el camino</l>
+            <l n="433" metre="-+---+">lo ilustre y lo civil!</l>
+            <l n="434" metre="-+-+-+">¿Daréle muerte? No.</l>
+            <l n="435" metre="+--+-+">¿No he de vengarme? Sí.</l>
+            <l n="436" metre="+-++-+">¡Oh si hubiera un matar</l>
+            <l n="437" metre="-++--+">que no fuera morir!</l>
+            <l n="438" metre="--++-+">Pero sí habrá, que yo,</l>
+            <l n="439" metre="-+---+">llegando a prevenir</l>
+            <l n="440" metre="+---++-">cómo, sin morir, muera,</l>
+            <l n="441" metre="-+---+">y viva sin vivir,</l>
+            <l part="I" n="442" metre="+-++-+">he de ver,…</l>
+          </sp>
+          <stage>Vese a Adonis durmiendo entre unas ramas.</stage>
+          <sp who="#adonis #venus">
+            <speaker>LOS DOS</speaker>
+            <l n="442" part="F" metre="+-++-+">…¡ay de mí!,…</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="443" metre="+--+-----+">…si hallo el descanso donde le perdí.</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="444" metre="--++---+-+">…que me da muerte a quien la vida di.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="445" metre="++-+-+">Oh tú, velero dios,</l>
+            <l n="446" metre="-+---+">que en campos de zafir,</l>
+            <l n="447" metre="-+---+">relámpago sin luz,</l>
+            <l n="448" metre="+----+">pájaro sin matiz,</l>
+            <l n="449" metre="-+---+-">huyendo mi regazo,</l>
+            <l n="450" metre="+-+--+">no hay remoto confín</l>
+            <l n="451" metre="-++--+">que no corras veloz,</l>
+            <l n="452" metre="-++--+">que no vueles sutil,</l>
+            <l part="I" n="453" metre="+--+++-">oye mi voz.</l>
+          </sp>
+          <stage>Sale Amor en lo alto.</stage>
+          <sp who="#amor">
+            <speaker>AMOR</speaker>
+            <l n="453" part="F" metre="+--+++-">¿Qué quieres,</l>
+            <l n="454" metre="++---+">oh tú, cuyo gemir</l>
+            <l n="455" metre="+-+--+-">no sin causa acredita</l>
+            <l n="456" metre="-+---+">lo hermoso de infeliz?</l>
+            <l n="457" metre="-+---+">Que ya, a tu invocación</l>
+            <l n="458" metre="-+---+">del diáfano viril</l>
+            <l n="459" metre="-+---+-">cortando las esferas,</l>
+            <l n="460" metre="-+---+">me ves, para asistir</l>
+            <l n="461" metre="---+-+">a tus lamentos, ser</l>
+            <l n="462" metre="--+--+">de sus nubes neblí,</l>
+            <l n="463" metre="-+---+-">sus páramos centauro,</l>
+            <l n="464" metre="-+---+">sus piélagos delfín,</l>
+            <l n="465" metre="+--+-+">siendo en su azul pensil</l>
+            <l n="466" metre="+---++-+-+-">árbitro de un cenit y otro cenit.</l>
+            <l part="I" n="467" metre="++---+-">¿Qué quieres, pues?</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="467" part="F" metre="++---+-">Que veas</l>
+            <l n="468" metre="+-+--+">que hay quien tenga, sin ti,</l>
+            <l n="469" metre="--+--+">vagamundo el pensar</l>
+            <l n="470" metre="-+---+">y ocioso el discurrir.</l>
+            <l n="471" metre="-+-+-+">Dormido yace el que</l>
+            <l n="472" metre="-+---+">despierto tu gentil</l>
+            <l n="473" metre="-+-+-+">deidad desdeña, pues</l>
+            <l n="474" metre="--+--+">montaraz adalid</l>
+            <l n="475" metre="-+-+-+-">blasona que ha sabido</l>
+            <l n="476" metre="-+---+">tu yugo sacudir,</l>
+            <l n="477" metre="---+-+-">sin que su blando lazo</l>
+            <l n="478" metre="-+---+">le agobie la cerviz.</l>
+            <l n="479" metre="--+--+">Y aunque en una ocasión</l>
+            <l n="480" metre="-+---+">la vida le debí,</l>
+            <l part="I" n="481" metre="-+-+-+">atenta a todo…</l>
+          </sp>
+          <sp who="#amor">
+            <speaker>AMOR</speaker>
+            <l n="481" part="F" metre="-+-+-+">No</l>
+            <l n="482" metre="+----+">tienes que proseguir,</l>
+            <l n="483" metre="+----+">puesto que para mí</l>
+            <l n="484" metre="--+--+---+">el delito le basta de dormir.</l>
+            <l n="485" metre="--+--+-">Del favor y la ira</l>
+            <l n="486" metre="--+--+">el concepto entendí,</l>
+            <l n="487" metre="----++-">y para que herir veas</l>
+            <l n="488" metre="-+---+">su pecho sin herir,</l>
+            <l n="489" metre="+--+-+">este dorado arpón,</l>
+            <l n="490" metre="-+---+">pasando a serpentín,</l>
+            <l n="491" metre="+-+--+-">de ese bruto diamante</l>
+            <l n="492" metre="--+--+">abrasado buril,</l>
+            <l n="493" metre="-++--+-">verás que, áspid de fuego,</l>
+            <l n="494" metre="+--+-+">muerde su pecho, a fin</l>
+            <l n="495" metre="---+-+-">de que, los dos vengados</l>
+            <l n="496" metre="-+---+">con tiro tan feliz,</l>
+            <l n="497" metre="--+--+">apuremos así</l>
+            <l n="498" metre="+--+-+-+-+">si es el amor matar y no morir.</l>
+          </sp>
+          <stage>Dispara una flecha que da en el corazón de Adonis, y desaparécese.</stage>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="499" metre="-++--+-">¡Favor, cielos divinos!</l>
+            <l part="I" n="500" metre="+--+++">¡Dioses, piedad!</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="500" part="F" metre="+--+++">¿Quién, di,</l>
+            <l n="501" metre="-+--++-">te obliga a que des voces?</l>
+            <l n="502" metre="--+--+">Que al llegarlas a oír</l>
+            <l n="503" metre="-++--+">veloz vengo, por ver</l>
+            <l n="504" metre="-+---+">si fuese tan feliz</l>
+            <l n="505" metre="--+--+-">que el favor te pagase.</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="506" metre="-++--+">Si tú estabas aquí,</l>
+            <l n="507" metre="++---+">no en vano presumí</l>
+            <l n="508" metre="--++---+-+">que me da muerte a quien la vida di.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l part="I" n="509" metre="+++-++">¿Qué ha sido esto?</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="509" part="F" metre="+++-++">No sé,</l>
+            <l n="510" metre="-+---+">que a sombra me dormí</l>
+            <l n="511" metre="+-+--+-">destos troncos, y como</l>
+            <l n="512" metre="-+---+">se suelen repetir</l>
+            <l n="513" metre="--+--+-">en fantasmas del sueño</l>
+            <l n="514" metre="-+-+-+">de aquello que antes vi</l>
+            <l n="515" metre="--+--+">las especies, soñé</l>
+            <l n="516" metre="-+---+">que el fiero jabalí</l>
+            <l n="517" metre="-+-+-+-">que a ti te daba muerte,</l>
+            <l n="518" metre="-+---+">volviendo contra mí</l>
+            <l n="519" metre="---+-+-">las aceradas, corvas</l>
+            <l n="520" metre="-+---+">navajas de marfil,</l>
+            <l n="521" metre="--+--+-">con mi sangre manchaba</l>
+            <l n="522" metre="-+---+">las rosas, que hasta aquí</l>
+            <l n="523" metre="-+-+-+-">de nieve fueron, para</l>
+            <l n="524" metre="-+---+">que fuesen de carmín.</l>
+            <l n="525" metre="-+++-+-">Y no sólo a este susto</l>
+            <l n="526" metre="-+---+">del sueño me rendí,</l>
+            <l n="527" metre="---+-+-">pero sañudo áspid</l>
+            <l n="528" metre="--+--+">—que debió de encubrir</l>
+            <l n="529" metre="---+-+-">de su traidor veneno,</l>
+            <l n="530" metre="---+-+">de su ponzoña vil</l>
+            <l n="531" metre="-+-+-+-">la astucia entre uno y otro</l>
+            <l n="532" metre="--+--+">macilento alhelí—</l>
+            <l n="533" metre="---+++-">el corazón me ha herido,</l>
+            <l n="534" metre="-----+">pues al restituir</l>
+            <l n="535" metre="--++++-">el sentido, aún no cesa</l>
+            <l n="536" metre="---+-+">el sentimiento en mí;</l>
+            <l n="537" metre="-+---+-">de suerte que despierto</l>
+            <l n="538" metre="+----+">duran en afligir</l>
+            <l n="539" metre="+----+">ansias que fabriqué,</l>
+            <l n="540" metre="-+---+">temores que fingí,</l>
+            <l n="541" metre="-+---+">pasando, ¡ay infeliz!,</l>
+            <l n="542" metre="-+-+-+---+">la sombra a luz, el pasmo a frenesí.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="543" metre="---+++-">La pesadez de un sueño</l>
+            <l n="544" metre="+++--+">tal vez suele seguir</l>
+            <l n="545" metre="-+-+-+">al más despierto; y pues</l>
+            <l n="546" metre="+----+">no es lo que presumí,</l>
+            <l part="I" n="547" metre="-++--+-">en paz queda.</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="547" part="F" metre="-++--+-">¿Tan presto</l>
+            <l part="I" n="548" metre="+--+-+">quieres volverte?</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="548" part="F" metre="+--+-+">Sí,</l>
+            <l n="549" metre="--+--+">que baldones de amor</l>
+            <l n="550" metre="+--+-+">no he de volver a oír.</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="551" metre="+-+--+-">No hace poco el que enmienda</l>
+            <l n="552" metre="-+---+">sus yerros; y si fui</l>
+            <l n="553" metre="-++-++-">grosero una vez, no otra</l>
+            <l part="I" n="554" metre="--++-+">lo seré.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="554" part="F" metre="--++-+">¿Cómo así?</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="555" metre="--+--+">Como al verte sabré</l>
+            <l n="556" metre="-+---+">forzar y reprimir</l>
+            <l n="557" metre="-+---+-">aquel amenazado</l>
+            <l n="558" metre="-+---+">influjo en que nací.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="559" metre="-+-+-+-">Pues ¿no me viste entonces?</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="560" metre="-+---+">Confieso que te vi;</l>
+            <l n="561" metre="--+--+">pero no te miré.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="562" metre="++---+">Y ¿hay cómo distinguir</l>
+            <l part="I" n="563" metre="-+--++">el ver del mirar?</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="563" part="F" metre="-+--++">Pues</l>
+            <l part="I" n="564" metre="+--+-+">¿hay quien ignore…</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="564" part="F" metre="+--+-+">Di.</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="565" metre="-+++-+">…que el ver es sólo ver,</l>
+            <l n="566" metre="--+--+">y el mirar advertir?</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="567" metre="-++--+-">Y bien, ¿qué es lo que adviertes?</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="568" metre="--+--+">Que te llevas tras ti,</l>
+            <l n="569" metre="--+--+">en tus rizos, del sol</l>
+            <l n="570" metre="+--+-+">todo el dorado Ofir;</l>
+            <l n="571" metre="-+---+-">del aura, en tus alientos,</l>
+            <l n="572" metre="+-+--+">todo el humo sutil,</l>
+            <l n="573" metre="---+-+-">que en destiladas gomas</l>
+            <l n="574" metre="-+++-+">cualquiera es ámbar gris;</l>
+            <l n="575" metre="-+---+-">del monte, en tu coturno,</l>
+            <l n="576" metre="+-+--+">todo el bello matiz,</l>
+            <l n="577" metre="-+---+-">que en cintas de esmeralda</l>
+            <l n="578" metre="++---+">son lazos de rubí;</l>
+            <l n="579" metre="--+--+-">del abril, en tu seno,</l>
+            <l n="580" metre="-+---+">o blanco o carmesí,</l>
+            <l n="581" metre="+--+-+-">todo el candor y nácar</l>
+            <l n="582" metre="--+--+">del clavel y el jazmín;</l>
+            <l n="583" metre="-+---+-">de suerte que, dejando</l>
+            <l n="584" metre="-++--+">sin ti el sol sin lucir,</l>
+            <l n="585" metre="+----+">la aura sin respirar,</l>
+            <l n="586" metre="-+---+">el monte sin vestir,</l>
+            <l n="587" metre="--+--+-">y el abril, en efecto,</l>
+            <l n="588" metre="--+--+">sin lograr y pulir</l>
+            <l n="589" metre="-+-+-+-">las flores ciento a ciento,</l>
+            <l n="590" metre="-+-+-+">las rosas mil a mil,</l>
+            <l n="591" metre="+-+--+">quedan mustios sin ti</l>
+            <l n="592" metre="-+-+-+---+">el sol, al aura, el monte y el abril.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="593" metre="+-+--+-">¡Qué atrasadas lisonjas!</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="594" metre="-+--++">Perdona, que he de ir</l>
+            <l n="595" metre="-+---+-">siguiendo tu hermosura.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="596" metre="-+---+">¿A qué, si en mi jardín,</l>
+            <l n="597" metre="-+-+-+-">que ya desde esta parte</l>
+            <l n="598" metre="-+---+">le deja descubrir</l>
+            <l n="599" metre="--++-+">de atalaya un laurel</l>
+            <l n="600" metre="-+-+-+">que abraza amante vid,</l>
+            <l n="601" metre="++-+-+-">todo es amor? Por señas</l>
+            <l n="602" metre="-+---+">que de él a recibir</l>
+            <l n="603" metre="---+-+-">a su deidad las ninfas</l>
+            <l n="604" metre="--+--+">en alegre festín</l>
+            <l n="605" metre="+--+-+">salen al paso; y tú,</l>
+            <l n="606" metre="---+-+">para llegar allí,</l>
+            <l n="607" metre="++---+-">no temes las fierezas,</l>
+            <l n="608" metre="---+-+">y las bellezas sí.</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="609" metre="+-++++-">¡Ay!, que no sé qué afecto…</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="610" metre="+--+-+">No has de pasar de aquí.</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="611" metre="+-+--+">…me hace no obedecer.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="612" metre="---+-+">(Y agradecer a mí.)</l>
+          </sp>
+          <stage>Salen las ninfas cantando y bailando, y Celfa y Chato.</stage>
+          <sp who="#celfa #flora #libia #cintia">
+            <speaker>TODAS</speaker>
+            <l n="613" metre="-+-+-+-">Corred, corred, cristales;</l>
+            <l n="614" metre="+--+-+">plantas, vivid, vivid;</l>
+            <l n="615" metre="+--+-+">aves, cantad, cantad;</l>
+            <l n="616" metre="+--+-+">flores, lucid, lucid;</l>
+            <l n="617" metre="---+-+-">pues que vuelve Venus,</l>
+            <l n="618" metre="-+---+">hermosa y gentil,</l>
+            <l n="619" metre="-+--+-">trayendo despojos</l>
+            <l n="620" metre="--+-+">del amor tras sí,</l>
+            <l n="621" metre="--+-+-">porque nadie pueda</l>
+            <l n="622" metre="-+--+">exento decir</l>
+            <l n="623" metre="--+++-">que el vivir no amando</l>
+            <l n="624" metre="-+--+">se llama vivir.</l>
+            <l n="625" metre="-+-+-+-+">Corred, vivid, cantad, lucid.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l part="I" n="626" metre="-++-+-+">¿Que aún no te vuelves?</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="626" part="F" metre="-++-+-+">No.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l part="I" n="627" metre="--+-+-+">¿Y a entrar te atreves?</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="627" part="F" metre="--+-+-+">Sí.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="628" metre="+-----+-">Entra, pues. Y vosotras</l>
+            <l n="629" metre="-+---+">alegres proseguid.</l>
+          </sp>
+          <sp who="#musicos">
+            <speaker>MÚSICA</speaker>
+            <l n="630" metre="-+-+-+-">Corred, corred, cristales;</l>
+            <l n="631" metre="+--+-+">plantas, vivid, vivid;</l>
+            <l n="632" metre="+--+-+">aves, cantad, cantad;</l>
+            <l n="633" metre="+--+-+">flores, lucid, lucid;</l>
+            <l n="634" metre="--+-+-">pues que vuelve Venus,</l>
+            <l n="635" metre="-+--+">hermosa y gentil,</l>
+            <l n="636" metre="-+--+-">trayendo despojos</l>
+            <l n="637" metre="--+-+">del amor tras sí,</l>
+            <l n="638" metre="--+-+-">porque nadie pueda</l>
+            <l n="639" metre="-+--+">exento decir</l>
+            <l n="640" metre="--+++-">que el vivir no amando</l>
+            <l n="641" metre="-+--+">se llama vivir.</l>
+            <l n="642" metre="-+-+-+-+">Corred, vivid, cantad, lucid.</l>
+          </sp>
+          <stage>Vanse. Dentro cajas y trompetas, y con los primeros versos salgan Marte, Belona, Dragón y soldados.</stage>
+          <sp who="#belona">
+            <speaker>BELONA</speaker>
+            <l n="643" metre="-+---+-">La planta fugitiva</l>
+            <l part="I" n="644" metre="--++-+-+-+-">del laurel ceda al roble.</l>
+          </sp>
+          <sp who="#voces-dentro #otros #marte #uno #chato #clori #amor #celfa #flora #libia #cintia #adonis #venus #musicos #belona">
+            <speaker>TODOS</speaker>
+            <l n="644" part="F" metre="--++-+-+-+-">¡Marte viva!</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="645" metre="-+-+-+-">Mejor, Belona, fuera</l>
+            <l n="646" metre="-+---+-+-+-">decir la aclamación que Marte muera,</l>
+            <l n="647" metre="-----+-">pues aunque de blasones</l>
+            <l n="648" metre="--+--+---+-">vitorioso en Egnido me corones</l>
+            <l n="649" metre="-+-+-+-">de Delfos, ¿qué ha importado,</l>
+            <l n="650" metre="-+-++--+-+-">si en Chipre estoy a una ilusión postrado,</l>
+            <l n="651" metre="--+--+-">cuyos vanos recelos</l>
+            <l n="652" metre="-+-+-+--++-">ni celos son, ni dejan de ser celos?</l>
+          </sp>
+          <sp who="#belona">
+            <speaker>BELONA</speaker>
+            <l n="653" metre="+--+++-">Siendo de amor, no infama</l>
+            <l n="654" metre="--+--+---+-">los heroicos asuntos de la fama.</l>
+          </sp>
+          <sp who="#dragon">
+            <speaker>DRAGÓN</speaker>
+            <l n="655" metre="-+---+-">Y más cuando en abono</l>
+            <l n="656" metre="--++-+-+-+-">de que pueda un barbado hablar, en tono</l>
+            <l n="657" metre="--+--+-">de falsete, cariño,</l>
+            <l n="658" metre="-+-+---+-+-">niñeando viejo y caducando niño,</l>
+            <l n="659" metre="+++--+-">no tiene otra disculpa,</l>
+            <l n="660" metre="--++-+---+-">para no ser ridícula la culpa,</l>
+            <l n="661" metre="--+--+-">que decir que de Marte</l>
+            <l part="I" n="662" metre="++-+-+---+-">es hijo Amor.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="662" part="F" metre="++-+-+---+-">¡Estaba por quitarte</l>
+            <l part="I" n="663" metre="++-+-+-">mil vidas!…</l>
+          </sp>
+          <sp who="#dragon">
+            <speaker>DRAGÓN</speaker>
+            <l n="663" part="F" metre="++-+-+-">Ten la mano;</l>
+            <l n="664" metre="+--+---+-+-">y ese recado a monseñor Vulcano.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="665" metre="---+-+-">Que si de Marte fuera</l>
+            <l n="666" metre="-++--++--+-">bastardo hijo el Amor, no introdujera,</l>
+            <l n="667" metre="-+---+-">vilmente lisonjero,</l>
+            <l n="668" metre="-+-+-+---+-">que valga más lo hermoso que lo fiero,</l>
+            <l n="669" metre="-++-++-">temor que hoy en mí lucha.</l>
+          </sp>
+          <sp who="#belona">
+            <speaker>BELONA</speaker>
+            <l part="I" n="670" metre="+-+-++-+-+-">¿Cómo?</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="670" part="F" metre="+-+-++-+-+-">Nadie aquí quede. Agora escucha;</l>
+            <l n="671" metre="-+---+-">que el fuego en que me abraso</l>
+            <l part="I" n="672" metre="+++--+-+-+-">tú sola has de saber.</l>
+          </sp>
+          <stage>Vanse los soldados, y hablan quedo los dos, y sale el Amor.</stage>
+          <sp who="#belona">
+            <speaker>BELONA</speaker>
+            <l n="672" part="F" metre="+++--+-+-+-">Pues habla paso.</l>
+          </sp>
+          <sp who="#amor">
+            <speaker>AMOR</speaker>
+            <l n="673" metre="----+-+-">(Ya que la altivez de Adonis</l>
+            <l n="674" metre="-+--+-+">venganza de Venus fue,</l>
+            <l n="675" metre="----+-+-">pues en sus jardines yace</l>
+            <l n="676" metre="--+-+-+">rendimiento y no altivez,</l>
+            <l n="677" metre="--+---+-">receloso de que Marte</l>
+            <l n="678" metre="+--+--+">lo ha de llegar a saber,</l>
+            <l n="679" metre="-+-+--+-">sin alas, arco ni aljaba</l>
+            <l n="680" metre="+--+--+">vengo a asistirle; porque</l>
+            <l n="681" metre="--+-+-+">como esté a la mira Amor</l>
+            <l n="682" metre="-+--+-+">sin ser conocido de él,</l>
+            <l n="683" metre="-+--+-+-">el más receloso amante</l>
+            <l n="684" metre="+---+-+-">nada que le digan cree.</l>
+            <l n="685" metre="-+----+-">Hablando con mi enemiga</l>
+            <l n="686" metre="-+-+--+">Belona está; ¡oh si entender</l>
+            <l n="687" metre="+--+--+-">algo pudiera! La sombra</l>
+            <l n="688" metre="-+-+--+">me valga deste laurel.)</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="689" metre="--+-+-+-">Hasta aquí me dijo Libia,</l>
+            <l n="690" metre="---+--+">y aunque el que vida la dé</l>
+            <l n="691" metre="++-+-++-">un bello joven no importa,</l>
+            <l part="I" n="692" metre="-+-+--+">importa que ella…</l>
+          </sp>
+          <sp who="#belona">
+            <speaker>BELONA</speaker>
+            <l n="692" part="F" metre="-+-+--+">Detén</l>
+            <l n="693" metre="-+--+-+-">la voz, que entre aquellas ramas</l>
+            <l n="694" metre="-++-+-+">ruido he sentido. ¿Quién,</l>
+            <l n="695" metre="--+---+">en acecho de los dos,</l>
+            <l n="696" metre="++-+--+">hace esas hojas cancel?</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l part="I" n="697" metre="+--+-++-">¿Quién contra mi orden…</l>
+          </sp>
+          <stage>Descubren al Amor.</stage>
+          <sp who="#amor">
+            <speaker>AMOR</speaker>
+            <l n="697" part="F" metre="+--+-++-">(¡Ay triste!)</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l part="I" n="698" metre="-++-+-+">…aquí ha quedado?</l>
+          </sp>
+          <sp who="#amor">
+            <speaker>AMOR</speaker>
+            <l n="698" part="F" metre="-++-+-+">(Si él</l>
+            <l n="699" metre="--+-+-+">me conoce, muerto soy,</l>
+            <l n="700" metre="-+--+-+">pues ha de querer saber</l>
+            <l n="701" metre="-+----+">la causa de mi disfraz.)</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="702" metre="++-+--+">¿Quién eres, dime, y a qué</l>
+            <l n="703" metre="-+--+-+-">te ocultas entre estas ramas?</l>
+          </sp>
+          <sp who="#amor">
+            <speaker>AMOR</speaker>
+            <l n="704" metre="+-----+">Soy quien, si… cuando… por qué…</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="705" metre="+-+--++-">No te turbes, que no sabes</l>
+            <l n="706" metre="+---+-+">cuánto sospechosa es</l>
+            <l n="707" metre="--+---+">para mí una turbación;</l>
+            <l n="708" metre="-+--+-+">y más cuando llego a ver</l>
+            <l n="709" metre="----+-+-">lo que se parece a otra</l>
+            <l n="710" metre="--+-+-+">que, traidoramente infiel,</l>
+            <l n="711" metre="-+-+--+">calló troncada en la voz</l>
+            <l n="712" metre="-++---+">y habló pálida en la tez.</l>
+            <l part="I" n="713" metre="++----+">¿Quién eres, pues?</l>
+          </sp>
+          <sp who="#amor">
+            <speaker>AMOR</speaker>
+            <l n="713" part="F" metre="++----+">Quien, si tú</l>
+            <l n="714" metre="+-+-+-+">no lo sabes, no lo sé.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="715" metre="-+-++-+-">¿Si no lo sé, no lo sabes?</l>
+          </sp>
+          <sp who="#amor">
+            <speaker>AMOR</speaker>
+            <l n="716" metre="+-++--+">No, que tú lo has de saber</l>
+            <l n="717" metre="-+--+-+-">primero que yo lo diga.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l part="I" n="718" metre="+-+-+-+">Yo lo ignoro.</l>
+          </sp>
+          <sp who="#amor">
+            <speaker>AMOR</speaker>
+            <l n="718" part="F" metre="+-+-+-+">Yo también.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="719" metre="-+-+--+-">¿Enigmas me hablas agora?</l>
+            <l part="I" n="720" metre="+-++--+">¡Hola!</l>
+          </sp>
+          <sp who="#soldados">
+            <speaker>SOLDADOS</speaker>
+            <l part="M" n="720" metre="+-++--+">¿Qué mandas?</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="720" part="F" metre="+-++--+">¡Prended</l>
+            <l part="I" n="721" metre="-+-+--+">a aquese joven!</l>
+          </sp>
+          <sp who="#amor">
+            <speaker>AMOR</speaker>
+            <l n="721" part="F" metre="-+-+--+">Será</l>
+            <l n="722" metre="+---+-+">ésta la primera vez…</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l part="I" n="723" metre="++--+-+">¿Qué?</l>
+          </sp>
+          <sp who="#amor">
+            <speaker>AMOR</speaker>
+            <l n="723" part="F" metre="++--+-+">…que otro me prenda a mí,</l>
+            <l n="724" metre="-++-+-+">y yo no le prenda a él.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="725" metre="-+--+-+">Pues ¿cómo escapar podrás</l>
+            <l n="726" metre="+--+--+">solo de tanto poder?</l>
+          </sp>
+          <sp who="#amor">
+            <speaker>AMOR</speaker>
+            <l n="727" metre="---+--+-">Ya que depuse las alas,</l>
+            <l n="728" metre="-+----+">valiéndome de los pies.</l>
+          </sp>
+          <stage>Vase.</stage>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="729" metre="-+-+--+">¡Tenedle, que es el Amor!</l>
+          </sp>
+          <sp who="#belona">
+            <speaker>BELONA</speaker>
+            <l n="730" metre="++-+-++">¿Cómo es posible sea él,</l>
+            <l n="731" metre="---+--+-">sin conocerle hasta agora?</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="732" metre="+---+-+">No eso admiración te dé,</l>
+            <l n="733" metre="---++-+-">porque el amor de un celoso</l>
+            <l n="734" metre="++----+">no es fácil de conocer</l>
+            <l n="735" metre="--+-+-+-">hasta que otras señas digan</l>
+            <l n="736" metre="+-+-+-+">si es amor o no lo es.</l>
+            <l n="737" metre="---+--+-">Y pues decir que ninguno</l>
+            <l n="738" metre="++-+--+">a él le ha podido prender</l>
+            <l n="739" metre="-+-+--+-">y que ha depuesto las alas</l>
+            <l n="740" metre="+--+-++">lo ha declarado más bien,</l>
+            <l n="741" metre="-+-+--+-">seguidle todos, seguidle,</l>
+            <l n="742" metre="-+-+--+">que ya me importa saber</l>
+            <l n="743" metre="---+--+">de su disfraz la intención.</l>
+            <l n="744" metre="--+-+-+">Pero yo en su alcance iré…</l>
+          </sp>
+          <sp who="#belona">
+            <speaker>BELONA</speaker>
+            <l n="745" metre="+-+-+-+-">¡Ay de ti, si a Amor que huye</l>
+            <l part="I" n="746" metre="-+--+-+">intentas seguir!</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="746" part="F" metre="-+--+-+">¿Por qué?</l>
+          </sp>
+          <sp who="#belona">
+            <speaker>BELONA</speaker>
+            <l n="747" metre="--+-+-+">Porque nadie sigue a Amor</l>
+            <l n="748" metre="--++-++">que en mayor riesgo no dé.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="749" metre="+-+-+-+">¿Qué mayor que no apurar</l>
+            <l n="750" metre="-+--+-+">que aquí disfrazado esté,</l>
+            <l n="751" metre="-+--+-+">y no le conozca yo?</l>
+          </sp>
+          <stage>Vase.</stage>
+          <sp who="#belona">
+            <speaker>BELONA</speaker>
+            <l n="752" metre="-+-+--+">¡Sitiad el monte, corred</l>
+            <l part="I" n="753" metre="--+-+++">la campaña!</l>
+          </sp>
+          <stage>Vase.</stage>
+          <sp who="#dragon">
+            <speaker>DRAGÓN</speaker>
+            <l n="753" part="F" metre="--+-+++">¿Quién vio andar</l>
+            <l n="754" metre="-+--+-+">a ojeo de Amor, ni quién</l>
+            <l n="755" metre="-+----+">amó sino como yo?</l>
+            <l n="756" metre="--+-+-+">Que si a Celfa quiero bien,</l>
+            <l n="757" metre="++-+--+-">es sólo el rato que importa</l>
+            <l part="I" n="758" metre="---+--+">a la maraña.</l>
+          </sp>
+          <stage>Vase.</stage>
+          <sp who="#belona">
+            <speaker>BELONA</speaker>
+            <l n="758" part="F" metre="---+--+">¡Romped</l>
+            <l part="I" n="759" metre="-+--+-+-">los riscos!</l>
+          </sp>
+          <sp who="#voces-dentro #otros #uno #chato #clori #celfa #flora #libia #cintia #adonis #venus #musicos #soldados #amor #marte #dragon #belona">
+            <speaker>TODOS</speaker>
+            <l n="759" part="F" metre="-+--+-+-">¡Al valle! ¡Al llano!</l>
+          </sp>
+          <stage>Sale Amor.</stage>
+          <sp who="#amor">
+            <speaker>AMOR</speaker>
+            <l n="760" metre="-+-+--+">¡Favor los cielos me den,</l>
+            <l n="761" metre="--+---+-">que sin alas el aliento</l>
+            <l n="762" metre="-+----+">empieza a desfallecer!</l>
+            <l n="763" metre="-+++-++-">Aquí hay una quiebra: ella</l>
+            <l n="764" metre="+--+--+">me ha de amparar y valer</l>
+            <l n="765" metre="---+--+-">contra las iras de Marte.</l>
+          </sp>
+          <stage>Éntrase por un lado y sale por otro, en cuyo espacio se ve el teatro de la gruta, y él no hace más que atravesar por ella, y salen Marte y Dragón.</stage>
+          <sp who="#el-desengano">
+            <speaker>EL DESENGAÑO</speaker>
+            <l n="766" metre="+++-+-+">Sí hará, que éste el centro es</l>
+            <l n="767" metre="--+---+">donde siempre para Amor.</l>
+          </sp>
+          <sp who="#dragon">
+            <speaker>DRAGÓN</speaker>
+            <l n="768" metre="-+--+-+">De aquella montaña al pie</l>
+            <l part="I" n="769" metre="++-+--+-">entra a una gruta.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="769" part="F" metre="++-+--+-">Aunque fuera</l>
+            <l n="770" metre="-+--+-+">el Báratro, entrara en él.</l>
+          </sp>
+          <sp who="#dragon">
+            <speaker>DRAGÓN</speaker>
+            <l n="771" metre="-+--+-+-">En poco nos ha engañado,</l>
+            <l n="772" metre="-++---+">que yo pienso que lo es,</l>
+            <l n="773" metre="-+--+-+-">según horroroso y triste</l>
+            <l part="I" n="774" metre="--+-+-+">se nos muestra.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="774" part="F" metre="--+-+-+">Dices bien,</l>
+            <l n="775" metre="-+--+--+--+-">pues nunca la planta, pues nunca la vista</l>
+            <l n="776" metre="-+--+--+--+-">pisó temerosa, previno confusa</l>
+            <l n="777" metre="-+--+--+--+-">tan lóbrega estancia, mansión tan horrible,</l>
+            <l n="778" metre="-+--+--+--+-">prisión tan funesta ni cárcel tan dura.</l>
+            <l n="779" metre="---+-+--+-">A la escasa luz que dispensa</l>
+            <l n="780" metre="-+--+--+--+-">el torpe bostezo que entreabre la gruta</l>
+            <l n="781" metre="---+--+-++-">—porque el sol, que de miedo no pasa,</l>
+            <l n="782" metre="-+--+-+--+-">de lejos la acecha aun más que la alumbra—,</l>
+            <l n="783" metre="--+---+--+-">melancólico espacio diviso</l>
+            <l n="784" metre="-+--+--+-+-">de negras paredes, que teas ahúman,</l>
+            <l n="785" metre="-+--+--+--+-">colgadas de grillos, cadenas y lazos,</l>
+            <l n="786" metre="-+--+--+-++-">trofeos que infaman deidad que no ilustran.</l>
+          </sp>
+          <sp who="#dragon">
+            <speaker>DRAGÓN</speaker>
+            <l n="787" metre="-+++--+--+-">Aun no sólo mirados asombran</l>
+            <l n="788" metre="-+--+--+--+-">despojos tan viles, mas oídos asustan.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="789" metre="+-+--+---+-">Dices bien, que al compás de arrastradas</l>
+            <l n="790" metre="-+--+--+--+-">prisiones, llorosos lamentos se escuchan.</l>
+          </sp>
+          <sp who="#dragon">
+            <speaker>DRAGÓN</speaker>
+            <l n="791" metre="-+--+-++-+-">Atiende, quizá sabrás quién habita</l>
+            <l n="792" metre="-+--+--+--+-">del fúnebre centro la esfera noturna.</l>
+          </sp>
+          <stage>Dentro voces.</stage>
+          <sp who="#voces-dentro #otros #uno #chato #clori #celfa #flora #libia #cintia #adonis #venus #musicos #soldados #belona #amor #el-desengano #marte #dragon">
+            <speaker>TODOS</speaker>
+            <l n="793" metre="+--+--+--+-">¡Ay de aquel que en principio de celos,</l>
+            <l n="794" metre="-+--++-+-+-">huyendo el Amor, no le deja que huya!</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="795" metre="+--+--+--+-">¿Ay de aquel que en principio de celos,</l>
+            <l n="796" metre="-+--++-+-+-">huyendo el Amor, no le deja que huya?</l>
+            <l n="797" metre="++-++--+--+-">¿Quién eres, oh tú, que la ajena desdicha,</l>
+            <l n="798" metre="-+--+--+--+-">mirándola mía, la tienes por tuya?</l>
+          </sp>
+          <sp who="#temor">
+            <speaker>TEMOR</speaker>
+            <l part="I" n="799" metre="-+--+--+-+">Quien pena…</l>
+          </sp>
+          <sp who="#sospecha">
+            <speaker>SOSPECHA</speaker>
+            <l part="M" n="799" metre="-+--+--+-+">Quien siente…</l>
+          </sp>
+          <sp who="#envidia">
+            <speaker>ENVIDIA</speaker>
+            <l part="M" n="799" metre="-+--+--+-+">Quien gime…</l>
+          </sp>
+          <sp who="#rencor">
+            <speaker>RENCOR</speaker>
+            <l n="799" part="F" metre="-+--+--+-+">Quien</l>
+            <l part="I" n="800" metre="+--+--+--+--+-">llora…</l>
+          </sp>
+          <sp who="#temor">
+            <speaker>TEMOR</speaker>
+            <l part="M" n="800" metre="+--+--+--+--+-">…tu asombro.</l>
+          </sp>
+          <sp who="#sospecha">
+            <speaker>SOSPECHA</speaker>
+            <l part="M" n="800" metre="+--+--+--+--+-">…tu queja.</l>
+          </sp>
+          <sp who="#envidia">
+            <speaker>ENVIDIA</speaker>
+            <l part="M" n="800" metre="+--+--+--+--+-">…tu pena.</l>
+          </sp>
+          <sp who="#rencor">
+            <speaker>RENCOR</speaker>
+            <l n="800" part="F" metre="+--+--+--+--+-">…tu angustia.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="801" metre="-+--+--+--+-">Mi angustia, mi pena, mi queja, mi asombro,</l>
+            <l part="I" n="802" metre="+---+-+---+-">¿hay quien los lamente?</l>
+          </sp>
+          <sp who="#flora #libia #cintia #belona #sospecha #envidia">
+            <speaker>TODAS</speaker>
+            <l n="802" part="F" metre="+---+-+---+-">Sí, pues que pronuncia:</l>
+            <l n="803" metre="+--+--+--+-">¡ay de aquel que en principio de celos,</l>
+            <l n="804" metre="-+--++-+-+-">huyendo el Amor, no le deja que huya!</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="805" metre="--+--+--++-">A pesar del pavor, de quién eres</l>
+            <l n="806" metre="-+--+--+--+-">haré hoy experiencia lo que era pregunta.</l>
+          </sp>
+          <stage>Van saliendo, cada una con su verso; el Temor con una hacha, la Sospecha con un antojo de larga vista, la Envidia con un áspid, el Rencor con un puñal, y todas de negro, con mascarillas.</stage>
+          <sp who="#temor">
+            <speaker>TEMOR</speaker>
+            <l part="I" n="807" metre="-+-++--+-++-">Quien vive…</l>
+          </sp>
+          <sp who="#sospecha">
+            <speaker>SOSPECHA</speaker>
+            <l part="M" n="807" metre="-+-++--+-++-">…y no vive,…</l>
+          </sp>
+          <sp who="#envidia">
+            <speaker>ENVIDIA</speaker>
+            <l part="M" n="807" metre="-+-++--+-++-">…quien muere…</l>
+          </sp>
+          <sp who="#rencor">
+            <speaker>RENCOR</speaker>
+            <l n="807" part="F" metre="-+-++--+-++-">…y no muere…</l>
+          </sp>
+          <sp who="#temor">
+            <speaker>TEMOR</speaker>
+            <l part="I" n="808" metre="-+--+--+--+-">…entre ansias,…</l>
+          </sp>
+          <sp who="#sospecha">
+            <speaker>SOSPECHA</speaker>
+            <l part="M" n="808" metre="-+--+--+--+-">…asombros,…</l>
+          </sp>
+          <sp who="#envidia">
+            <speaker>ENVIDIA</speaker>
+            <l part="M" n="808" metre="-+--+--+--+-">…horrores…</l>
+          </sp>
+          <sp who="#rencor">
+            <speaker>RENCOR</speaker>
+            <l n="808" part="F" metre="-+--+--+--+-">…y furias.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="809" metre="--+--+---+-">Del oído pasando a los ojos,</l>
+            <l n="810" metre="-+--+--+--+-">a nuevo principio se vuelven mis dudas.</l>
+            <l n="811" metre="++--+-+--+-">¿Has visto jamás tan pálidas sombras?</l>
+          </sp>
+          <sp who="#dragon">
+            <speaker>DRAGÓN</speaker>
+            <l n="812" metre="++-+--+--+-">¿Yo había de ver tan horrendas figuras?</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="813" metre="+++-++--++-">¿Quién sois, quién? ¿Y qué bóveda es ésta</l>
+            <l n="814" metre="-++-++-+--+-">que tiene, ¡ay de mí!, tal familia por suya?</l>
+          </sp>
+          <sp who="#temor">
+            <speaker>TEMOR</speaker>
+            <l part="I" n="815" metre="++--+--+--+-">Ésta es de los celos…</l>
+          </sp>
+          <sp who="#sospecha">
+            <speaker>SOSPECHA</speaker>
+            <l n="815" part="F" metre="++--+--+--+-">…la mísera cárcel…</l>
+          </sp>
+          <sp who="#envidia">
+            <speaker>ENVIDIA</speaker>
+            <l part="I" n="816" metre="----++-+-+">…adonde de Amor…</l>
+          </sp>
+          <sp who="#rencor">
+            <speaker>RENCOR</speaker>
+            <l n="816" part="F" metre="----++-+-+">…siempre paran las</l>
+            <l n="817" metre="+-">fugas.</l>
+          </sp>
+          <sp who="#flora #libia #cintia #belona #sospecha #envidia">
+            <speaker>TODAS</speaker>
+            <l n="818" metre="+--+--+--+-">¡Ay de aquel que en principio de celos,</l>
+            <l n="819" metre="-+--++-+-+-">huyendo el Amor, no le deja que huya!</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="820" metre="++-++--+--+-">¿Quién eres, oh tú, que con trémula antorcha,</l>
+            <l n="821" metre="-+--+----+-">saliéndole al paso, al que alumbras</l>
+            <l n="822" metre="-+-">deslumbras?</l>
+          </sp>
+          <sp who="#temor">
+            <speaker>TEMOR</speaker>
+            <l n="823" metre="++-++--+-+-">Yo soy aquel miedo que tiene el que ama</l>
+            <l n="824" metre="-+--++-+--+-">de cuánto achacosa es cualquier hermosura;</l>
+            <l n="825" metre="-+--+--+--+-">y así, tropezando en primeros temores,</l>
+            <l n="826" metre="-+--+-+--+-">le sirvo la luz, y déjole a escuras,</l>
+            <l n="827" metre="--+--+--+-">porque busca con ella su daño,</l>
+            <l n="828" metre="-+--+--+--+-">y luego le pesa de hallar lo que busca.</l>
+          </sp>
+          <stage>Mata la luz.</stage>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="829" metre="-++-+-+--+-">Y tú, que a un cristal parece que, corta</l>
+            <l n="830" metre="-+--+-+--+-">de vista, le estás graduando las lunas,</l>
+            <l part="I" n="831" metre="++-++--+--+-">¿quién eres?</l>
+          </sp>
+          <sp who="#sospecha">
+            <speaker>SOSPECHA</speaker>
+            <l n="831" part="F" metre="++-++--+--+-">Yo soy la Sospecha que al Miedo</l>
+            <l part="I" n="832" metre="-+--+-++-+-">le piso la sombra.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="832" part="F" metre="-+--+-++-+-">Y bien, ¿qué procuras?</l>
+          </sp>
+          <sp who="#sospecha">
+            <speaker>SOSPECHA</speaker>
+            <l n="833" metre="---++-+--+-">Que artificioso este óptico vidro,</l>
+            <l n="834" metre="-+--+-----+-">creciendo los grados a cuanto presuma,</l>
+            <l n="835" metre="--+--++-++-">represente de un álamo un monte,</l>
+            <l n="836" metre="++-+++-++-+-">de un átomo un mar, de una gota una lluvia.</l>
+          </sp>
+          <sp who="#envidia">
+            <speaker>ENVIDIA</speaker>
+            <l n="837" metre="-+--+-+--+-">Y yo, que siguiendo antojos de aumento,</l>
+            <l n="838" metre="++--+--+--+-">doy luego por ciertas ajenas fortunas,</l>
+            <l n="839" metre="--+++-+-">anudando un áspid a otro,</l>
+            <l n="840" metre="-+--+--+--+-">de Envidia en mi seno les doy la cicuta.</l>
+          </sp>
+          <sp who="#rencor">
+            <speaker>RENCOR</speaker>
+            <l n="841" metre="---+--+--+-">Con que, siguiendo el Rencor a la Envidia,</l>
+            <l n="842" metre="-+--+-+--+-">los áspides que ella enlaza y anuda,</l>
+            <l n="843" metre="-+--+-+--+-">en víboras yo convierto de acero,</l>
+            <l n="844" metre="----+--+--+-">que para venganzas afilen sus puntas.</l>
+          </sp>
+          <sp who="#cintia #belona #sospecha #envidia">
+            <speaker>LAS 4</speaker>
+            <l n="845" metre="--+--+---+-">Y las cuatro, que somos las guardas</l>
+            <l n="846" metre="-+--+--+--+-">del preso que yace en prisión tan oscura,</l>
+            <l n="847" metre="---+-+---+-">al peregrino el riesgo avisamos;</l>
+            <l n="848" metre="-+-+--+--+-">mas todos le oyen y nadie le escucha.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="849" metre="----+--++-+-">Pues ya que el aviso decís cuánto en vano</l>
+            <l n="850" metre="---+-+---+-">al peregrino el riesgo le anuncia,</l>
+            <l n="851" metre="--++-+-+-+-">ya que entré, ¿quién el preso es de celos?</l>
+          </sp>
+          <sp who="#flora #libia #cintia #belona #sospecha #envidia">
+            <speaker>TODAS</speaker>
+            <l n="852" metre="-+--+-+--+-">Aquella vejez helada y caduca…</l>
+          </sp>
+          <sp who="#temor">
+            <speaker>TEMOR</speaker>
+            <l part="I" n="853" metre="-+--+--+-+-">…que triste,…</l>
+          </sp>
+          <sp who="#sospecha">
+            <speaker>SOSPECHA</speaker>
+            <l part="M" n="853" metre="-+--+--+-+-">…humilde,…</l>
+          </sp>
+          <sp who="#envidia">
+            <speaker>ENVIDIA</speaker>
+            <l part="M" n="853" metre="-+--+--+-+-">…postrada,…</l>
+          </sp>
+          <sp who="#rencor">
+            <speaker>RENCOR</speaker>
+            <l n="853" part="F" metre="-+--+--+-+-">…rendi</l>
+            <l part="I" n="854" metre="+-+--+--+-+">da,…</l>
+          </sp>
+          <sp who="#temor">
+            <speaker>TEMOR</speaker>
+            <l part="M" n="854" metre="+-+--+--+-+">…fatigas,…</l>
+          </sp>
+          <sp who="#sospecha">
+            <speaker>SOSPECHA</speaker>
+            <l part="M" n="854" metre="+-+--+--+-+">…desprecios,…</l>
+          </sp>
+          <sp who="#envidia">
+            <speaker>ENVIDIA</speaker>
+            <l part="M" n="854" metre="+-+--+--+-+">…baldones…</l>
+          </sp>
+          <sp who="#rencor">
+            <speaker>RENCOR</speaker>
+            <l n="854" part="F" metre="+-+--+--+-+">…y</l>
+            <l n="855" metre="-+-">injurias…</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l part="I" n="856" metre="+++--+---+-">Quién es sepa, pues.</l>
+          </sp>
+          <sp who="#flora #libia #cintia #belona #sospecha #envidia">
+            <speaker>TODAS</speaker>
+            <l n="856" part="F" metre="+++--+---+-">Es el Desengaño,</l>
+            <l n="857" metre="----+-++-++-">por quien repetimos, ya solas, ya juntas:</l>
+            <l n="858" metre="+--+--+--+-">¡ay de aquel que en principio de celos,</l>
+            <l n="859" metre="-+--++-+-+-">huyendo el Amor, no le deja que huya!</l>
+          </sp>
+          <sp who="#desengano">
+            <speaker>DESENGAÑO</speaker>
+            <l n="860" metre="++--+-+-">¡Oh tú, que, venciendo a todos,</l>
+            <l n="861" metre="-++-+-+-">a ti solo no te vences,</l>
+            <l n="862" metre="---+--+-">y con humanas pasiones</l>
+            <l n="863" metre="-+-+--+-">divinas señas desmientes!</l>
+            <l n="864" metre="-+--+-+-">Sabrás que en aquesta cárcel,</l>
+            <l n="865" metre="---+--+-">para que nadie le encuentre,</l>
+            <l n="866" metre="-+-+--+-">con varias guardas los celos</l>
+            <l n="867" metre="+---+-+-">preso al Desengaño tienen.</l>
+            <l n="868" metre="----+-+">Pero ya que huyendo Amor</l>
+            <l n="869" metre="--+-+-+-">escapar de ti pretende</l>
+            <l n="870" metre="+--+--+-">a estos umbrales, adonde</l>
+            <l n="871" metre="-+-+-++-">sus fugas van a dar siempre,</l>
+            <l n="872" metre="+-++--+">mira qué quieres de mí,</l>
+            <l n="873" metre="---++++-">pues alcanzarle a él no puedes,</l>
+            <l n="874" metre="---+-++-">porque en llegando aquí, todas</l>
+            <l n="875" metre="-+----+-">sus pompas se desvanecen.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="876" metre="++---++-">¿Qué quieres que de ti quiera</l>
+            <l n="877" metre="--+++-+-">quien siguiendo a un ciego viene,</l>
+            <l n="878" metre="-+----+-">que visto se desconoce</l>
+            <l n="879" metre="-++-+-+-">y no visto no se entiende?,</l>
+            <l n="880" metre="---+-++-">sino saber con qué causa</l>
+            <l n="881" metre="+--+--+-">hoy disfrazado pretende</l>
+            <l n="882" metre="--+-+-+">asistirme y huir de mí.</l>
+          </sp>
+          <sp who="#desengano">
+            <speaker>DESENGAÑO</speaker>
+            <l n="883" metre="-+-+--+-">Si a tanto empeño te atreves,</l>
+            <l n="884" metre="+--+--+-">dile al Temor que te traiga,</l>
+            <l n="885" metre="--+---+-">la Sospecha que te acerque,</l>
+            <l n="886" metre="-+----+-">la Envidia que te desmaye,</l>
+            <l n="887" metre="---+--+-">como al Rencor que te aliente.</l>
+          </sp>
+          <stage>Descúbrese un espejo, y vese en él lo que dicen las coplas.</stage>
+          <sp who="#cintia #belona #sospecha #envidia">
+            <speaker>LAS 4</speaker>
+            <l n="888" metre="++----+-">Sí haremos, para que juntas</l>
+            <l n="889" metre="-+--+-+-">corriendo la nube débil,</l>
+            <l n="890" metre="+--+--+">este empañado cristal</l>
+            <l n="891" metre="+-+---+-">veas claro y transparente.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l part="I" n="892" metre="+-+++-+">Ya lo está.</l>
+          </sp>
+          <sp who="#desengano">
+            <speaker>DESENGAÑO</speaker>
+            <l n="892" part="F" metre="+-+++-+">¿Qué ves en él?</l>
+          </sp>
+          <sp who="#dragon">
+            <speaker>DRAGÓN</speaker>
+            <l n="893" metre="-+-++++-">Señores, ¿qué encanto es éste?</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="894" metre="---+--+-">De las campañas de Chipre</l>
+            <l n="895" metre="-+--+-+-">el más deleitoso albergue,</l>
+            <l n="896" metre="----+-+-">en cuya apacible estancia</l>
+            <l n="897" metre="-+-+--+-">festivos coros alegres</l>
+            <l n="898" metre="-+--+-+-">de ninfas la falda al monte</l>
+            <l n="899" metre="+--+-++-">van floreciendo dos veces.</l>
+          </sp>
+          <sp who="#dragon">
+            <speaker>DRAGÓN</speaker>
+            <l n="900" metre="--+-+-+">Hasta Chato y Celfa van.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="901" metre="-+--+-+-">Pues eso, ¿por qué te ofende?</l>
+          </sp>
+          <sp who="#dragon">
+            <speaker>DRAGÓN</speaker>
+            <l n="902" metre="----+-+-">Porque las mujeres propias</l>
+            <l n="903" metre="+-++--+-">no han de ser propias mujeres.</l>
+            <l n="904" metre="-+----+">¿Faltábala con quien ir</l>
+            <l n="905" metre="+-+---+-">a una pícara insolente</l>
+            <l n="906" metre="-++---+-">que no fuese su marido?</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="907" metre="+-+---+-">Calla, bárbaro, y atiende.</l>
+            <l n="908" metre="+-+-+-+">Ya el ojeo pasa, y ya</l>
+            <l n="909" metre="-+-+--+-">por varias sendas descienden</l>
+            <l n="910" metre="+-+-+-+-">Venus y un gallardo joven,</l>
+            <l n="911" metre="--+---+-">que amorosos y corteses</l>
+            <l n="912" metre="--+---+-">con los brazos se saludan,</l>
+            <l n="913" metre="-+-+--+-">y el uno al otro se ofrecen</l>
+            <l n="914" metre="--+---+-">los despojos de la caza.</l>
+            <l n="915" metre="---++-+-">¡Que aquesto mire! ¡Oh aleve</l>
+            <l n="916" metre="-+-+--+-">cristal! Perezca tu luna,</l>
+            <l n="917" metre="-----++-">aun cuando la del sol fuese,</l>
+            <l n="918" metre="+-+-+-+">si es verdad, porque es verdad;</l>
+            <l n="919" metre="--+---+-">y si mientes, porque mientes.</l>
+          </sp>
+          <sp who="#voces-dentro #otros #uno #chato #clori #celfa #adonis #venus #musicos #soldados #amor #el-desengano #temor #rencor #flora #libia #cintia #belona #sospecha #envidia #desengano #dragon #marte">
+            <speaker>TODOS</speaker>
+            <l n="920" metre="---+--+-">Aunque quebrarla pretendes,</l>
+            <l n="921" metre="+-+---+-">no hayas miedo que la quiebres.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l part="I" n="922" metre="-+----+-">¿Por qué?</l>
+          </sp>
+          <sp who="#voces-dentro #otros #uno #chato #clori #celfa #adonis #venus #musicos #soldados #amor #el-desengano #temor #rencor #flora #libia #cintia #belona #sospecha #envidia #desengano #dragon #marte">
+            <speaker>TODOS</speaker>
+            <l n="922" part="F" metre="-+----+-">Porque el Desengaño</l>
+            <l n="923" metre="-+----+-">sus sombras desaparece,</l>
+            <l n="924" metre="+--+--+-">luego que antídotos suyos,</l>
+            <l n="925" metre="-+----+-">que sanan con lo que duelen,</l>
+            <l n="926" metre="+--+-++-">dando la muerte dan vida.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l part="I" n="927" metre="-++-+-+-">¿De qué suerte?</l>
+          </sp>
+          <sp who="#voces-dentro #otros #uno #chato #clori #celfa #adonis #venus #musicos #soldados #amor #el-desengano #temor #rencor #flora #libia #cintia #belona #sospecha #envidia #desengano #dragon #marte">
+            <speaker>TODOS</speaker>
+            <l n="927" part="F" metre="-++-+-+-">Desta suerte.</l>
+          </sp>
+          <stage>Dentro ruido, como de terremoto; cúbrese la gruta.</stage>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="928" metre="+--+-++-">¿Quién creerá que Marte huya</l>
+            <l n="929" metre="-+-+--+-">de ver prodigio tan fuerte?</l>
+          </sp>
+          <sp who="#dragon">
+            <speaker>DRAGÓN</speaker>
+            <l n="930" metre="-+--+-+-">¿Ni quién, que Dragón de Celfa</l>
+            <l n="931" metre="--+-+-+-">los maridos celos siente?</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="932" metre="-+----+-">En tanto que declinando</l>
+            <l n="933" metre="-+--+-+-">el sol sus ardores temple,</l>
+            <l n="934" metre="---+--+-">para volver a la caza,</l>
+            <l n="935" metre="---+-++-">porque conmigo no eches</l>
+            <l n="936" metre="+-----+">menos a tu inclinación,</l>
+            <l n="937" metre="--+-+-+-">descansar, Adonis, puedes</l>
+            <l part="I" n="938" metre="-+--+-+">en estos jardines.</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="938" part="F" metre="-+--+-+">¿Qué</l>
+            <l n="939" metre="--++--+-">echará menos quien tiene,</l>
+            <l n="940" metre="---+--+-">cuando merecen sus dichas</l>
+            <l n="941" metre="-+--+-+-">las dichas que no merecen,</l>
+            <l n="942" metre="--+---+-">afianzada en tus favores</l>
+            <l n="943" metre="-+----+-">la costa de tus desdenes?</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="944" metre="-+---++-">Vosotras, porque no haya</l>
+            <l n="945" metre="+--+--+-">cosa que no le deleite,</l>
+            <l part="I" n="946" metre="-++-+-+">cantad algo.</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="946" part="F" metre="-++-+-+">Celfa, ven</l>
+            <l n="947" metre="-++---+-">a hacer unos ramilletes</l>
+            <l part="I" n="948" metre="--++--+-">para el nuevo amo.</l>
+          </sp>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l n="948" part="F" metre="--++--+-">Veamos</l>
+            <l n="949" metre="++-+--+-">cómo una mósica puede</l>
+            <l part="I" n="950" metre="--+-+-+-">parecer entre otra.</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="950" part="F" metre="--+-+-+-">Como</l>
+            <l n="951" metre="---+--+-">entre lo rojo lo verde.</l>
+          </sp>
+          <sp who="#coro-1">
+            <speaker>CORO 1</speaker>
+            <l n="952" metre="++--+">No puede Amor</l>
+            <l n="953" metre="-+-+--+">hacer mi dicha mayor.</l>
+          </sp>
+          <sp who="#coro-2">
+            <speaker>CORO 2</speaker>
+            <l n="954" metre="++--+">Sí puede Amor.</l>
+          </sp>
+          <sp who="#coro-1">
+            <speaker>CORO 1</speaker>
+            <l n="955" metre="++--+">No puede Amor,</l>
+            <l n="956" metre="---+-">ni mi deseo</l>
+            <l n="957" metre="-+-+--+-">pasar del bien que poseo;</l>
+            <l n="958" metre="---+--+-">porque crecer el empleo</l>
+            <l n="959" metre="---+--+">de tan divino favor</l>
+            <l n="960" metre="++--+">no puede Amor.</l>
+          </sp>
+          <sp who="#coro-2">
+            <speaker>CORO 2</speaker>
+            <l n="961" metre="++--+">Sí puede Amor…</l>
+          </sp>
+          <sp who="#coro-1 #coro-2">
+            <speaker>LOS DOS</speaker>
+            <l n="962" metre="-+-+--+">…hacer mi dicha mayor.</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="963" metre="---+--+">Aunque la letra que oí</l>
+            <l n="964" metre="---+--+-">en lo primero que ofrece,</l>
+            <l n="965" metre="+--+--+-">que habla conmigo parece,</l>
+            <l n="966" metre="-++-+-+">pues yo el más dichoso fui,</l>
+            <l n="967" metre="-+-+">perdona, si</l>
+            <l n="968" metre="---+--+">en lo segundo mi error</l>
+            <l n="969" metre="+--+">funda mejor</l>
+            <l part="I" n="970" metre="-+--+-+-">su dicha.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="970" part="F" metre="-+--+-+-">¿De qué manera?</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="971" metre="----+-+-">Como la contienda era</l>
+            <l n="972" metre="---+--+">de vuestro dulce primor,…</l>
+          </sp>
+          <sp who="#coro-1">
+            <speaker>CORO 1</speaker>
+            <l n="973" metre="++--+">No puede Amor</l>
+            <l n="974" metre="-+-+--+">hacer su dicha mayor.</l>
+          </sp>
+          <sp who="#coro-2">
+            <speaker>CORO 2</speaker>
+            <l n="975" metre="++--+">Sí puede Amor</l>
+            <l n="976" metre="-+-+--+">hacer su dicha mayor.</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="977" metre="-+-+--+-">La dicha no merecida</l>
+            <l n="978" metre="--+---+-">se posee desairada,</l>
+            <l n="979" metre="-++-+-+-">que mal puede estar hallada</l>
+            <l n="980" metre="--+---+-">sin achaques de perdida;</l>
+            <l n="981" metre="--+-">y mi vida</l>
+            <l n="982" metre="+-+---+">más quisiera merecer</l>
+            <l n="983" metre="---+">que poseer.</l>
+            <l n="984" metre="+--++-+">Luego si Amor puede dar</l>
+            <l n="985" metre="+-++--+">dicha que es más singular</l>
+            <l n="986" metre="-+-+--+">cuanto hay de mérito a error…</l>
+          </sp>
+          <sp who="#coro-2">
+            <speaker>CORO 2</speaker>
+            <l n="987" metre="++--+">…bien puede Amor</l>
+            <l n="988" metre="-+-+--+">hacer mi dicha mayor.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="989" metre="+--++-+-">Dicha que a ser dicha crece</l>
+            <l n="990" metre="-+--+-+-">aun antes que sea esperanza,</l>
+            <l n="991" metre="++----+-">es dicha del que la alcanza,</l>
+            <l n="992" metre="-+----+-">mas no del que la merece;</l>
+            <l n="993" metre="---+-">y si ofrece</l>
+            <l n="994" metre="-+----+-">la dicha sin merecella,</l>
+            <l n="995" metre="+---+-+-">dando cuanto puede en ella</l>
+            <l n="996" metre="-+----+">de mérito y de valor…</l>
+          </sp>
+          <sp who="#coro-1">
+            <speaker>CORO 1</speaker>
+            <l n="997" metre="++--+">…no puede Amor</l>
+            <l n="998" metre="-+-+--+">hacer la dicha mayor.</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="999" metre="---+--+">El que sin propio interés</l>
+            <l n="1000" metre="-++---+-">logró dichas semejantes,</l>
+            <l n="1001" metre="-+--+-+-">las dichas logradas antes</l>
+            <l n="1002" metre="-+--+-+">podrá merecer después.</l>
+            <l n="1003" metre="-+--+">Luego si es</l>
+            <l n="1004" metre="+---+-+">suya en la segunda acción</l>
+            <l n="1005" metre="-----+">la estimación</l>
+            <l n="1006" metre="-+--+-+-">que hacer de su dicha puede,</l>
+            <l n="1007" metre="-+-+--+-">y en ella Amor le concede</l>
+            <l n="1008" metre="-+--+-+">que pueda quedar mejor,…</l>
+          </sp>
+          <sp who="#coro-2">
+            <speaker>CORO 2</speaker>
+            <l n="1009" metre="++--+">…bien puede Amor</l>
+            <l n="1010" metre="-+-+--+">hacer mi dicha mayor.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="1011" metre="-+----+-">Servir el favorecido</l>
+            <l n="1012" metre="+-+---+-">no es en leyes del cuidado</l>
+            <l n="1013" metre="+-----+-">mérito de enamorado,</l>
+            <l n="1014" metre="++----+-">que es deuda de agradecido;</l>
+            <l n="1015" metre="--+-+-">y el más rendido</l>
+            <l n="1016" metre="-+--+-+">podrá agradecer y amar,</l>
+            <l n="1017" metre="-+---+">mas no aumentar</l>
+            <l n="1018" metre="-+----+-">los grados a la fineza;</l>
+            <l n="1019" metre="+++---+-">que es ser nieve, cuando empieza,</l>
+            <l n="1020" metre="----+-+">y cuando fallece, ardor.</l>
+          </sp>
+          <sp who="#coro-1">
+            <speaker>CORO 1</speaker>
+            <l n="1021" metre="++--+">No puede Amor</l>
+            <l n="1022" metre="-+-+--+">hacer la dicha mayor.</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="1023" metre="+-+---+-">No hace poco el que agradece.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="1024" metre="---+-++-">El que agradece, ¿qué hace?</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="1025" metre="--+---+-">Por lo menos satisface.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="1026" metre="--+-+-+-">Satisface y no merece.</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="1027" metre="-+-+-">En fin ofrece</l>
+            <l n="1028" metre="--+---+-">lo que puede su ventura.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="1029" metre="+-+-">Es locura,</l>
+            <l n="1030" metre="-+-+--+-">si ofrece y no sacrifica.</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l part="I" n="1031" metre="+-++-++-">¿Eso no implica…?</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="1031" part="F" metre="+-++-++-">No implica;</l>
+            <l n="1032" metre="+-++--+">que una vez mío el favor,…</l>
+          </sp>
+          <sp who="#coro-1">
+            <speaker>CORO 1</speaker>
+            <l n="1033" metre="++--+">…no puede Amor</l>
+            <l n="1034" metre="-+-+--+">hacer mi dicha mayor.</l>
+          </sp>
+          <sp who="#coro-2">
+            <speaker>CORO 2</speaker>
+            <l n="1035" metre="++--+">Sí puede Amor.</l>
+          </sp>
+          <sp who="#coro-1">
+            <speaker>CORO 1</speaker>
+            <l n="1036" metre="++--+">No puede Amor,</l>
+            <l n="1037" metre="---+-">ni mi deseo</l>
+            <l n="1038" metre="-+-+--+-">pasar del bien que poseo;</l>
+            <l n="1039" metre="---+--+-">porque crecer el empleo</l>
+            <l n="1040" metre="---+--+">de tan divino favor</l>
+            <l n="1041" metre="++--+">no puede Amor.</l>
+          </sp>
+          <sp who="#coro-2">
+            <speaker>CORO 2</speaker>
+            <l n="1042" metre="++--+">Sí puede Amor…</l>
+          </sp>
+          <sp who="#coro-1 #coro-2">
+            <speaker>LOS DOS</speaker>
+            <l n="1043" metre="-+-+--+">…hacer mi dicha mayor.</l>
+          </sp>
+          <stage>Sale Amor.</stage>
+          <sp who="#amor">
+            <speaker>AMOR</speaker>
+            <l n="1044" metre="++-++-+">Sí puede, y no puede Amor:</l>
+            <l n="1045" metre="++---++-">no puede, pues que no puede</l>
+            <l n="1046" metre="-+--+-">crecer las delicias;</l>
+            <l n="1047" metre="-++--+---+-">y sí puede, supuesto que puede</l>
+            <l n="1048" metre="-+--+-">torcer las desdichas.</l>
+            <l n="1049" metre="+--+--+">Marte, a quien quise asistir,</l>
+            <l n="1050" metre="-+--+-">temiendo sus iras,</l>
+            <l n="1051" metre="--+--+--+-">penetró del disfraz el acecho,</l>
+            <l n="1052" metre="--+--+-">la incauta malicia.</l>
+            <l n="1053" metre="---------+-">Y como hacia el Desengaño</l>
+            <l n="1054" metre="++---+-">es siempre mi huida,</l>
+            <l n="1055" metre="--+---+--+-">a pesar de las guardas de celos</l>
+            <l n="1056" metre="--+--+-">rompió sus ruinas;</l>
+            <l n="1057" metre="--+----+-+-">y habiendo en su espejo visto…</l>
+            <l n="1058" metre="-++--+-">Mas ¿qué hay que repita,</l>
+            <l n="1059" metre="--+---+--+-">si los montes, que al verle estremecen,</l>
+            <l n="1060" metre="-+---+-">mejor te lo avisan?</l>
+            <l n="1061" metre="+-+-+-+">Mira qué defensa, pues,</l>
+            <l n="1062" metre="-+--+-">poner solicitas,</l>
+            <l n="1063" metre="---+--+--+-">porque celosa su furia amenaza</l>
+            <l part="I" n="1064" metre="---+-+-">a quien…</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="1064" part="F" metre="---+-+-">No prosigas.</l>
+            <l n="1065" metre="-++---+">Y tú, Adonis, porque aquí</l>
+            <l n="1066" metre="++--+-">no te halle su vista,</l>
+            <l n="1067" metre="-+--+-+--+-">de aqueste jardín pasando a los montes,</l>
+            <l n="1068" metre="--+--+-">restaura tu vida.</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="1069" metre="+-+-+-+-">¿Cómo puedo, ingrata Venus,</l>
+            <l n="1070" metre="++--+-">ya más que benigna,</l>
+            <l n="1071" metre="--+---+--+-">asaltado también de sospechas</l>
+            <l n="1072" metre="-++--+-">que es fuerza me embistan,</l>
+            <l n="1073" metre="-+--+-+-">dejando tu vida a riesgo,</l>
+            <l n="1074" metre="-+--+-">cuidar de la mía?</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="1075" metre="----+--++-+-">En cuanto a tus celos, tener a un tirano</l>
+            <l n="1076" metre="-+++-+-">temor, no es caricia;</l>
+            <l n="1077" metre="------+--+-">y en cuanto a mi vida, piensa</l>
+            <l n="1078" metre="--+--+-">que está defendida,</l>
+            <l n="1079" metre="-----++--+-">porque como a ti no te encuentre,</l>
+            <l n="1080" metre="-+--+-">en nada peligra.</l>
+            <l n="1081" metre="+--+--+-">Huye, pues, huye a los montes.</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="1082" metre="-+--+-">Venció mi porfía,</l>
+            <l n="1083" metre="--++--+--+-">que Amor pudo, pues pudo sin celos</l>
+            <l n="1084" metre="-++-+-">hacer más mis dichas.</l>
+          </sp>
+          <stage>Vase.</stage>
+          <sp who="#libia #cintia #belona #sospecha #envidia #celfa">
+            <speaker>TODAS</speaker>
+            <l n="1085" metre="-++-+-+">Aunque él huya, ¿cómo tú</l>
+            <l n="1086" metre="-+--+-">a verle te animas?</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="1087" metre="---+--+--+-">Como industria habrá con que enfrene</l>
+            <l n="1088" metre="-+--+-">sus sañas altivas.</l>
+          </sp>
+          <sp who="#amor">
+            <speaker>AMOR</speaker>
+            <l n="1089" metre="+++---+-">¿Qué industria hay contra los celos?</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="1090" metre="--+---+-">La siempre encendida</l>
+            <l n="1091" metre="+--+--+--+-">fragua, en que a Júpiter forja Vulcano</l>
+            <l n="1092" metre="-+--+-">los rayos que vibra,</l>
+            <l n="1093" metre="----+-+-">para el abrasado temple</l>
+            <l n="1094" metre="-+--+-">que montes fulmina,</l>
+            <l n="1095" metre="---+-+---+-">de venenosas aguas se vale,</l>
+            <l n="1096" metre="-+---+-">leteas y estigias:</l>
+            <l n="1097" metre="-+----+--+-">de éstas, pues, rompiendo los diques</l>
+            <l n="1098" metre="-+---+-">las furias impías,</l>
+            <l n="1099" metre="-++-+--+--+-">haré que estas fuentes mis tósigos corran,</l>
+            <l n="1100" metre="-+--+-">en vez de sus ninfas;</l>
+            <l n="1101" metre="----+-+-">cuyas disonantes voces</l>
+            <l n="1102" metre="-+--+-">verás que, al oírlas,</l>
+            <l n="1103" metre="---+--+--+-">adormecido el sentido… Mas esto</l>
+            <l n="1104" metre="--+--+-">su efecto lo diga,</l>
+            <l n="1105" metre="---+--+-">cuando al callado conjuro…</l>
+          </sp>
+          <stage>Dentro ruido.</stage>
+          <sp who="#amor">
+            <speaker>AMOR</speaker>
+            <l n="1106" metre="--+--+-">Si de eso te fías,</l>
+            <l n="1107" metre="-+--+-+--+-">prevénte, que a mí el asombro de verle</l>
+            <l n="1108" metre="--+--+-">de aquí me retira.</l>
+          </sp>
+          <stage>Vase.</stage>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="1109" metre="-++---+-">Ninguna huya de vosotras.</l>
+          </sp>
+          <stage>Sale Marte.</stage>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="1110" metre="-+---+-">Aleve enemiga</l>
+            <l n="1111" metre="----+-+--+-">—en quien, como en mí, humanas pasiones</l>
+            <l n="1112" metre="--+--+-">se mienten divinas—,</l>
+            <l n="1113" metre="-+----+-">¿pensaste que tus engaños,</l>
+            <l n="1114" metre="---+--+-">traiciones, mentiras,</l>
+            <l n="1115" metre="-+--+--+--+-">pudieran jamás a sospechas de Marte</l>
+            <l n="1116" metre="-+--+-">negar sus noticias?</l>
+            <l n="1117" metre="+-+-+-+">¿Dónde está el amante que</l>
+            <l n="1118" metre="-+--+-">mudable acaricias?</l>
+            <l n="1119" metre="-++---+--+-">Que no quiero que empiece por tuya</l>
+            <l n="1120" metre="-+--++-">venganza que es mía.</l>
+            <l n="1121" metre="+-+-+-+-">No en lo débil debe el rayo…</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="1122" metre="-+--+-">Suspende las iras,</l>
+            <l n="1123" metre="-+-++--+--+-">que vienes no bien informado de alguna</l>
+            <l n="1124" metre="+---+-">loca fantasía.</l>
+            <l n="1125" metre="++-+-++-">Ya es tiempo. ¿Qué esperáis, furias?</l>
+          </sp>
+          <stage>Corren las fuentes.</stage>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="1126" metre="-+--+-">Por más que te finjas</l>
+            <l n="1127" metre="+-+---+--+-">no culpada en mis celos, en vano</l>
+            <l n="1128" metre="-+--+-">negarlos codicias,</l>
+            <l n="1129" metre="--+---+">porque ¿cómo…? (Pero ¿quién</l>
+            <l n="1130" metre="---+--+-">de aliento me priva?</l>
+            <l n="1131" metre="+-+---+--+-">¿Quién la lengua entorpece, y las voces</l>
+            <l n="1132" metre="-+---+-">del labio me quita?)</l>
+            <l n="1133" metre="--+-+-+-">Porque, ¿cómo puedes…? (¡Cielos!</l>
+            <l n="1134" metre="--+---+-">¡El juicio delira,</l>
+            <l n="1135" metre="--+-+---+">la razón fallece, y la luz</l>
+            <l n="1136" metre="--+--+-">se pierde de vista!)</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="1137" metre="++----+-">¿Ves cómo tus sinrazones</l>
+            <l n="1138" metre="-+--+-">los dioses castigan?</l>
+            <l n="1139" metre="+----++--+-">Habla, pues: ¿en qué fundas tus quejas?</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="1140" metre="+-+--+-">No puedo decirlas.</l>
+          </sp>
+          <stage>Sale Belona.</stage>
+          <sp who="#belona">
+            <speaker>BELONA</speaker>
+            <l n="1141" metre="++--+-+-">Sí puedes: que yo, que a todo</l>
+            <l n="1142" metre="-+--+-">estoy a la mira,</l>
+            <l n="1143" metre="--+---+--+--">del ruidoso estruendo del agua</l>
+            <l n="1144" metre="-+---+-">que impura te hechiza,</l>
+            <l n="1145" metre="-+-+--+">con otro estruendo sabré</l>
+            <l n="1146" metre="-+--+-">vencer la malicia.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l part="I" n="1147" metre="++--+-+--+-">¿Tú? ¿Cómo?</l>
+          </sp>
+          <sp who="#belona">
+            <speaker>BELONA</speaker>
+            <l n="1147" part="F" metre="++--+-+--+-">Al metal haciendo que brame</l>
+            <l n="1148" metre="-+--+-">y al parche que gima.</l>
+            <l n="1149" metre="+--+--+-">Suenen idiomas de Marte,</l>
+            <l n="1150" metre="-+--+-">y en voces altivas</l>
+            <l n="1151" metre="--++-+--+-">confundid un ruido con otro,</l>
+            <l n="1152" metre="-+---+-">y viva el que viva.</l>
+          </sp>
+          <stage>Cajas y voces dentro.</stage>
+          <sp who="#voces">
+            <speaker>VOCES</speaker>
+            <l n="1153" metre="-+-+--+-">¡Al arma, celos, al arma,</l>
+            <l n="1154" metre="--+---+-">que agravios obligan,</l>
+            <l n="1155" metre="----+-++--+-">y para venganzas, oh Marte, despierta,</l>
+            <l n="1156" metre="--+--+-">alienta y anima!</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="1157" metre="++-+--+">¿Qué nuevo espíritu en mí</l>
+            <l n="1158" metre="++--+-">es bien que revista</l>
+            <l n="1159" metre="+--+--+--+-">este estrépito de armas, que cobra</l>
+            <l n="1160" metre="-+--+-">mis sañas perdidas?</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="1161" metre="-+-+--+-">Si voces de agua y de fuego</l>
+            <l n="1162" metre="-+--+-">contrarias militan,</l>
+            <l n="1163" metre="---+--+--+-">las del aire exceden a todas.</l>
+          </sp>
+          <stage>Voces y instrumentos dentro.</stage>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="1164" metre="-+--+-">¿Pensaste, enemiga…?</l>
+          </sp>
+          <sp who="#ninfas">
+            <speaker>NINFAS</speaker>
+            <l n="1165" metre="++-+-++-">No al arma, celos, no al arma,</l>
+            <l n="1166" metre="--+---+-">que ofensas se olvidan;</l>
+            <l n="1167" metre="--+---+--+-">y al letargo adormida la queja,</l>
+            <l n="1168" metre="-+--+-">ni llore ni gima.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="1169" metre="---+--+-">Aunque cobrado pretenda</l>
+            <l n="1170" metre="-+--+-">volver a mis iras,</l>
+            <l n="1171" metre="+++-+">no puedo, ¡ay de mí!</l>
+          </sp>
+          <stage>Las voces con cajas y clarines, y las ninfas con instrumentos, cada una sus versos.</stage>
+          <sp who="#belona">
+            <speaker>BELONA</speaker>
+            <l n="1172" metre="-+--+-">Prosiga el estruendo.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="1173" metre="-+--+-">Las voces prosigan.</l>
+          </sp>
+          <sp who="#cajas #voces">
+            <speaker>VOCES</speaker>
+            <l n="1174" metre="-+-+--+-">¡Al arma, celos, al arma!</l>
+          </sp>
+          <sp who="#instrumentos #libia #cintia #sospecha #envidia #celfa #ninfas #belona #cajas">
+            <speaker>TODAS</speaker>
+            <l n="1175" metre="++-+-++-">No al arma, celos, no al arma…</l>
+          </sp>
+          <sp who="#voces">
+            <speaker>VOCES</speaker>
+            <l n="1176" metre="--+---+-">Que agravios obligan,…</l>
+          </sp>
+          <sp who="#libia #cintia #sospecha #envidia #celfa #ninfas #belona #cajas">
+            <speaker>TODAS</speaker>
+            <l n="1177" metre="--+---+-">…que ofensas se olvidan;…</l>
+          </sp>
+          <sp who="#voces">
+            <speaker>VOCES</speaker>
+            <l n="1178" metre="----+-++--+-">…y para venganzas, oh Marte, despierta,…</l>
+          </sp>
+          <sp who="#libia #cintia #sospecha #envidia #celfa #ninfas #belona #cajas">
+            <speaker>TODAS</speaker>
+            <l n="1179" metre="--+---+--+-">…y al letargo adormida la queja,</l>
+          </sp>
+          <sp who="#voces">
+            <speaker>VOCES</speaker>
+            <l n="1180" metre="-+--+-">…alienta y anima.</l>
+          </sp>
+          <sp who="#libia #cintia #sospecha #envidia #celfa #ninfas #belona #cajas">
+            <speaker>TODAS</speaker>
+            <l n="1181" metre="-+--+-">…ni llore ni gima.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="1182" metre="+---+-+-">De una confusión en otra</l>
+            <l n="1183" metre="++--+-">no sé lo que elija</l>
+            <l n="1184" metre="-+--+--+--+-">entre aguas que aduermen, acentos que elevan</l>
+            <l n="1185" metre="-+---+-">y cajas que incitan.</l>
+          </sp>
+          <sp who="#belona">
+            <speaker>BELONA</speaker>
+            <l n="1186" metre="-+-+--+-">En fin, ¿a qué te resuelves?</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="1187" metre="-+--+-">¿Y qué determinas?</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="1188" metre="--+---+--+-">Sin vengarme en tu vida, tirana,</l>
+            <l n="1189" metre="-+---+-">vengarme en tu vida;</l>
+            <l n="1190" metre="----+-+-">y pues tu cobarde amante</l>
+            <l n="1191" metre="-+--+-">huyó de mi vista,</l>
+            <l n="1192" metre="-+++--+--+-">tras él he de ir penetrando los montes,</l>
+            <l n="1193" metre="-+--+-">llevando por guía</l>
+            <l n="1194" metre="+-+-+-+">estos dos villanos, que</l>
+            <l n="1195" metre="-+--+-">sus faldas y cimas</l>
+            <l n="1196" metre="-+--+--+--+-">registren conmigo, pues saben adónde</l>
+            <l n="1197" metre="--+--+-">el temor le retira.</l>
+          </sp>
+          <sp who="#celfa #chato">
+            <speaker>CHATO</speaker>
+            <l n="1198" metre="-+-++-+-">Nosotros tal no sabemos.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="1199" metre="-+--+-">Venid, pues, aprisa.</l>
+          </sp>
+          <sp who="#chato #marte">
+            <speaker>LOS DOS</speaker>
+            <l n="1200" metre="-+--+-+--+-">Aun yendo despacio, iremos cansados.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l part="I" n="1201" metre="-++-+-">Venid.</l>
+          </sp>
+          <stage>Vase, llevándolos. [Vase Belona.]</stage>
+          <sp who="#chato #marte">
+            <speaker>LOS DOS</speaker>
+            <l n="1201" part="F" metre="-++-+-">¡Qué desdicha!</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="1202" metre="--+-+-+-">Porque no le busque y le halle,</l>
+            <l n="1203" metre="-+--+-">esferas divinas,</l>
+            <l n="1204" metre="--++-+--+-">empañad desos velos azules</l>
+            <l n="1205" metre="-+--+-">las luces que brillan;</l>
+            <l n="1206" metre="-++---+-">y tú, Júpiter, pues sabes</l>
+            <l n="1207" metre="-+-++-">lo que es amar, mira</l>
+            <l n="1208" metre="-+--+-+--+-">que nunca mejor que agora empleaste</l>
+            <l n="1209" metre="-+--+-">los rayos que vibras:</l>
+            <l n="1210" metre="-+--+-+-">pues nunca mejor se emplean</l>
+            <l n="1211" metre="-+--+-">sagradas tus iras.</l>
+          </sp>
+          <stage>Vase con sus ninfas, y con esta música se muda el tablado en monte, y vuelve Marte, trayendo de la mano a Chato y Celfa.</stage>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="1212" metre="--+-+-+">Pues sabéis por dónde fue,</l>
+            <l n="1213" metre="++---++-">¿quién duda que sepáis dónde</l>
+            <l n="1214" metre="+--+--+-">este cobarde se esconde?</l>
+          </sp>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l n="1215" metre="+-++-++">Yo, señor Martes, no sé</l>
+            <l n="1216" metre="+--+--+-">más de que muy asustado</l>
+            <l n="1217" metre="+--+--+-">huir de su vista previno.</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="1218" metre="+-+---+-">Bien como hijo de vecino</l>
+            <l n="1219" metre="--+--++-">de los que entran por un lado,</l>
+            <l n="1220" metre="--++--+">y por un lado también</l>
+            <l n="1221" metre="--+---+">los escapa su temor,</l>
+            <l n="1222" metre="+---+-+">luego que señor mayor</l>
+            <l part="I" n="1223" metre="+--+--+">llama a la puerta.</l>
+          </sp>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l n="1223" part="F" metre="+--+--+">Mas quien</l>
+            <l n="1224" metre="-++---+-">tan parto es destas montañas,</l>
+            <l n="1225" metre="++-+--+-">es cierto que a ellas vendría.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="1226" metre="---+--+-">Pues al albergue de guía</l>
+            <l n="1227" metre="--+---+-">me servid, que en sus entrañas</l>
+            <l part="I" n="1228" metre="+++---+">tiene.</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="1228" part="F" metre="+++---+">Es vana pretensión,</l>
+            <l n="1229" metre="-+-+--+">que no sabemos allá.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="1230" metre="+--+--+">De otra manera será.</l>
+          </sp>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l part="I" n="1231" metre="-+-+--+">¿De qué manera?</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="1231" part="F" metre="-+-+--+">¡Dragón!</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="1232" metre="+-+-+-+-">No al Dragón llamar intente,</l>
+            <l n="1233" metre="------+">cuando en su conversación</l>
+            <l n="1234" metre="-+-+--+">—que no hace falta el Dragón</l>
+            <l n="1235" metre="---+--+-">adonde está la serpiente—</l>
+            <l n="1236" metre="+---+-+-">Celfa servirá de todo.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l part="I" n="1237" metre="-+++--+">¡Dragón!</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="1237" part="F" metre="-+++--+">¡Ay triste de mí!</l>
+            <l part="I" n="1238" metre="--+-+-+">¿Hacia dó estará?</l>
+          </sp>
+          <stage>Sale Dragón y soldados.</stage>
+          <sp who="#dragon">
+            <speaker>DRAGÓN</speaker>
+            <l n="1238" part="F" metre="--+-+-+">Hacia aquí</l>
+            <l n="1239" metre="--+---+-">esperándote del modo</l>
+            <l n="1240" metre="-+--+-+">que tú me mandaste estoy.</l>
+            <l part="I" n="1241" metre="++-+--+-">¿Qué quieres?</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="1241" part="F" metre="++-+--+-">Que estos villanos</l>
+            <l n="1242" metre="-+--+-+-">atados de pies y manos</l>
+            <l n="1243" metre="-++-+-+">a dos troncos queden hoy.</l>
+          </sp>
+          <stage>Los soldados atan a Chato, y Dragón a Celfa.</stage>
+          <sp who="#dragon">
+            <speaker>DRAGÓN</speaker>
+            <l n="1244" metre="-+-++-+-">En fin, ingrata, has venido</l>
+            <l part="I" n="1245" metre="--+---+">a mis manos.</l>
+          </sp>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l n="1245" part="F" metre="--+---+">Pues ¿en qué</l>
+            <l part="I" n="1246" metre="+-+-+-+">te he ofendido?</l>
+          </sp>
+          <sp who="#dragon">
+            <speaker>DRAGÓN</speaker>
+            <l n="1246" part="F" metre="+-+-+-+">Yo lo sé.</l>
+          </sp>
+          <sp who="#voces-dentro">
+            <speaker>VOCES DENTRO</speaker>
+            <l part="I" n="1247" metre="+-+-+-+-">¡Huid, pastores!</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="1247" part="F" metre="+-+-+-+-">¿Qué ruido</l>
+            <l part="I" n="1248" metre="++-+--+-">es éste?</l>
+          </sp>
+          <stage>Salen villanos huyendo por delante de ellos, y después Adonis, flechado el arco.</stage>
+          <sp who="#uno">
+            <speaker>UNO</speaker>
+            <l n="1248" part="F" metre="++-+--+-">Huid, que del monte</l>
+            <l n="1249" metre="--+---+">el herido jabalí,</l>
+            <l n="1250" metre="++-+--+">que ha tantos días que aquí</l>
+            <l n="1251" metre="+-++--+-">es terror deste horizonte,</l>
+            <l n="1252" metre="+-+---+-">baja al valle, donde vuelva</l>
+            <l n="1253" metre="-+-+--+-">a hacer estragos mayores.</l>
+          </sp>
+          <sp who="#unos">
+            <speaker>UNOS</speaker>
+            <l part="I" n="1254" metre="+-+-+-+-">¡Huid, zagales!</l>
+          </sp>
+          <sp who="#otros">
+            <speaker>OTROS</speaker>
+            <l n="1254" part="F" metre="+-+-+-+-">¡Huid, pastores!</l>
+          </sp>
+          <sp who="#clori #musicos #soldados #el-desengano #temor #rencor #flora #desengano #coro-1 #coro-2 #adonis #amor #instrumentos #libia #cintia #sospecha #envidia #ninfas #cajas #belona #venus #chato #celfa #dragon #voces-dentro #marte #uno #otros">
+            <speaker>TODOS</speaker>
+            <l n="1255" metre="-+-+--+-">¡Al llano! ¡Al bosque! ¡A la selva!</l>
+          </sp>
+          <stage>Vanse.</stage>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="1256" metre="+-+---+-">No temáis, que si le alcanza</l>
+            <l n="1257" metre="-+----+">mi altiva velocidad,</l>
+            <l n="1258" metre="-+-+--+">lo que antes fue agilidad</l>
+            <l n="1259" metre="-+--+-+-">agora será venganza,</l>
+            <l n="1260" metre="---+--+-">como primero instrumento</l>
+            <l n="1261" metre="---+--+">de mi desdicha cruel.</l>
+          </sp>
+          <stage>Vase.</stage>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="1262" metre="---++-+">Pues el que busca es aquel</l>
+            <l n="1263" metre="-++-+-+-">que atrás va dejando el viento,</l>
+            <l n="1264" metre="--+-+-+">¿para qué nos quiere ya?</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="1265" metre="+-+-+++">Dices bien; aquél es, sí,</l>
+            <l n="1266" metre="----+-+">al que tan dichoso vi.</l>
+            <l n="1267" metre="----+-+">Y pues tras la fiera va</l>
+            <l n="1268" metre="---+--+-">en que empezó la primera</l>
+            <l n="1269" metre="-+-+--+">fineza suya el Amor,</l>
+            <l n="1270" metre="-+----+">empiece de mi furor</l>
+            <l n="1271" metre="-++++-+-">también la ira. ¡Oh tú, Megera,</l>
+            <l n="1272" metre="---++-+-">que de las tres furias eres</l>
+            <l n="1273" metre="--+-+-+-">la que más a Marte asiste,</l>
+            <l n="1274" metre="--++--+-">en aquel bruto reviste</l>
+            <l n="1275" metre="+--+--+-">toda la saña que adquieres!</l>
+            <l n="1276" metre="+-+-+-+-">Vean prados, montes, cielos,</l>
+            <l n="1277" metre="--+-+-+-">que en venganza de una injuria,</l>
+            <l n="1278" metre="-++--++-">de toda una infernal furia</l>
+            <l n="1279" metre="+--+--+-">nada les sobra a los celos.</l>
+          </sp>
+          <stage>Vase.</stage>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="1280" metre="--+++-+">Con que aquí ya no hay que hacer.</l>
+          </sp>
+          <sp who="#dragon">
+            <speaker>DRAGÓN</speaker>
+            <l n="1281" metre="+--+--+">Sí hay, por si falta lugar</l>
+            <l part="I" n="1282" metre="-++++-+">después.</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l part="M" n="1282" metre="-++++-+">¿Qué es?</l>
+          </sp>
+          <sp who="#dragon">
+            <speaker>DRAGÓN</speaker>
+            <l n="1282" part="F" metre="-++++-+">No más que dar</l>
+            <l n="1283" metre="-+----+">de coces a su mujer.</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="1284" metre="+-+-+--+-+-">Si eso sólo falta, y a usté le importa,</l>
+            <l n="1285" metre="+-+--+---++-">ahí —por eso se dijo— me las den todas.</l>
+          </sp>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l n="1286" metre="--+-+-+--+">Pues ¿por qué a mí de coces, seor</l>
+            <l n="1287" metre="--+-">Dragoncillo?</l>
+          </sp>
+          <sp who="#dragon">
+            <speaker>DRAGÓN</speaker>
+            <l n="1288" metre="--+--+----+-">Por conjunta persona de su marido.</l>
+            <l n="1289" metre="+-++++--++">¿No le basta a un pobre hombre sufrirla en</l>
+            <l n="1290" metre="+-">casa,</l>
+            <l n="1291" metre="-----+-+-+-">sino que a los ojeos con él se vaya?</l>
+          </sp>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l n="1292" metre="+-+++-+-++-">¿Qué delito es ése, si hay en tal tiempo</l>
+            <l n="1293" metre="-+--++----+-">maridos que no estorban en los ojeos?</l>
+          </sp>
+          <sp who="#dragon">
+            <speaker>DRAGÓN</speaker>
+            <l n="1294" metre="--+-+-++-+-">Aunque nunca estorben, es fuerte cosa</l>
+            <l n="1295" metre="+--++-++-+-">ser la mujer grillo. ¿No basta esposa?</l>
+            <l n="1296" metre="--+--+-+--+-">Y aun si fuera con otro, poco importara;</l>
+            <l part="I" n="1297" metre="-----+-+-++-">pero ¡con su marido!</l>
+          </sp>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l part="M" n="1297" metre="-----+-+-++-">¡Basta!</l>
+          </sp>
+          <sp who="#dragon">
+            <speaker>DRAGÓN</speaker>
+            <l n="1297" part="F" metre="-----+-+-++-">No basta.</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="1298" metre="--++++-++-+-">¡El Dragón es un santo! ¿Quién vio, señores,</l>
+            <l n="1299" metre="+-+--+----+-">gente más ajustada que los dragones?</l>
+          </sp>
+          <sp who="#dragon">
+            <speaker>DRAGÓN</speaker>
+            <l n="1300" metre="+-+--+-+-++-">¡Quédese ella para ella, y él para un asno!</l>
+          </sp>
+          <stage>Vase.</stage>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="1301" metre="--++-+--+-+-">Y aun por eso he tenido tan lindo rato.</l>
+          </sp>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l n="1302" metre="--+--+--+++-">¡Que cargarme de coces me deje un tonto!</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="1303" metre="+-+-++----+-">Hija, aquésas son cargas del matrimonio.</l>
+          </sp>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l n="1304" metre="+++--+-+-++-">Bien ves, pícaro, infame, cómo me han puesto.</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="1305" metre="--++-+--+-+-">Y por no verlo, diera volver a verlo.</l>
+          </sp>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l n="1306" metre="--+-+--+-+-">¿Que a tu esposa dejas que den de coces?</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="1307" metre="--+--+-+--+-">Como aquesos trabajos pasan los hombres.</l>
+          </sp>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l n="1308" metre="--+--+----+-">Pues en ti he de vengarme de sus desprecios.</l>
+          </sp>
+          <stage>Embiste con él.</stage>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l part="I" n="1309" metre="--+-++--+-+-">Para mí tendrás manos.</l>
+          </sp>
+          <stage>Dentro ruido como cayendo.</stage>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="1309" part="F" metre="--+-++--+-+-">¡Valedme, cielos!</l>
+          </sp>
+          <sp who="#chato">
+            <speaker>CHATO</speaker>
+            <l n="1310" metre="--+--+-+--+-">Pero ¿quién a su cargo toma mi queja?</l>
+          </sp>
+          <sp who="#celfa">
+            <speaker>CELFA</speaker>
+            <l n="1311" metre="--+--+-+--+-">Aun mayores prodigios hay en la selva;</l>
+            <l n="1312" metre="----+-+-">pues en desmandadas tropas</l>
+            <l n="1313" metre="--+---+-">de esparcidos escuadrones</l>
+            <l n="1314" metre="+--+--+-">todas las ninfas de Venus</l>
+            <l part="I" n="1315" metre="-+-+--+-">huyendo vienen.</l>
+          </sp>
+          <stage>Sale Venus suelto el cabello, medio desnuda, ensangrentadas las manos.</stage>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="1315" part="F" metre="-+-+--+-">Pastores,</l>
+            <l n="1316" metre="-++-+-+-">decidme, ¡ay de mí!, decidme</l>
+            <l n="1317" metre="--+-+-+-">si dijeron unas voces</l>
+            <l part="I" n="1318" metre="-++--++-">«¡Piedad, cielos!»</l>
+          </sp>
+          <stage>Dice Adonis dentro.</stage>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="1318" part="F" metre="-++--++-">¡Piedad, cielos!</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l part="I" n="1319" metre="-++--++-">¡Favor, dioses!</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="1319" part="F" metre="-++--++-">¡Favor, dioses!</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="1320" metre="-+-+--+-">Mas no tenéis que decirme,</l>
+            <l n="1321" metre="+-+---+-">si ellas mismas me responden</l>
+            <l n="1322" metre="++-+--+-">que es cúyo temo el gemido</l>
+            <l n="1323" metre="-+--+-+-">y cúyo imagino el golpe.</l>
+            <l n="1324" metre="++-++-+">Suyo es sin duda, ¡ay de mí!,</l>
+            <l n="1325" metre="---+--+-">y aunque tan cerca se oye,</l>
+            <l n="1326" metre="++--+-+">no sé si osaré llegar</l>
+            <l part="I" n="1327" metre="---+-++-">a examinarlo.</l>
+          </sp>
+          <stage>Sale Belona.</stage>
+          <sp who="#belona">
+            <speaker>BELONA</speaker>
+            <l n="1327" part="F" metre="---+-++-">No oses,</l>
+            <l n="1328" metre="--+---+-">pues aun yo, compadecida,</l>
+            <l n="1329" metre="-++---+-">troqué a lástimas rencores,</l>
+            <l n="1330" metre="-+-+--+">al ver tus penas; y así</l>
+            <l n="1331" metre="++-+-++-">digo otra vez que no oses,</l>
+            <l n="1332" metre="-++-+-+-">si no quieres ver tan fiero,</l>
+            <l n="1333" metre="+--+--+-">trágico asunto, tan torpe,</l>
+            <l n="1334" metre="--+---+-">como ver que salpicando</l>
+            <l n="1335" metre="-++---+-">los más cándidos albores,</l>
+            <l n="1336" metre="++++--+-">no sé qué vivo cadáver</l>
+            <l n="1337" metre="---+--+-">desde la cumbre del monte</l>
+            <l n="1338" metre="+---+-+-">rosas deshojadas vierte</l>
+            <l n="1339" metre="++----+-">a un valle que las recoge.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l part="I" n="1340" metre="+-+++++-">Yo he de ver quién es.</l>
+          </sp>
+          <stage>Sale Libia [y las ninfas].</stage>
+          <sp who="#libia">
+            <speaker>LIBIA</speaker>
+            <l n="1340" part="F" metre="+-+++++-">No veas;</l>
+            <l n="1341" metre="-+-+--+-">que yo, al temer que entre horrores,</l>
+            <l n="1342" metre="---+--+-">o su gemido me aflija,</l>
+            <l n="1343" metre="--+---+-">o su queja me congoje,</l>
+            <l n="1344" metre="+-+---+-">vengo huyendo con el miedo</l>
+            <l n="1345" metre="--+--++-">de que sea el que así llore</l>
+            <l n="1346" metre="-+--+-+-">el más venturoso amante</l>
+            <l n="1347" metre="-+--+-+-">y el más desdichado joven.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l part="I" n="1348" metre="+-+-+-+">¿No es peor dudarlo?</l>
+          </sp>
+          <sp who="#belona">
+            <speaker>BELONA</speaker>
+            <l n="1348" part="F" metre="+-+-+-+">No;</l>
+            <l n="1349" metre="--+-+-+-">que la duda no supone</l>
+            <l n="1350" metre="----+-+-">lo que la evidencia; y temo,</l>
+            <l n="1351" metre="----+-+-">como la verdad te informe,</l>
+            <l n="1352" metre="-+--+++">que sientas saber quién es</l>
+            <l n="1353" metre="--+---+-">quien en pena tan inorme</l>
+            <l n="1354" metre="--+---+-">con su sangre les infunde</l>
+            <l n="1355" metre="+-+---+-">nuevo espíritu a las flores.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="1356" metre="---+--+">Entre temer y apurar</l>
+            <l n="1357" metre="+--+--+-">término no se conoce.</l>
+          </sp>
+          <sp who="#belona">
+            <speaker>BELONA</speaker>
+            <l n="1358" metre="+-+---+-">Sí conoce, cuanto dista</l>
+            <l n="1359" metre="-+-+--+-">que el mal se dude o se ignore;</l>
+            <l n="1360" metre="-+--+-+">y así, ¿para qué has de ver</l>
+            <l n="1361" metre="++-+--+-">qué humana púrpura corre?</l>
+          </sp>
+          <sp who="#cintia #sospecha #envidia #ninfas #cajas #celfa #libia #belona">
+            <speaker>TODAS</speaker>
+            <l n="1362" metre="+--+--+-">Tanto, que de ella animadas,</l>
+            <l n="1363" metre="+-+++-+-">cada flor es un Adonis.</l>
+          </sp>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="1364" metre="+-+-+-+">¡Un Adonis, ay de mí!</l>
+            <l n="1365" metre="+---+-+-">¿Cómo, soberanos dioses,</l>
+            <l n="1366" metre="+-++--+-">cielo, sol, luna y estrellas,</l>
+            <l n="1367" metre="+-+-+-+-">riscos, selvas, prados, bosques,</l>
+            <l n="1368" metre="+-+-+-+-">aves, brutos, fieras, peces,</l>
+            <l n="1369" metre="+-+-+-+-">troncos, plantas, rosas, flores,</l>
+            <l n="1370" metre="+-+-+-+-">fuentes, ríos, lagos, mares,</l>
+            <l n="1371" metre="+--+--+-">ninfas, deidades y hombres,</l>
+            <l part="I" n="1372" metre="-++-+-+-">sufrís tal estrago?</l>
+          </sp>
+          <stage>Sale Marte.</stage>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="1372" part="F" metre="-++-+-+-">Como</l>
+            <l n="1373" metre="-+-++-+-">la paz me dio más blasones</l>
+            <l n="1374" metre="-+--+-+-">en un pastoral albergue</l>
+            <l n="1375" metre="--+-+-+-">que la guerra entre unos robles;</l>
+            <l n="1376" metre="---+--+-">a cuya causa, tirana,</l>
+            <l n="1377" metre="+-++--+-">no hubo en todo este horizonte</l>
+            <l n="1378" metre="-+--+-+-">ni risco que no examine,</l>
+            <l n="1379" metre="--+--++-+-">ni peñasco que no toque, tanto,</l>
+            <l n="1380" metre="-+---+">que nadie dirá</l>
+            <l n="1381" metre="--+---+-">que el rencor de mis rencores</l>
+            <l n="1382" metre="--+---+-">le dejó por escondido</l>
+            <l n="1383" metre="----+-+-">o le perdonó por pobre;</l>
+            <l n="1384" metre="----+-+-">hasta que la misma fiera,</l>
+            <l n="1385" metre="--+--++-">de mi ofensa primer móvil,</l>
+            <l n="1386" metre="-++---+-">primer móvil de mi ira,</l>
+            <l n="1387" metre="-+--+-+-">halló al que de mí se esconde.</l>
+            <l n="1388" metre="----+-+-">Y porque mejor lo veas,</l>
+            <l n="1389" metre="+-+-+-+-">llega, fiera, llega adonde,</l>
+            <l n="1390" metre="+-+-+-+-">bien herido y mal curado,</l>
+            <l n="1391" metre="-++-+-+-">se alberga un dichoso joven.</l>
+          </sp>
+          <stage>Descúbrese Adonis caído entre unas flores.</stage>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="1392" metre="+--+--+">¡Ay infelice de mí!</l>
+            <l n="1393" metre="-+-+--+-">Injusto amante, que pones</l>
+            <l n="1394" metre="--+---+-">en la fuerza de tus sañas</l>
+            <l n="1395" metre="-+----+-">la fuerza de tus amores:</l>
+            <l n="1396" metre="---+--+-">aunque tirano te vengues,</l>
+            <l n="1397" metre="--+-+-+-">por lo menos no blasones</l>
+            <l n="1398" metre="---+-++-">que sin tirarle Amor flechas</l>
+            <l n="1399" metre="---+--+-">le coronó de favores.</l>
+            <l n="1400" metre="+---+-+">Flechas le tiró el Amor,</l>
+            <l n="1401" metre="-+--+-+-">temida deidad del joven</l>
+            <l n="1402" metre="+-----+-">tanto, que porque tus celos</l>
+            <l n="1403" metre="--++-++-">su mayor triunfo no borren,</l>
+            <l n="1404" metre="--+-+-+-">vivirá a su ruego eterno,</l>
+            <l n="1405" metre="-+-+-++-">aunque ahora en él y en mí notes</l>
+            <l n="1406" metre="-+--+-+-">las venas con poca sangre,</l>
+            <l n="1407" metre="-+--+-+-">los ojos con mucha noche.</l>
+          </sp>
+          <stage>Cae Venus desmayada.</stage>
+          <sp who="#cintia #sospecha #envidia #ninfas #cajas #celfa #libia #belona">
+            <speaker>TODAS</speaker>
+            <l n="1408" metre="--+---+">Con la fuerza del dolor</l>
+            <l n="1409" metre="-+--+-+-">cayó desmayada sobre</l>
+            <l n="1410" metre="-+----+-">las rosas, y sus espinas</l>
+            <l n="1411" metre="+-+---+-">van violando sus colores.</l>
+          </sp>
+          <stage>Amor en lo alto se descubre, y se ve un cielo con el sol que se esconde, y una estrella que sale a tiempo que van subiendo Adonis por un lado, y Venus por otro.</stage>
+          <sp who="#amor">
+            <speaker>AMOR</speaker>
+            <l n="1412" metre="--+--++-">Porque vean que no en vano,</l>
+            <l n="1413" metre="--+---+-">cuando en púrpura se tornen,</l>
+            <l n="1414" metre="-+--+-+-">le halló en el campo aquella</l>
+            <l n="1415" metre="+-+---+-">vida y muerte de los hombres,</l>
+            <l n="1416" metre="+-----+-">Júpiter, pues, conmovido</l>
+            <l n="1417" metre="--+---+-">o indignado de que goce</l>
+            <l n="1418" metre="---+-++-">sin los imperios de un alma</l>
+            <l n="1419" metre="-+-+--+-">los de una vida tu nombre,</l>
+            <l n="1420" metre="+---+-+-">de esa derramada sangre</l>
+            <l n="1421" metre="+-+-+-+-">quiere que una flor se forme,</l>
+            <l n="1422" metre="---+--+-">y que de aquella se vistan</l>
+            <l n="1423" metre="+-+---+-">roja púrpura las flores,</l>
+            <l n="1424" metre="---+--+-">para que en tierra y en cielo</l>
+            <l n="1425" metre="-+-+--+-">estrella y flor se coloquen;</l>
+            <l n="1426" metre="---+--+-">a cuya causa, subiendo</l>
+            <l n="1427" metre="--+---+-">donde entrambos se coronen,</l>
+            <l n="1428" metre="-+--+-+-">verás que, desde este día,</l>
+            <l n="1429" metre="--+-+-+-">con la nueva luz de Adonis,</l>
+            <l n="1430" metre="+--+--+-">sale la estrella de Venus</l>
+            <l n="1431" metre="-+--+-+-">al tiempo que el sol se pone.</l>
+          </sp>
+          <sp who="#clori #musicos #soldados #el-desengano #temor #rencor #flora #desengano #coro-1 #coro-2 #instrumentos #voces-dentro #uno #otros #dragon #chato #adonis #marte #venus #cintia #sospecha #envidia #ninfas #cajas #celfa #libia #belona #amor">
+            <speaker>TODOS</speaker>
+            <l n="1432" metre="--+---+-">El horror de la tragedia</l>
+            <l n="1433" metre="---+--+-">a nuestra vista se esconde,</l>
+            <l n="1434" metre="+--++++-">viendo que ya todo es dichas.</l>
+          </sp>
+          <sp who="#marte">
+            <speaker>MARTE</speaker>
+            <l n="1435" metre="++----+-">No es todo sino rigores,</l>
+            <l n="1436" metre="-+-+--+">al ver que a triunfos de Amor</l>
+            <l n="1437" metre="+-+-+-+-">otra vez mis celos tornen,</l>
+            <l n="1438" metre="-+--+-+-">supuesto que flor y estrella</l>
+            <l n="1439" metre="-+-+--+-">ascienden Venus y Adonis,</l>
+            <l n="1440" metre="-+--+-+">al tiempo que espira el sol</l>
+            <l n="1441" metre="--+---+-">entre pardos arreboles,</l>
+            <l n="1442" metre="---+--+-">y la enemiga del día</l>
+            <l n="1443" metre="-+-+--+-">su negro manto descoge.</l>
+          </sp>
+          <stage>Van subiendo los dos.</stage>
+          <stage>Van subiendo.</stage>
+          <sp who="#venus">
+            <speaker>VENUS</speaker>
+            <l n="1444" metre="----+-+-">Pues porque mejor lo digas,</l>
+            <l n="1445" metre="-+--+-+-">los dulces acentos oye…</l>
+          </sp>
+          <sp who="#adonis">
+            <speaker>ADONIS</speaker>
+            <l n="1446" metre="----+++-">…con que nos aclama a un tiempo</l>
+            <l n="1447" metre="-+---++-">la música de dos orbes.</l>
+          </sp>
+          <sp who="#clori #musicos #soldados #el-desengano #temor #rencor #flora #desengano #coro-1 #coro-2 #instrumentos #voces-dentro #uno #otros #dragon #chato #cintia #sospecha #envidia #ninfas #cajas #celfa #libia #belona #amor #marte #venus #adonis">
+            <speaker>TODOS</speaker>
+            <l n="1448" metre="--+--+--+-+-">A pesar de los celos, sus triunfos logre</l>
+            <l n="1449" metre="--+--+-+--+-">el Amor, colocados Venus y Adonis;</l>
+            <l n="1450" metre="--+--+--+-+-">y reciban ufanas, y eternas gocen</l>
+            <l n="1451" metre="--+--+--+-+-">las estrellas su estrella, su flor las flores.</l>
+          </sp>
+          <sp who="#belona">
+            <speaker>BELONA</speaker>
+            <l n="1452" metre="---+--+-">A cuyo aplauso festivo</l>
+            <l n="1453" metre="+--+--+-">fin a su fábula pone</l>
+            <l n="1454" metre="-+----+-">La púrpura de la rosa,</l>
+            <l n="1455" metre="-+--+-+-">volviendo a decir las voces:…</l>
+          </sp>
+          <sp who="#clori #musicos #soldados #el-desengano #temor #rencor #flora #desengano #coro-1 #coro-2 #instrumentos #voces-dentro #uno #otros #dragon #chato #cintia #sospecha #envidia #ninfas #cajas #celfa #libia #amor #marte #venus #adonis #belona">
+            <speaker>TODOS</speaker>
+            <l n="1456" metre="--+--+--+-+-">A pesar de los celos, sus triunfos logre</l>
+            <l n="1457" metre="--+--+-+--+-">el Amor, colocados Venus y Adonis;</l>
+            <l n="1458" metre="--+--+--+-+-">y reciban ufanas, y eternas gocen</l>
+            <l n="1459" metre="--+--+--+-+-">las estrellas su estrella, su flor las flores.</l>
+          </sp>
+          <stage>Suben los dos hasta donde está el Amor, y desaparecen los tres, escondiéndose el sol, y quedando la estrella.</stage>
+          <stage>FIN</stage>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
