@@ -76,18 +76,22 @@ Un modelo de lenguaje solo puede aprender lo que hay en sus datos. Por eso, en H
 lo primero es siempre **mirar el corpus**: ¿cuánto texto hay?, ¿qué palabras aparecen?, ¿hay «ruido»
 (números de página, cabeceras, errores de OCR)?
 
-Usaremos como ejemplo la *Primera parte del Quijote* y el *Lazarillo de Tormes* (dominio público,
-Project Gutenberg). Puedes usar tus propios textos `.txt`.
+Corpus de ejemplo:
+- la *Primera parte del Quijote* y el *Lazarillo de Tormes* (dominio público, Project Gutenberg, `.txt`),
+- **las 14 obras de Calderón del curso** en TEI-XML (`data/calderon/tei/`, ver `data/FUENTES.md`).
+  Del XML se extrae el texto plano: cada parlamento con el nombre del personaje delante y las acotaciones entre corchetes.
+
+Puedes usar tus propios textos `.txt` o `.xml` (TEI).
 """),
     code(SETUP_CODE),
-    md("## ⚙️ Ajustes\nCambia aquí la carpeta con tus textos. `data/sample` contiene los textos de ejemplo."),
+    md("## ⚙️ Ajustes\nCambia aquí las carpetas con tus textos (`.txt` o TEI `.xml`). `data/sample`: Quijote y Lazarillo; `data/calderon/tei`: las 14 obras de Calderón."),
     code("""
-CARPETAS = ["data/sample"]     # p. ej. ["data/mis_textos"]
+CARPETAS = ["data/sample", "data/calderon/tei"]   # p. ej. ["data/mis_textos"]
 PALABRA_CLAVE = "Dulcinea"     # para buscar en contexto (KWIC)
 """),
     md("""
 ### (Opcional) Sube tus propios textos
-En Colab, ejecuta la celda siguiente con `SUBIR = True` para elegir archivos `.txt` de tu ordenador.
+En Colab, ejecuta la celda siguiente con `SUBIR = True` para elegir archivos `.txt` o `.xml` (TEI) de tu ordenador.
 Se guardarán en `data/mis_textos/`. Después cambia `CARPETAS = ["data/mis_textos"]` arriba.
 """),
     code("""
@@ -96,15 +100,16 @@ if SUBIR:
     from dhllm.data import upload_texts
     upload_texts("data/mis_textos")
 """),
-    md("## 1. Cargar los textos"),
+    md("## 1. Cargar los textos\nLos `.txt` se leen tal cual; de cada `.xml` (TEI) se extraen los versos con su personaje."),
     code("""
 from dhllm.data import load_texts
 textos = load_texts(CARPETAS)
 textos
 """),
-    md("Veamos el principio del primer texto:"),
+    md("Veamos el principio del primer texto y de una obra de Calderón (texto extraído del TEI):"),
     code("""
-print(textos[0].content[:800])
+print(textos[0].content[:500])
+print(next(t for t in textos if "sueño" in t.name).content[:500])
 """),
     md("""
 ## 2. Estadísticas básicas
@@ -127,7 +132,7 @@ kwic(textos, PALABRA_CLAVE, width=45, max_results=8);
     md("""
 ## 5. ¿Cuánto texto necesita un modelo?
 Para comparar: GPT-3 se entrenó con unos 300 000 millones de tokens; los modelos actuales con más de
-10 billones. Nuestro corpus de ejemplo tiene ~1 millón de caracteres. Por eso nuestros modelos serán
+10 billones. Nuestro corpus de ejemplo tiene ~2,5 millones de caracteres. Por eso nuestros modelos serán
 **miniaturas**: aprenderán algo del estilo, pero no «sabrán» cosas.
 """),
     code("""
@@ -138,7 +143,7 @@ print(f"Palabras aprox.: {len(corpus.split()):,}".replace(",", "."))
 """),
     md("""
 ## 🖐️ Tu turno
-1. Busca otras palabras con `kwic` (por ejemplo *molinos*, *honra*, *pan*). ¿Qué te dice el contexto?
+1. Busca otras palabras con `kwic` (por ejemplo *molinos*, *honra*, *sueño*, *pan*). ¿Qué te dice el contexto? ¿Aparece en Cervantes o en Calderón?
 2. Cambia `n=25` por `n=50` en `top_words`. ¿Aparecen nombres propios?
 3. Sube un texto propio y compara sus estadísticas con las del Quijote.
 4. **Para pensar:** ¿qué «ruido» ves en tus textos que un modelo aprendería a imitar?
@@ -165,7 +170,7 @@ Un ordenador no entiende letras, solo números. El **tokenizador** divide el tex
 («q»+«u» → «qu», «qu»+«e» → «que»...) hasta alcanzar el tamaño de vocabulario deseado.
 """),
     code(SETUP_CODE),
-    md("## ⚙️ Ajustes\nLos textos se toman de `config.yaml` (por defecto, los de ejemplo; ver cuaderno 01)."),
+    md("## ⚙️ Ajustes\nLos textos se toman de `config.yaml` (`data: folders`; por defecto Quijote y Lazarillo). Para usar Calderón, añade allí `data/calderon/tei`."),
     code("""
 VOCABULARIO = 4000   # prueba 500, 2000, 8000
 FRASE = "En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo."

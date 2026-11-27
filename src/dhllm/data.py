@@ -1,4 +1,4 @@
-"""Cargar y explorar textos propios (.txt)."""
+"""Cargar y explorar textos propios (.txt y TEI/XML)."""
 
 import re
 import unicodedata
@@ -44,10 +44,52 @@ def strip_gutenberg_header(text: str) -> str:
     return text
 
 
-def load_texts(folders=("data/sample",), root=None, encoding="utf-8", lowercase=False) -> list[Text]:
-    """Lee todos los archivos .txt de una o varias carpetas.
+def read_tei(path, speakers: bool = True) -> Text:
+    """Lee un archivo TEI/XML y devuelve su texto plano.
+
+    Obras de teatro en TEI (como las de Calderón): versos y prosa de cada parlamento,
+    con el nombre del personaje delante si speakers=True (y acotaciones entre corchetes).
+    Otros XML: todo el texto de <body> (o del documento entero).
+    """
+    import xml.etree.ElementTree as ET
+    from .calderon import clean_name, parse_play
+    path = Path(path)
+    try:
+        root = ET.parse(path).getroot()
+    except ET.ParseError as e:
+        print(f"Aviso: '{path.name}' no es un XML válido ({e}); se omite.")
+        return Text(path.stem, "")
+    try:
+        play = parse_play(path)
+    except Exception:  # XML sin la estructura de una obra TEI: leemos todo el texto
+        play = {"records": []}
+    if play["records"]:
+        out, spk = [], None
+        for r in play["records"]:
+            if r["kind"] == "stage":
+                if speakers:
+                    out.append(f"[{r['text']}]")
+                spk = None
+            else:
+                if speakers and r["speaker"] != spk:
+                    out.append(f"{clean_name(r['speaker'])}:")
+                spk = r["speaker"]
+                out.append(r["text"])
+        return Text(play.get("title") or path.stem, "\n".join(out))
+    body = next((el for el in root.iter() if el.tag.split("}")[-1] == "body"), root)
+    lines = [" ".join(t.split()) for t in body.itertext()]
+    return Text(path.stem, "\n".join(x for x in lines if x))
+
+
+TEXT_SUFFIXES = (".txt", ".xml")
+
+
+def load_texts(folders=("data/sample",), root=None, encoding="utf-8", lowercase=False,
+               speakers: bool = True) -> list[Text]:
+    """Lee todos los archivos .txt y TEI/.xml de una o varias carpetas.
 
     folders: una carpeta, un archivo o una lista de carpetas/archivos.
+    speakers: en obras de teatro TEI, poner el nombre del personaje delante de su parlamento.
     """
     if isinstance(folders, (str, Path)):
         folders = [folders]
@@ -57,8 +99,15 @@ def load_texts(folders=("data/sample",), root=None, encoding="utf-8", lowercase=
         p = Path(folder)
         if not p.is_absolute():
             p = root / p
-        files = [p] if p.is_file() else sorted(p.glob("**/*.txt"))
+        files = [p] if p.is_file() else sorted(f for f in p.glob("**/*") if f.suffix.lower() in TEXT_SUFFIXES)
+        if not p.exists():
+            print(f"Aviso: no existe la carpeta '{folder}'.")
         for f in files:
+            if f.suffix.lower() == ".xml":
+                t = read_tei(f, speakers=speakers)
+                if t.content:
+                    texts.append(Text(t.name, clean_text(t.content, lowercase=lowercase)))
+                continue
             try:
                 raw = f.read_text(encoding=encoding)
             except UnicodeDecodeError:
@@ -67,7 +116,7 @@ def load_texts(folders=("data/sample",), root=None, encoding="utf-8", lowercase=
             raw = strip_gutenberg_header(raw)
             texts.append(Text(f.stem, clean_text(raw, lowercase=lowercase)))
     if not texts:
-        print(f"No se ha encontrado ningún archivo .txt en {folders}.")
+        print(f"No se ha encontrado ningún archivo .txt ni .xml en {folders}.")
     else:
         total = sum(len(t.content) for t in texts)
         print(f"Cargados {len(texts)} textos ({total:,} caracteres en total).".replace(",", "."))
@@ -75,11 +124,11 @@ def load_texts(folders=("data/sample",), root=None, encoding="utf-8", lowercase=
 
 
 def upload_texts(target_folder="data/mis_textos") -> list[Path]:
-    """En Colab: abre un diálogo para subir archivos .txt propios a target_folder."""
+    """En Colab: abre un diálogo para subir archivos propios (.txt o TEI .xml) a target_folder."""
     target = Path(target_folder)
     target.mkdir(parents=True, exist_ok=True)
     if not in_colab():
-        print(f"Fuera de Colab: copia tus archivos .txt a la carpeta '{target}'.")
+        print(f"Fuera de Colab: copia tus archivos .txt o .xml (TEI) a la carpeta '{target}'.")
         return []
     from google.colab import files  # type: ignore
     uploaded = files.upload()

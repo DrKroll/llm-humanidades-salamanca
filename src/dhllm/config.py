@@ -13,7 +13,7 @@ from .utils import smoke_test_mode
 
 DEFAULTS = {
     "data": {
-        "folders": ["data/sample"],  # carpetas con archivos .txt
+        "folders": ["data/sample"],  # carpetas con archivos .txt o TEI .xml
         "encoding": "utf-8",
         "lowercase": False,
     },

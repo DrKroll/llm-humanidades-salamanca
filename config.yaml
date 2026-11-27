@@ -5,8 +5,10 @@
 # ---------------------------------------------------------------
 
 data:
-  # Carpetas con archivos .txt. Pon aquí tu propio corpus, por ejemplo:
+  # Carpetas con archivos .txt o TEI .xml (cuadernos 02 y 03). Pon aquí tu propio corpus, p. ej.:
   # folders: ["data/mis_textos"]
+  # Con las 14 obras de Calderón:  folders: ["data/calderon/tei"]
+  # (El cuaderno 01 usa por defecto data/sample + data/calderon/tei; ver su celda de Ajustes.)
   folders: ["data/sample"]
   lowercase: false
 

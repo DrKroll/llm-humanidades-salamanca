@@ -1,6 +1,6 @@
 # Tus textos
 
-Copia aquí tus propios archivos `.txt` (codificación UTF-8), por ejemplo
+Copia aquí tus propios archivos `.txt` (codificación UTF-8) o `.xml` en TEI, por ejemplo
 cartas, poemas, actas, crónicas, transcripciones...
 
 Después cambia en `config.yaml`:

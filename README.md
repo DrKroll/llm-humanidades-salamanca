@@ -67,7 +67,7 @@ Las secciones marcadas con ⭐ **Opcional** se pueden saltar si no hay tiempo.
 
 ## 📝 Usar tus propios textos
 
-1. Prepara uno o varios archivos `.txt` en **UTF-8** (idealmente 0,5–5 MB en total).
+1. Prepara uno o varios archivos `.txt` en **UTF-8** (o TEI `.xml`) (idealmente 0,5–5 MB en total).
 2. Cópialos a `data/mis_textos/` (en Colab: cuaderno 01, parte B, celda «Sube tus propios textos»).
 3. En `config.yaml` cambia `folders: ["data/sample"]` por `folders: ["data/mis_textos"]`.
 

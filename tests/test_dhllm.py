@@ -1,6 +1,8 @@
 """Pruebas rápidas de las funciones del paquete (no necesitan internet)."""
 
+import json
 import os
+from pathlib import Path
 
 import torch
 
@@ -160,3 +162,25 @@ def test_taller_calderon_entrena_y_copia_si_falla(monkeypatch, tmp_path):
     monkeypatch.setattr(finetune, "load_adapter", lambda modelo, carpeta: modelo)
     m2 = taller.entrenar_calderon(m2, datos)
     assert m2.origen == "copia de seguridad"
+
+
+def test_load_texts_lee_tei_y_txt(tmp_path):
+    """load_texts lee .txt y TEI/.xml; el corpus por defecto del cuaderno 01 incluye las 14 obras."""
+    from dhllm.data import load_texts, read_tei
+    root = Path(__file__).resolve().parents[1]
+    tei = load_texts([str(root / "data/calderon/tei")])
+    assert len(tei) == 14
+    assert any("Eco y Narciso" in t.name for t in tei) and any("secreto a voces" in t.name for t in tei)
+    sueno = next(t for t in tei if "sueño" in t.name)
+    assert "Hipogrifo" in sueno.content and "Rosaura:" in sueno.content and "<" not in sueno.content
+    assert "Rosaura:" not in read_tei(root / "data/calderon/tei" / next(
+        p.name for p in (root / "data/calderon/tei").glob("*.xml") if "vida" in p.name.lower()), speakers=False).content
+    todos = load_texts([str(root / "data/sample"), str(root / "data/calderon/tei")])
+    assert len(todos) == 16
+    # un XML que no es teatro: se lee el texto de <body>
+    (tmp_path / "a.txt").write_text("Hola mundo", encoding="utf-8")
+    (tmp_path / "b.xml").write_text('<TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p>Érase una vez</p></body></text></TEI>', encoding="utf-8")
+    mios = load_texts([str(tmp_path)])
+    assert [t.content.strip() for t in mios] == ["Hola mundo", "Érase una vez"]
+    nb = json.loads((root / "notebooks/taller_llm/01_preparar_y_explorar_tus_textos.ipynb").read_text(encoding="utf-8"))
+    assert any('"data/calderon/tei"' in "".join(c["source"]) for c in nb["cells"] if c["cell_type"] == "code")
