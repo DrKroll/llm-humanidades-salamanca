@@ -9,7 +9,7 @@ Material precalculado por si Colab no da GPU o el tiempo no alcanza. **No se sub
 | `quijote_lora/` | 03 (`USAR_COPIA = True` o automático) | Adaptador LoRA (fp16) para Qwen2.5-0.5B-Instruct sobre el *Quijote* |
 
 **Atención:** los adaptadores actuales se entrenaron en **CPU con ajustes reducidos**
-(Calderón: 400 pares, 1 época, lote 2, ~14 min; Quijote: 60 pasos, lote 2). Detalles en
+(Calderón: 400 pares de las 14 obras —incluidas *Eco y Narciso* y *El secreto a voces*—, 1 época, lote 2, ~10 min; Quijote: 60 pasos, lote 2). Detalles en
 `*/entrenamiento.json`. Funcionan para la demostración, pero son más flojos que un
 entrenamiento completo. Versión completa con GPU (T4, ~15-20 min):
 

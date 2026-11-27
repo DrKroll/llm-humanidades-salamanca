@@ -1,11 +1,27 @@
 {
  "modelo_base": "Qwen/Qwen2.5-0.5B-Instruct",
+ "obras": [
+  "La vida es sueño",
+  "La dama duende",
+  "El alcalde de Zalamea",
+  "El médico de su honra",
+  "Casa con dos puertas mala es de guardar",
+  "A secreto agravio, secreta venganza",
+  "Los cabellos de Absalón",
+  "El príncipe constante",
+  "El gran teatro del mundo",
+  "La humildad coronada",
+  "Psiquis y Cupido, que escribió para esta villa de Madrid",
+  "Eco y Narciso",
+  "El secreto a voces",
+  "Los empeños de un acaso"
+ ],
  "pares": 400,
  "epocas": 1,
  "lote": 2,
  "max_length": 512,
  "dispositivo": "cpu",
- "minutos": 13.7,
+ "minutos": 9.5,
  "perdida": {
   "step": [
    40,
@@ -15,11 +31,11 @@
    200
   ],
   "train": [
-   2.0115419570356607,
-   1.1442169884219766,
-   1.170640581846237,
-   1.056226010271348,
-   0.6590217975433916
+   2.1562449192628264,
+   1.2297889605164527,
+   1.0338807973545046,
+   1.0578051176387817,
+   0.9268519605742768
   ],
   "val": []
  }
