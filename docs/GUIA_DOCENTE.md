@@ -20,12 +20,17 @@ se pueden saltar. Lo que no cabe está en `notebooks/extras/`.
 |---|---|---|---|
 | 13:00–13:30 | — | Presentación del repositorio | 30′ |
 | 13:30–14:00 | **01** · Preparar y explorar tus textos | A: GPU y configuración (≈ 10′) · B: corpus, estadísticas, KWIC, subir textos (≈ 20′) | 30′ |
-| 15:00–15:50 | **02** · Del texto al GPT diminuto | A: tokenizador (≈ 15′) · B: GPT desde cero, 2–4 min de entrenamiento (≈ 25′) · C: muestreo (≈ 10′) | 50′ |
-| 15:50–16:15 | **03** · Ajuste fino con tus textos | LoRA sobre Qwen2.5-0.5B-Instruct, 5–8 min de entrenamiento en T4 | 25′ |
-| 16:30–17:00 | **04** · Calderón | Base vs. RAG vs. SFT vs. SFT+RAG con la copia de seguridad (`ENTRENAR = False`, ≈ 15′) y discusión. Con tiempo/GPU: `ENTRENAR = True` (+10′). ⭐ Sección 8 opcional, *Grafo de personajes* (+5–10′, o como demostración del docente) | 30′ |
+| 15:00–15:50 | **02** · Del texto al GPT diminuto | 0: comprobar GPU · A: tokenizador (≈ 15′) · B: GPT desde cero, 1500 pasos ≈ 2–4 min en la T4 (≈ 25′) · C: muestreo (≈ 10′) | 50′ |
+| 15:50–16:15 | **03** · Ajuste fino con tus textos | Cargar Qwen2.5-0.5B (≈ 2′, descarga de ~1 GB) · antes (≈ 3′) · LoRA, 300 pasos ≈ 4–6 min en la T4, tope 8′ · después y comparación (≈ 5′) | 25′ |
+| 16:30–17:00 | **04** · Calderón | Datos + modelo (≈ 3′) · A y B (≈ 5′) · **cada participante entrena su modelo**: 2000 pares, 1 época, lote 8 = 250 pasos ≈ 4–7 min en la T4, tope automático 10′ (mientras entrena, comentar las columnas A y B) · C, D y tabla (≈ 5′) · discusión (≈ 8′). ⭐ Sección 8 opcional, *Grafo de personajes* (+5–10′, o como demostración del docente) | 30′ |
 
-**Si falta tiempo:** en 02 saltar las secciones ⭐ y hacer la parte C solo con los puntos 1 y 3; en 03 usar
-`ENTRENAR = False` (adaptador de `backups/`); 04 se puede hacer como demostración del docente.
+Todos los participantes tienen cuenta de Google Colab: **cada uno entrena en su propia GPU T4**. Cada cuaderno
+con entrenamiento empieza con la celda «0. ¿Tenemos GPU?», que explica cómo cambiar a T4.
+
+**Si falta tiempo o falla algo:** en 02 saltar las secciones ⭐ y hacer la parte C solo con los puntos 1 y 3;
+en 03/04 bajar `"pasos"`/`"max_minutos"` o poner `USAR_COPIA = True` (adaptador ya entrenado de `backups/`).
+Sin GPU, o si el entrenamiento falla, 03 y 04 cargan la copia de seguridad **automáticamente** y lo dicen en pantalla.
+Si la GPU se queda sin memoria, 04 repite solo con la mitad de lote.
 
 ### Extras (`notebooks/extras/`)
 | Cuaderno | Contenido | Tiempo (T4) |
@@ -53,7 +58,7 @@ se pueden saltar. Lo que no cabe está en `notebooks/extras/`.
 ## Plan B: copias de seguridad
 - `backups/calderon_indice_rag.json.gz`: índice RAG precalculado (cuaderno 04; se crea en segundos, pero por si acaso).
 - `backups/calderon_lora/` y `backups/quijote_lora/`: adaptadores LoRA para Qwen2.5-0.5B-Instruct (cuadernos 04 y 03,
-  `ENTRENAR = False`). Datos del entrenamiento en `entrenamiento.json` de cada carpeta.
+  `USAR_COPIA = True`, o automáticamente sin GPU / si falla el entrenamiento). Datos del entrenamiento en `entrenamiento.json` de cada carpeta.
 - **Los adaptadores actuales están entrenados en CPU con ajustes reducidos** (Calderón: 400 pares, 1 época; Quijote: 60 pasos).
   Antes del curso conviene reentrenarlos en una T4 con el comando siguiente (ver `backups/LEEME.md`).
 - Volver a entrenarlos (mejor con GPU): `python tools/entrenar_copias_de_seguridad.py todo --epocas-calderon 2 --pasos-quijote 300`.
@@ -69,8 +74,15 @@ se pueden saltar. Lo que no cabe está en `notebooks/extras/`.
 | El texto propio da error de codificación | Guardarlo como «Texto UTF-8» (en Word: *Guardar como → Texto sin formato → UTF-8*). |
 
 ## Mantenimiento
+**Dónde está el código:** los cuadernos solo llaman a funciones cortas de `src/dhllm/taller.py`
+(`entrenar_tokenizador`, `preparar_gpt`, `entrenar_gpt`, `preparar_ajuste_fino`, `ajustar_con_mis_textos`,
+`preparar_datos`, `cargar_modelo`, `responder`, `entrenar_calderon`, `tabla_comparativa`, `grafo`...). Esas funciones
+usan los módulos de siempre (`tokenizer`, `pretrain`, `finetune`, `sft`, `calderon`). Los ajustes de los
+cuadernos usan nombres en español (`pasos`, `epocas`, `ritmo_aprendizaje`, `max_minutos`, `obras`) que
+`taller.py` traduce a las claves de `config.yaml`.
+
 Los cuadernos se generan con `python tools/build_notebooks.py`. Edita los textos allí (no en los `.ipynb`) y vuelve a generar.
-Prueba automática: `DHLLM_SMOKE_TEST=1 python tests/run_notebooks.py` (03 y 04 se ejecutan con `ENTRENAR = True` y `False`).
+Prueba automática: `DHLLM_SMOKE_TEST=1 python tests/run_notebooks.py` (03 y 04 se ejecutan con `USAR_COPIA = False` y `True`).
 Las «partes» de cada cuaderno se definen en `tools/build_notebooks.py` y `tools/build_python_notebooks.py` (función `part`).
 
 ## ⭐ Cuaderno 04, sección 8: grafo de personajes (opcional)

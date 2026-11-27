@@ -108,3 +108,55 @@ def test_notebook_layout():
         src = ["".join(c["source"]) for c in cells]
         assert sum("Preparación: ejecuta esta celda primero" in s for s in src) <= 1, p.name
         assert str(p.relative_to(root.parent)) in src[0], f"insignia de Colab incorrecta en {p.name}"
+
+
+# --------------------------------------------------------------- dhllm.taller (funciones de alto nivel)
+def test_taller_traduce_ajustes(monkeypatch):
+    monkeypatch.delenv("DHLLM_SMOKE_TEST", raising=False)
+    from dhllm import taller
+    cfg = taller._cfg("calderon", {"epocas": 3, "ritmo_aprendizaje": 1e-4, "max_minutos": 2})
+    assert cfg.calderon.epochs == 3 and cfg.calderon.learning_rate == 1e-4 and cfg.calderon.max_minutes == 2
+    assert taller.comprobar_gpu() == taller.hay_gpu()
+
+
+def test_taller_preparar_datos_incluye_obras_nuevas(monkeypatch):
+    monkeypatch.setenv("DHLLM_SMOKE_TEST", "1")
+    from dhllm import taller
+    datos = taller.preparar_datos({"obras": "todas"})
+    titulos = {o["title"] for o in datos.obras}
+    assert {"Eco y Narciso", "El secreto a voces"} <= titulos and len(titulos) == 14
+    solo = taller.preparar_datos({"obras": ["Eco y Narciso"], "pares": 5})
+    assert [o["title"] for o in solo.obras] == ["Eco y Narciso"]
+    assert solo.pares_train and len(solo.indice.fragments) < len(datos.indice.fragments)
+    G = taller.grafo(solo, "eco y narciso", mostrar=False)
+    assert G.number_of_nodes() > 3
+
+
+def test_taller_gpt_diminuto(monkeypatch, tmp_path):
+    monkeypatch.setenv("DHLLM_SMOKE_TEST", "1")
+    monkeypatch.setenv("MPLBACKEND", "Agg")
+    from dhllm import taller
+    tok = taller.entrenar_tokenizador(600)
+    assert tok.vocab_size <= 600
+    gpt = taller.preparar_gpt({"pasos": 4, "save_dir": str(tmp_path / "gpt")})
+    hist = taller.entrenar_gpt(gpt, "En un lugar")
+    assert hist["step"][-1] == gpt.ajustes["max_steps"] and (tmp_path / "gpt" / "model.pt").exists()
+
+
+def test_taller_calderon_entrena_y_copia_si_falla(monkeypatch, tmp_path):
+    monkeypatch.setenv("DHLLM_SMOKE_TEST", "1")
+    monkeypatch.setenv("MPLBACKEND", "Agg")
+    from dhllm import taller, sft, finetune
+    datos = taller.preparar_datos({"obras": ["La dama duende"], "save_dir": str(tmp_path / "lora")})
+    m = taller.cargar_modelo(datos)
+    assert isinstance(taller.preguntar(m, "¿Quién es Cosme?", datos, mostrar=False, tokens=5), str)
+    m = taller.entrenar_calderon(m, datos)                      # entrena de verdad (pocos pasos)
+    assert m.origen == "entrenado por ti" and (tmp_path / "lora" / "adapter_config.json").exists()
+    assert isinstance(taller.preguntar(m, "¿Quién es Cosme?", sin_ajuste=True, mostrar=False, tokens=5), str)
+
+    # Si el entrenamiento falla, se usa la copia de seguridad (aquí simulada)
+    m2 = taller.cargar_modelo(datos)
+    monkeypatch.setattr(sft, "train_sft", lambda *a, **k: (_ for _ in ()).throw(RuntimeError("fallo simulado")))
+    monkeypatch.setattr(finetune, "load_adapter", lambda modelo, carpeta: modelo)
+    m2 = taller.entrenar_calderon(m2, datos)
+    assert m2.origen == "copia de seguridad"

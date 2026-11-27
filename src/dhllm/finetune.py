@@ -101,8 +101,11 @@ def train_loop(model, next_batch, settings: dict, steps: int, eval_fn=None, eval
     scaler = torch.amp.GradScaler("cuda", enabled=(device == "cuda"))
     history = {"step": [], "train": [], "val": []}
     running, t0 = [], time.time()
+    max_seconds = 60 * settings["max_minutes"] if settings.get("max_minutes") else None
+    from tqdm.auto import tqdm
+    bar = tqdm(range(1, steps + 1), desc="Entrenando", unit="paso")
     model.train()
-    for step in range(1, steps + 1):
+    for step in bar:
         batch = {k: v.to(device) for k, v in next_batch().items()}
         with _amp(device):
             loss = model(**batch).loss
@@ -114,7 +117,9 @@ def train_loop(model, next_batch, settings: dict, steps: int, eval_fn=None, eval
         scaler.update()
         sched.step()
         running.append(loss.item())
-        if step % eval_every == 0 or step == steps:
+        bar.set_postfix(pérdida=f"{loss.item():.3f}")
+        se_acaba = max_seconds is not None and time.time() - t0 > max_seconds
+        if step % eval_every == 0 or step == steps or se_acaba:
             history["step"].append(step)
             history["train"].append(sum(running) / len(running))
             running = []
@@ -124,7 +129,12 @@ def train_loop(model, next_batch, settings: dict, steps: int, eval_fn=None, eval
                 history["val"].append(val["loss"])
                 msg += f" · validación {val['loss']:.3f} (perplejidad {val['perplejidad']})"
                 model.train()
-            print(msg + f" · {time.time() - t0:.0f} s")
+            bar.write(msg + f" · {time.time() - t0:.0f} s")
+        if se_acaba:
+            bar.write(f"⏱️ Se alcanzó el límite de {settings['max_minutes']} min: paramos aquí "
+                      f"(paso {step} de {steps}). El modelo ya ha aprendido algo y se puede usar.")
+            break
+    bar.close()
     print(f"Listo en {time.time() - t0:.0f} segundos.")
     return history
 

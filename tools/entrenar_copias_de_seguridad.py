@@ -48,7 +48,7 @@ if args.que == "indice":
     cal.BM25Index(cal.make_fragments(plays)).save(resolve(cfg, c["backup_index"]))
 
 if args.que in ("calderon", "todo"):
-    c = dict(cfg.calderon, epochs=args.epocas_calderon)
+    c = dict(cfg.calderon, epochs=args.epocas_calderon, max_minutes=None)  # sin límite de tiempo
     if args.lote:
         c["batch_size"] = args.lote
     plays = cal.load_plays(resolve(cfg, c["tei_folder"]), show=False)
@@ -70,7 +70,7 @@ if args.que in ("calderon", "todo"):
 
 if args.que in ("quijote", "todo"):
     from dhllm.data import load_texts
-    f = dict(cfg.finetune, max_steps=args.pasos_quijote)
+    f = dict(cfg.finetune, max_steps=args.pasos_quijote, max_minutes=None)
     if args.lote:
         f["batch_size"] = args.lote
     model, tok = load_base_model(f["base_model"])

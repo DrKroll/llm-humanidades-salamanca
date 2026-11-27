@@ -1,7 +1,7 @@
 """Ejecuta todos los cuadernos en modo de prueba rápida (DHLLM_SMOKE_TEST=1).
 
 Uso:  python tests/run_notebooks.py [patrón]      (p. ej. "0*" o "P*")
-Los cuadernos con `ENTRENAR = ...` se ejecutan dos veces (entrenando y con la copia de seguridad).
+Los cuadernos con `USAR_COPIA = ...` se ejecutan dos veces (entrenando y con la copia de seguridad).
 Los cuadernos ejecutados se guardan en outputs/notebooks_ejecutados/ (los originales no cambian).
 """
 
@@ -23,17 +23,17 @@ out_dir.mkdir(parents=True, exist_ok=True)
 import re
 
 def variants(nb):
-    """Los cuadernos con ENTRENAR se prueban dos veces: entrenando y con la copia de seguridad."""
+    """Los cuadernos con USAR_COPIA se prueban dos veces: entrenando y con la copia de seguridad."""
     src = "\n".join(c.source for c in nb.cells if c.cell_type == "code")
-    if not re.search(r"^ENTRENAR = (True|False)", src, flags=re.M):
+    if not re.search(r"^USAR_COPIA = (True|False)", src, flags=re.M):
         return [("", nb)]
     out = []
     for valor in ("True", "False"):
         v = nbformat.reads(nbformat.writes(nb), as_version=4)
         for c in v.cells:
             if c.cell_type == "code":
-                c.source = re.sub(r"^ENTRENAR = (True|False)", f"ENTRENAR = {valor}", c.source, flags=re.M)
-        out.append((f" [ENTRENAR={valor}]", v))
+                c.source = re.sub(r"^USAR_COPIA = (True|False)", f"USAR_COPIA = {valor}", c.source, flags=re.M)
+        out.append((f" [USAR_COPIA={valor}]", v))
     return out
 
 

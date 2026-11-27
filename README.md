@@ -17,8 +17,9 @@ Al terminar el taller sabrás:
 - por qué **el ajuste fino cambia el comportamiento y el estilo, pero el RAG aporta los hechos** (con el teatro de Calderón);
 - y, sobre todo, qué pueden y qué **no** pueden hacer estos modelos con nuestros textos.
 
-No hace falta saber programar: los cuadernos llaman a funciones sencillas y todo se controla con
-una celda de **Ajustes** o con el archivo [`config.yaml`](config.yaml).
+No hace falta saber programar: los cuadernos llaman a funciones sencillas (en [`src/dhllm/taller.py`](src/dhllm/taller.py))
+y todo se controla con una celda de **Ajustes** o con el archivo [`config.yaml`](config.yaml).
+Cada participante entrena en **su propia cuenta de Google Colab** (GPU T4 gratuita).
 
 ## 🚀 Inicio rápido
 
@@ -96,6 +97,7 @@ llm-humanidades-salamanca/
 │   ├── finetune.py          ← ajuste fino con LoRA (Hugging Face + PEFT)
 │   ├── sft.py               ← ajuste por instrucciones
 │   ├── sampling.py          ← generación: temperatura, top-k, top-p
+│   ├── taller.py            ← funciones de alto nivel que usan los cuadernos 02–04
 │   └── calderon.py          ← leer TEI, buscador BM25 (RAG), preguntas automáticas, grafo de personajes
 ├── backups/                 ← plan B: adaptadores LoRA ya entrenados e índice RAG precalculado
 ├── tools/                   ← scripts que generan los cuadernos (para docentes)
@@ -129,7 +131,7 @@ cfg = load_config(overrides={"tiny_gpt": {"max_steps": 300}})
   `pip install nbconvert ipykernel && python tests/run_notebooks.py`
 - Prueba de las funciones: `python -m pytest tests/`
 - Si Colab no da GPU: reducir `max_steps` (02, parte B: 200–300) o trabajar en parejas. Los cuadernos 03 y 04
-  tienen `ENTRENAR = False` para usar los adaptadores de `backups/` (entrenados con
+  tienen `USAR_COPIA = True` (y lo activan solos sin GPU o si falla el entrenamiento) para usar los adaptadores de `backups/` (entrenados con
   `python tools/entrenar_copias_de_seguridad.py`). **No subir los adaptadores a Hugging Face.**
 
 ## 🙏 Créditos e inspiración

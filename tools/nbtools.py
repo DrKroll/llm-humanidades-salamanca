@@ -28,6 +28,7 @@ def code(text: str):
 
 
 SETUP_CODE = f'''
+#@title ⚙️ Preparación: ejecuta esta celda primero (no hace falta leer el código) {{ display-mode: "form" }}
 # ⚙️ Preparación: ejecuta esta celda primero (Mayús + Intro)
 import os, sys
 REPO_URL = "{REPO_URL}"
@@ -49,6 +50,7 @@ print("Carpeta de trabajo:", os.getcwd())
 '''
 
 SETUP_CODE_DATA_ONLY = f'''
+#@title ⚙️ Preparación: ejecuta esta celda primero (no hace falta leer el código) {{ display-mode: "form" }}
 # ⚙️ Preparación: ejecuta esta celda primero (Mayús + Intro).
 # Descarga los textos de ejemplo del curso (solo hace falta una vez).
 import os, sys
@@ -74,6 +76,9 @@ def write_notebook(rel_path: str, cells: list, title_for_badge: bool = True) -> 
     import hashlib
     for i, c in enumerate(nb.cells):
         c["id"] = hashlib.md5(f"{rel_path}:{i}".encode()).hexdigest()[:8]
+    for c in nb.cells:  # celdas «#@title»: Colab muestra solo el título (el código queda plegado)
+        if c["cell_type"] == "code" and c["source"].startswith("#@title"):
+            c["metadata"]["cellView"] = "form"
     nb.metadata = {
         "kernelspec": {"display_name": "Python 3", "language": "python", "name": "python3"},
         "language_info": {"name": "python"},

@@ -37,6 +37,7 @@ finetune:                 # cuaderno 03: ajuste fino de un modelo existente
   block_size: 256
   batch_size: 8
   learning_rate: 0.0002
+  max_minutes: 8          # límite de seguridad (T4: 300 pasos ≈ 4–6 min)
   max_steps: 300
   save_dir: outputs/finetuned
 
@@ -63,9 +64,10 @@ calderon:                 # cuaderno 04: preguntas sobre el teatro de Calderón
   method: lora
   lora_r: 16
   lora_alpha: 32
-  batch_size: 4
+  batch_size: 8           # en una T4 (15 GB) cabe bien; si falta memoria se reduce solo
   learning_rate: 0.0002
-  epochs: 2               # ~10 min en una T4
+  epochs: 1               # 2000 pares / lote 8 = 250 pasos ≈ 4–7 min en una T4
+  max_minutes: 10         # límite de seguridad: el entrenamiento se para aquí y se usa lo aprendido
   max_length: 512         # los pares con fragmentos RAG son largos; se recortan si no caben
   save_dir: outputs/calderon_lora
   backup_adapter: backups/calderon_lora              # adaptador ya entrenado (plan B)

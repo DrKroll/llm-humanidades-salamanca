@@ -43,6 +43,7 @@ DEFAULTS = {
         "batch_size": 8,
         "learning_rate": 2e-4,
         "max_steps": 300,
+        "max_minutes": 8,
         "eval_batches": 10,
         "save_dir": "outputs/finetuned",
     },
@@ -69,9 +70,10 @@ DEFAULTS = {
         "method": "lora",
         "lora_r": 16,
         "lora_alpha": 32,
-        "batch_size": 4,
+        "batch_size": 8,
         "learning_rate": 0.0002,
-        "epochs": 2,
+        "epochs": 1,
+        "max_minutes": 10,           # límite de seguridad en la T4
         "max_length": 512,           # pares con fragmentos: ~470 tokens (se recortan si no caben)
         "save_dir": "outputs/calderon_lora",
         "backup_adapter": "backups/calderon_lora",

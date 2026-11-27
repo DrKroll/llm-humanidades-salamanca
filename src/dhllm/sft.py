@@ -104,15 +104,24 @@ def train_sft(model, tokenizer, pairs: list[dict], settings: dict) -> dict:
     data = utiles
     bs = settings["batch_size"]
     steps = max(1, settings["epochs"] * len(data) // bs)
-    order = []
+    batches = []
+
+    def new_epoch():
+        # Agrupamos pares de longitud parecida (menos relleno = entrenamiento más rápido en la GPU)
+        order = list(range(len(data)))
+        random.shuffle(order)
+        out = []
+        for i in range(0, len(order), bs * 32):
+            grupo = sorted(order[i: i + bs * 32], key=lambda j: len(data[j]["input_ids"]))
+            out += [grupo[k: k + bs] for k in range(0, len(grupo), bs) if len(grupo[k: k + bs]) == bs]
+        random.shuffle(out)
+        return out or [order[:bs]]
 
     def next_batch():
-        nonlocal order
-        if len(order) < bs:
-            order = list(range(len(data)))
-            random.shuffle(order)
-        batch = [data[order.pop()] for _ in range(bs)]
-        return collate(batch, tokenizer.pad_token_id)
+        nonlocal batches
+        if not batches:
+            batches = new_epoch()
+        return collate([data[j] for j in batches.pop()], tokenizer.pad_token_id)
 
     print(f"Entrenando {settings['epochs']} épocas · {steps} pasos")
     return train_loop(model, next_batch, settings, steps, eval_every=max(1, steps // 5))

@@ -5,8 +5,8 @@ Material precalculado por si Colab no da GPU o el tiempo no alcanza. **No se sub
 | Archivo | Cuaderno | Contenido |
 |---|---|---|
 | `calderon_indice_rag.json.gz` | 04 | Índice BM25 con 3507 fragmentos (14 obras + fichas) |
-| `calderon_lora/` | 04 (`ENTRENAR = False`) | Adaptador LoRA (fp16, 17,6 MB) para Qwen2.5-0.5B-Instruct |
-| `quijote_lora/` | 03 (`ENTRENAR = False`) | Adaptador LoRA (fp16) para Qwen2.5-0.5B-Instruct sobre el *Quijote* |
+| `calderon_lora/` | 04 (`USAR_COPIA = True` o automático) | Adaptador LoRA (fp16, 17,6 MB) para Qwen2.5-0.5B-Instruct |
+| `quijote_lora/` | 03 (`USAR_COPIA = True` o automático) | Adaptador LoRA (fp16) para Qwen2.5-0.5B-Instruct sobre el *Quijote* |
 
 **Atención:** los adaptadores actuales se entrenaron en **CPU con ajustes reducidos**
 (Calderón: 400 pares, 1 época, lote 2, ~14 min; Quijote: 60 pasos, lote 2). Detalles en

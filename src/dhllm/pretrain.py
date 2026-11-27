@@ -71,8 +71,11 @@ def train_tiny_gpt(model, tokenizer, train_ids, val_ids, settings: dict,
     history = {"step": [], "train": [], "val": [], "samples": []}
     sample_every = sample_every or max(eval_every * 5, steps // 3)
     t0 = time.time()
+    from tqdm.auto import tqdm
+    bar = tqdm(range(1, steps + 1), desc="Entrenando", unit="paso")
+    log = bar.write  # los mensajes salen por encima de la barra de progreso
     model.train()
-    for step in range(1, steps + 1):
+    for step in bar:
         x, y = get_batch(train_ids, T, bs, device)
         with torch.autocast(device_type="cuda", dtype=torch.float16, enabled=use_amp):
             _, loss = model(x, y)
@@ -90,15 +93,16 @@ def train_tiny_gpt(model, tokenizer, train_ids, val_ids, settings: dict,
             history["step"].append(step)
             history["train"].append(losses["train"])
             history["val"].append(losses["val"])
-            print(f"paso {step:>5}/{steps}  ·  pérdida entrenamiento {losses['train']:.3f}  ·  "
+            log(f"paso {step:>5}/{steps}  ·  pérdida entrenamiento {losses['train']:.3f}  ·  "
                   f"validación {losses['val']:.3f}  ·  {time.time() - t0:.0f} s")
             if live_plot:
                 plot_loss(history, clear=True)
         if sample_prompt and (step % sample_every == 0 or step == steps):
             s = generate(model, tokenizer, sample_prompt, max_new_tokens=40, temperature=0.8, seed=0)
             history["samples"].append((step, s))
-            print(f"   ✍️  muestra: {s!r}")
+            log(f"   ✍️  muestra: {s!r}")
             model.train()
+    bar.close()
     print(f"Entrenamiento terminado en {time.time() - t0:.0f} segundos.")
     return history
 
