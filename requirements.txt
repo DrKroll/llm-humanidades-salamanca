@@ -1,8 +1,9 @@
-# Probado con Python 3.10-3.13 (Colab usa 3.12). En Colab, torch ya viene instalado.
+# Probado con Python 3.10-3.13 y con las versiones de Colab (transformers 5.x).
+# En Colab NO hace falta instalar nada: la celda de preparación usa los paquetes preinstalados.
 torch>=2.3
-transformers>=4.46,<5
-tokenizers>=0.20,<0.23
-peft>=0.13,<0.23
+transformers>=4.46,<6
+tokenizers>=0.20
+peft>=0.13
 accelerate>=1.0
 pyyaml>=6.0
 matplotlib>=3.8

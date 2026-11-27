@@ -29,36 +29,43 @@ def code(text: str):
 
 SETUP_CODE = f'''
 #@title ⚙️ Preparación: ejecuta esta celda primero (no hace falta leer el código) {{ display-mode: "form" }}
-# ⚙️ Preparación: ejecuta esta celda primero (Mayús + Intro)
-import os, sys
+# ⚙️ Preparación: ejecuta esta celda primero (Mayús + Intro). Puedes repetirla sin problema.
+import os, sys, importlib.util
 REPO_URL = "{REPO_URL}"
-REPO_DIR = "{REPO_NAME}"
+REPO_DIR = "/content/{REPO_NAME}"
 
 if "google.colab" in sys.modules:
-    # En Colab: descargamos el repositorio e instalamos el paquete del taller
+    # En Colab: descargamos el repositorio (solo la primera vez) y entramos en su carpeta
     if not os.path.exists(REPO_DIR):
-        !git clone -q {{REPO_URL}}
+        !git clone -q {{REPO_URL}} {{REPO_DIR}}
     os.chdir(REPO_DIR)
-    !pip install -q -e .
+    # Colab ya trae torch, transformers, peft, etc.: solo instalamos lo que falte,
+    # sin tocar las versiones preinstaladas
+    paquetes = {{"transformers": "transformers", "tokenizers": "tokenizers", "peft": "peft",
+                "accelerate": "accelerate", "yaml": "pyyaml", "networkx": "networkx", "tqdm": "tqdm"}}
+    faltan = [pip for mod, pip in paquetes.items() if importlib.util.find_spec(mod) is None]
+    if faltan:
+        !pip install -q {{" ".join(faltan)}}
 else:
     # En tu ordenador: subimos de carpeta hasta encontrar config.yaml
     while not os.path.exists("config.yaml") and os.getcwd() != "/":
         os.chdir("..")
-    if os.path.abspath("src") not in sys.path:
-        sys.path.insert(0, os.path.abspath("src"))
+# El código del taller (carpeta src/dhllm) se importa directamente, sin reiniciar
+if os.path.abspath("src") not in sys.path:
+    sys.path.insert(0, os.path.abspath("src"))
 print("Carpeta de trabajo:", os.getcwd())
 '''
 
 SETUP_CODE_DATA_ONLY = f'''
 #@title ⚙️ Preparación: ejecuta esta celda primero (no hace falta leer el código) {{ display-mode: "form" }}
-# ⚙️ Preparación: ejecuta esta celda primero (Mayús + Intro).
+# ⚙️ Preparación: ejecuta esta celda primero (Mayús + Intro). Puedes repetirla sin problema.
 # Descarga los textos de ejemplo del curso (solo hace falta una vez).
 import os, sys
 REPO_URL = "{REPO_URL}"
-REPO_DIR = "{REPO_NAME}"
+REPO_DIR = "/content/{REPO_NAME}"
 if "google.colab" in sys.modules:
     if not os.path.exists(REPO_DIR):
-        !git clone -q {{REPO_URL}}
+        !git clone -q {{REPO_URL}} {{REPO_DIR}}
     os.chdir(REPO_DIR)
 else:
     while not os.path.exists("config.yaml") and os.getcwd() != "/":
