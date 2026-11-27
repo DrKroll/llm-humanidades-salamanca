@@ -53,7 +53,7 @@ Tres cuadernos; cada uno tiene dos partes (A y B).
 | 01 | **Preparar y explorar tus textos:** comprobar GPU y configuración · cargar tu corpus, estadísticas, palabras frecuentes, KWIC | ≈ 30 min | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrKroll/llm-humanidades-salamanca/blob/main/notebooks/taller_llm/01_preparar_y_explorar_tus_textos.ipynb) |
 | 02 | **Del texto al GPT diminuto:** tokenizador BPE · GPT diminuto **desde cero** (curva de pérdida, muestras) · laboratorio de muestreo (temperatura, top-k, top-p) | ≈ 50 min | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrKroll/llm-humanidades-salamanca/blob/main/notebooks/taller_llm/02_del_texto_al_gpt_diminuto.ipynb) |
 | 03 | **Ajuste fino con tus textos:** LoRA sobre Qwen2.5-0.5B-Instruct, antes/después | ≈ 25 min | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrKroll/llm-humanidades-salamanca/blob/main/notebooks/taller_llm/03_ajuste_fino_con_tus_textos.ipynb) |
-| 04 | **Calderón:** preguntas sobre 14 obras en TEI — modelo base vs. RAG vs. ajuste fino (SFT) vs. SFT+RAG | ≈ 30 min | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrKroll/llm-humanidades-salamanca/blob/main/notebooks/taller_llm/04_calderon_preguntas.ipynb) |
+| 04 | **Calderón:** preguntas sobre 14 obras en TEI — modelo base vs. RAG vs. ajuste fino (SFT) vs. SFT+RAG; ⭐ opcional: grafo de personajes (networkx) | ≈ 30 min (+5–10 opc.) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrKroll/llm-humanidades-salamanca/blob/main/notebooks/taller_llm/04_calderon_preguntas.ipynb) |
 
 Las secciones marcadas con ⭐ **Opcional** se pueden saltar si no hay tiempo.
 
@@ -96,7 +96,7 @@ llm-humanidades-salamanca/
 │   ├── finetune.py          ← ajuste fino con LoRA (Hugging Face + PEFT)
 │   ├── sft.py               ← ajuste por instrucciones
 │   ├── sampling.py          ← generación: temperatura, top-k, top-p
-│   └── calderon.py          ← leer TEI, buscador BM25 (RAG), preguntas automáticas
+│   └── calderon.py          ← leer TEI, buscador BM25 (RAG), preguntas automáticas, grafo de personajes
 ├── backups/                 ← plan B: adaptadores LoRA ya entrenados e índice RAG precalculado
 ├── tools/                   ← scripts que generan los cuadernos (para docentes)
 ├── tests/                   ← pruebas automáticas

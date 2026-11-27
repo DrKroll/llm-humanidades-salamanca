@@ -22,7 +22,7 @@ se pueden saltar. Lo que no cabe está en `notebooks/extras/`.
 | 13:30–14:00 | **01** · Preparar y explorar tus textos | A: GPU y configuración (≈ 10′) · B: corpus, estadísticas, KWIC, subir textos (≈ 20′) | 30′ |
 | 15:00–15:50 | **02** · Del texto al GPT diminuto | A: tokenizador (≈ 15′) · B: GPT desde cero, 2–4 min de entrenamiento (≈ 25′) · C: muestreo (≈ 10′) | 50′ |
 | 15:50–16:15 | **03** · Ajuste fino con tus textos | LoRA sobre Qwen2.5-0.5B-Instruct, 5–8 min de entrenamiento en T4 | 25′ |
-| 16:30–17:00 | **04** · Calderón | Base vs. RAG vs. SFT vs. SFT+RAG con la copia de seguridad (`ENTRENAR = False`, ≈ 15′) y discusión. Con tiempo/GPU: `ENTRENAR = True` (+10′) | 30′ |
+| 16:30–17:00 | **04** · Calderón | Base vs. RAG vs. SFT vs. SFT+RAG con la copia de seguridad (`ENTRENAR = False`, ≈ 15′) y discusión. Con tiempo/GPU: `ENTRENAR = True` (+10′). ⭐ Sección 8 opcional, *Grafo de personajes* (+5–10′, o como demostración del docente) | 30′ |
 
 **Si falta tiempo:** en 02 saltar las secciones ⭐ y hacer la parte C solo con los puntos 1 y 3; en 03 usar
 `ENTRENAR = False` (adaptador de `backups/`); 04 se puede hacer como demostración del docente.
@@ -72,3 +72,18 @@ se pueden saltar. Lo que no cabe está en `notebooks/extras/`.
 Los cuadernos se generan con `python tools/build_notebooks.py`. Edita los textos allí (no en los `.ipynb`) y vuelve a generar.
 Prueba automática: `DHLLM_SMOKE_TEST=1 python tests/run_notebooks.py` (03 y 04 se ejecutan con `ENTRENAR = True` y `False`).
 Las «partes» de cada cuaderno se definen en `tools/build_notebooks.py` y `tools/build_python_notebooks.py` (función `part`).
+
+## ⭐ Cuaderno 04, sección 8: grafo de personajes (opcional)
+
+- **Qué es:** una red de personajes por obra, construida en menos de un segundo a partir del TEI con `networkx`
+  (ya instalado en Colab; no necesita GPU ni descargas). Nodo = personaje (papel según `<castList>`, versos);
+  arista = «dialoga con» (parlamentos seguidos en la misma jornada; peso = réplicas).
+- **Qué muestra:** la red de *La vida es sueño*, tres medidas de centralidad (interlocutores, réplicas,
+  intermediación) y la columna **E · grafo + versos** frente a **D · versos**.
+- **Mensaje:** el grafo aporta la **estructura** (quién es quién, con quién habla), la búsqueda aporta las
+  **citas**. En la prueba, con el adaptador de `backups/`, solo con grafo acierta «el Capitán = Don Álvaro de Ataide»
+  y «Cosme = gracioso»; las citas («Al rey la hacienda…» → Crespo, j. 1) siguen viniendo del buscador.
+- **Límites para comentar:** «hablar justo después» ≠ «hablar a»; muchos repartos del TEI no indican el papel;
+  centralidad ≠ protagonismo (en *La vida es sueño* Segismundo tiene más versos, Clotaldo/Rosaura más réplicas).
+- **Si falta tiempo:** saltar la sección; no afecta al resto del cuaderno.
+
