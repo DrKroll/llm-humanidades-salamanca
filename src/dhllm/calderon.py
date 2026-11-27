@@ -543,11 +543,12 @@ def draw_graph(G, ax=None, seed: int = 0):
 
 def graph_facts(G, question: str = "", n_top: int = 5) -> str:
     """Traduce el grafo a frases que el modelo puede leer (el «contexto» de la pregunta)."""
-    q = _fold(question)
+    q = re.sub(r"«[^»]*»", lambda m: m.group(0) if len(m.group(0)) < 40 else "", question)  # sin las citas largas
     top = sorted(G.nodes, key=lambda p: -G.nodes[p]["versos"])[:n_top]
     lines = [f"Obra: «{G.graph.get('obra', '')}». Personajes con más versos: "
              + ", ".join(f"{p} ({G.nodes[p]['versos']} versos)" for p in top) + "."]
-    named = [p for p in G.nodes if any(re.search(rf"\b{re.escape(_fold(x))}\b", q)
+    # Nombres propios con mayúscula, como en el TEI («Capitán», «Cosme»): así «al rey» no cuenta como «Rey»
+    named = [p for p in G.nodes if any(re.search(rf"(?<!\w){re.escape(x)}(?!\w)", q)
                                        for x in {p, G.nodes[p]["nombre_reparto"]})]
     for p in named:
         d = G.nodes[p]
