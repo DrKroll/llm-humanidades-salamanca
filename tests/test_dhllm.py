@@ -70,6 +70,29 @@ def test_calderon_parse_rag_and_qa():
     assert len(test) == 5 and not set(p["pregunta"] for p in test) & set(p["pregunta"] for p in train)
 
 
+def test_calderon_character_graph():
+    """Grafo de personajes (cuaderno 04, opcional): papeles del reparto, versos y réplicas."""
+    import matplotlib
+    matplotlib.use("Agg")
+    from dhllm import calderon as cal
+    cfg = load_config()
+    plays = cal.load_plays(f"{cfg.root}/data/calderon/tei", show=False)
+    graphs = cal.character_graphs(plays)
+    assert len(graphs) == 14
+    G = graphs["La vida es sueño"]
+    assert G.nodes["Basilio"]["rol"] == "rey" and G.nodes["Segismundo"]["versos"] == 876
+    assert not any(cal.NOISE.search(n) for n in G.nodes)      # sin «Criado 2», «Todos»...
+    assert G.has_edge("Segismundo", "Clotaldo") and G.edges["Segismundo", "Clotaldo"]["replicas"] > 10
+    top = cal.central_characters(G, n=3, show=False)
+    assert top[0]["personaje"] in {"Clotaldo", "Rosaura", "Segismundo"}
+    zal = graphs["El alcalde de Zalamea"]
+    assert zal.nodes["Crespo"]["nombre_reparto"] == "Pedro Crespo"       # «Crespo» → «Pedro Crespo»
+    assert zal.nodes["Capitán"]["nombre_reparto"] == "Don Álvaro De Ataide"  # por el papel
+    facts = cal.graph_facts(zal, "¿Quién es el Capitán en «El alcalde de Zalamea»?")
+    assert "Don Álvaro De Ataide" in facts and "capitán" in facts
+    cal.draw_graph(G)
+
+
 def test_notebook_layout():
     """7 cuadernos obligatorios + extras; cada cuaderno con una sola celda de preparación y su insignia de Colab."""
     import json

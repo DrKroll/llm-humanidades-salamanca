@@ -440,3 +440,138 @@ def prepare_training_pairs(plays: list[dict], index: "BM25Index", settings: dict
     train = add_context(train, index, fraction=settings["context_fraction"], k=2, seed=seed)
     print(f"Entrenamiento: {len(train)} pares · evaluación: {len(test)} pares")
     return train, test
+
+
+# =====================================================================
+# 4. ⭐ Grafo de personajes (análisis de redes, con networkx)
+# =====================================================================
+# Idea clásica de las Humanidades Digitales (Moretti 2011, DraCor): cada personaje es un nodo;
+# dos personajes quedan unidos si uno contesta al otro (dos parlamentos seguidos en la misma jornada).
+# El peso de la arista es el número de réplicas. Es una aproximación: «hablar justo después» no siempre
+# significa «hablar con».
+_TITULOS = {"don", "dona", "el", "la", "los", "las", "un", "una", "de", "del", "y"}
+_CONJUNTO = re.compile(r"\s[yY]\s|^(los|las) (dos|tres|otros|otras)\b|^canta\b|^voz\b", re.I)
+
+
+def _name_tokens(name: str) -> set:
+    return {w for w in re.findall(r"[a-zñ]+", _fold(name)) if w not in _TITULOS}
+
+
+def _match_role(speaker: str, cast: list[dict]) -> tuple[str, str]:
+    """Busca al hablante en el reparto (castList): «Crespo» → «Pedro Crespo, labrador»."""
+    tok = _name_tokens(speaker)
+    if not tok:
+        return "", ""
+    exact = [c for c in cast if _name_tokens(c["name"]) == tok]
+    cands = exact or [c for c in cast if tok <= _name_tokens(c["name"])]
+    if len(cands) == 1 or (cands and exact):
+        return clean_name(cands[0]["name"]), (cands[0].get("desc") or "").strip()
+    # A veces el TEI usa el papel como hablante: «Capitán» → «Don Álvaro de Ataide, capitán»
+    by_role = [c for c in cast if c.get("desc") and _name_tokens(c["desc"]) == tok]
+    if len(by_role) == 1:
+        return clean_name(by_role[0]["name"]), by_role[0]["desc"].strip()
+    return "", ""
+
+
+def character_graph(play: dict, min_verses: int = 4):
+    """Grafo de personajes de una obra.
+    Nodos: personajes con al menos `min_verses` versos (atributos: rol según el reparto, versos).
+    Aristas: «dialoga con» (réplicas seguidas en la misma jornada), con peso = número de réplicas."""
+    import networkx as nx
+    sps = speeches(play)
+    versos = collections.Counter(clean_name(s["speaker"]) for s in sps for _ in s["lines"])
+    keep = {n for n, v in versos.items()
+            if v >= min_verses and n and not NOISE.search(n) and not _CONJUNTO.search(n)}
+    G = nx.Graph(obra=play["title"])
+    for n in sorted(keep):
+        nombre_reparto, rol = _match_role(n, play["cast"])
+        G.add_node(n, versos=versos[n], rol=rol, nombre_reparto=nombre_reparto or n)
+    for a, b in zip(sps, sps[1:]):
+        x, y = clean_name(a["speaker"]), clean_name(b["speaker"])
+        if a["act"] == b["act"] and x != y and x in keep and y in keep:
+            w = G.edges[x, y]["replicas"] + 1 if G.has_edge(x, y) else 1
+            G.add_edge(x, y, replicas=w)
+    return G
+
+
+def character_graphs(plays: list[dict], min_verses: int = 4) -> dict:
+    """Un grafo por obra: {título: grafo}."""
+    graphs = {p["title"]: character_graph(p, min_verses) for p in plays}
+    print(f"{len(graphs)} grafos de personajes · "
+          f"{sum(g.number_of_nodes() for g in graphs.values())} personajes · "
+          f"{sum(g.number_of_edges() for g in graphs.values())} relaciones")
+    return graphs
+
+
+def central_characters(G, n: int = 5, show: bool = True) -> list[dict]:
+    """¿Quién es el personaje más central? Tres medidas sencillas:
+    - interlocutores: con cuántos personajes distintos habla (grado);
+    - réplicas: cuántas réplicas intercambia en total (grado ponderado);
+    - intermediación: cuántas veces está «en medio» de los caminos entre otros dos (betweenness)."""
+    import networkx as nx
+    btw = nx.betweenness_centrality(G)
+    rows = [{"personaje": p, "rol": G.nodes[p]["rol"], "versos": G.nodes[p]["versos"],
+             "interlocutores": G.degree(p), "réplicas": G.degree(p, weight="replicas"),
+             "intermediación": round(btw[p], 2)} for p in G.nodes]
+    rows.sort(key=lambda r: (r["réplicas"], r["intermediación"]), reverse=True)
+    rows = rows[:n]
+    if show:
+        print(f"{'personaje':<16} {'rol':<20} {'versos':>6} {'interloc.':>9} {'réplicas':>8} {'interm.':>7}")
+        for r in rows:
+            print(f"{r['personaje'][:16]:<16} {r['rol'][:20]:<20} {r['versos']:>6} {r['interlocutores']:>9} "
+                  f"{r['réplicas']:>8} {r['intermediación']:>7}")
+    return rows
+
+
+def draw_graph(G, ax=None, seed: int = 0):
+    """Dibuja la red: tamaño del nodo = versos, grosor de la línea = réplicas."""
+    import matplotlib.pyplot as plt
+    import networkx as nx
+    if ax is None:
+        _, ax = plt.subplots(figsize=(9, 7))
+    pos = nx.spring_layout(G, weight="replicas", seed=seed, k=1.2)
+    maxw = max([d["replicas"] for *_, d in G.edges(data=True)] or [1])
+    nx.draw_networkx_edges(G, pos, ax=ax, alpha=0.4,
+                           width=[0.5 + 6 * d["replicas"] / maxw for *_, d in G.edges(data=True)])
+    nx.draw_networkx_nodes(G, pos, ax=ax, node_color="#c0504d", alpha=0.85,
+                           node_size=[80 + 2 * G.nodes[p]["versos"] for p in G.nodes])
+    nx.draw_networkx_labels(G, pos, ax=ax, font_size=10)
+    ax.set_title(f"Red de personajes · «{G.graph.get('obra', '')}»")
+    ax.axis("off")
+    return ax
+
+
+def graph_facts(G, question: str = "", n_top: int = 5) -> str:
+    """Traduce el grafo a frases que el modelo puede leer (el «contexto» de la pregunta)."""
+    q = _fold(question)
+    top = sorted(G.nodes, key=lambda p: -G.nodes[p]["versos"])[:n_top]
+    lines = [f"Obra: «{G.graph.get('obra', '')}». Personajes con más versos: "
+             + ", ".join(f"{p} ({G.nodes[p]['versos']} versos)" for p in top) + "."]
+    named = [p for p in G.nodes if any(re.search(rf"\b{re.escape(_fold(x))}\b", q)
+                                       for x in {p, G.nodes[p]["nombre_reparto"]})]
+    for p in named:
+        d = G.nodes[p]
+        rol = f"en el reparto figura como «{d['rol']}»" if d["rol"] else "el reparto no indica su papel"
+        vecinos = sorted(G[p].items(), key=lambda kv: -kv[1]["replicas"])[:4]
+        alias = f" (en el reparto: {d['nombre_reparto']})" if d["nombre_reparto"] != p else ""
+        lines.append(f"{p}{alias}: {rol}; dice {d['versos']} versos.")
+        if vecinos:
+            lines.append(f"{p} dialoga sobre todo con: "
+                         + ", ".join(f"{v} ({e['replicas']} réplicas)" for v, e in vecinos) + ".")
+    return "\n".join(lines)
+
+
+def ask_with_graph(model, tokenizer, question: str, graphs: dict, index: "BM25Index", k: int = 3,
+                   show: bool = False, **kw):
+    """Pregunta con dos fuentes: los datos del grafo (estructura) y los versos del buscador (citas)."""
+    from .sft import ask
+    play = index.detect_play(question)
+    facts = graph_facts(graphs[play], question) if play in graphs else ""
+    frags = index.search(question, k=k, with_card=False)
+    context = (f"Datos del grafo de personajes:\n{facts}\n\n" if facts else "") + \
+              "Versos encontrados:\n" + context_from_fragments(frags)
+    if show:
+        print(context, "\n")
+    kw.setdefault("temperature", 0)
+    answer = ask(model, tokenizer, question, system=SYSTEM_CALDERON, context=context, **kw)
+    return answer, facts, frags
